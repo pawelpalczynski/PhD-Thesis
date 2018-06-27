@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Methods}{1}
+\contentsline {section}{\numberline {3}Characterisation of $WS_2$}{1}
+\contentsline {section}{\numberline {4}Transfer of mono- and fewlayer $WS_2$}{1}
+\contentsline {section}{\numberline {5}Low temperature characterisation of $WS_2$}{1}
+\contentsline {section}{\numberline {6}In doped $WS_2$}{1}
+\contentsline {section}{\numberline {7}Application}{1}
