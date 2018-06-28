@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{ExtraordinarySunlightAbsorptionAndOneNanometerThickPhotovoltaicsUsingTwo-DimensionalMonolayerMaterials}
+Marco Bernardi, Maurizia Palummo, and Jeffrey~C. Grossman.
+\newblock Extraordinary sunlight absorption and one nanometer thick
+  photovoltaics using two-dimensional monolayer materials.
+\newblock {\em Nano Letters}, 13(8):3664--3670, Aug 2013.
+
 \bibitem{WS2BandStructureSimulation}
 A.~Kuc, N.~Zibouche, and T.~Heine.
 \newblock Influence of quantum confinement on the electronic structure of the
@@ -19,5 +25,13 @@ Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
 \newblock Emerging photoluminescence in monolayer mos2.
 \newblock {\em Nano Letters}, 10(4):1271--1275, 2010.
 \newblock PMID: 20229981.
+
+\bibitem{ElectronicsAndOptoelectronicsOfTwo-dimensionalTransitionMetalDichalcogenides}
+Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
+  Michael~S. Strano.
+\newblock Electronics and optoelectronics of two-dimensional transition metal
+  dichalcogenides.
+\newblock {\em Nature Nanotechnology}, 7:699 EP --, Nov 2012.
+\newblock Review Article.
 
 \end{thebibliography}

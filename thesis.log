@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  15 JUN 2018 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.28)  28 JUN 2018 23:55
 entering extended mode
 **./thesis.tex
 (thesis.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,19 +21,19 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 "
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
- ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+ ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -274,7 +274,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -314,7 +314,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -338,29 +338,29 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
 ty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
 ty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
 y"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen103
 ))
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
 y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
@@ -402,7 +402,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
 .sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -410,54 +410,54 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
 sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
 .sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
 ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
 .sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
 "
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
 hics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
 ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
 .sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
 sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
 .sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
 .sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
@@ -474,9 +474,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen121
 \Gm@dimlist=\toks22
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
 .cfg"))
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
 ty"
 \wrapoverhang=\dimen122
 \WF@size=\dimen123
@@ -485,7 +485,7 @@ ty"
 \WF@everypar=\toks23
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigu
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigu
 re.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip46
@@ -503,16 +503,16 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 * Local config file subfigure.cfg used *
 ****************************************
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigu
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigu
 re.cfg")
 \subfig@top=\skip50
 \subfig@bottom=\skip51
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindte
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindte
 xt.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count107
@@ -534,10 +534,10 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count123
 \c@blind@pangrammax=\count124
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.st
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.st
 y"
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
- ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+ ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen126
 \extrarowheight=\dimen127
@@ -553,49 +553,49 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \TX@cols=\count125
 \TX@ftn=\toks25
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.s
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.s
 ty"
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfxsize=\dimen133
 \epsfysize=\dimen134
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
 .sty"
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
 -base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
 err.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
 ty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
 nekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
 s.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
 s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
 eys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
 ds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
 ex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
@@ -605,7 +605,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
 cmds.sty"
 Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -621,7 +621,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ))
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grffile.
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grffile.
 sty"
 Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
 Package grffile Info: Option `multidot' is set to `true'.
@@ -629,7 +629,7 @@ Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibi
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibi
 nd.sty"
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has section divisions on input line 50.
@@ -638,11 +638,11 @@ Package tocbibind Info: The document has section divisions on input line 50.
 Package tocbibind Note: Using section or other style headings.
 
 )
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
 y"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
 r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
@@ -663,7 +663,7 @@ LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
 kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
@@ -713,11 +713,11 @@ kii"
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 24.
-("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 24.
- ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+ ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -728,59 +728,59 @@ Package pdftex.def Info: TMDCPolytypes.png  used on input line 41.
 (pdftex.def)             Requested size: 393.46732pt x 226.2437pt.
  [1
 
-{C:/Users/pp3211/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Pauson/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 [2 <./TMDCPolytypes.png (PNG copy)>]
 <WS2BandStructureSimulation.png, id=14, 1138.2525pt x 882.29625pt>
 File: WS2BandStructureSimulation.png Graphic file (type png)
 <use WS2BandStructureSimulation.png>
-Package pdftex.def Info: WS2BandStructureSimulation.png  used on input line 57.
+Package pdftex.def Info: WS2BandStructureSimulation.png  used on input line 58.
 
 (pdftex.def)             Requested size: 455.29294pt x 352.91225pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./WS2BandStructureSimulation.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
+[3 <./WS2BandStructureSimulation.png (PNG copy)>] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
 
  []
-
-[4]
-Overfull \vbox (721.42448pt too high) has occurred while \output is active []
-
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 145--148
+Overfull \vbox (591.42448pt too high) has occurred while \output is active []
+
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 158--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--148
+Underfull \hbox (badness 10000) in paragraph at lines 158--161
 
  []
 
-(thesis.bbl) [6] (thesis.aux) ) 
+(thesis.bbl) [7] (thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 3882 strings out of 493305
- 54166 string characters out of 3129355
- 123198 words of memory out of 3000000
- 7339 multiletter control sequences out of 15000+200000
+ 3887 strings out of 493305
+ 54450 string characters out of 3129367
+ 121232 words of memory out of 3000000
+ 7344 multiletter control sequences out of 15000+200000
  15244 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,7n,24p,1312b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pp3211/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pp3211/App
+ 42i,7n,24p,2248b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Pauson/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Pauson/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
-rs/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr17.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmr8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Pro
+rs/Pauson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr17.pfb><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pauson/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (6 pages, 351578 bytes).
+Output written on thesis.pdf (7 pages, 355942 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
