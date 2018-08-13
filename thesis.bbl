@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{ExtraordinarySunlightAbsorptionAndOneNanometerThickPhotovoltaicsUsingTwo-DimensionalMonolayerMaterials}
 Marco Bernardi, Maurizia Palummo, and Jeffrey~C. Grossman.
@@ -21,6 +21,36 @@ A.~Kuc, N.~Zibouche, and T.~Heine.
   transition metal sulfide $t$s${}_{2}$.
 \newblock {\em Phys. Rev. B}, 83:245213, Jun 2011.
 
+\bibitem{ElectronicPropertiesOfMoS2Nanoparticles}
+Tianshu Li and Giulia Galli.
+\newblock Electronic properties of mos2 nanoparticles.
+\newblock {\em The Journal of Physical Chemistry C}, 111(44):16192--16196,
+  2007.
+
+\bibitem{ProbingSymmetryPropertiesOfFew-LayerMoS2Andh-BNByOpticalSecond-HarmonicGeneration}
+Yilei Li, Yi~Rao, Kin~Fai Mak, Yumeng You, Shuyuan Wang, Cory~R. Dean, and
+  Tony~F. Heinz.
+\newblock Probing symmetry properties of few-layer mos2 and h-bn by optical
+  second-harmonic generation.
+\newblock {\em Nano Letters}, 13(7):3329--3333, 2013.
+\newblock PMID: 23718906.
+
+\bibitem{TightlyBoundTrionsInMonolayer}
+He~Keliang Lee Changgu Lee Gwan Hyoung Hone James Heinz Tony~F. Mak, Kin~Fai
+  and Jie Shan.
+\newblock Tightly bound trions in monolayer.
+\newblock {\em Nature Materials}, 2013.
+
+\bibitem{ControlOfValleyPolarizationInMonolayerMoS2ByOpticalHelicity}
+He~Keliang Shan~Jie Mak, Kin~Fai and Tony~F. Heinz.
+\newblock Control of valley polarization in monolayer mos2 by optical helicity.
+\newblock {\em Nature Nanotechnology}, 2012.
+
+\bibitem{AtomicallyThinMoS2ANewDirect-GapSemiconductor}
+Kin~Fai Mak, Changgu Lee, James Hone, Jie Shan, and Tony~F. Heinz.
+\newblock Atomically thin $mos_2$: A new direct-gap semiconductor.
+\newblock {\em Phys. Rev. Lett.}, 105:136805, Sep 2010.
+
 \bibitem{TMDCReviewNature2012}
 Andras Kis Jonathan N. Coleman Michael S.~Strano Qing Hua~Wang, Kourosh
   Kalantar-Zadeh.
@@ -35,6 +65,11 @@ Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
 \newblock {\em Nano Letters}, 10(4):1271--1275, 2010.
 \newblock PMID: 20229981.
 
+\bibitem{PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2}
+Xiaona Liu Pingheng~Tan Tengfei~Yan, Xiaofen~Qiao and Xinhui Zhang.
+\newblock Photoluminescence properties and exciton dynamics in monolayer wse2.
+\newblock {\em Applied Physics Letters}, 2014.
+
 \bibitem{ElectronicsAndOptoelectronicsOfTwo-dimensionalTransitionMetalDichalcogenides}
 Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
   Michael~S. Strano.
@@ -48,5 +83,36 @@ Kiran Kumar Amara Jing Ren Pang Minglin Toh Xin Zhang Christian Kloc Ping
   Heng~Tane Weijie~Zhao, Zohreh~Ghorannevis and Goki Eda.
 \newblock Lattice dynamics in mono- and few-layer sheets of $ws_2$ and $wse_2$.
 \newblock 5:9677−9683, August 2013.
+
+\bibitem{TheTransitionMetalDichalcogenidesDiscussionAndInterpretationOfTheObservedOpticalElectricalAndStructuralProperties}
+J.A. Wilson and A.D. Yoffe.
+\newblock The transition metal dichalcogenides discussion and interpretation of
+  the observed optical, electrical and structural properties.
+\newblock {\em Advances in Physics}, 18(73):193--335, 1969.
+
+\bibitem{CoupledSpinAndValleyPhysicsInMonolayersOfMoS2AndOtherGroup-VIDichalcogenides}
+Di~Xiao, Gui-Bin Liu, Wanxiang Feng, Xiaodong Xu, and Wang Yao.
+\newblock Coupled spin and valley physics in monolayers of $mos_2$ and other
+  group-vi dichalcogenides.
+\newblock {\em Phys. Rev. Lett.}, 108:196802, May 2012.
+
+\bibitem{ValleyPolarizationInMoS2MonolayersByOpticalPumping}
+Dai Junfeng Yao Wang Xiao~Di Zeng, Hualing and Xiaodong Cui.
+\newblock Valley polarization in mos2 monolayers by optical pumping.
+\newblock {\em Nature Nanotechnology}, 2012.
+
+\bibitem{EvolutionOfElectronicStructureInAtomicallyThinSheetsOfWS2AndWSe2}
+Weijie Zhao, Zohreh Ghorannevis, Leiqiang Chu, Minglin Toh, Christian Kloc,
+  Ping-Heng Tan, and Goki Eda.
+\newblock Evolution of electronic structure in atomically thin sheets of ws2
+  and wse2.
+\newblock {\em ACS Nano}, 7(1):791--797, 2013.
+\newblock PMID: 23256505.
+
+\bibitem{GiantSpin-orbit-inducedSpinSplittingInTwo-dimensionalTransition-metalDichalcogenideSemiconductors}
+Z.~Y. Zhu, Y.~C. Cheng, and U.~Schwingenschl\"ogl.
+\newblock Giant spin-orbit-induced spin splitting in two-dimensional
+  transition-metal dichalcogenide semiconductors.
+\newblock {\em Phys. Rev. B}, 84:153402, Oct 2011.
 
 \end{thebibliography}
