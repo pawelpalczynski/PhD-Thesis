@@ -166,6 +166,10 @@ url={https://doi.org/10.1021/nl401544y}
   title     = {Control of valley polarization in monolayer MoS2 by optical helicity},
   journal   = {Nature Nanotechnology},
   year      = {2012},
+  volume    = {7},
+  number    = {8},
+  pages     = {494--498},
+  month     = {jun},
   doi       = {https://doi.org/10.1038/nnano.2012.96},
   optannote = {•},
   optkey    = {•},
@@ -174,6 +178,7 @@ url={https://doi.org/10.1021/nl401544y}
   optnumber = {•},
   optpages  = {494-98},
   optvolume = {7},
+  publisher = {Springer Nature},
 }
 
 @Article{ValleyPolarizationInMoS2MonolayersByOpticalPumping,
@@ -301,6 +306,175 @@ url={https://doi.org/10.1021/nl401544y}
         https://doi.org/10.1021/jp075424v
     
 },
+}
+
+@Article{doi:10.1021/nn4046002,
+  author  = {Peimyoo, Namphung and Shang, Jingzhi and Cong, Chunxiao and Shen, Xiaonan and Wu, Xiangyang and Yeow, Edwin K. L. and Yu, Ting},
+  title   = {Nonblinking, Intense Two-Dimensional Light Emitter: Monolayer WS2 Triangles},
+  journal = {ACS Nano},
+  year    = {2013},
+  volume  = {7},
+  number  = {12},
+  pages   = {10985-10994},
+  note    = {PMID: 24266716},
+  doi     = {10.1021/nn4046002},
+  eprint  = {https://doi.org/10.1021/nn4046002},
+  url     = { 
+        https://doi.org/10.1021/nn4046002
+    
+},
+}
+
+@Article{Li2015,
+  author    = {Shisheng Li and Shunfeng Wang and Dai-Ming Tang and Weijie Zhao and Huilong Xu and Leiqiang Chu and Yoshio Bando and Dmitri Golberg and Goki Eda},
+  title     = {Halide-assisted atmospheric pressure growth of large {WSe}2 and {WS}2 monolayer crystals},
+  journal   = {Applied Materials Today},
+  year      = {2015},
+  volume    = {1},
+  number    = {1},
+  pages     = {60--66},
+  month     = {nov},
+  doi       = {10.1016/j.apmt.2015.09.001},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Rong2014,
+  author    = {Youmin Rong and Ye Fan and Ai Leen Koh and Alex W. Robertson and Kuang He and Shanshan Wang and Haijie Tan and Robert Sinclair and Jamie H. Warner},
+  title     = {Controlling sulphur precursor addition for large single crystal domains of {WS}2},
+  journal   = {Nanoscale},
+  year      = {2014},
+  volume    = {6},
+  number    = {20},
+  pages     = {12096--12103},
+  month     = {sep},
+  doi       = {10.1039/c4nr04091k},
+  publisher = {Royal Society of Chemistry ({RSC})},
+}
+
+@Article{Yuan2015,
+  author    = {Long Yuan and Libai Huang},
+  title     = {Exciton dynamics and annihilation in {WS}2 2D semiconductors},
+  journal   = {Nanoscale},
+  year      = {2015},
+  volume    = {7},
+  number    = {16},
+  pages     = {7402--7408},
+  doi       = {10.1039/c5nr00383k},
+  publisher = {Royal Society of Chemistry ({RSC})},
+}
+
+@Article{doi:10.1021/nn403682r,
+  author  = {Lin, Liangxu and Xu, Yaoxian and Zhang, Shaowei and Ross, Ian M. and Ong, Albert C. M. and Allwood, Dan A.},
+  title   = {Fabrication of Luminescent Monolayered Tungsten Dichalcogenides Quantum Dots with Giant Spin-Valley Coupling},
+  journal = {ACS Nano},
+  year    = {2013},
+  volume  = {7},
+  number  = {9},
+  pages   = {8214-8223},
+  note    = {PMID: 23968363},
+  doi     = {10.1021/nn403682r},
+  eprint  = {https://doi.org/10.1021/nn403682r},
+  url     = { 
+        https://doi.org/10.1021/nn403682r
+    
+},
+}
+
+@Article{Amani2015,
+  author    = {M. Amani and D.-H. Lien and D. Kiriya and J. Xiao and A. Azcatl and J. Noh and S. R. Madhvapathy and R. Addou and S. KC and M. Dubey and K. Cho and R. M. Wallace and S.-C. Lee and J.-H. He and J. W. Ager and X. Zhang and E. Yablonovitch and A. Javey},
+  title     = {Near-unity photoluminescence quantum yield in {MoS}2},
+  journal   = {Science},
+  year      = {2015},
+  volume    = {350},
+  number    = {6264},
+  pages     = {1065--1068},
+  month     = {nov},
+  doi       = {10.1126/science.aad2114},
+  publisher = {American Association for the Advancement of Science ({AAAS})},
+}
+
+@Article{doi:10.1021/nl500171v,
+  author  = {Jo, Sanghyun and Ubrig, Nicolas and Berger, Helmuth and Kuzmenko, Alexey B. and Morpurgo, Alberto F.},
+  title   = {Mono- and Bilayer WS2 Light-Emitting Transistors},
+  journal = {Nano Letters},
+  year    = {2014},
+  volume  = {14},
+  number  = {4},
+  pages   = {2019-2025},
+  note    = {PMID: 24669957},
+  doi     = {10.1021/nl500171v},
+  eprint  = {https://doi.org/10.1021/nl500171v},
+  url     = { 
+        https://doi.org/10.1021/nl500171v
+    
+},
+}
+
+@Article{Zeng2016,
+  author    = {Longhui Zeng and Lili Tao and Chunyin Tang and Bo Zhou and Hui Long and Yang Chai and Shu Ping Lau and Yuen Hong Tsang},
+  title     = {High-responsivity {UV}-Vis Photodetector Based on Transferable {WS}2 Film Deposited by Magnetron Sputtering},
+  journal   = {Scientific Reports},
+  year      = {2016},
+  volume    = {6},
+  number    = {1},
+  month     = {jan},
+  doi       = {10.1038/srep20343},
+  publisher = {Springer Nature},
+}
+
+@Article{Withers2015,
+  author    = {F. Withers and O. Del Pozo-Zamudio and A. Mishchenko and A. P. Rooney and A. Gholinia and K. Watanabe and T. Taniguchi and S. J. Haigh and A. K. Geim and A. I. Tartakovskii and K. S. Novoselov},
+  title     = {Light-emitting diodes by band-structure engineering in van der Waals heterostructures},
+  journal   = {Nature Materials},
+  year      = {2015},
+  volume    = {14},
+  number    = {3},
+  pages     = {301--306},
+  month     = {feb},
+  doi       = {10.1038/nmat4205},
+  publisher = {Springer Nature},
+}
+
+@Article{doi:10.1021/nn5059908,
+  author  = {Shang, Jingzhi and Shen, Xiaonan and Cong, Chunxiao and Peimyoo, Namphung and Cao, Bingchen and Eginligil, Mustafa and Yu, Ting},
+  title   = {Observation of Excitonic Fine Structure in a 2D Transition-Metal Dichalcogenide Semiconductor},
+  journal = {ACS Nano},
+  year    = {2015},
+  volume  = {9},
+  number  = {1},
+  pages   = {647-655},
+  note    = {PMID: 25560634},
+  doi     = {10.1021/nn5059908},
+  eprint  = {https://doi.org/10.1021/nn5059908},
+  url     = { 
+        https://doi.org/10.1021/nn5059908
+    
+},
+}
+
+@Article{Iqbal2015,
+  author    = {M Waqas Iqbal and M Zahir Iqbal and M Farooq Khan and M Arslan Shehzad and Yongho Seo and Jong Hyun Park and Chanyong Hwang and Jonghwa Eom},
+  title     = {High-mobility and air-stable single-layer {WS}2 field-effect transistors sandwiched between chemical vapor deposition-grown hexagonal {BN} films},
+  journal   = {Scientific Reports},
+  year      = {2015},
+  volume    = {5},
+  number    = {1},
+  month     = {jun},
+  doi       = {10.1038/srep10699},
+  publisher = {Springer Nature},
+}
+
+@Article{Hofmann1988,
+  author    = {Wolfgang K. Hofmann},
+  title     = {Thin films of molybdenum and tungsten disulphides by metal organic chemical vapour deposition},
+  journal   = {Journal of Materials Science},
+  year      = {1988},
+  volume    = {23},
+  number    = {11},
+  pages     = {3981--3986},
+  month     = {nov},
+  doi       = {10.1007/bf01106824},
+  publisher = {Springer Nature},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
