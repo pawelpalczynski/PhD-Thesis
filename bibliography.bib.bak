@@ -166,10 +166,6 @@ url={https://doi.org/10.1021/nl401544y}
   title     = {Control of valley polarization in monolayer MoS2 by optical helicity},
   journal   = {Nature Nanotechnology},
   year      = {2012},
-  volume    = {7},
-  number    = {8},
-  pages     = {494--498},
-  month     = {jun},
   doi       = {https://doi.org/10.1038/nnano.2012.96},
   optannote = {•},
   optkey    = {•},
@@ -178,7 +174,6 @@ url={https://doi.org/10.1021/nl401544y}
   optnumber = {•},
   optpages  = {494-98},
   optvolume = {7},
-  publisher = {Springer Nature},
 }
 
 @Article{ValleyPolarizationInMoS2MonolayersByOpticalPumping,
