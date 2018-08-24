@@ -578,4 +578,99 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {Springer Nature},
 }
 
+@Article{doi:10.1021/nn503093k,
+  author  = {Okada, Mitsuhiro and Sawazaki, Takumi and Watanabe, Kenji and Taniguch, Takashi and Hibino, Hiroki and Shinohara, Hisanori and Kitaura, Ryo},
+  title   = {Direct Chemical Vapor Deposition Growth of WS2 Atomic Layers on Hexagonal Boron Nitride},
+  journal = {ACS Nano},
+  year    = {2014},
+  volume  = {8},
+  number  = {8},
+  pages   = {8273-8277},
+  note    = {PMID: 25093606},
+  doi     = {10.1021/nn503093k},
+  eprint  = {https://doi.org/10.1021/nn503093k},
+  url     = { 
+        https://doi.org/10.1021/nn503093k
+    
+},
+}
+
+@Article{Cong2013,
+  author    = {Chunxiao Cong and Jingzhi Shang and Xing Wu and Bingchen Cao and Namphung Peimyoo and Caiyu Qiu and Litao Sun and Ting Yu},
+  title     = {Synthesis and Optical Properties of Large-Area Single-Crystalline 2D Semiconductor {WS}2Monolayer from Chemical Vapor Deposition},
+  journal   = {Advanced Optical Materials},
+  year      = {2013},
+  volume    = {2},
+  number    = {2},
+  pages     = {131--136},
+  month     = {dec},
+  doi       = {10.1002/adom.201300428},
+  publisher = {Wiley},
+}
+
+@Article{Yun2015,
+  author    = {Seok Joon Yun and Sang Hoon Chae and Hyun Kim and Jin Cheol Park and Ji-Hoon Park and Gang Hee Han and Joo Song Lee and Soo Min Kim and Hye Min Oh and Jinbong Seok and Mun Seok Jeong and Ki Kang Kim and Young Hee Lee},
+  title     = {Synthesis of Centimeter-Scale Monolayer Tungsten Disulfide Film on Gold Foils},
+  journal   = {{ACS} Nano},
+  year      = {2015},
+  volume    = {9},
+  number    = {5},
+  pages     = {5510--5519},
+  month     = {apr},
+  doi       = {10.1021/acsnano.5b01529},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Gong2015,
+  author    = {Yongji Gong and Zhong Lin and Gonglan Ye and Gang Shi and Simin Feng and Yu Lei and Ana Laura El{\'{\i}}as and Nestor Perea-Lopez and Robert Vajtai and Humberto Terrones and Zheng Liu and Mauricio Terrones and Pulickel M. Ajayan},
+  title     = {Tellurium-Assisted Low-Temperature Synthesis of {MoS}2 and {WS}2 Monolayers},
+  journal   = {{ACS} Nano},
+  year      = {2015},
+  volume    = {9},
+  number    = {12},
+  pages     = {11658--11666},
+  month     = {nov},
+  doi       = {10.1021/acsnano.5b05594},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Gong2014,
+  author    = {Yongji Gong and Junhao Lin and Xingli Wang and Gang Shi and Sidong Lei and Zhong Lin and Xiaolong Zou and Gonglan Ye and Robert Vajtai and Boris I. Yakobson and Humberto Terrones and Mauricio Terrones and Beng~Kang Tay and Jun Lou and Sokrates T. Pantelides and Zheng Liu and Wu Zhou and Pulickel M. Ajayan},
+  title     = {Vertical and in-plane heterostructures from {WS} 2 /{MoS} 2 monolayers},
+  journal   = {Nature Materials},
+  year      = {2014},
+  volume    = {13},
+  number    = {12},
+  pages     = {1135--1142},
+  month     = {sep},
+  doi       = {10.1038/nmat4091},
+  publisher = {Springer Nature},
+}
+
+@Article{Carmalt2003,
+  author    = {Claire J. Carmalt and Ivan P. Parkin and Emily S. Peters},
+  title     = {Atmospheric pressure chemical vapour deposition of {WS}2 thin films on glass},
+  journal   = {Polyhedron},
+  year      = {2003},
+  volume    = {22},
+  number    = {11},
+  pages     = {1499--1505},
+  month     = {jun},
+  doi       = {10.1016/s0277-5387(03)00194-3},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Eichfeld2015,
+  author    = {Sarah M. Eichfeld and Lorraine Hossain and Yu-Chuan Lin and Aleksander F. Piasecki and Benjamin Kupp and A. Glen Birdwell and Robert A. Burke and Ning Lu and Xin Peng and Jie Li and Angelica Azcatl and Stephen McDonnell and Robert M. Wallace and Moon J. Kim and Theresa S. Mayer and Joan M. Redwing and Joshua A. Robinson},
+  title     = {Highly Scalable, Atomically Thin {WSe}2 Grown via Metal{\textendash}Organic Chemical Vapor Deposition},
+  journal   = {{ACS} Nano},
+  year      = {2015},
+  volume    = {9},
+  number    = {2},
+  pages     = {2080--2087},
+  month     = {feb},
+  doi       = {10.1021/nn5073286},
+  publisher = {American Chemical Society ({ACS})},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
