@@ -19,6 +19,13 @@ Claire~J. Carmalt, Ivan~P. Parkin, and Emily~S. Peters.
   on glass.
 \newblock {\em Polyhedron}, 22(11):1499--1505, jun 2003.
 
+\bibitem{Cattelan2015}
+Mattia Cattelan, Brian Markman, Giacomo Lucchini, Pranab~Kumar Das, Ivana
+  Vobornik, Joshua~Alexander Robinson, Stefano Agnoli, and Gaetano Granozzi.
+\newblock New strategy for the growth of complex heterostructures based on
+  different 2d materials.
+\newblock {\em Chemistry of Materials}, 27(11):4105--4113, may 2015.
+
 \bibitem{Cong2013}
 Chunxiao Cong, Jingzhi Shang, Xing Wu, Bingchen Cao, Namphung Peimyoo, Caiyu
   Qiu, Litao Sun, and Ting Yu.
@@ -92,10 +99,24 @@ Wolfgang~K. Hofmann.
   chemical vapour deposition.
 \newblock {\em Journal of Materials Science}, 23(11):3981--3986, nov 1988.
 
+\bibitem{Hu2016}
+Peng Hu, Jun Ye, Xuexia He, Kezhao Du, Keke~K. Zhang, Xingzhi Wang, Qihua
+  Xiong, Zheng Liu, Hui Jiang, and Christian Kloc.
+\newblock Control of radiative exciton recombination by charge transfer induced
+  surface dipoles in {MoS}2 and {WS}2 monolayers.
+\newblock {\em Scientific Reports}, 6(1), apr 2016.
+
 \bibitem{ValleyPolarizationInMoS2MonolayersByOpticalPumping}
 Wang Yao Di~Xiao Hualing~Zeng, Junfeng~Dai and Xiaodong Cui.
 \newblock Valley polarization in mos2 monolayers by optical pumping.
 \newblock {\em Nature Nanotechnology}, 7(8):490--493, jun 2012.
+
+\bibitem{Hui2013}
+Yeung~Yu Hui, Xiaofei Liu, Wenjing Jie, Ngai~Yui Chan, Jianhua Hao, Yu-Te Hsu,
+  Lain-Jong Li, Wanlin Guo, and Shu~Ping Lau.
+\newblock Exceptional tunability of band energy in a compressively strained
+  trilayer {MoS}2 sheet.
+\newblock {\em {ACS} Nano}, 7(8):7126--7131, jul 2013.
 
 \bibitem{Iqbal2015}
 M~Waqas Iqbal, M~Zahir Iqbal, M~Farooq Khan, M~Arslan Shehzad, Yongho Seo,
@@ -118,6 +139,12 @@ Kibum Kang, Saien Xie, Lujie Huang, Yimo Han, Pinshane~Y. Huang, Kin~Fai Mak,
 \newblock High-mobility three-atom-thick semiconducting films with wafer-scale
   homogeneity.
 \newblock {\em Nature}, 520(7549):656--660, apr 2015.
+
+\bibitem{Kang2015a}
+Kyung~Nam Kang, Kyle Godin, and Eui-Hyeok Yang.
+\newblock The growth scale and kinetics of {WS}2 monolayers under varying h2
+  concentration.
+\newblock {\em Scientific Reports}, 5(1), aug 2015.
 
 \bibitem{WS2BandStructureSimulation}
 A.~Kuc, N.~Zibouche, and T.~Heine.
@@ -162,6 +189,21 @@ Liangxu Lin, Yaoxian Xu, Shaowei Zhang, Ian~M. Ross, Albert C.~M. Ong, and
 \newblock {\em ACS Nano}, 7(9):8214--8223, 2013.
 \newblock PMID: 23968363.
 
+\bibitem{Liu2016}
+Hongwei Liu, Junpeng Lu, Kenneth Ho, Zhenliang Hu, Zhiya Dang, Alexandra
+  Carvalho, Hui~Ru Tan, Eng~Soon Tok, and Chorng~Haur Sow.
+\newblock Fluorescence concentric triangles: A case of chemical heterogeneity
+  in {WS}2 atomic monolayer.
+\newblock {\em Nano Letters}, 16(9):5559--5567, aug 2016.
+
+\bibitem{Liu2014}
+Zheng Liu, Matin Amani, Sina Najmaei, Quan Xu, Xiaolong Zou, Wu~Zhou, Ting Yu,
+  Caiyu Qiu, A.~Glen Birdwell, Frank~J. Crowne, Robert Vajtai, Boris~I.
+  Yakobson, Zhenhai Xia, Madan Dubey, Pulickel~M. Ajayan, and Jun Lou.
+\newblock Strain and structure heterogeneity in {MoS}2 atomic layers grown by
+  chemical vapour deposition.
+\newblock {\em Nature Communications}, 5(1), nov 2014.
+
 \bibitem{TightlyBoundTrionsInMonolayer}
 He~Keliang Lee Changgu Lee Gwan Hyoung Hone James Heinz Tony~F. Mak, Kin~Fai
   and Jie Shan.
@@ -178,6 +220,13 @@ Kin~Fai Mak, Changgu Lee, James Hone, Jie Shan, and Tony~F. Heinz.
 \newblock Atomically thin $mos_2$: A new direct-gap semiconductor.
 \newblock {\em Phys. Rev. Lett.}, 105(13):136805, Sep 2010.
 
+\bibitem{Martinez2004}
+H.~Martinez, A.~Benayad, D.~Gonbeau, P.~Vinatier, B.~Pecquenard, and
+  A.~Levasseur.
+\newblock Influence of the cation nature of high sulfur content oxysulfide thin
+  films {MOySz} (m=w, ti) studied by {XPS}.
+\newblock {\em Applied Surface Science}, 236(1-4):377--386, sep 2004.
+
 \bibitem{doi:10.1021/nn503093k}
 Mitsuhiro Okada, Takumi Sawazaki, Kenji Watanabe, Takashi Taniguch, Hiroki
   Hibino, Hisanori Shinohara, and Ryo Kitaura.
@@ -193,6 +242,20 @@ Namphung Peimyoo, Jingzhi Shang, Chunxiao Cong, Xiaonan Shen, Xiangyang Wu,
   triangles.
 \newblock {\em ACS Nano}, 7(12):10985--10994, 2013.
 \newblock PMID: 24266716.
+
+\bibitem{Peimyoo2014}
+Namphung Peimyoo, Weihuang Yang, Jingzhi Shang, Xiaonan Shen, Yanlong Wang, and
+  Ting Yu.
+\newblock Chemically driven tunable light emission of charged and neutral
+  excitons in monolayer {WS}2.
+\newblock {\em {ACS} Nano}, 8(11):11320--11329, oct 2014.
+
+\bibitem{Rasmussen2015}
+Filip~A. Rasmussen and Kristian~S. Thygesen.
+\newblock Computational 2d materials database: Electronic structure of
+  transition-metal dichalcogenides and oxides.
+\newblock {\em The Journal of Physical Chemistry C}, 119(23):13169--13183, jun
+  2015.
 
 \bibitem{Rong2014}
 Youmin Rong, Ye~Fan, Ai~Leen Koh, Alex~W. Robertson, Kuang He, Shanshan Wang,
@@ -221,6 +284,14 @@ Xiaona Liu Pingheng~Tan Tengfei~Yan, Xiaofen~Qiao and Xinhui Zhang.
 \newblock Photoluminescence properties and exciton dynamics in monolayer wse2.
 \newblock {\em Applied Physics Letters}, 105(10):101901, sep 2014.
 
+\bibitem{Tongay2013}
+Sefaattin Tongay, Joonki Suh, Can Ataca, Wen Fan, Alexander Luce, Jeong~Seuk
+  Kang, Jonathan Liu, Changhyun Ko, Rajamani Raghunathanan, Jian Zhou, Frank
+  Ogletree, Jingbo Li, Jeffrey~C. Grossman, and Junqiao Wu.
+\newblock Defects activated photoluminescence in two-dimensional
+  semiconductors: interplay between bound, charged and free excitons.
+\newblock {\em Scientific Reports}, 3(1), sep 2013.
+
 \bibitem{ElectronicsAndOptoelectronicsOfTwo-dimensionalTransitionMetalDichalcogenides}
 Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
   Michael~S. Strano.
@@ -248,6 +319,13 @@ F.~Withers, O.~Del Pozo-Zamudio, A.~Mishchenko, A.~P. Rooney, A.~Gholinia,
 \newblock Light-emitting diodes by band-structure engineering in van der waals
   heterostructures.
 \newblock {\em Nature Materials}, 14(3):301--306, feb 2015.
+
+\bibitem{Withers2014}
+Freddie Withers, Thomas~Hardisty Bointon, David~Christopher Hudson,
+  Monica~Felicia Craciun, and Saverio Russo.
+\newblock Electron transport of {WS}2 transistors in a hexagonal boron nitride
+  dielectric environment.
+\newblock {\em Scientific Reports}, 4(1), may 2014.
 
 \bibitem{CoupledSpinAndValleyPhysicsInMonolayersOfMoS2AndOtherGroup-VIDichalcogenides}
 Di~Xiao, Gui-Bin Liu, Wanxiang Feng, Xiaodong Xu, and Wang Yao.
