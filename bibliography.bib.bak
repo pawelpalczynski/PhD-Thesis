@@ -895,4 +895,17 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {American Chemical Society ({ACS})},
 }
 
+@Article{Rasmussen2015,
+  author    = {Filip A. Rasmussen and Kristian S. Thygesen},
+  title     = {Computational 2D Materials Database: Electronic Structure of Transition-Metal Dichalcogenides and Oxides},
+  journal   = {The Journal of Physical Chemistry C},
+  year      = {2015},
+  volume    = {119},
+  number    = {23},
+  pages     = {13169--13183},
+  month     = {jun},
+  doi       = {10.1021/acs.jpcc.5b02950},
+  publisher = {American Chemical Society ({ACS})},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
