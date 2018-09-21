@@ -813,7 +813,7 @@ url={https://doi.org/10.1021/nl401544y}
 
 @InProceedings{Hussain2013,
   author    = {Aftab M. Hussain and Galo A. Torres Sevilla and Kelly R. Rader and Muhammad M. Hussain},
-  title     = {Chemical vapor deposition based tungsten disulfide ({WS}$\less$inf$\greater$2$\less$/inf$\greater$) thin film transistor},
+  title     = {Chemical vapor deposition based tungsten disulfide ({WS}$) thin film transistor},
   booktitle = {2013 Saudi International Electronics, Communications and Photonics Conference},
   year      = {2013},
   month     = {apr},
@@ -906,6 +906,18 @@ url={https://doi.org/10.1021/nl401544y}
   month     = {jun},
   doi       = {10.1021/acs.jpcc.5b02950},
   publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Wu2014,
+  author    = {Ryan J. Wu and Michael L. Odlyzko and K. Andre Mkhoyan},
+  title     = {Determining the thickness of atomically thin {MoS}2 and {WS}2 in the {TEM}},
+  journal   = {Ultramicroscopy},
+  year      = {2014},
+  volume    = {147},
+  pages     = {8--20},
+  month     = {dec},
+  doi       = {10.1016/j.ultramic.2014.05.007},
+  publisher = {Elsevier {BV}},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

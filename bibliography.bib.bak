@@ -813,7 +813,7 @@ url={https://doi.org/10.1021/nl401544y}
 
 @InProceedings{Hussain2013,
   author    = {Aftab M. Hussain and Galo A. Torres Sevilla and Kelly R. Rader and Muhammad M. Hussain},
-  title     = {Chemical vapor deposition based tungsten disulfide ({WS}$\less$inf$\greater$2$\less$/inf$\greater$) thin film transistor},
+  title     = {Chemical vapor deposition based tungsten disulfide ({$WS_2$}) thin film transistor},
   booktitle = {2013 Saudi International Electronics, Communications and Photonics Conference},
   year      = {2013},
   month     = {apr},
@@ -823,7 +823,7 @@ url={https://doi.org/10.1021/nl401544y}
 
 @Article{Cui2015,
   author    = {Yang Cui and Run Xin and Zhihao Yu and Yiming Pan and Zhun-Yong Ong and Xiaoxu Wei and Junzhuan Wang and Haiyan Nan and Zhenhua Ni and Yun Wu and Tangsheng Chen and Yi Shi and Baigeng Wang and Gang Zhang and Yong-Wei Zhang and Xinran Wang},
-  title     = {High-Performance Monolayer {WS}2Field-Effect Transistors on High-$\upkappa$ Dielectrics},
+  title     = {High-Performance Monolayer {WS}2Field-Effect Transistors on High-$\Kappa$ Dielectrics},
   journal   = {Advanced Materials},
   year      = {2015},
   volume    = {27},
@@ -908,4 +908,21 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {American Chemical Society ({ACS})},
 }
 
+@Article{Wu2014,
+  author    = {Ryan J. Wu and Michael L. Odlyzko and K. Andre Mkhoyan},
+  title     = {Determining the thickness of atomically thin {MoS}2 and {WS}2 in the {TEM}},
+  journal   = {Ultramicroscopy},
+  year      = {2014},
+  volume    = {147},
+  pages     = {8--20},
+  month     = {dec},
+  doi       = {10.1016/j.ultramic.2014.05.007},
+  publisher = {Elsevier {BV}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:CVD\;0\;1\;\;\;\;;
+}

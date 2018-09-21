@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}
 
+\bibitem{Alharbi2016}
+Abdullah Alharbi and Davood Shahrjerdi.
+\newblock Electronic properties of monolayer tungsten disulfide grown by
+  chemical vapor deposition.
+\newblock {\em Applied Physics Letters}, 109(19):193502, nov 2016.
+
 \bibitem{Amani2015}
 M.~Amani, D.-H. Lien, D.~Kiriya, J.~Xiao, A.~Azcatl, J.~Noh, S.~R. Madhvapathy,
   R.~Addou, S.~KC, M.~Dubey, K.~Cho, R.~M. Wallace, S.-C. Lee, J.-H. He, J.~W.
@@ -32,6 +38,14 @@ Chunxiao Cong, Jingzhi Shang, Xing Wu, Bingchen Cao, Namphung Peimyoo, Caiyu
 \newblock Synthesis and optical properties of large-area single-crystalline 2d
   semiconductor {WS}2monolayer from chemical vapor deposition.
 \newblock {\em Advanced Optical Materials}, 2(2):131--136, dec 2013.
+
+\bibitem{Cui2015}
+Yang Cui, Run Xin, Zhihao Yu, Yiming Pan, Zhun-Yong Ong, Xiaoxu Wei, Junzhuan
+  Wang, Haiyan Nan, Zhenhua Ni, Yun Wu, Tangsheng Chen, Yi~Shi, Baigeng Wang,
+  Gang Zhang, Yong-Wei Zhang, and Xinran Wang.
+\newblock High-performance monolayer {WS}2field-effect transistors on
+  high-$\kappa$ dielectrics.
+\newblock {\em Advanced Materials}, 27(35):5230--5234, aug 2015.
 
 \bibitem{Eichfeld2015}
 Sarah~M. Eichfeld, Lorraine Hossain, Yu-Chuan Lin, Aleksander~F. Piasecki,
@@ -66,6 +80,12 @@ Yang Gao, Zhibo Liu, Dong-Ming Sun, Le~Huang, Lai-Peng Ma, Li-Chang Yin, Teng
 \newblock Large-area synthesis of high-quality and uniform monolayer {WS}2 on
   reusable au foils.
 \newblock {\em Nature Communications}, 6(1), oct 2015.
+
+\bibitem{Georgiou2014}
+Thanasis Georgiou, Huafeng Yang, Rashid Jalil, James Chapman, Kostya~S.
+  Novoselov, and Artem Mishchenko.
+\newblock Electrical and optical characterization of atomically thin {WS}2.
+\newblock {\em Dalton Transactions}, 43(27):10388, 2014.
 
 \bibitem{Gong2014}
 Yongji Gong, Junhao Lin, Xingli Wang, Gang Shi, Sidong Lei, Zhong Lin, Xiaolong
@@ -118,6 +138,14 @@ Yeung~Yu Hui, Xiaofei Liu, Wenjing Jie, Ngai~Yui Chan, Jianhua Hao, Yu-Te Hsu,
   trilayer {MoS}2 sheet.
 \newblock {\em {ACS} Nano}, 7(8):7126--7131, jul 2013.
 
+\bibitem{Hussain2013}
+Aftab~M. Hussain, Galo A.~Torres Sevilla, Kelly~R. Rader, and Muhammad~M.
+  Hussain.
+\newblock Chemical vapor deposition based tungsten disulfide ({$WS_2$}) thin
+  film transistor.
+\newblock In {\em 2013 Saudi International Electronics, Communications and
+  Photonics Conference}. {IEEE}, apr 2013.
+
 \bibitem{Iqbal2015}
 M~Waqas Iqbal, M~Zahir Iqbal, M~Farooq Khan, M~Arslan Shehzad, Yongho Seo,
   Jong~Hyun Park, Chanyong Hwang, and Jonghwa Eom.
@@ -125,6 +153,20 @@ M~Waqas Iqbal, M~Zahir Iqbal, M~Farooq Khan, M~Arslan Shehzad, Yongho Seo,
   transistors sandwiched between chemical vapor deposition-grown hexagonal {BN}
   films.
 \newblock {\em Scientific Reports}, 5(1), jun 2015.
+
+\bibitem{Iqbal2016}
+Muhammad~Waqas Iqbal, Muhammad~Zahir Iqbal, Muhammad~Farooq Khan,
+  Muhammad~Arshad Kamran, Abdul Majid, Thamer Alharbi, and Jonghwa Eom.
+\newblock Tailoring the electrical and photo-electrical properties of a {WS}2
+  field effect transistor by selective n-type chemical doping.
+\newblock {\em {RSC} Advances}, 6(29):24675--24682, 2016.
+
+\bibitem{Iqbal2015a}
+Muhammad~Waqas Iqbal, Muhammad~Zahir Iqbal, Muhammad~Farooq Khan,
+  Muhammad~Arslan Shehzad, Yongho Seo, and Jonghwa Eom.
+\newblock Deep-ultraviolet-light-driven reversible doping of {WS}2 field-effect
+  transistors.
+\newblock {\em Nanoscale}, 7(2):747--757, 2015.
 
 \bibitem{doi:10.1021/nl500171v}
 Sanghyun Jo, Nicolas Ubrig, Helmuth Berger, Alexey~B. Kuzmenko, and Alberto~F.
@@ -151,6 +193,12 @@ A.~Kuc, N.~Zibouche, and T.~Heine.
 \newblock Influence of quantum confinement on the electronic structure of the
   transition metal sulfide $t$s${}_{2}$.
 \newblock {\em Phys. Rev. B}, 83(24):245213, Jun 2011.
+
+\bibitem{Lan2015}
+Changyong Lan, Chun Li, Yi~Yin, and Yong Liu.
+\newblock Large-area synthesis of monolayer {WS}2and its ambient-sensitive
+  photo-detecting performance.
+\newblock {\em Nanoscale}, 7(14):5974--5980, 2015.
 
 \bibitem{Lee2013}
 Yi-Hsien Lee, Lili Yu, Han Wang, Wenjing Fang, Xi~Ling, Yumeng Shi, Cheng-Te
@@ -234,6 +282,12 @@ Mitsuhiro Okada, Takumi Sawazaki, Kenji Watanabe, Takashi Taniguch, Hiroki
   hexagonal boron nitride.
 \newblock {\em ACS Nano}, 8(8):8273--8277, 2014.
 \newblock PMID: 25093606.
+
+\bibitem{Ovchinnikov2014}
+Dmitry Ovchinnikov, Adrien Allain, Ying-Sheng Huang, Dumitru Dumcenco, and
+  Andras Kis.
+\newblock Electrical transport properties of single-layer {WS}2.
+\newblock {\em {ACS} Nano}, 8(8):8174--8181, jul 2014.
 
 \bibitem{doi:10.1021/nn4046002}
 Namphung Peimyoo, Jingzhi Shang, Chunxiao Cong, Xiaonan Shen, Xiangyang Wu,
@@ -326,6 +380,12 @@ Freddie Withers, Thomas~Hardisty Bointon, David~Christopher Hudson,
 \newblock Electron transport of {WS}2 transistors in a hexagonal boron nitride
   dielectric environment.
 \newblock {\em Scientific Reports}, 4(1), may 2014.
+
+\bibitem{Wu2014}
+Ryan~J. Wu, Michael~L. Odlyzko, and K.~Andre Mkhoyan.
+\newblock Determining the thickness of atomically thin {MoS}2 and {WS}2 in the
+  {TEM}.
+\newblock {\em Ultramicroscopy}, 147:8--20, dec 2014.
 
 \bibitem{CoupledSpinAndValleyPhysicsInMonolayersOfMoS2AndOtherGroup-VIDichalcogenides}
 Di~Xiao, Gui-Bin Liu, Wanxiang Feng, Xiaodong Xu, and Wang Yao.
