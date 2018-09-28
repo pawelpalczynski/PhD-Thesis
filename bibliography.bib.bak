@@ -920,6 +920,18 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {Elsevier {BV}},
 }
 
+@Article{Christiansen2017,
+  author    = {Dominik Christiansen and Malte Selig and Gunnar Berghäuser and Robert Schmidt and Iris Niehues and Robert Schneider and Ashish Arora and Steffen Michaelis de Vasconcellos and Rudolf Bratschitsch and Ermin Malic and Andreas Knorr},
+  title     = {Phonon Sidebands in Monolayer Transition Metal Dichalcogenides},
+  journal   = {Physical Review Letters},
+  year      = {2017},
+  volume    = {119},
+  number    = {18},
+  month     = {nov},
+  doi       = {10.1103/physrevlett.119.187402},
+  publisher = {American Physical Society ({APS})},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

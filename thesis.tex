@@ -6,7 +6,7 @@
 \usepackage{graphicx}
 \usepackage[left=2.5cm,right=2.5cm,top=2cm,bottom=2cm]{geometry}
 \usepackage{wrapfig}
-\usepackage{subfigure}
+%\usepackage{subfigure}
 \usepackage{blindtext}
 \usepackage{tabularx}
 \usepackage{epsfig}
@@ -18,6 +18,7 @@
 \usepackage{textgreek}
 \usepackage{textcomp}
 \usepackage{xcolor}
+\usepackage{subcaption}
 % \usepackage[disable]{todonotes} % notes not showed
 \usepackage[draft]{todonotes}   % notes showed  
 % \newcommand{\comment}[1]{}  %comment not showed
@@ -218,6 +219,23 @@ By replacing WO3 with H2WO4 the lateral size of the WS2 monolayered domains sign
 \comment{End of paper}
 % paper break
 
+\comment{Incorporate XRD}
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.3]{PaperSIXRD.png}
+\caption{XRD pattern of the residual powder of W-precursors after thermal treatment at 500 {\degree}C, 650 {\degree}C and 750 {\degree}C respectivley, using (a) H2WO4+NaCl and (b) WO3+NaCl as precursor.}
+\label{fig:PaperSIXRD}
+\end{center}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.3]{PaperSIXRDOptical.png}
+\caption{Residual powders of the W-precursors and their XRD patterns after thermal treatment at 750{\degree}C using (a) WO3, (b) H2WO4, (c) WO3+NaCl, and (d) H2WO4+NaCl as precursor. The blue dots in the XRD patterns indicate the presence of residual NaCl.}
+\label{fig:PaperSIXRDOptical}
+\end{center}
+\end{figure}
+
 The flakes were investigated using HRTEM to confirm high crystallinity of the material (Figure \ref{fig:PaperAFM}. The lattice constant measured in this way has been found to be 0.3 nm, which is consistent with that of 2H-WS2 (0.318 nm). The AFM characterisation allowed to confirm the presence of monolayer (Figure \ref{fig:PaperAFM}) and bilayer (Figure \ref{fig:PaperSIOpticalAFM} flakes with the step of 0.8 nm \cite{Wu2014}\cite{Rasmussen2015}.
 
 The Raman spectroscopy characterisation of $WS_2$ flakes obtained under different growth conditions can be seen in Figure \ref{fig:PaperAFM}. All of these spectra exhibit the main 2 peaks at {$\sim$}(351{$\pm$}0.53) $cm^{−1}$ and {$\sim$}(417.6{$\pm$}1) $cm^{−1}$. The latter peak corresponds to the $A_{1g}$ vibrational mode while the former peak can be further resolved into two peaks, one related to 2LA vibrational mode and the second to $E^1_{2g}$. As seen in the Figure \ref{fig:PaperSIMapsIntensityE} and Figure \ref{fig:PaperSIMapsIntensityA} the distribution of intensity of both main peaks is uniform across the flakes. Similarly the difference between peak positions of $A_{1g}$ and $E^1_{2g}$ is also uniformly distributed as seen in Figure \ref{fig:PaperSIMapsDifference} and is equal to {$\sim$}(66.5{$\pm$}0.53) $cm^{−1}$ which is indicative of monolayer \cite{Withers2014}.
@@ -249,6 +267,110 @@ By changing the $WO_3$ precursor to the $H_2WO_4$ precursor a further shift in P
 \includegraphics[scale=0.3]{PaperPLSpectraHistograms.png}
 \caption{PL spectra characteristics of WS2 grown using: WO3 at 950 {\degree}C, WO3+NaCl at 850 {\degree}C, H2WO4+NaCl at 850 {\degree}C: (a) individual spectra (dotted line) and deconvolution in exciton and trion components; (b) distribution of PL peak position and (c) distribution of PL FWHM for several WS2 grown using the three different precursor systems.}
 \label{fig:PaperPLSpectraHistograms}
+\end{center}
+\end{figure}
+
+\comment{Incorporate PL maps and scatter plots}
+
+As seen in Figure \ref{fig:PaperSIMapsRaman} the Raman peaks are generally uniform in both intensity and position for most samples. The irregularities in the intensity and position of both the $E^1_{2g}$ and $A_{1g}$ in the sample grown at 950 {\degree}C with both $WO_3 + NaCl$ and $H_2WO_4 + NaCl$ are caused primarily by residue deposited on top of the flakes after the growth as seen in optical micrographs. Additionally as seen in Figure \ref{fig:PaperSIMapsIntensityE} the deviations from the mean value are located primarily at the edges of the sample. This suggests that the rest of flake is pristine and the deviations are associated with residue located at the edges. The coefficient of variation (CV) for the intensity and position for the samples grown at 950 {\degree}C with $WO_3$ and at 850 {\degree}C with $WO_3 + NaCl$ and $H_2WO_4 + NaCl$ is on the order of up to $10^{-4}$ which indicates a very high homogenity across the samples. This further shows that the crystal quality of the flakes is quite uniform regardless of the growth method.
+
+\begin{figure}[h]
+	\begin{center}
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[width=\textwidth]{PaperSIMapsIntensityE.png}
+			\caption{Maps of Raman $E^1_{2g}$ peak intensity}
+			\label{fig:PaperSIMapsIntensityE}
+		\end{subfigure}
+		\quad
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[width=\textwidth]{PaperSIMapsPositionE.png}
+			\caption{Maps of Raman $E^1_{2g}$ peak position}
+			\label{fig:PaperSIMapsPositionE}
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[width=\textwidth]{PaperSIMapsIntensityA.png}
+			\caption{Maps of Raman $A_{1g}$ peak intensity}
+			\label{fig:PaperSIMapsIntensityA}
+		\end{subfigure}
+		\quad
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[width=\textwidth]{PaperSIMapsPositionA.png}
+			\caption{Maps of Raman $A_{1g}$ peak position}
+			\label{fig:PaperSIMapsPositionA}
+		\end{subfigure}
+		\caption{Maps of Raman peaks intensities and positions}
+		\label{fig:PaperSIMapsRaman}
+	\end{center}
+\end{figure}
+
+By looking at the difference in position between $A_{1g}$ and $E^1_{2g}$ peak positions as seen in Figure \ref{fig:PaperSIMapsDifference} is can be further concluded that the flakes are uniformly monolayer. Additionally no trisecting lines (as seen in Figure \ref{fig:PaperPLMaps}) can be seen in the maps of Raman spectra.
+
+\begin{figure}[h]
+	\begin{center}
+		\includegraphics[scale=0.3]{PaperSIMapsDifference.png}
+		\caption{Raman spectroscopy: $2LA-A_{1g}$ energy differences. Scale bar is 10 $\mu$m}
+		\label{fig:PaperSIMapsDifference}
+	\end{center}
+\end{figure}
+
+\begin{figure}[h]
+	\begin{center}
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[width=\textwidth]{PaperSIMapsPositionPL.png}
+			\caption{Maps of PL peak position}
+			\label{fig:PaperSIMapsPositionPL}
+		\end{subfigure}
+		\quad
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[width=\textwidth]{PaperSIMapsWidthPL.png}
+			\caption{Maps of PL peak width}
+			\label{fig:PaperSIMapsWidthPL}
+		\end{subfigure}
+		\caption{Maps of PL peak positions and width}
+		\label{fig:PaperSIMapsPL}
+	\end{center}
+\end{figure}
+
+
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.3]{PaperSIMapsCutting.png}
+\caption{PL intensity (a) before and (b) after the cutting. $2LA+E^1_{2g}$ Raman intensity (c) before and (d) after the cutting. Scale bar is 10 $\mu$m}
+\label{fig:PaperSIMapsCutting}
+\end{center}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.3]{PaperSIScatterWO3.png}
+\caption{(a) PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $WO_3$ at 950 {\degree}C}
+\label{fig:PaperSIScatterWO3}
+\end{center}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.3]{PaperSIScatterWO3NaCl.png}
+\caption{PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $WO_3+NaCl$ at 850 {\degree}C}
+\label{fig:PaperSIScatterWO3NaCl}
+\end{center}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.3]{PaperSIScatterH2WO4NaCl.png}
+\caption{(a) PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $H_2WO_4+NaCl$ at 850 {\degree}C}
+\label{fig:PaperSIScatterH2WO4NaCl}
+\end{center}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.3]{PaperSIScatterComparison.png}
+\caption{(a) PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $WO_3$, $WO_3+NaCl$, $H_2WO_4+NaCl$}
+\label{fig:PaperSIScatterComparison}
 \end{center}
 \end{figure}
 
@@ -296,11 +418,7 @@ By looking at the linear regime of the transport graph (red-dashed line in Figur
 
 In conclusion a synthesis route has been developed that allows for high quality monolayer and bilayer $WS_2$ CVD growth. This quality is demonstrated by highest recorded electron FET mobility for both monolayer and bilayer CVD grown $WS_2$ compared to the literature and comparable to that of mechanically exfoliated ones. Additionally the triangle flakes grown using $H_2WO_4 + NaCl$ are much larger (up to {$\sim$200-300 $\mu m$) compared to ones grown using standard $WO_3$. The CVD growth using $H_2WO_4$ has also been demonstrated to work at lower temperatures, down to 750 {\degree}C compared to more commonly used 950 {\degree}C. Finally the PL of the $WS_2$ grown using $H_2WO_4$ is is uniform throughout the flake and has very FWHM (36 meV) which again points to high crystal quality and lack of defects in form of sulfur vacancies. These findings allow to develop further the TMDCs synthesis method of CVD and can potentially lead to industrially scalable synthesis of monolayer $WS_2$ or other TMDCs over large area.
 
-% paper continued 
-
 % SI
-
-
 
 \begin{figure}[h]
 \begin{center}
@@ -320,123 +438,13 @@ In conclusion a synthesis route has been developed that allows for high quality 
 
 \begin{figure}[h]
 \begin{center}
-\includegraphics[scale=0.3]{PaperSIXRD.png}
-\caption{XRD pattern of the residual powder of W-precursors after thermal treatment at 500 {\degree}C, 650 {\degree}C and 750 {\degree}C respectivley, using (a) H2WO4+NaCl and (b) WO3+NaCl as precursor.}
-\label{fig:PaperSIXRD}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIXRDOptical.png}
-\caption{Residual powders of the W-precursors and their XRD patterns after thermal treatment at 750{\degree}C using (a) WO3, (b) H2WO4, (c) WO3+NaCl, and (d) H2WO4+NaCl as precursor. The blue dots in the XRD patterns indicate the presence of residual NaCl.}
-\label{fig:PaperSIXRDOptical}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
 \includegraphics[scale=0.3]{PaperSIOpticalPrecursors.png}
 \caption{Optical micrographs of WS2 triangles and amorphous domains grown on SiO2/Si substrates by using (a) WOCl4 at 600{\degree}C, (b) only H2WO4 at 850{\degree}C, (c) H2WO4+KCl at 850{\degree}C.}
 \label{fig:PaperSIOpticalPrecursors}
 \end{center}
 \end{figure}
 
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsIntensityE.png}
-\caption{Raman spectroscopy: $2LA+E^1_{2g}$ peak intensity. Scale bar 10 $\mu$m}
-\label{fig:PaperSIMapsIntensityE}
-\end{center}
-\end{figure}
 
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsPositionE.png}
-\caption{Raman spectroscopy: $2LA+E^1_{2g}$ peak position. Scale bar is 10 $\mu$m}
-\label{fig:PaperSIMapsPositionE}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsIntensityA.png}
-\caption{Raman spectroscopy: $A_{1g}$ peak intensity. Scale bar is 10 $\mu$m}
-\label{fig:PaperSIMapsIntensityA}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsPositionA.png}
-\caption{Raman spectroscopy: $A_{1g}$ peak position. Scale bar is 10 $\mu$m}
-\label{fig:PaperSIMapsPositionA}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsDifference.png}
-\caption{Raman spectroscopy: $2LA-A_{1g}$ energy differences. Scale bar is 10 $\mu$m}
-\label{fig:PaperSIMapsDifference}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsPositionPL.png}
-\caption{PL spectroscopy: PL peak position. Scale bar is 10 $\mu$m}
-\label{fig:PaperSIMapsPositionPL}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsWidthPL.png}
-\caption{PL spectroscopy: PL FWHM. Scale bar is 10 $\mu$m}
-\label{fig:PaperSIMapsWidthPL}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIMapsCutting.png}
-\caption{PL intensity (a) before and (b) after the cutting. $2LA+E^1_{2g}$ Raman intensity (c) before and (d) after the cutting. Scale bar is 10 $\mu$m}
-\label{fig:PaperSIMapsCutting}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIScatterWO3.png}
-\caption{(a) PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $WO_3$ at 950 {\degree}C}
-\label{fig:PaperSIScatterWO3}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIScatterWO3NaCl.png}
-\caption{PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $WO_3+NaCl$ at 850 {\degree}C}
-\label{fig:PaperSIScatterWO3NaCl}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIScatterH2WO4NaCl.png}
-\caption{(a) PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $H_2WO_4+NaCl$ at 850 {\degree}C}
-\label{fig:PaperSIScatterH2WO4NaCl}
-\end{center}
-\end{figure}
-
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.3]{PaperSIScatterComparison.png}
-\caption{(a) PL Intensity vs position, (b) PL FWHM vs position of $WS_2$ grown using $WO_3$, $WO_3+NaCl$, $H_2WO_4+NaCl$}
-\label{fig:PaperSIScatterComparison}
-\end{center}
-\end{figure}
 
 % /paper
 
