@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  25 SEP 2018 14:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  9 OCT 2018 15:32
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1710,7 +1710,16 @@ Package pdftex.def Info: PaperOptical.png  used on input line 204.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] [10 <./PaperSIFurnace.png>]
+[9]
+
+LaTeX Warning: Reference `fig:PaperSIOpticalContinous' on page 10 undefined on 
+input line 212.
+
+
+LaTeX Warning: Reference `fig:PaperSIOpticalAFM' on page 10 undefined on input 
+line 212.
+
+[10 <./PaperSIFurnace.png>]
 <PaperSIXRD.png, id=52, 1066.98625pt x 568.1225pt>
 File: PaperSIXRD.png Graphic file (type png)
 <use PaperSIXRD.png>
@@ -1727,6 +1736,10 @@ Package pdftex.def Info: PaperSIXRDOptical.png  used on input line 233.
 (pdftex.def)             Requested size: 318.5927pt x 128.28023pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:PaperSIOpticalAFM' on page 11 undefined on input 
+line 239.
 
 <PaperAFM.png, id=54, 948.54375pt x 765.86125pt>
 File: PaperAFM.png Graphic file (type png)
@@ -1797,51 +1810,45 @@ File: PaperSIMapsWidthPL.png Graphic file (type png)
 <use PaperSIMapsWidthPL.png>
 Package pdftex.def Info: PaperSIMapsWidthPL.png  used on input line 328.
 (pdftex.def)             Requested size: 188.8096pt x 128.96713pt.
+[14 <./PaperPLMaps.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIMapsCutting.png, id=78, 1039.885pt x 676.5275pt>
+<PaperSIMapsCutting.png, id=82, 1039.885pt x 676.5275pt>
 File: PaperSIMapsCutting.png Graphic file (type png)
 <use PaperSIMapsCutting.png>
-Package pdftex.def Info: PaperSIMapsCutting.png  used on input line 339.
+Package pdftex.def Info: PaperSIMapsCutting.png  used on input line 341.
 (pdftex.def)             Requested size: 311.96791pt x 202.95981pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIScatterWO3.png, id=79, 1078.0275pt x 403.5075pt>
+<PaperSIScatterWO3.png, id=83, 1078.0275pt x 403.5075pt>
 File: PaperSIScatterWO3.png Graphic file (type png)
 <use PaperSIScatterWO3.png>
-Package pdftex.def Info: PaperSIScatterWO3.png  used on input line 347.
+Package pdftex.def Info: PaperSIScatterWO3.png  used on input line 352.
 (pdftex.def)             Requested size: 323.41075pt x 121.05318pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<PaperSIScatterWO3NaCl.png, id=80, 1083.04625pt x 401.5pt>
+<PaperSIScatterWO3NaCl.png, id=84, 1083.04625pt x 401.5pt>
 File: PaperSIScatterWO3NaCl.png Graphic file (type png)
 <use PaperSIScatterWO3NaCl.png>
-Package pdftex.def Info: PaperSIScatterWO3NaCl.png  used on input line 355.
+Package pdftex.def Info: PaperSIScatterWO3NaCl.png  used on input line 358.
 (pdftex.def)             Requested size: 324.91638pt x 120.45091pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<PaperSIScatterH2WO4NaCl.png, id=81, 1064.97874pt x 404.51125pt>
+<PaperSIScatterH2WO4NaCl.png, id=85, 1064.97874pt x 404.51125pt>
 File: PaperSIScatterH2WO4NaCl.png Graphic file (type png)
 <use PaperSIScatterH2WO4NaCl.png>
-Package pdftex.def Info: PaperSIScatterH2WO4NaCl.png  used on input line 363.
+Package pdftex.def Info: PaperSIScatterH2WO4NaCl.png  used on input line 364.
 (pdftex.def)             Requested size: 319.4961pt x 121.35431pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<PaperSIScatterComparison.png, id=82, 1067.99pt x 411.5375pt>
+<PaperSIScatterComparison.png, id=86, 1067.99pt x 411.5375pt>
 File: PaperSIScatterComparison.png Graphic file (type png)
 <use PaperSIScatterComparison.png>
-Package pdftex.def Info: PaperSIScatterComparison.png  used on input line 371.
+Package pdftex.def Info: PaperSIScatterComparison.png  used on input line 370.
 (pdftex.def)             Requested size: 320.39948pt x 123.4622pt.
+[15 <./PaperPLSpectraHistograms.png>]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14 <./PaperPLMaps.png>]
-<PaperXPS.png, id=87, 943.525pt x 598.235pt>
+[16 <./PaperSIMapsIntensityE.png> <./PaperSIMapsPositionE.png> <./PaperSIMapsIn
+tensityA.png> <./PaperSIMapsPositionA.png>]
+<PaperXPS.png, id=100, 943.525pt x 598.235pt>
 File: PaperXPS.png Graphic file (type png)
 <use PaperXPS.png>
 Package pdftex.def Info: PaperXPS.png  used on input line 383.
@@ -1850,7 +1857,7 @@ Package pdftex.def Info: PaperXPS.png  used on input line 383.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperElectricalMeasurementMonolayer.png, id=88, 944.52875pt x 1042.89626pt>
+<PaperElectricalMeasurementMonolayer.png, id=101, 944.52875pt x 1042.89626pt>
 File: PaperElectricalMeasurementMonolayer.png Graphic file (type png)
 <use PaperElectricalMeasurementMonolayer.png>
 Package pdftex.def Info: PaperElectricalMeasurementMonolayer.png  used on input
@@ -1859,8 +1866,9 @@ Package pdftex.def Info: PaperElectricalMeasurementMonolayer.png  used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15 <./PaperPLSpectraHistograms.png>]
-<PaperMobilityComparison.png, id=93, 954.56625pt x 379.4175pt>
+[17 <./PaperSIMapsDifference.png> <./PaperSIMapsPositionPL.png> <./PaperSIMapsW
+idthPL.png>]
+<PaperMobilityComparison.png, id=108, 954.56625pt x 379.4175pt>
 File: PaperMobilityComparison.png Graphic file (type png)
 <use PaperMobilityComparison.png>
 Package pdftex.def Info: PaperMobilityComparison.png  used on input line 403.
@@ -1869,7 +1877,7 @@ Package pdftex.def Info: PaperMobilityComparison.png  used on input line 403.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperElectricalMeasurementBilayer.png, id=94, 943.525pt x 269.005pt>
+<PaperElectricalMeasurementBilayer.png, id=109, 943.525pt x 269.005pt>
 File: PaperElectricalMeasurementBilayer.png Graphic file (type png)
 <use PaperElectricalMeasurementBilayer.png>
 Package pdftex.def Info: PaperElectricalMeasurementBilayer.png  used on input l
@@ -1878,61 +1886,106 @@ ine 411.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16 <./PaperSIMapsIntensityE.png> <./PaperSIMapsPositionE.png> <./PaperSIMapsIn
-tensityA.png> <./PaperSIMapsPositionA.png>]
-<PaperSIOpticalContinous.png, id=104, 577.15625pt x 429.605pt>
-File: PaperSIOpticalContinous.png Graphic file (type png)
-<use PaperSIOpticalContinous.png>
-Package pdftex.def Info: PaperSIOpticalContinous.png  used on input line 425.
-(pdftex.def)             Requested size: 173.14821pt x 128.88249pt.
+[18 <./PaperSIMapsCutting.png>] [19 <./PaperSIScatterWO3.png> <./PaperSIScatter
+WO3NaCl.png> <./PaperSIScatterH2WO4NaCl.png> <./PaperSIScatterComparison.png>]
+<WSe2/PLIntensity.png, id=123, 1129.21875pt x 765.6103pt>
+File: WSe2/PLIntensity.png Graphic file (type png)
+<use WSe2/PLIntensity.png>
+Package pdftex.def Info: WSe2/PLIntensity.png  used on input line 435.
+(pdftex.def)             Requested size: 225.83975pt x 153.11934pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<PaperSIOpticalAFM.png, id=105, 1042.89626pt x 550.055pt>
-File: PaperSIOpticalAFM.png Graphic file (type png)
-<use PaperSIOpticalAFM.png>
-Package pdftex.def Info: PaperSIOpticalAFM.png  used on input line 433.
-(pdftex.def)             Requested size: 312.87129pt x 165.01776pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<PaperSIOpticalPrecursors.png, id=106, 1050.92625pt x 258.9675pt>
-File: PaperSIOpticalPrecursors.png Graphic file (type png)
-<use PaperSIOpticalPrecursors.png>
-Package pdftex.def Info: PaperSIOpticalPrecursors.png  used on input line 441.
-(pdftex.def)             Requested size: 315.2803pt x 77.69084pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
-
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 435--436
+[][] 
  []
 
-[17 <./PaperSIMapsDifference.png> <./PaperSIMapsPositionPL.png> <./PaperSIMapsW
-idthPL.png>]
-Overfull \vbox (851.0541pt too high) has occurred while \output is active []
+<WSe2/RamanEIntensity.png, id=124, 1129.21875pt x 765.6103pt>
+File: WSe2/RamanEIntensity.png Graphic file (type png)
+<use WSe2/RamanEIntensity.png>
+Package pdftex.def Info: WSe2/RamanEIntensity.png  used on input line 441.
+(pdftex.def)             Requested size: 225.83975pt x 153.11934pt.
 
-
-[18 <./PaperSIMapsCutting.png> <./PaperSIScatterWO3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 499--502
-
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 441--442
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--502
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<WSe2/WSe2PositionHistograms.png, id=125, 1129.21875pt x 771.63281pt>
+File: WSe2/WSe2PositionHistograms.png Graphic file (type png)
+<use WSe2/WSe2PositionHistograms.png>
+Package pdftex.def Info: WSe2/WSe2PositionHistograms.png  used on input line 45
+3.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 453--454
+[][] 
+ []
+
+<WSe2/Wse2WidthHistograms.png, id=126, 1129.21875pt x 771.63281pt>
+File: WSe2/Wse2WidthHistograms.png Graphic file (type png)
+<use WSe2/Wse2WidthHistograms.png>
+Package pdftex.def Info: WSe2/Wse2WidthHistograms.png  used on input line 458.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 458--459
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<WSe2/WSe2PositionIntensityScatterComparison.png, id=127, 1129.21875pt x 771.63
+281pt>
+File: WSe2/WSe2PositionIntensityScatterComparison.png Graphic file (type png)
+<use WSe2/WSe2PositionIntensityScatterComparison.png>
+Package pdftex.def Info: WSe2/WSe2PositionIntensityScatterComparison.png  used 
+on input line 472.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 472--473
+[][] 
+ []
+
+<WSe2/Wse2PositionWidthScatterComparison.png, id=128, 1129.21875pt x 771.63281p
+t>
+File: WSe2/Wse2PositionWidthScatterComparison.png Graphic file (type png)
+<use WSe2/Wse2PositionWidthScatterComparison.png>
+Package pdftex.def Info: WSe2/Wse2PositionWidthScatterComparison.png  used on i
+nput line 475.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 475--476
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--527
 
  []
 
-(thesis.bbl [19 <./PaperSIScatterWO3NaCl.png> <./PaperSIScatterH2WO4NaCl.png>]
-[20 <./PaperSIScatterComparison.png>] [21 <./PaperXPS.png>] [22 <./PaperElectri
-calMeasurementMonolayer.png>] [23 <./PaperMobilityComparison.png> <./PaperElect
-ricalMeasurementBilayer.png>] [24 <./PaperSIOpticalContinous.png> <./PaperSIOpt
-icalAFM.png>] [25 <./PaperSIOpticalPrecursors.png>] [26] [27]) [28] (thesis.aux
-)
+[20 <./PaperXPS.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 530--533
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--533
+
+ []
+
+[21 <./PaperElectricalMeasurementMonolayer.png>] [22 <./PaperMobilityComparison
+.png> <./PaperElectricalMeasurementBilayer.png> <./WSe2/PLIntensity.png (PNG co
+py)> <./WSe2/RamanEIntensity.png (PNG copy)>] (thesis.bbl [23 <./WSe2/WSe2Posit
+ionHistograms.png (PNG copy)> <./WSe2/Wse2WidthHistograms.png (PNG copy)> <./WS
+e2/WSe2PositionIntensityScatterComparison.png (PNG copy)> <./WSe2/Wse2PositionW
+idthScatterComparison.png (PNG copy)>] [24] [25] [26] [27] [28]) [29]
+(thesis.aux)
+
+LaTeX Warning: There were undefined references.
 
  )
 (\end occurred inside a group at level 1)
@@ -1940,31 +1993,32 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 ### simple group (level 1) entered at line 419 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 17231 strings out of 493305
- 330506 string characters out of 3129355
- 361518 words of memory out of 3000000
- 20412 multiletter control sequences out of 15000+200000
+ 17253 strings out of 493305
+ 331334 string characters out of 3129355
+ 357628 words of memory out of 3000000
+ 20434 multiletter control sequences out of 15000+200000
  19843 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,80p,3844b,639s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,9n,80p,3844b,639s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\tcrm1200.pk><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pp3211/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pp3211/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/
-pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.p
-fb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pp3211/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pp3211/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/p
-p3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
-b><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmti12.pfb>
-Output written on thesis.pdf (28 pages, 8465850 bytes).
+ppen\ec\dpi600\tcrm1095.pk> <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\tcrm1200.pk><C:/Users/pp3211/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pp3211/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pp3
+211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmmi8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pp3211/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pp3211/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pp32
+11/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (29 pages, 7554692 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
+ 208 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
