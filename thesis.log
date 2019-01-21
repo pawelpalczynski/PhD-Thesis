@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  10 DEC 2018 20:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  14 JAN 2019 19:03
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -2024,192 +2024,267 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [25
 
 
- <./WSe2/WSe2BandStructureWSe2WS2.png>]
-
-LaTeX Warning: Citation `Dadgar2018' on page 26 undefined on input line 97.
-
-<WSe2/WSe2RamanPositionHistogram1.png, id=156, 1129.21875pt x 771.63281pt>
+ <./WSe2/WSe2BandStructureWSe2WS2.png>] [26 <./WSe2/PLSpectrum.png (PNG copy)> 
+<./WSe2/RamanSpectrum.png (PNG copy)> <./WSe2/PLIntensity.png (PNG copy)> <./WS
+e2/RamanEIntensity.png (PNG copy)>]
+<WSe2/WSe2RamanPositionHistogram1.png, id=159, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2RamanPositionHistogram1.png Graphic file (type png)
 <use WSe2/WSe2RamanPositionHistogram1.png>
 Package pdftex.def Info: WSe2/WSe2RamanPositionHistogram1.png  used on input li
 ne 101.
 (pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/WSe2XPSThinZn.png, id=157, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSThinZn.png, id=160, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSThinZn.png Graphic file (type png)
 <use WSe2/WSe2XPSThinZn.png>
-Package pdftex.def Info: WSe2/WSe2XPSThinZn.png  used on input line 111.
+Package pdftex.def Info: WSe2/WSe2XPSThinZn.png  used on input line 110.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (37.03015pt too wide) in paragraph at lines 111--112
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 110--111
 [][] 
  []
 
-<WSe2/WSe2XPSThickZn.png, id=158, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSThickZn.png, id=161, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSThickZn.png Graphic file (type png)
 <use WSe2/WSe2XPSThickZn.png>
-Package pdftex.def Info: WSe2/WSe2XPSThickZn.png  used on input line 117.
+Package pdftex.def Info: WSe2/WSe2XPSThickZn.png  used on input line 116.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (37.03015pt too wide) in paragraph at lines 117--118
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 116--117
 [][] 
  []
 
-<WSe2/WSe2XPSRefZn.png, id=159, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSRefZn.png, id=162, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSRefZn.png Graphic file (type png)
 <use WSe2/WSe2XPSRefZn.png>
-Package pdftex.def Info: WSe2/WSe2XPSRefZn.png  used on input line 123.
+Package pdftex.def Info: WSe2/WSe2XPSRefZn.png  used on input line 122.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (107.83195pt too wide) in paragraph at lines 123--124
+Overfull \hbox (107.83195pt too wide) in paragraph at lines 122--123
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [26 <./WSe2/PLSpectrum.png (PNG copy)> <./WSe2/RamanSpectrum.png (PNG copy)> 
-<./WSe2/PLIntensity.png (PNG copy)> <./WSe2/RamanEIntensity.png (PNG copy)>]
+<WSe2/XPSW4fThin.png, id=163, 1129.21875pt x 771.63281pt>
+File: WSe2/XPSW4fThin.png Graphic file (type png)
+<use WSe2/XPSW4fThin.png>
+Package pdftex.def Info: WSe2/XPSW4fThin.png  used on input line 134.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 134--135
+[][] 
+ []
+
+<WSe2/XPSW4fThick.png, id=164, 1129.21875pt x 771.63281pt>
+File: WSe2/XPSW4fThick.png Graphic file (type png)
+<use WSe2/XPSW4fThick.png>
+Package pdftex.def Info: WSe2/XPSW4fThick.png  used on input line 140.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 140--141
+[][] 
+ []
+
+<WSe2/XPSW4fRef.png, id=165, 1129.21875pt x 771.63281pt>
+File: WSe2/XPSW4fRef.png Graphic file (type png)
+<use WSe2/XPSW4fRef.png>
+Package pdftex.def Info: WSe2/XPSW4fRef.png  used on input line 146.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (107.83195pt too wide) in paragraph at lines 146--147
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<WSe2/XPSSe3dThin.png, id=166, 1129.21875pt x 771.63281pt>
+File: WSe2/XPSSe3dThin.png Graphic file (type png)
+<use WSe2/XPSSe3dThin.png>
+Package pdftex.def Info: WSe2/XPSSe3dThin.png  used on input line 158.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 158--159
+[][] 
+ []
+
+<WSe2/XPSSe3dThick.png, id=167, 1129.21875pt x 771.63281pt>
+File: WSe2/XPSSe3dThick.png Graphic file (type png)
+<use WSe2/XPSSe3dThick.png>
+Package pdftex.def Info: WSe2/XPSSe3dThick.png  used on input line 164.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (37.03015pt too wide) in paragraph at lines 164--165
+[][] 
+ []
+
+<WSe2/XPSSe3dRef.png, id=168, 1129.21875pt x 771.63281pt>
+File: WSe2/XPSSe3dRef.png Graphic file (type png)
+<use WSe2/XPSSe3dRef.png>
+Package pdftex.def Info: WSe2/XPSSe3dRef.png  used on input line 170.
+(pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
+
+Overfull \hbox (107.83195pt too wide) in paragraph at lines 170--171
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [27 <./WSe2/WSe2PositionHistograms.png (PNG copy)> <./WSe2/Wse2WidthHistograms.
 png (PNG copy)> <./WSe2/WSe2PositionIntensityScatterComparison.png (PNG copy)> 
-<./WSe2/Wse2PositionWidthScatterComparison.png (PNG copy)>] [28 <./WSe2/WSe2Ram
-anPositionHistogram1.png (PNG copy)> <./WSe2/WSe2XPSThinZn.png (PNG copy)> <./W
-Se2/WSe2XPSThickZn.png (PNG copy)> <./WSe2/WSe2XPSRefZn.png (PNG copy)>]
+<./WSe2/Wse2PositionWidthScatterComparison.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:XPSWSe2ThinZn' on page 28 undefined on input line
+ 185.
+
+) [28 <./WSe2/WSe2RamanPositionHistogram1.png (PNG copy)>] [29 <./WSe2/WSe2XPST
+hinZn.png (PNG copy)> <./WSe2/WSe2XPSThickZn.png (PNG copy)> <./WSe2/WSe2XPSRef
+Zn.png (PNG copy)>] [30 <./WSe2/XPSW4fThin.png (PNG copy)> <./WSe2/XPSW4fThick.
+png (PNG copy)> <./WSe2/XPSW4fRef.png (PNG copy)>] [31 <./WSe2/XPSSe3dThin.png 
+(PNG copy)> <./WSe2/XPSSe3dThick.png (PNG copy)> <./WSe2/XPSSe3dRef.png (PNG co
+py)>]
 \openout2 = `chapterTransfer.aux'.
 
+ (chapterTransfer.tex
 
-(chapterTransfer.tex [29
+LaTeX Warning: Citation `Tada2000' on page 32 undefined on input line 3.
+
+[32
 
 
 ]
-<Transfer/TransferPLIntensityMapAsgrown.png, id=172, 1129.21875pt x 771.63281pt
+<Transfer/TransferPLIntensityMapAsgrown.png, id=188, 1129.21875pt x 771.63281pt
 >
 File: Transfer/TransferPLIntensityMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLIntensityMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLIntensityMapAsgrown.png  used on in
-put line 20.
+put line 26.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLIntensityMapTransferred.png, id=173, 1129.21875pt x 771.632
+<Transfer/TransferPLIntensityMapTransferred.png, id=189, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferPLIntensityMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLIntensityMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLIntensityMapTransferred.png  used o
-n input line 26.
+n input line 32.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLPositionMapAsgrown.png, id=174, 1129.21875pt x 771.63281pt>
+<Transfer/TransferPLPositionMapAsgrown.png, id=190, 1129.21875pt x 771.63281pt>
 
 File: Transfer/TransferPLPositionMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLPositionMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLPositionMapAsgrown.png  used on inp
-ut line 32.
+ut line 38.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLPositionMapTransferred.png, id=175, 1129.21875pt x 771.6328
+<Transfer/TransferPLPositionMapTransferred.png, id=191, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferPLPositionMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLPositionMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLPositionMapTransferred.png  used on
- input line 38.
+ input line 44.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLWidthMapAsgrown.png, id=176, 1129.21875pt x 771.63281pt>
+<Transfer/TransferPLWidthMapAsgrown.png, id=192, 1129.21875pt x 771.63281pt>
 File: Transfer/TransferPLWidthMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLWidthMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLWidthMapAsgrown.png  used on input 
-line 44.
+line 50.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLWidthMapTransferred.png, id=177, 1129.21875pt x 771.63281pt
+<Transfer/TransferPLWidthMapTransferred.png, id=193, 1129.21875pt x 771.63281pt
 >
 File: Transfer/TransferPLWidthMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLWidthMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLWidthMapTransferred.png  used on in
-put line 50.
+put line 56.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityEMapAsgrown.png, id=178, 1129.21875pt x 771.632
+<Transfer/TransferRamanIntensityEMapAsgrown.png, id=194, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferRamanIntensityEMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanIntensityEMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityEMapAsgrown.png  used o
-n input line 62.
+n input line 68.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityEMapTransferred.png, id=179, 1129.21875pt x 771
+<Transfer/TransferRamanIntensityEMapTransferred.png, id=195, 1129.21875pt x 771
 .63281pt>
 File: Transfer/TransferRamanIntensityEMapTransferred.png Graphic file (type png
 )
 <use Transfer/TransferRamanIntensityEMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityEMapTransferred.png  us
-ed on input line 68.
+ed on input line 74.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityAMapAsgrown.png, id=180, 1129.21875pt x 771.632
+<Transfer/TransferRamanIntensityAMapAsgrown.png, id=196, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferRamanIntensityAMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanIntensityAMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityAMapAsgrown.png  used o
-n input line 74.
+n input line 80.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityAMapTransferred.png, id=181, 1129.21875pt x 771
+<Transfer/TransferRamanIntensityAMapTransferred.png, id=197, 1129.21875pt x 771
 .63281pt>
 File: Transfer/TransferRamanIntensityAMapTransferred.png Graphic file (type png
 )
 <use Transfer/TransferRamanIntensityAMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityAMapTransferred.png  us
-ed on input line 80.
+ed on input line 86.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanPositionEMapAsgrown.png, id=182, 1129.21875pt x 771.6328
+<Transfer/TransferRamanPositionEMapAsgrown.png, id=198, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferRamanPositionEMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanPositionEMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanPositionEMapAsgrown.png  used on
- input line 86.
+ input line 92.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanPositionEMapTransferred.png, id=183, 1129.21875pt x 771.
+<Transfer/TransferRamanPositionEMapTransferred.png, id=199, 1129.21875pt x 771.
 63281pt>
 File: Transfer/TransferRamanPositionEMapTransferred.png Graphic file (type png)
 
 <use Transfer/TransferRamanPositionEMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanPositionEMapTransferred.png  use
-d on input line 92.
+d on input line 98.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanDiffMapAsgrown.png, id=184, 1129.21875pt x 771.63281pt>
+<Transfer/TransferRamanDiffMapAsgrown.png, id=200, 1129.21875pt x 771.63281pt>
 File: Transfer/TransferRamanDiffMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanDiffMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanDiffMapAsgrown.png  used on inpu
-t line 104.
+t line 110.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanDiffMapTransferred.png, id=185, 1129.21875pt x 771.63281
+<Transfer/TransferRamanDiffMapTransferred.png, id=201, 1129.21875pt x 771.63281
 pt>
 File: Transfer/TransferRamanDiffMapTransferred.png Graphic file (type png)
 <use Transfer/TransferRamanDiffMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanDiffMapTransferred.png  used on 
-input line 110.
+input line 116.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanRatioMapAsgrown.png, id=186, 1129.21875pt x 771.63281pt>
+<Transfer/TransferRamanRatioMapAsgrown.png, id=202, 1129.21875pt x 771.63281pt>
 
 File: Transfer/TransferRamanRatioMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanRatioMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanRatioMapAsgrown.png  used on inp
-ut line 116.
+ut line 122.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanRatioMapTransferred.png, id=187, 1129.21875pt x 771.6328
+<Transfer/TransferRamanRatioMapTransferred.png, id=203, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferRamanRatioMapTransferred.png Graphic file (type png)
 <use Transfer/TransferRamanRatioMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanRatioMapTransferred.png  used on
- input line 122.
+ input line 128.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-) [30] [31 <./Transfer/TransferPLIntensityMapAsgrown.png (PNG copy)> <./Transfe
-r/TransferPLIntensityMapTransferred.png (PNG copy)> <./Transfer/TransferPLPosit
-ionMapAsgrown.png (PNG copy)> <./Transfer/TransferPLPositionMapTransferred.png 
-(PNG copy)> <./Transfer/TransferPLWidthMapAsgrown.png (PNG copy)> <./Transfer/T
-ransferPLWidthMapTransferred.png (PNG copy)>] [32 <./Transfer/TransferRamanInte
-nsityEMapAsgrown.png (PNG copy)> <./Transfer/TransferRamanIntensityEMapTransfer
-red.png (PNG copy)> <./Transfer/TransferRamanIntensityAMapAsgrown.png (PNG copy
-)> <./Transfer/TransferRamanIntensityAMapTransferred.png (PNG copy)> <./Transfe
-r/TransferRamanPositionEMapAsgrown.png (PNG copy)> <./Transfer/TransferRamanPos
-itionEMapTransferred.png (PNG copy)>] [33 <./Transfer/TransferRamanDiffMapAsgro
-wn.png (PNG copy)> <./Transfer/TransferRamanDiffMapTransferred.png (PNG copy)> 
-<./Transfer/TransferRamanRatioMapAsgrown.png (PNG copy)> <./Transfer/TransferRa
-manRatioMapTransferred.png (PNG copy)>]
+) [33] [34] [35 <./Transfer/TransferPLIntensityMapAsgrown.png (PNG copy)> <./Tr
+ansfer/TransferPLIntensityMapTransferred.png (PNG copy)> <./Transfer/TransferPL
+PositionMapAsgrown.png (PNG copy)> <./Transfer/TransferPLPositionMapTransferred
+.png (PNG copy)> <./Transfer/TransferPLWidthMapAsgrown.png (PNG copy)> <./Trans
+fer/TransferPLWidthMapTransferred.png (PNG copy)>] [36 <./Transfer/TransferRama
+nIntensityEMapAsgrown.png (PNG copy)> <./Transfer/TransferRamanIntensityEMapTra
+nsferred.png (PNG copy)> <./Transfer/TransferRamanIntensityAMapAsgrown.png (PNG
+ copy)> <./Transfer/TransferRamanIntensityAMapTransferred.png (PNG copy)> <./Tr
+ansfer/TransferRamanPositionEMapAsgrown.png (PNG copy)> <./Transfer/TransferRam
+anPositionEMapTransferred.png (PNG copy)>] [37 <./Transfer/TransferRamanDiffMap
+Asgrown.png (PNG copy)> <./Transfer/TransferRamanDiffMapTransferred.png (PNG co
+py)> <./Transfer/TransferRamanRatioMapAsgrown.png (PNG copy)> <./Transfer/Trans
+ferRamanRatioMapTransferred.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
@@ -2224,15 +2299,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
-(thesis.bbl [34
+(thesis.bbl [38
 
-] [35] [36] [37] [38]) [39] (thesis.aux (chapterIntroduction.aux) (chapterWS2.a
-ux) (chapterWSe2.aux) (chapterTransfer.aux))
+] [39] [40] [41] [42] [43]) [44] (thesis.aux
+(chapterIntroduction.aux) (chapterWS2.aux) (chapterWSe2.aux)
+(chapterTransfer.aux))
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 1)
@@ -2240,10 +2313,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 ### simple group (level 1) entered at line 243 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 17436 strings out of 493305
- 338179 string characters out of 3129355
- 362582 words of memory out of 3000000
- 20586 multiletter control sequences out of 15000+200000
+ 17479 strings out of 493305
+ 339108 string characters out of 3129355
+ 363730 words of memory out of 3000000
+ 20629 multiletter control sequences out of 15000+200000
  19843 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,9n,82p,3865b,639s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2263,9 +2336,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pp32
 <C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (39 pages, 8854538 bytes).
+Output written on thesis.pdf (44 pages, 9463479 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
+ 288 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 288 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 318 words of extra memory for PDF output out of 10000 (max. 10000000)
 

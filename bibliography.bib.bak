@@ -932,6 +932,43 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {American Physical Society ({APS})},
 }
 
+@Article{Dadgar2018,
+  author    = {A. M. Dadgar and D. Scullion and K. Kang and D. Esposito and E. H. Yang and I. P. Herman and M. A. Pimenta and E.-J. G. Santos and A. N. Pasupathy},
+  title     = {Strain Engineering and Raman Spectroscopy of Monolayer Transition Metal Dichalcogenides},
+  journal   = {Chemistry of Materials},
+  year      = {2018},
+  volume    = {30},
+  number    = {15},
+  pages     = {5148--5155},
+  month     = {jul},
+  doi       = {10.1021/acs.chemmater.8b01672},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Yun2012,
+  author    = {Won Seok Yun and S. W. Han and Soon Cheol Hong and In Gee Kim and J. D. Lee},
+  title     = {Thickness and strain effects on electronic structures of transition metal dichalcogenides: 2H-{MX}2semiconductors (M=Mo, W$\mathsemicolon$X=S, Se, Te)},
+  journal   = {Physical Review B},
+  year      = {2012},
+  volume    = {85},
+  number    = {3},
+  month     = {jan},
+  doi       = {10.1103/physrevb.85.033305},
+  publisher = {American Physical Society ({APS})},
+}
+
+@Article{Hu2018,
+  author    = {Xuan Hu and Poya Yasaei and Jacob Jokisaari and Serdar Ö{\u{g}}üt and Amin Salehi-Khojin and Robert F. Klie},
+  title     = {Mapping Thermal Expansion Coefficients in Freestanding 2D Materials at the Nanometer Scale},
+  journal   = {Physical Review Letters},
+  year      = {2018},
+  volume    = {120},
+  number    = {5},
+  month     = {feb},
+  doi       = {10.1103/physrevlett.120.055902},
+  publisher = {American Physical Society ({APS})},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

@@ -2,9 +2,9 @@
 
 	\subsection{Introduction}
 	
-		$WSe2$ is a TMDC material very similar to the $WS_2$. The main difference is its bandgap which for monolayer is about 1.65 eV. Its crystal structure is the same as the other TDMCs as outlined in \ref{sec:Introduction}. The electronic structure can be seen in Figure \ref{fig:WSe2BandStructureWSe2WS2}
+		$WSe2$ is a TMDC material very similar to the $WS_2$. The main difference is its bandgap which for monolayer is about 1.65 eV. This allows for potential application in the near infrared range. Its crystal structure is the same as the other TDMCs as outlined in \ref{sec:Introduction}. The electronic structure can be seen in Figure \ref{fig:WSe2BandStructureWSe2WS2} and it is very similar to that of the $WS_2$. 
 		
-\begin{figure}
+\begin{figure}[!h]
 	\begin{center}
 		\includegraphics[scale=0.5]{WSe2/WSe2BandStructureWSe2WS2.png}
 		\caption{$WS_2$ and $WSe_2$ electronic band structure for 1, 2 and many layers (bulk)}
@@ -90,11 +90,11 @@ A comparison of PL peak positions and widths between different samples of WSe2 c
 	\end{center}
 \end{figure}
 
-By plotting the intensity and width of the PL peaks against the peak position as seen in Figure \ref{fig:WSe2ScatterComparison} certain patterns can be observed. The intensity is generally mostly grouped around maximum values and relatively narrowly spread across the position spectrum. The thick flakes show much more even distribution of intensity across the position, which combined with the wide distribution of positions results in a much more inhomogeneous sample.  The width and positions are generally well grouped with flakes with smaller width having more narrow distribution than those with greater width. Also few-layer flake shows a smaller peak width. Overall there is no obvious relation between position and width. 
+By plotting the intensity and width of the PL peaks against the peak position as seen in Figure \ref{fig:WSe2ScatterComparison} certain patterns can be observed. The intensity is mostly grouped around maximum values and relatively narrowly spread across the position spectrum. The thick flakes show much more even distribution of intensity across the position, which combined with the wide distribution of positions results in a much more inhomogeneous sample.  The width and positions are generally well grouped with flakes with smaller width having more narrow distribution than those with greater width. Also few-layer flake shows a smaller peak width. Overall there is no obvious relation between position and width. 
 
 %% Raman
 
-The Raman spectroscopy is a very useful characterisation technique for TMDCs. For most TMDCs it can be used to identify the number of layers or strain within the layer. However in the case of $WSe_2$ the position of the $E^1_{2g}$ and $A_{1g}$ largely overlaps and therefore it is difficult to accurately determine the difference in their position. Because of that this method of identifying the number of layers cannot be employed easily. It is however still possible to examine the strain within the layers by noting the shift of the $E^1_{2g}$ peak. A Raman $E^1_{2g}$ peak position distribution from a representative sample can be seen in Figure \ref{fig:WSe2RamanPositionHistogram1}. The strain can be then determined from the mean position of $250.678 \pm 0.095$ $cm^{-1}$  to be 2.44 {\%} \cite{Dadgar2018}.
+The Raman spectroscopy is a very useful characterisation technique for TMDCs. For most TMDCs it can be used to identify the number of layers or strain within the layer. However in the case of $WSe_2$ the position of the $E^1_{2g}$ and $A_{1g}$ largely overlaps and therefore it is difficult to accurately determine the difference in their position. Because of that this method of identifying the number of layers cannot be employed easily. It is however still possible to examine the strain within the layers by noting the shift of the $E^1_{2g}$ peak. A Raman $E^1_{2g}$ peak position distribution from a representative sample can be seen in Figure \ref{fig:WSe2RamanPositionHistogram1}. The strain can be then determined from the mean position of $250.678 \pm 0.095$ $cm^{-1}$ to be 2.44 {\%} \cite{Dadgar2018}.
 
 \begin{figure}[!h]
 	\begin{center}
@@ -103,7 +103,6 @@ The Raman spectroscopy is a very useful characterisation technique for TMDCs. Fo
 		\label{fig:WSe2RamanPositionHistogram1}
 	\end{center}
 \end{figure}
-
 
 \begin{figure}[!h]
 	\begin{center}
@@ -124,9 +123,63 @@ The Raman spectroscopy is a very useful characterisation technique for TMDCs. Fo
 			\caption{Empty area}
 			\label{fig:WSe2XPSRefZn}
 		\end{subfigure}
-		\caption{XPS spectra around Zn2p peaks in different areas of the sample}
-		\label{fig:WSe2XPSSpectra}
+		\caption{XPS spectra of Zn2p peaks in different areas of the sample}
+		\label{fig:WSe2XPSZn}
 	\end{center}
 \end{figure}
 
-The samples has been characterised with XPS in order to test whether any Zn can be found in the sample and in what form. As seen in Figure \ref{fig:WSe2XPSSpectra} the Zn is present in all three areas investigated. The empty area with no flakes was measured as a reference (Figure \ref{fig:WSe2XPSRefZn}) and Zn has been found there. This indicates that there is some residue Zn covering the entire sample. 
+\begin{figure}[!h]
+	\begin{center}
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[scale=0.2]{WSe2/XPSW4fThin.png}
+			\caption{Thin flakes}
+			\label{fig:WSe2XPSThinW}
+		\end{subfigure}
+		\qquad
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[scale=0.2]{WSe2/XPSW4fThick.png}
+			\caption{Thick flakes}
+			\label{fig:WSe2XPSThickW}
+		\end{subfigure}
+		
+		\begin{subfigure}[b]{0.25\textwidth}
+			\includegraphics[scale=0.2]{WSe2/XPSW4fRef.png}
+			\caption{Empty area}
+			\label{fig:WSe2XPSRefW}
+		\end{subfigure}
+		\caption{XPS spectra of W4f peaks in different areas of the sample}
+		\label{fig:WSe2XPSW}
+	\end{center}
+\end{figure}
+
+\begin{figure}[!h]
+	\begin{center}
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[scale=0.2]{WSe2/XPSSe3dThin.png}
+			\caption{Thin flakes}
+			\label{fig:WSe2XPSThinSe}
+		\end{subfigure}
+		\qquad
+		\begin{subfigure}[b]{0.4\textwidth}
+			\includegraphics[scale=0.2]{WSe2/XPSSe3dThick.png}
+			\caption{Thick flakes}
+			\label{fig:WSe2XPSThickSe}
+		\end{subfigure}
+		
+		\begin{subfigure}[b]{0.25\textwidth}
+			\includegraphics[scale=0.2]{WSe2/XPSSe3dRef.png}
+			\caption{Empty area}
+			\label{fig:WSe2XPSRefSe}
+		\end{subfigure}
+		\caption{XPS spectra of Se3d peaks in different areas of the sample}
+		\label{fig:WSe2XPSSe}
+	\end{center}
+\end{figure}
+
+The sample has been further characterised with XPS. Three areas were selected for measurements, one with thin, mono or double layer $WSe_2$, one with thick bulk $WSe_2$ and one with no visible $WSe_2$ flakes. The Figure \ref{fig:WSe2XPSW} shows W4f core levels measured in those spots. The first area (Figure \ref{fig:WSe2XPSThinW}), with thin flake shows one doublet at 32.08 eV and 34.23 eV and a second doublet at 35.33 eV and 37.68 eV. The first doublet corresponds to $WSe_2$ while the second one can be attributed to $WO_3$. Since the spot size in the measurement covers both the flake as well as some surrounding substrate it is possible that the $WO_3$ is located outside of the flake. Furthermore the background indicates that the emission from $WS_2$ came from surface and therefore the $WS_2$ flake is not contaminated with $WO_3$. 
+The second area with thicker flakes (Figure \ref{fig:WSe2XPSThickW}) shows similarly two doublets: one at 32.28 eV and 34.43 eV and a second one at 35.38 eV and 37.63 eV. Similarly to the thin area with thin flake we can ascribe the former to the $WS_2$ and the latter to $WO_3$. There is a small shift of 0.2 eV between $WS_2$ from the thin flake and $WS_2$ from the thick flake. It is possible that XPS is sensitive to the number of layers in $WSe_2$ and TMDCs in general since it is known that number of layers does modify the electronic structure of the material. The $WO_3$ is found to be at the same position in both areas. The $WO_3$ peak is also relatively weaker in the area with the thick flake than in the area with thin flake which could be a result of the thick flake having larger surface area than the thin flake and smaller presence of $WO_3$ around the flake. 
+Additionally and empty area (Figure \ref{fig:WSe2XPSRefW}) with no visible flakes have been measured. Similarly two doublets, one at 32.58 eV and 34.73 eV and a second one at 35.48 eV and 37.58 eV have been fitted and their presence can be again explained by presence of $WS_2$ and $WO_3$. The $WS_2$ peak is shifted in relation to that from the thin flake by 0.5 eV which could indicate presence of a highly defective $WS_2$ or very small amounts of very bulk $WS_2$. The $WS_2$ peak is also much weaker than that of the $WO_3$ which is expected since no visible $WS_2$ flakes were observed. 
+
+We can also look at Se3d core levels measured at the same locations. As seen in Figure \ref{fig:WSe2XPSThinSe}, taken from an area with the thin flake, we can fit it with one doublet corresponding to the presence of $WS_2$ at 54.48 eV and 55.23 eV. Similarly in Figure \ref{fig:WSe2XPSThickSe} we can see Se3d peaks taken from area with the thick flake and can fit it with a doublet at 54.63 eV and 55.38 eV which also corresponds to the $WS_2$. Similar to the W4f levels there is a shift of 0.15 eV between those two flakes which can be explained by their thickness which changes the electronic structure. The Se3d levels measured in the reference empty area also can be fitted with a doublet at 54.53 eV and 55.33 eV which can be attributed to $WS_2$. Similarly there is a shift of 0.05 eV from the peak associated with the thin flake, which is much smaller than the W4f peak shift. The Se3d peak from the empty area is about a magnitude weaker than that from either the thin or thick flake which is expected as no visible flake was observed. It does however indicate a non insignificant presence of $WS_2$, perhaps in the form of nuclei that never grew into proper flakes or flakes that shrunk or became etched and are highly defective and thinner than monolayer. The Se3d from the empty area also exhibits a steep background which indicates that the Se is covered with some layer, perhaps that of $WO_3$. 
+
+Finally the Zn2p levels were measured across the same areas. As seen in Figure \ref{fig:XPSWSe2ThinZn} a doublet can be identified at 
