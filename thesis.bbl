@@ -1,5 +1,15 @@
 \begin{thebibliography}{10}
 
+\bibitem{Alexeev2019}
+Evgeny~M. Alexeev, David~A. Ruiz-Tijerina, Mark Danovich, Matthew~J. Hamer,
+  Daniel~J. Terry, Pramoda~K. Nayak, Seongjoon Ahn, Sangyeon Pak, Juwon Lee,
+  Jung~Inn Sohn, Maciej~R. Molas, Maciej Koperski, Kenji Watanabe, Takashi
+  Taniguchi, Kostya~S. Novoselov, Roman~V. Gorbachev, Hyeon~Suk Shin,
+  Vladimir~I. Fal'ko, and Alexander~I. Tartakovskii.
+\newblock Resonantly hybridized excitons in moir{\'{e}} superlattices in van
+  der waals heterostructures.
+\newblock {\em Nature}, 567(7746):81--86, mar 2019.
+
 \bibitem{Alharbi2016}
 Abdullah Alharbi and Davood Shahrjerdi.
 \newblock Electronic properties of monolayer tungsten disulfide grown by
@@ -126,6 +136,13 @@ Wolfgang~K. Hofmann.
   chemical vapour deposition.
 \newblock {\em Journal of Materials Science}, 23(11):3981--3986, nov 1988.
 
+\bibitem{Hong2014}
+Xiaoping Hong, Jonghwan Kim, Su-Fei Shi, Yu~Zhang, Chenhao Jin, Yinghui Sun,
+  Sefaattin Tongay, Junqiao Wu, Yanfeng Zhang, and Feng Wang.
+\newblock Ultrafast charge transfer in atomically thin {MoS}2/{WS}2
+  heterostructures.
+\newblock {\em Nature Nanotechnology}, 9(9):682--686, aug 2014.
+
 \bibitem{Hu2016}
 Peng Hu, Jun Ye, Xuexia He, Kezhao Du, Keke~K. Zhang, Xingzhi Wang, Qihua
   Xiong, Zheng Liu, Hui Jiang, and Christian Kloc.
@@ -207,6 +224,14 @@ A.~Kuc, N.~Zibouche, and T.~Heine.
 \newblock Influence of quantum confinement on the electronic structure of the
   transition metal sulfide $t$s${}_{2}$.
 \newblock {\em Phys. Rev. B}, 83(24):245213, Jun 2011.
+
+\bibitem{Kunstmann2018}
+Jens Kunstmann, Fabian Mooshammer, Philipp Nagler, Andrey Chaves, Frederick
+  Stein, Nicola Paradiso, Gerd Plechinger, Christoph Strunk, Christian
+  Schüller, Gotthard Seifert, David~R. Reichman, and Tobias Korn.
+\newblock Momentum-space indirect interlayer excitons in transition-metal
+  dichalcogenide van der waals heterostructures.
+\newblock {\em Nature Physics}, 14(8):801--805, apr 2018.
 
 \bibitem{Lan2015}
 Changyong Lan, Chun Li, Yi~Yin, and Yong Liu.
@@ -346,6 +371,13 @@ Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
 \newblock Emerging photoluminescence in monolayer mos2.
 \newblock {\em Nano Letters}, 10(4):1271--1275, apr 2010.
 \newblock PMID: 20229981.
+
+\bibitem{Tada2000}
+Haruna Tada, Amy~E. Kumpel, Richard~E. Lathrop, John~B. Slanina, Patricia
+  Nieva, Paul Zavracky, Ioannis~N. Miaoulis, and Peter~Y. Wong.
+\newblock Thermal expansion coefficient of polycrystalline silicon and silicon
+  dioxide thin films at high temperatures.
+\newblock {\em Journal of Applied Physics}, 87(9):4189--4193, may 2000.
 
 \bibitem{PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2}
 Xiaona Liu Pingheng~Tan Tengfei~Yan, Xiaofen~Qiao and Xinhui Zhang.

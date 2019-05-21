@@ -25,6 +25,11 @@
 \contentsline {subsection}{\numberline {7.1}Introduction}{48}
 \contentsline {section}{\numberline {8}Heterostructures}{49}
 \contentsline {subsection}{\numberline {8.1}Introduction}{49}
-\contentsline {subsection}{\numberline {8.2}Results}{49}
-\contentsline {section}{\numberline {9}Conclusions}{52}
-\contentsline {section}{References}{52}
+\contentsline {subsubsection}{\numberline {8.1.1}Properties of bilayer heterostructures}{49}
+\contentsline {subsubsection}{\numberline {8.1.2}Fabrication of bilayer heterostructures}{51}
+\contentsline {subsubsection}{\numberline {8.1.3}Transfer -approach}{51}
+\contentsline {subsubsection}{\numberline {8.1.4}Direct synthesis of vertical heterostructures}{51}
+\contentsline {subsubsection}{\numberline {8.1.5}Characterization of bilayer heterostructures}{52}
+\contentsline {subsection}{\numberline {8.2}Results}{56}
+\contentsline {section}{\numberline {9}Conclusions}{61}
+\contentsline {section}{References}{61}
