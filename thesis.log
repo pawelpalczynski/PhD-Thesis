@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  30 MAY 2019 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  31 MAY 2019 20:55
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -2393,6 +2393,10 @@ File: Heterostructures/HeterostructureRamanSpectrumIntro.png Graphic file (type
 Package pdftex.def Info: Heterostructures/HeterostructureRamanSpectrumIntro.png
   used on input line 61.
 (pdftex.def)             Requested size: 128.05252pt x 210.78606pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <Heterostructures/HeterostructureAFMProfile.png, id=275, 194.97844pt x 135.5062
 6pt>
 File: Heterostructures/HeterostructureAFMProfile.png Graphic file (type png)
@@ -2400,7 +2404,6 @@ File: Heterostructures/HeterostructureAFMProfile.png Graphic file (type png)
 Package pdftex.def Info: Heterostructures/HeterostructureAFMProfile.png  used o
 n input line 69.
 (pdftex.def)             Requested size: 194.97795pt x 135.5059pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2415,8 +2418,8 @@ sed on input line 80.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)>]
-[54 <./Heterostructures/HeterostructureAFMProfile.png>]
+[53] [54 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)> 
+<./Heterostructures/HeterostructureAFMProfile.png>]
 <Heterostructures/HeterostructurePLSpectrumIntroComparison.png, id=285, 236.383
 12pt x 219.06844pt>
 File: Heterostructures/HeterostructurePLSpectrumIntroComparison.png Graphic fil
@@ -2442,7 +2445,8 @@ tro.png  used on input line 108.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=291, 353.069
+[56 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
+<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=294, 353.069
 06pt x 328.97906pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png Graphic fil
 e (type png)
@@ -2451,11 +2455,11 @@ Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumInterlayerTw
 ist.png  used on input line 118.
 (pdftex.def)             Requested size: 353.06819pt x 328.97826pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [56 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
-[57 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>] [58 <./H
-eterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
+) [57 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
+[58 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
 \openout2 = `chapterHeterostructures.aux'.
 
 
@@ -2756,15 +2760,18 @@ uction.aux) (chapterWS2.aux) (chapterWSe2.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  17736 strings out of 493305
  349118 string characters out of 3129355
- 375744 words of memory out of 3000000
+ 376743 words of memory out of 3000000
  20852 multiletter control sequences out of 15000+200000
  18255 words of font info for 68 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,82p,3865b,646s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,9n,82p,3865b,640s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \tcrm1095.pk> <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\tcrm1200.pk><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/font
@@ -2782,7 +2789,7 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pp3211
 :/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (86 pages, 16459432 bytes).
+Output written on thesis.pdf (86 pages, 16459346 bytes).
 PDF statistics:
  481 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
