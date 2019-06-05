@@ -125,6 +125,13 @@ Thanasis Georgiou, Huafeng Yang, Rashid Jalil, James Chapman, Kostya~S.
 \newblock Electrical and optical characterization of atomically thin {WS}2.
 \newblock {\em Dalton Transactions}, 43(27):10388, 2014.
 
+\bibitem{Gong2013}
+Cheng Gong, Hengji Zhang, Weihua Wang, Luigi Colombo, Robert~M. Wallace, and
+  Kyeongjae Cho.
+\newblock Band alignment of two-dimensional transition metal dichalcogenides:
+  Application in tunnel field effect transistors.
+\newblock {\em Applied Physics Letters}, 103(5):053513, jul 2013.
+
 \bibitem{Gong2014}
 Yongji Gong, Junhao Lin, Xingli Wang, Gang Shi, Sidong Lei, Zhong Lin, Xiaolong
   Zou, Gonglan Ye, Robert Vajtai, Boris~I. Yakobson, Humberto Terrones,
@@ -156,6 +163,12 @@ Wolfgang~K. Hofmann.
 \newblock Thin films of molybdenum and tungsten disulphides by metal organic
   chemical vapour deposition.
 \newblock {\em Journal of Materials Science}, 23(11):3981--3986, nov 1988.
+
+\bibitem{Hong2011}
+Suk~Joon Hong, Seungok Lee, Jum~Suk Jang, and Jae~Sung Lee.
+\newblock Heterojunction {BiVO}4/{WO}3 electrodes for enhanced photoactivity of
+  water oxidation.
+\newblock {\em Energy {\&} Environmental Science}, 4(5):1781, 2011.
 
 \bibitem{Hong2014}
 Xiaoping Hong, Jonghwan Kim, Su-Fei Shi, Yu~Zhang, Chenhao Jin, Yinghui Sun,
@@ -318,6 +331,12 @@ Zheng Liu, Matin Amani, Sina Najmaei, Quan Xu, Xiaolong Zou, Wu~Zhou, Ting Yu,
   chemical vapour deposition.
 \newblock {\em Nature Communications}, 5(1), nov 2014.
 
+\bibitem{Ma2018}
+Xiangchao Ma, Xin Wu, Haoda Wang, and Yucheng Wang.
+\newblock A janus {MoSSe} monolayer: a potential wide solar-spectrum
+  water-splitting photocatalyst with a low carrier recombination rate.
+\newblock {\em Journal of Materials Chemistry A}, 6(5):2295--2301, 2018.
+
 \bibitem{TightlyBoundTrionsInMonolayer}
 He~Keliang Lee Changgu Lee Gwan Hyoung Hone James Heinz Tony~F. Mak, Kin~Fai
   and Jie Shan.
@@ -340,6 +359,14 @@ H.~Martinez, A.~Benayad, D.~Gonbeau, P.~Vinatier, B.~Pecquenard, and
 \newblock Influence of the cation nature of high sulfur content oxysulfide thin
   films {MOySz} (m=w, ti) studied by {XPS}.
 \newblock {\em Applied Surface Science}, 236(1-4):377--386, sep 2004.
+
+\bibitem{McCrory2015}
+Charles C.~L. McCrory, Suho Jung, Ivonne~M. Ferrer, Shawn~M. Chatman, Jonas~C.
+  Peters, and Thomas~F. Jaramillo.
+\newblock Benchmarking hydrogen evolving reaction and oxygen evolving reaction
+  electrocatalysts for solar water splitting devices.
+\newblock {\em Journal of the American Chemical Society}, 137(13):4347--4357,
+  mar 2015.
 
 \bibitem{doi:10.1021/nn503093k}
 Mitsuhiro Okada, Takumi Sawazaki, Kenji Watanabe, Takashi Taniguch, Hiroki
@@ -383,6 +410,13 @@ Federico~M. Pesci, Maria~S. Sokolikova, Chiara Grotta, Peter~C. Sherrell,
 \newblock {MoS}2/{WS}2 heterojunction for photoelectrochemical water oxidation.
 \newblock {\em {ACS} Catalysis}, 7(8):4990--4998, jul 2017.
 
+\bibitem{Pilli2011}
+Satyananda~Kishore Pilli, Thomas~E. Furtak, Logan~D. Brown, Todd~G. Deutsch,
+  John~A. Turner, and Andrew~M. Herring.
+\newblock Cobalt-phosphate (co-pi) catalyst modified mo-doped {BiVO}4
+  photoelectrodes for solar water oxidation.
+\newblock {\em Energy {\&} Environmental Science}, 4(12):5028, 2011.
+
 \bibitem{Rasmussen2015}
 Filip~A. Rasmussen and Kristian~S. Thygesen.
 \newblock Computational 2d materials database: Electronic structure of
@@ -403,6 +437,13 @@ Francesco Reale, Pawel Palczynski, Iddo Amit, Gareth~F. Jones, Jake~D. Mehew,
   Saverio Russo, and Cecilia Mattevi.
 \newblock High-mobility and high-optical quality atomically thin {WS} 2.
 \newblock {\em Scientific Reports}, 7(1), nov 2017.
+
+\bibitem{Rigosi2015}
+Albert~F. Rigosi, Heather~M. Hill, Yilei Li, Alexey Chernikov, and Tony~F.
+  Heinz.
+\newblock Probing interlayer interactions in transition metal dichalcogenide
+  heterostructures by optical spectroscopy: {MoS}2/{WS}2 and {MoSe}2/{WSe}2.
+\newblock {\em Nano Letters}, 15(8):5033--5038, jul 2015.
 
 \bibitem{Rong2014}
 Youmin Rong, Ye~Fan, Ai~Leen Koh, Alex~W. Robertson, Kuang He, Shanshan Wang,
@@ -434,6 +475,13 @@ Jianping Shi, Donglin Ma, Gao-Feng Han, Yu~Zhang, Qingqing Ji, Teng Gao, Jingyu
   its potential application in hydrogen evolution reaction.
 \newblock {\em {ACS} Nano}, 8(10):10196--10204, sep 2014.
 
+\bibitem{Shi2014a}
+Xinjian Shi, Il~Yong Choi, Kan Zhang, Jeong Kwon, Dong~Yeong Kim, Ja~Kyung Lee,
+  Sang~Ho Oh, Jong~Kyu Kim, and Jong~Hyeok Park.
+\newblock Efficient photoelectrochemical hydrogen production from bismuth
+  vanadate-decorated tungsten trioxide helix nanostructures.
+\newblock {\em Nature Communications}, 5(1), sep 2014.
+
 \bibitem{Sivula2016}
 Kevin Sivula and Roel van~de Krol.
 \newblock Semiconducting materials for photoelectrochemical energy conversion.
@@ -463,6 +511,13 @@ Xiaona Liu Pingheng~Tan Tengfei~Yan, Xiaofen~Qiao and Xinhui Zhang.
 \newblock Photoluminescence properties and exciton dynamics in monolayer wse2.
 \newblock {\em Applied Physics Letters}, 105(10):101901, sep 2014.
 
+\bibitem{Tongay2014}
+Sefaattin Tongay, Wen Fan, Jun Kang, Joonsuk Park, Unsal Koldemir, Joonki Suh,
+  Deepa~S. Narang, Kai Liu, Jie Ji, Jingbo Li, Robert Sinclair, and Junqiao Wu.
+\newblock Tuning interlayer coupling in large-area heterostructures with
+  {CVD}-grown {MoS}2 and {WS}2 monolayers.
+\newblock {\em Nano Letters}, 14(6):3185--3190, may 2014.
+
 \bibitem{Tongay2013}
 Sefaattin Tongay, Joonki Suh, Can Ataca, Wen Fan, Alexander Luce, Jeong~Seuk
   Kang, Jonathan Liu, Changhyun Ko, Rajamani Raghunathanan, Jian Zhou, Frank
@@ -470,6 +525,15 @@ Sefaattin Tongay, Joonki Suh, Can Ataca, Wen Fan, Alexander Luce, Jeong~Seuk
 \newblock Defects activated photoluminescence in two-dimensional
   semiconductors: interplay between bound, charged and free excitons.
 \newblock {\em Scientific Reports}, 3(1), sep 2013.
+
+\bibitem{Zande2014}
+Arend~M. van~der Zande, Jens Kunstmann, Alexey Chernikov, Daniel~A. Chenet,
+  YuMeng You, XiaoXiao Zhang, Pinshane~Y. Huang, Timothy~C. Berkelbach, Lei
+  Wang, Fan Zhang, Mark~S. Hybertsen, David~A. Muller, David~R. Reichman,
+  Tony~F. Heinz, and James~C. Hone.
+\newblock Tailoring the electronic structure in bilayer molybdenum disulfide
+  via interlayer twist.
+\newblock {\em Nano Letters}, 14(7):3869--3875, jun 2014.
 
 \bibitem{Voiry2016}
 Damien Voiry, Jieun Yang, and Manish Chhowalla.
@@ -546,6 +610,12 @@ Xiaoyun Yu, N{\'{e}}stor Guijarro, Melissa Johnson, and Kevin Sivula.
   solar-to-hydrogen conversion.
 \newblock {\em Nano Letters}, 18(1):215--222, dec 2017.
 
+\bibitem{Yu2015}
+Xiaoyun Yu, Mathieu~S. Pr{\'{e}}vot, N{\'{e}}stor Guijarro, and Kevin Sivula.
+\newblock Self-assembled 2d {WSe}2 thin films for photoelectrochemical hydrogen
+  production.
+\newblock {\em Nature Communications}, 6(1), jul 2015.
+
 \bibitem{Yu2016}
 Xiaoyun Yu and Kevin Sivula.
 \newblock Toward large-area solar energy conversion with semiconducting 2d
@@ -600,5 +670,12 @@ Z.~Y. Zhu, Y.~C. Cheng, and U.~Schwingenschl\"ogl.
 \newblock Giant spin-orbit-induced spin splitting in two-dimensional
   transition-metal dichalcogenide semiconductors.
 \newblock {\em Phys. Rev. B}, 84(15):153402, Oct 2011.
+
+\bibitem{Zhuang2013}
+Houlong~L. Zhuang and Richard~G. Hennig.
+\newblock Computational search for single-layer transition-metal dichalcogenide
+  photocatalysts.
+\newblock {\em The Journal of Physical Chemistry C}, 117(40):20440--20445, sep
+  2013.
 
 \end{thebibliography}
