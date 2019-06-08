@@ -1,4 +1,5 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: chapterThesisIntroduction.aux
 A level-1 auxiliary file: chapterIntroduction.aux
 A level-1 auxiliary file: chapterWS2.aux
 A level-1 auxiliary file: chapterWSe2.aux
@@ -8,6 +9,7 @@ A level-1 auxiliary file: chapterWSe21T.aux
 A level-1 auxiliary file: chapterPhases.aux
 A level-1 auxiliary file: chapterHeterostructuresIntroduction.aux
 A level-1 auxiliary file: chapterHeterostructures.aux
+A level-1 auxiliary file: chapterConclusions.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Name 1 in "Tengfei Yan, Xiaofen Qiao, Xiaona Liu, Pingheng Tan, and Xinhui Zhang" has a comma at the end for entry PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2
@@ -90,4 +92,5 @@ Too many commas in name 1 of "Weijie Zhao, Zohreh Ghorannevis, Kiran Kumar Amara
 while executing---line 1090 of file plain.bst
 Too many commas in name 1 of "Weijie Zhao, Zohreh Ghorannevis, Kiran Kumar Amara, Jing Ren Pang, Minglin Toh, Xin Zhang, Christian Kloc, Ping Heng Tane and Goki Eda" for entry LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2
 while executing---line 1090 of file plain.bst
+Warning--there's a number but no volume in Wypych1992
 (There were 40 error messages)

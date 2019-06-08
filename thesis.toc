@@ -1,42 +1,43 @@
-\contentsline {chapter}{\numberline {1}Thesis introduction}{3}
-\contentsline {chapter}{\numberline {2}Introduction}{5}
-\contentsline {section}{\numberline {2.1}Properties of TMDCs}{5}
-\contentsline {section}{\numberline {2.2}Electronic properties}{7}
-\contentsline {subsection}{\numberline {2.2.1}Optical properties}{9}
-\contentsline {section}{\numberline {2.3}Phonon dispersion}{12}
+\contentsline {chapter}{\numberline {1}Thesis introduction}{4}
+\contentsline {chapter}{\numberline {2}Introduction}{6}
+\contentsline {section}{\numberline {2.1}Properties of TMDCs}{6}
+\contentsline {subsection}{\numberline {2.1.1}Electronic properties}{7}
+\contentsline {subsection}{\numberline {2.1.2}Optical properties}{9}
+\contentsline {section}{\numberline {2.2}Phonon dispersion}{13}
 \contentsline {chapter}{\numberline {3}Role of precursors in growth of monolayer $WS_2$}{15}
 \contentsline {section}{\numberline {3.1}Introduction}{15}
 \contentsline {section}{\numberline {3.2}Results}{17}
 \contentsline {section}{\numberline {3.3}Conclusions}{30}
-\contentsline {chapter}{\numberline {4}WSe2}{33}
-\contentsline {section}{\numberline {4.1}Introduction}{33}
-\contentsline {section}{\numberline {4.2}Results}{33}
-\contentsline {chapter}{\numberline {5}Transfer}{41}
-\contentsline {section}{\numberline {5.1}Introduction}{41}
-\contentsline {section}{\numberline {5.2}Experimental}{41}
-\contentsline {section}{\numberline {5.3}Results}{42}
-\contentsline {section}{\numberline {5.4}Conclusions}{44}
-\contentsline {chapter}{\numberline {6}Low T PL}{49}
-\contentsline {section}{\numberline {6.1}Introduction}{49}
-\contentsline {section}{\numberline {6.2}Experimental}{49}
-\contentsline {section}{\numberline {6.3}Results}{50}
-\contentsline {chapter}{\numberline {7}1T' $WSe_2$}{55}
-\contentsline {section}{\numberline {7.1}Introduction}{55}
-\contentsline {chapter}{\numberline {8}TMDC phases - review}{57}
-\contentsline {section}{\numberline {8.1}Introduction}{57}
-\contentsline {chapter}{\numberline {9}Heterostructures - state of the art}{59}
-\contentsline {section}{\numberline {9.1}Introduction}{59}
-\contentsline {section}{\numberline {9.2}Properties of bilayer heterostructures}{60}
-\contentsline {section}{\numberline {9.3}Fabrication of bilayer heterostructures}{61}
-\contentsline {subsubsection}{Transfer -approach}{61}
-\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{62}
-\contentsline {section}{\numberline {9.4}Characterization of bilayer heterostructures}{63}
-\contentsline {subsection}{\numberline {9.4.1}Raman spectroscopy}{63}
-\contentsline {subsection}{\numberline {9.4.2}Photoluminescence}{64}
-\contentsline {chapter}{\numberline {10}Heterostructures}{71}
-\contentsline {section}{\numberline {10.1}Introduction}{71}
-\contentsline {section}{\numberline {10.2}Results}{72}
-\contentsline {subsection}{\numberline {10.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{72}
-\contentsline {section}{\numberline {10.3}Appendix}{79}
-\contentsline {chapter}{\numberline {11}Conclusions and future work}{89}
-\contentsline {chapter}{Bibliography}{93}
+\contentsline {chapter}{\numberline {4}WSe2}{32}
+\contentsline {section}{\numberline {4.1}Introduction}{32}
+\contentsline {section}{\numberline {4.2}Results}{32}
+\contentsline {chapter}{\numberline {5}Transfer}{39}
+\contentsline {section}{\numberline {5.1}Introduction}{39}
+\contentsline {section}{\numberline {5.2}Experimental}{39}
+\contentsline {section}{\numberline {5.3}Results}{40}
+\contentsline {section}{\numberline {5.4}Conclusions}{42}
+\contentsline {chapter}{\numberline {6}Low T PL}{46}
+\contentsline {section}{\numberline {6.1}Introduction}{46}
+\contentsline {section}{\numberline {6.2}Experimental}{46}
+\contentsline {section}{\numberline {6.3}Results}{47}
+\contentsline {chapter}{\numberline {7}1T' $WSe_2$}{51}
+\contentsline {section}{\numberline {7.1}Introduction}{51}
+\contentsline {section}{\numberline {7.2}Results}{52}
+\contentsline {chapter}{\numberline {8}TMDC phases - review}{55}
+\contentsline {section}{\numberline {8.1}Introduction}{55}
+\contentsline {chapter}{\numberline {9}Heterostructures - state of the art}{56}
+\contentsline {section}{\numberline {9.1}Introduction}{56}
+\contentsline {section}{\numberline {9.2}Properties of bilayer heterostructures}{57}
+\contentsline {section}{\numberline {9.3}Fabrication of bilayer heterostructures}{58}
+\contentsline {subsubsection}{Transfer -approach}{58}
+\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{59}
+\contentsline {section}{\numberline {9.4}Characterization of bilayer heterostructures}{60}
+\contentsline {subsection}{\numberline {9.4.1}Raman spectroscopy}{60}
+\contentsline {subsection}{\numberline {9.4.2}Photoluminescence}{61}
+\contentsline {chapter}{\numberline {10}Heterostructures}{67}
+\contentsline {section}{\numberline {10.1}Introduction}{67}
+\contentsline {section}{\numberline {10.2}Results}{68}
+\contentsline {subsection}{\numberline {10.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{68}
+\contentsline {section}{\numberline {10.3}Appendix}{75}
+\contentsline {chapter}{\numberline {11}Conclusions and future work}{85}
+\contentsline {chapter}{Bibliography}{89}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{Alexeev2019}
 Evgeny~M. Alexeev, David~A. Ruiz-Tijerina, Mark Danovich, Matthew~J. Hamer,
@@ -57,6 +57,12 @@ Kun Chen, Xi~Wan, Jinxiu Wen, Weiguang Xie, Zhiwen Kang, Xiaoliang Zeng,
   synthesized with two-step lateral epitaxial strategy.
 \newblock {\em {ACS} Nano}, 9(10):9868--9876, sep 2015.
 
+\bibitem{Chen2018}
+P.~Chen, Woei~Wu Pai, Y.-H. Chan, W.-L. Sun, C.-Z. Xu, D.-S. Lin, M.~Y. Chou,
+  A.-V. Fedorov, and T.-C. Chiang.
+\newblock Large quantum-spin-hall gap in single-layer 1t$\prime$ {WSe}2.
+\newblock {\em Nature Communications}, 9(1), may 2018.
+
 \bibitem{Cong2013}
 Chunxiao Cong, Jingzhi Shang, Xing Wu, Bingchen Cao, Namphung Peimyoo, Caiyu
   Qiu, Litao Sun, and Ting Yu.
@@ -98,6 +104,12 @@ Ana~Laura Elías, Néstor Perea-López, Andrés Castro-Beltrán, Ayse
   single layer to few layers.
 \newblock {\em ACS Nano}, 7(6):5235--5242, 2013.
 \newblock PMID: 23647141.
+
+\bibitem{Fei2017}
+Zaiyao Fei, Tauno Palomaki, Sanfeng Wu, Wenjin Zhao, Xinghan Cai, Bosong Sun,
+  Paul Nguyen, Joseph Finney, Xiaodong Xu, and David~H. Cobden.
+\newblock Edge conduction in monolayer {WTe}2.
+\newblock {\em Nature Physics}, 13(7):677--682, apr 2017.
 
 \bibitem{Freedman1959}
 Meyer~L. Freedman.
@@ -148,6 +160,14 @@ Yongji Gong, Zhong Lin, Gonglan Ye, Gang Shi, Simin Feng, Yu~Lei, Ana~Laura
 \newblock Tellurium-assisted low-temperature synthesis of {MoS}2 and {WS}2
   monolayers.
 \newblock {\em {ACS} Nano}, 9(12):11658--11666, nov 2015.
+
+\bibitem{Gruznev2018}
+Dimitry~V. Gruznev, Sergey~V. Eremeev, Leonid~V. Bondarenko, Alexandra~Yu.
+  Tupchaya, Alexey~A. Yakovlev, Alexey~N. Mihalyuk, Jyh-Pin Chou, Andrey~V.
+  Zotov, and Alexander~A. Saranin.
+\newblock Two-dimensional in{\textendash}sb compound on silicon as a quantum
+  spin hall insulator.
+\newblock {\em Nano Letters}, 18(7):4338--4345, jun 2018.
 
 \bibitem{ExtraordinaryRoomTemperaturePhotoluminescenceInTriangularWS2Monolayers}
 Humberto~R. Gutiérrez, Nestor Perea-López, Ana~Laura Elías, Ayse Berkdemir,
@@ -391,7 +411,7 @@ Eric Parzinger, Bastian Miller, Benno Blaschke, Jose~A. Garrido, Joel~W. Ager,
 \bibitem{doi:10.1021/nn4046002}
 Namphung Peimyoo, Jingzhi Shang, Chunxiao Cong, Xiaonan Shen, Xiangyang Wu,
   Edwin K.~L. Yeow, and Ting Yu.
-\newblock Nonblinking, intense two-dimensional light emitter: Monolayer ws2
+\newblock Nonblinking, intense two-dimensional light emitter: Monolayer {WS}2
   triangles.
 \newblock {\em ACS Nano}, 7(12):10985--10994, 2013.
 \newblock PMID: 24266716.
@@ -408,7 +428,7 @@ Federico~M. Pesci, Maria~S. Sokolikova, Chiara Grotta, Peter~C. Sherrell,
   Francesco Reale, Kanudha Sharda, Na~Ni, Pawel Palczynski, and Cecilia
   Mattevi.
 \newblock {MoS}2/{WS}2 heterojunction for photoelectrochemical water oxidation.
-\newblock {\em {ACS} Catalysis}, 7(8):4990--4998, jul 2017.
+\newblock {\em {ACS} Catalysis}, 7(8):4990--4998, July 2017.
 
 \bibitem{Pilli2011}
 Satyananda~Kishore Pilli, Thomas~E. Furtak, Logan~D. Brown, Todd~G. Deutsch,
@@ -535,6 +555,14 @@ Arend~M. van~der Zande, Jens Kunstmann, Alexey Chernikov, Daniel~A. Chenet,
   via interlayer twist.
 \newblock {\em Nano Letters}, 14(7):3869--3875, jun 2014.
 
+\bibitem{Voiry2013}
+Damien Voiry, Hisato Yamaguchi, Junwen Li, Rafael Silva, Diego C.~B. Alves,
+  Takeshi Fujita, Mingwei Chen, Tewodros Asefa, Vivek~B. Shenoy, Goki Eda, and
+  Manish Chhowalla.
+\newblock Enhanced catalytic activity in strained chemically exfoliated {WS}2
+  nanosheets for hydrogen evolution.
+\newblock {\em Nature Materials}, 12(9):850--855, jul 2013.
+
 \bibitem{Voiry2016}
 Damien Voiry, Jieun Yang, and Manish Chhowalla.
 \newblock Recent strategies for improving the catalytic activity of 2d {TMD}
@@ -589,11 +617,22 @@ Ryan~J. Wu, Michael~L. Odlyzko, and K.~Andre Mkhoyan.
   {TEM}.
 \newblock {\em Ultramicroscopy}, 147:8--20, dec 2014.
 
+\bibitem{Wypych1992}
+Fernando Wypych and Robert Schöllhorn.
+\newblock 1t-{MoS}2, a new metallic modification of molybdenum disulfide.
+\newblock {\em J. Chem. Soc., Chem. Commun.}, (19):1386--1388, 1992.
+
 \bibitem{CoupledSpinAndValleyPhysicsInMonolayersOfMoS2AndOtherGroup-VIDichalcogenides}
 Di~Xiao, Gui-Bin Liu, Wanxiang Feng, Xiaodong Xu, and Wang Yao.
 \newblock Coupled spin and valley physics in monolayers of $mos_2$ and other
   group-vi dichalcogenides.
 \newblock {\em Phys. Rev. Lett.}, 108(19):196802, May 2012.
+
+\bibitem{Xu2013}
+Yong Xu, Binghai Yan, Hai-Jun Zhang, Jing Wang, Gang Xu, Peizhe Tang, Wenhui
+  Duan, and Shou-Cheng Zhang.
+\newblock Large-gap quantum spin hall insulators in tin films.
+\newblock {\em Physical Review Letters}, 111(13), sep 2013.
 
 \bibitem{doi:10.1021/acsnano.5b01480}
 Zai-Quan Xu, Yupeng Zhang, Shenghuang Lin, Changxi Zheng, Yu~Lin Zhong, Xue
@@ -627,6 +666,15 @@ Xiaoyun Yu and Kevin Sivula.
 \newblock Photogenerated charge harvesting and recombination in photocathodes
   of solvent-exfoliated {WSe}2.
 \newblock {\em Chemistry of Materials}, 29(16):6863--6875, aug 2017.
+
+\bibitem{Yu2018}
+Yifu Yu, Gwang-Hyeon Nam, Qiyuan He, Xue-Jun Wu, Kang Zhang, Zhenzhong Yang,
+  Junze Chen, Qinglang Ma, Meiting Zhao, Zhengqing Liu, Fei-Rong Ran, Xingzhi
+  Wang, Hai Li, Xiao Huang, Bing Li, Qihua Xiong, Qing Zhang, Zheng Liu, Lin
+  Gu, Yonghua Du, Wei Huang, and Hua Zhang.
+\newblock High phase-purity 1t$\prime$-{MoS}2- and 1t$\prime$-{MoSe}2-layered
+  crystals.
+\newblock {\em Nature Chemistry}, 10(6):638--643, apr 2018.
 
 \bibitem{Yuan2015}
 Long Yuan and Libai Huang.
