@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.28)  8 JUN 2019 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  13 JUN 2019 21:04
 entering extended mode
 **./thesis.tex
 (thesis.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,19 +22,19 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 "
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
- ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+ ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -275,7 +275,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -315,7 +315,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -339,29 +339,29 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
 ty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
 ty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
 y"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen103
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
 y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
@@ -403,7 +403,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
 .sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -411,54 +411,54 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
 sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
 .sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
 ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
 .sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
 "
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
 hics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
 ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
 .sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
 sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
 .sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
 .sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
@@ -475,9 +475,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen121
 \Gm@dimlist=\toks22
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
 .cfg"))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
 ty"
 \wrapoverhang=\dimen122
 \WF@size=\dimen123
@@ -486,11 +486,11 @@ ty"
 \WF@everypar=\toks23
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindte
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindte
 xt.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count104
@@ -512,10 +512,10 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count120
 \c@blind@pangrammax=\count121
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.st
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.st
 y"
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
- ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+ ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen124
 \extrarowheight=\dimen125
@@ -531,49 +531,49 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \TX@cols=\count122
 \TX@ftn=\toks25
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.s
 ty"
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfxsize=\dimen131
 \epsfysize=\dimen132
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
 .sty"
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
 -base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
 err.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
 ty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
 nekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
 s.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
 s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
 eys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
 ds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
 ex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
@@ -583,7 +583,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
 cmds.sty"
 Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -599,7 +599,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grffile.
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grffile.
 sty"
 Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
 Package grffile Info: Option `multidot' is set to `true'.
@@ -607,7 +607,7 @@ Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibi
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibi
 nd.sty"
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
@@ -616,32 +616,32 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
 y"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
 r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textgreek\textgre
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textgreek\textgre
 ek.sty"
 Package: textgreek 2011/10/09 v0.7 Greek symbols in text
 Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
 input line 39.
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\greek-fontenc\lgr
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\greek-fontenc\lgr
 enc.def"
 File: lgrenc.def 2015/12/07 v0.13.1 LGR Greek font encoding definitions
 Now handling font encoding LGR ...
 ... processing UTF-8 mapping file for font encoding LGR
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\greek-inputenc\lg
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\greek-inputenc\lg
 renc.dfu"
 File: lgrenc.dfu 2015/08/05 1.6 UTF-8 support for Greek
    defining Unicode char U+00A8 (decimal 168)
@@ -999,7 +999,7 @@ File: lgrenc.dfu 2015/08/05 1.6 UTF-8 support for Greek
    defining Unicode char U+10146 (decimal 65862)
    defining Unicode char U+10147 (decimal 65863)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\greek-fontenc\gre
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\greek-fontenc\gre
 ek-fontenc.def"
 File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
 
@@ -1007,7 +1007,7 @@ File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
 Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
 *}. on input line 69.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
 "
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -1022,11 +1022,11 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
- ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+ ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
- ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+ ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -1162,11 +1162,11 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 "
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
 r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
@@ -1182,17 +1182,17 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaptio
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaptio
 n.sty"
 Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.s
 ty"
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.
 sty"
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen133
 \captionmargin@=\dimen134
@@ -1202,78 +1202,75 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen138
 \caption@hangindent=\dimen139
 )
-\c@caption@flags=\count123
-\c@ContinuedFloat=\count124
+\c@ContinuedFloat=\count123
 Package caption Info: wrapfig package is loaded.
 )
-\c@subfigure=\count125
-\c@subtable=\count126
+\c@subfigure=\count124
+\c@subtable=\count125
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonot
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonot
 es.sty"
-Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
-Package: todonotes 2018/11/22
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
 ty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
 .tex"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
 s.tex"
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count127
+\XKV@depth=\count126
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer
 \tikz.sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
 f.sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
 rcs.sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-common.tex"
 \pgfutil@everybye=\toks28
 \pgfutil@tempdima=\dimen140
 \pgfutil@tempdimb=\dimen141
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-common-lists.tex"))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-latex.def"
 \pgfutil@abb=\box29
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfrcs.code.tex"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revisio
-n.tex")
-Package: pgfrcs 2019/05/09 v3.1.3 (3.1.3)
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
-Package: pgf 2019/05/09 v3.1.3 (3.1.3)
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
 fcore.sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\p
 gfsys.sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsys.code.tex"
-Package: pgfsys 2019/05/09 v3.1.3 (3.1.3)
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfkeys.code.tex"
 \pgfkeys@pathtoks=\toks29
 \pgfkeys@temptoks=\toks30
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks31
 ))
@@ -1285,300 +1282,279 @@ gfkeysfiltered.code.tex"
 \pgf@yb=\dimen147
 \pgf@xc=\dimen148
 \pgf@yc=\dimen149
-\pgf@xd=\dimen150
-\pgf@yd=\dimen151
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count128
-\c@pgf@countb=\count129
-\c@pgf@countc=\count130
-\c@pgf@countd=\count131
+\c@pgf@counta=\count127
+\c@pgf@countb=\count128
+\c@pgf@countc=\count129
+\c@pgf@countd=\count130
 \t@pgf@toka=\toks32
 \t@pgf@tokb=\toks33
 \t@pgf@tokc=\toks34
-\pgf@sys@id@count=\count132
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgf.cfg"
-File: pgf.cfg 2019/05/09 v3.1.3 (3.1.3)
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2019/05/09 v3.1.3 (3.1.3)
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2019/05/09 v3.1.3 (3.1.3)
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgfsyssoftpath@smallbuffer@items=\count133
-\pgfsyssoftpath@bigbuffer@items=\count134
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count131
+\pgfsyssoftpath@bigbuffer@items=\count132
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcore.code.tex"
-Package: pgfcore 2019/05/09 v3.1.3 (3.1.3)
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 h.code.tex"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hcalc.code.tex"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hutil.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hparser.code.tex"
-\pgfmath@dimen=\dimen152
-\pgfmath@count=\count135
+\pgfmath@dimen=\dimen150
+\pgfmath@count=\count133
 \pgfmath@box=\box30
 \pgfmath@toks=\toks35
 \pgfmath@stack@operand=\toks36
 \pgfmath@stack@operation=\toks37
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.code.tex"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.basic.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.trigonometric.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.random.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.comparison.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.base.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.round.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.misc.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.integerarithmetics.code.tex")))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count136
+\c@pgfmathroundto@lastzeros=\count134
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfint
-.code.tex")
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgf@picminx=\dimen153
-\pgf@picmaxx=\dimen154
-\pgf@picminy=\dimen155
-\pgf@picmaxy=\dimen156
-\pgf@pathminx=\dimen157
-\pgf@pathmaxx=\dimen158
-\pgf@pathminy=\dimen159
-\pgf@pathmaxy=\dimen160
-\pgf@xx=\dimen161
-\pgf@xy=\dimen162
-\pgf@yx=\dimen163
-\pgf@yy=\dimen164
-\pgf@zx=\dimen165
-\pgf@zy=\dimen166
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen151
+\pgf@picmaxx=\dimen152
+\pgf@picminy=\dimen153
+\pgf@picmaxy=\dimen154
+\pgf@pathminx=\dimen155
+\pgf@pathmaxx=\dimen156
+\pgf@pathminy=\dimen157
+\pgf@pathmaxy=\dimen158
+\pgf@xx=\dimen159
+\pgf@xy=\dimen160
+\pgf@yx=\dimen161
+\pgf@yy=\dimen162
+\pgf@zx=\dimen163
+\pgf@zy=\dimen164
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgf@path@lastx=\dimen167
-\pgf@path@lasty=\dimen168
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen165
+\pgf@path@lasty=\dimen166
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgf@shorten@end@additional=\dimen169
-\pgf@shorten@start@additional=\dimen170
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen167
+\pgf@shorten@start@additional=\dimen168
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box31
 \pgf@hbox=\box32
 \pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count137
+\pgf@picture@serial@count=\count135
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgflinewidth=\dimen171
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen169
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgf@pt@x=\dimen172
-\pgf@pt@y=\dimen173
-\pgf@pt@temp=\dimen174
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen170
+\pgf@pt@y=\dimen171
+\pgf@pt@temp=\dimen172
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorequick.code.tex"
-File: pgfcorequick.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgfarrowsep=\dimen175
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen173
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgf@max=\dimen176
-\pgf@sys@shading@range@num=\count138
-\pgf@shadingcount=\count139
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen174
+\pgf@sys@shading@range@num=\count136
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box34
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2019/05/09 v3.1.3 (3.1.3)
-)
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorerdf.code.tex"
-File: pgfcorerdf.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
 moduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box35
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
 moduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
 \pgfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2019/05/09 v3.1.3 (3.1.3)
-\pgf@nodesepstart=\dimen177
-\pgf@nodesepend=\dimen178
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen175
+\pgf@nodesepend=\dimen176
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
 \pgfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2019/05/09 v3.1.3 (3.1.3)
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
 for.sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
 keys.sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfkeys.code.tex"))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.
 sty"
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 h.code.tex"))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gffor.code.tex"
-Package: pgffor 2019/05/09 v3.1.3 (3.1.3)
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 h.code.tex")
-\pgffor@iter=\dimen179
-\pgffor@skip=\dimen180
+\pgffor@iter=\dimen177
+\pgffor@skip=\dimen178
 \pgffor@stack=\toks38
 \pgffor@toks=\toks39
 ))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\tikz.code.tex"
-Package: tikz 2019/05/09 v3.1.3 (3.1.3)
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
 gflibraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgf@plot@mark@count=\count140
-\pgfplotmarksize=\dimen181
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count137
+\pgfplotmarksize=\dimen179
 )
-\tikz@lastx=\dimen182
-\tikz@lasty=\dimen183
-\tikz@lastxsaved=\dimen184
-\tikz@lastysaved=\dimen185
-\tikzleveldistance=\dimen186
-\tikzsiblingdistance=\dimen187
+\tikz@lastx=\dimen180
+\tikz@lasty=\dimen181
+\tikz@lastxsaved=\dimen182
+\tikz@lastysaved=\dimen183
+\tikzleveldistance=\dimen184
+\tikzsiblingdistance=\dimen185
 \tikz@figbox=\box36
 \tikz@figbox@bg=\box37
 \tikz@tempbox=\box38
 \tikz@tempbox@bg=\box39
-\tikztreelevel=\count141
-\tikznumberofchildren=\count142
-\tikznumberofcurrentchild=\count143
-\tikz@fig@count=\count144
+\tikztreelevel=\count138
+\tikznumberofchildren=\count139
+\tikznumberofcurrentchild=\count140
+\tikz@fig@count=\count141
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
 modulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\pgfmatrixcurrentrow=\count145
-\pgfmatrixcurrentcolumn=\count146
-\pgf@matrix@numberofcolumns=\count147
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count142
+\pgfmatrixcurrentcolumn=\count143
+\pgf@matrix@numberofcolumns=\count144
 )
-\tikz@expandcount=\count148
+\tikz@expandcount=\count145
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\libraries\tikzlibrarypositioning.code.tex"
-File: tikzlibrarypositioning.code.tex 2019/05/09 v3.1.3 (3.1.3)
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
-er\tikz\libraries\tikzlibraryshadows.code.tex"
-File: tikzlibraryshadows.code.tex 2019/05/09 v3.1.3 (3.1.3)
-
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
-er\tikz\libraries\tikzlibraryfadings.code.tex"
-File: tikzlibraryfadings.code.tex 2019/05/09 v3.1.3 (3.1.3)
-
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
-gflibraryfadings.code.tex"
-File: pgflibraryfadings.code.tex 2019/05/09 v3.1.3 (3.1.3)
-)))
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count149
-\calc@Bcount=\count150
-\calc@Adimen=\dimen188
-\calc@Bdimen=\dimen189
+\calc@Acount=\count146
+\calc@Bcount=\count147
+\calc@Adimen=\dimen186
+\calc@Bdimen=\dimen187
 \calc@Askip=\skip48
 \calc@Bskip=\skip49
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count151
+\calc@Ccount=\count148
 \calc@Cskip=\skip50
 )
-\c@@todonotes@numberoftodonotes=\count152
+\c@@todonotes@numberoftodonotes=\count149
 )
    defining Unicode char U+2212 (decimal 8722)
 (thesis.aux (Publications.aux) (chapterThesisIntroduction.aux)
 (chapterIntroduction.aux) (chapterWS2.aux) (chapterWSe2.aux)
-(chapterTransfer.aux) (chapterLowTPL.aux) (chapterWSe21T.aux)
-(chapterPhases.aux) (chapterHeterostructuresIntroduction.aux)
-(chapterHeterostructures.aux) (chapterConclusions.aux))
+(chapterTransfer.aux) (chapterLowTPL.aux) (chapterWSe21TIntroduction.aux)
+(chapterWSe21T.aux) (chapterPhases.aux)
+(chapterHeterostructuresIntroduction.aux) (chapterHeterostructures.aux)
+(chapterConclusions.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -1596,7 +1572,7 @@ LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 35.
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 35.
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr
 .fd"
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
@@ -1604,24 +1580,24 @@ LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 35.
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 35.
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
 kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count153
-\scratchdimen=\dimen190
+\scratchcounter=\count150
+\scratchdimen=\dimen188
 \scratchbox=\box40
-\nofMPsegments=\count154
-\nofMParguments=\count155
+\nofMPsegments=\count151
+\nofMParguments=\count152
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count156
-\MPscratchDim=\dimen191
-\MPnumerator=\count157
-\makeMPintoPDFobject=\count158
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen189
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
 \everyMPtoPDFconversion=\toks41
 )
 *geometry* driver: auto-detecting
@@ -1681,17 +1657,17 @@ loading the todonotes package. on input line 35.
 (thesis.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
-("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 3.
- ("C:\Users\Pauson\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+ ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{C:/Users/Pauson/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+{C:/Users/pp3211/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
@@ -1763,7 +1739,7 @@ p-plied to $\OML/cmm/m/it/12 MoS[]$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 MoS[]
 
  (chapterIntroduction.tex
 Chapter 2.
-<TMDCPolytypes.png, id=59, 562.1pt x 323.2075pt>
+<TMDCPolytypes.png, id=35, 562.1pt x 323.2075pt>
 File: TMDCPolytypes.png Graphic file (type png)
 <use TMDCPolytypes.png>
 Package pdftex.def Info: TMDCPolytypes.png  used on input line 10.
@@ -1776,7 +1752,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ] [7 <./TMDCPolytypes.png (PNG copy)>]
-<WS2BandStructureSimulation.png, id=66, 1138.2525pt x 882.29625pt>
+<WS2BandStructureSimulation.png, id=42, 1138.2525pt x 882.29625pt>
 File: WS2BandStructureSimulation.png Graphic file (type png)
 <use WS2BandStructureSimulation.png>
 Package pdftex.def Info: WS2BandStructureSimulation.png  used on input line 27.
@@ -1789,7 +1765,7 @@ Overfull \hbox (29.3078pt too wide) in paragraph at lines 80--81
  []
 
 [11] [12]
-<RamanActiveModes.png, id=86, 1148.29pt x 509.905pt>
+<RamanActiveModes.png, id=62, 1148.29pt x 509.905pt>
 File: RamanActiveModes.png Graphic file (type png)
 <use RamanActiveModes.png>
 Package pdftex.def Info: RamanActiveModes.png  used on input line 103.
@@ -1812,12 +1788,12 @@ Chapter 3.
 
 
 ] [16]
-<PaperSIFurnace.png, id=101, 1056.94875pt x 407.5225pt>
+<PaperSIFurnace.png, id=77, 1056.94875pt x 407.5225pt>
 File: PaperSIFurnace.png Graphic file (type png)
 <use PaperSIFurnace.png>
 Package pdftex.def Info: PaperSIFurnace.png  used on input line 19.
 (pdftex.def)             Requested size: 317.08707pt x 122.25769pt.
-<PaperOptical.png, id=103, 953.5625pt x 679.53876pt>
+<PaperOptical.png, id=79, 953.5625pt x 679.53876pt>
 File: PaperOptical.png Graphic file (type png)
 <use PaperOptical.png>
 Package pdftex.def Info: PaperOptical.png  used on input line 28.
@@ -1836,7 +1812,7 @@ LaTeX Warning: Reference `fig:PaperSIOpticalAFM' on page 18 undefined on input
 line 36.
 
 [18 <./PaperOptical.png>]
-<PaperSIXRD.png, id=112, 1066.98625pt x 568.1225pt>
+<PaperSIXRD.png, id=88, 1066.98625pt x 568.1225pt>
 File: PaperSIXRD.png Graphic file (type png)
 <use PaperSIXRD.png>
 Package pdftex.def Info: PaperSIXRD.png  used on input line 49.
@@ -1845,7 +1821,7 @@ Package pdftex.def Info: PaperSIXRD.png  used on input line 49.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIXRDOptical.png, id=113, 1061.9675pt x 427.5975pt>
+<PaperSIXRDOptical.png, id=89, 1061.9675pt x 427.5975pt>
 File: PaperSIXRDOptical.png Graphic file (type png)
 <use PaperSIXRDOptical.png>
 Package pdftex.def Info: PaperSIXRDOptical.png  used on input line 57.
@@ -1858,7 +1834,7 @@ LaTeX Warning: Reference `fig:PaperSIOpticalAFM' on page 19 undefined on input
 line 63.
 
 [19]
-<PaperAFM.png, id=117, 948.54375pt x 765.86125pt>
+<PaperAFM.png, id=93, 948.54375pt x 765.86125pt>
 File: PaperAFM.png Graphic file (type png)
 <use PaperAFM.png>
 Package pdftex.def Info: PaperAFM.png  used on input line 69.
@@ -1868,34 +1844,34 @@ Package pdftex.def Info: PaperAFM.png  used on input line 69.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [20 <./PaperSIXRD.png> <./PaperSIXRDOptical.png>] [21 <./PaperAFM.png>]
-<PaperPLMaps.png, id=127, 1002.74625pt x 671.50874pt>
+<PaperPLMaps.png, id=103, 1002.74625pt x 671.50874pt>
 File: PaperPLMaps.png Graphic file (type png)
 <use PaperPLMaps.png>
 Package pdftex.def Info: PaperPLMaps.png  used on input line 81.
 (pdftex.def)             Requested size: 300.82619pt x 201.45418pt.
 
 [22 <./PaperPLMaps.png>]
-<PaperPLSpectraHistograms.png, id=133, 943.525pt x 675.52374pt>
+<PaperPLSpectraHistograms.png, id=109, 943.525pt x 675.52374pt>
 File: PaperPLSpectraHistograms.png Graphic file (type png)
 <use PaperPLSpectraHistograms.png>
 Package pdftex.def Info: PaperPLSpectraHistograms.png  used on input line 91.
 (pdftex.def)             Requested size: 283.05968pt x 202.65868pt.
-<PaperSIMapsIntensityE.png, id=134, 967.615pt x 655.44875pt>
+<PaperSIMapsIntensityE.png, id=110, 967.615pt x 655.44875pt>
 File: PaperSIMapsIntensityE.png Graphic file (type png)
 <use PaperSIMapsIntensityE.png>
 Package pdftex.def Info: PaperSIMapsIntensityE.png  used on input line 104.
 (pdftex.def)             Requested size: 182.09486pt x 123.34639pt.
-<PaperSIMapsPositionE.png, id=135, 971.63pt x 658.46pt>
+<PaperSIMapsPositionE.png, id=111, 971.63pt x 658.46pt>
 File: PaperSIMapsPositionE.png Graphic file (type png)
 <use PaperSIMapsPositionE.png>
 Package pdftex.def Info: PaperSIMapsPositionE.png  used on input line 110.
 (pdftex.def)             Requested size: 182.09486pt x 123.40067pt.
-<PaperSIMapsIntensityA.png, id=136, 971.63pt x 663.47874pt>
+<PaperSIMapsIntensityA.png, id=112, 971.63pt x 663.47874pt>
 File: PaperSIMapsIntensityA.png Graphic file (type png)
 <use PaperSIMapsIntensityA.png>
 Package pdftex.def Info: PaperSIMapsIntensityA.png  used on input line 116.
 (pdftex.def)             Requested size: 182.09486pt x 124.3412pt.
-<PaperSIMapsPositionA.png, id=137, 969.6225pt x 658.46pt>
+<PaperSIMapsPositionA.png, id=113, 969.6225pt x 658.46pt>
 File: PaperSIMapsPositionA.png Graphic file (type png)
 <use PaperSIMapsPositionA.png>
 Package pdftex.def Info: PaperSIMapsPositionA.png  used on input line 122.
@@ -1905,7 +1881,7 @@ Package pdftex.def Info: PaperSIMapsPositionA.png  used on input line 122.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [23 <./PaperPLSpectraHistograms.png>]
-<PaperSIMapsDifference.png, id=142, 957.5775pt x 649.42625pt>
+<PaperSIMapsDifference.png, id=118, 957.5775pt x 649.42625pt>
 File: PaperSIMapsDifference.png Graphic file (type png)
 <use PaperSIMapsDifference.png>
 Package pdftex.def Info: PaperSIMapsDifference.png  used on input line 135.
@@ -1914,12 +1890,12 @@ Package pdftex.def Info: PaperSIMapsDifference.png  used on input line 135.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIMapsPositionPL.png, id=143, 963.6pt x 655.44875pt>
+<PaperSIMapsPositionPL.png, id=119, 963.6pt x 655.44875pt>
 File: PaperSIMapsPositionPL.png Graphic file (type png)
 <use PaperSIMapsPositionPL.png>
 Package pdftex.def Info: PaperSIMapsPositionPL.png  used on input line 146.
 (pdftex.def)             Requested size: 182.09486pt x 123.85646pt.
-<PaperSIMapsWidthPL.png, id=144, 959.585pt x 655.44875pt>
+<PaperSIMapsWidthPL.png, id=120, 959.585pt x 655.44875pt>
 File: PaperSIMapsWidthPL.png Graphic file (type png)
 <use PaperSIMapsWidthPL.png>
 Package pdftex.def Info: PaperSIMapsWidthPL.png  used on input line 152.
@@ -1929,7 +1905,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [24 <./PaperSIMapsIntensityE.png> <./PaperSIMapsPositionE.png> <./PaperSIMapsIn
 tensityA.png> <./PaperSIMapsPositionA.png>]
-<PaperSIMapsCutting.png, id=154, 1039.885pt x 676.5275pt>
+<PaperSIMapsCutting.png, id=130, 1039.885pt x 676.5275pt>
 File: PaperSIMapsCutting.png Graphic file (type png)
 <use PaperSIMapsCutting.png>
 Package pdftex.def Info: PaperSIMapsCutting.png  used on input line 165.
@@ -1940,22 +1916,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [25 <./PaperSIMapsDifference.png> <./PaperSIMapsPositionPL.png> <./PaperSIMapsW
 idthPL.png>]
-<PaperSIScatterWO3.png, id=161, 1078.0275pt x 403.5075pt>
+<PaperSIScatterWO3.png, id=137, 1078.0275pt x 403.5075pt>
 File: PaperSIScatterWO3.png Graphic file (type png)
 <use PaperSIScatterWO3.png>
 Package pdftex.def Info: PaperSIScatterWO3.png  used on input line 176.
 (pdftex.def)             Requested size: 323.41075pt x 121.05318pt.
-<PaperSIScatterWO3NaCl.png, id=162, 1083.04625pt x 401.5pt>
+<PaperSIScatterWO3NaCl.png, id=138, 1083.04625pt x 401.5pt>
 File: PaperSIScatterWO3NaCl.png Graphic file (type png)
 <use PaperSIScatterWO3NaCl.png>
 Package pdftex.def Info: PaperSIScatterWO3NaCl.png  used on input line 182.
 (pdftex.def)             Requested size: 324.91638pt x 120.45091pt.
-<PaperSIScatterH2WO4NaCl.png, id=163, 1064.97874pt x 404.51125pt>
+<PaperSIScatterH2WO4NaCl.png, id=139, 1064.97874pt x 404.51125pt>
 File: PaperSIScatterH2WO4NaCl.png Graphic file (type png)
 <use PaperSIScatterH2WO4NaCl.png>
 Package pdftex.def Info: PaperSIScatterH2WO4NaCl.png  used on input line 188.
 (pdftex.def)             Requested size: 319.4961pt x 121.35431pt.
-<PaperSIScatterComparison.png, id=164, 1067.99pt x 411.5375pt>
+<PaperSIScatterComparison.png, id=140, 1067.99pt x 411.5375pt>
 File: PaperSIScatterComparison.png Graphic file (type png)
 <use PaperSIScatterComparison.png>
 Package pdftex.def Info: PaperSIScatterComparison.png  used on input line 194.
@@ -1970,7 +1946,7 @@ LaTeX Warning: Text page 27 contains only floats.
 
 [27 <./PaperSIScatterWO3.png> <./PaperSIScatterWO3NaCl.png> <./PaperSIScatterH2
 WO4NaCl.png> <./PaperSIScatterComparison.png>]
-<PaperXPS.png, id=177, 943.525pt x 598.235pt>
+<PaperXPS.png, id=153, 943.525pt x 598.235pt>
 File: PaperXPS.png Graphic file (type png)
 <use PaperXPS.png>
 Package pdftex.def Info: PaperXPS.png  used on input line 207.
@@ -1979,7 +1955,7 @@ Package pdftex.def Info: PaperXPS.png  used on input line 207.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperElectricalMeasurementMonolayer.png, id=178, 944.52875pt x 1042.89626pt>
+<PaperElectricalMeasurementMonolayer.png, id=154, 944.52875pt x 1042.89626pt>
 File: PaperElectricalMeasurementMonolayer.png Graphic file (type png)
 <use PaperElectricalMeasurementMonolayer.png>
 Package pdftex.def Info: PaperElectricalMeasurementMonolayer.png  used on input
@@ -1988,8 +1964,14 @@ Package pdftex.def Info: PaperElectricalMeasurementMonolayer.png  used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+Overfull \hbox (1.59155pt too wide) in paragraph at lines 223--224
+\OT1/cmr/m/n/12 [[]][[]][[]][[]][[]][[]][[]][[]][[]][[]][[]] and com-pa-ra-ble 
+to me-chan-i-cally ex-fo-li-ated $\OML/cmm/m/it/12 WS[]$
+ []
+
 [28] [29 <./PaperXPS.png>]
-<PaperMobilityComparison.png, id=187, 954.56625pt x 379.4175pt>
+<PaperMobilityComparison.png, id=163, 954.56625pt x 379.4175pt>
 File: PaperMobilityComparison.png Graphic file (type png)
 <use PaperMobilityComparison.png>
 Package pdftex.def Info: PaperMobilityComparison.png  used on input line 227.
@@ -1998,7 +1980,7 @@ Package pdftex.def Info: PaperMobilityComparison.png  used on input line 227.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperElectricalMeasurementBilayer.png, id=188, 943.525pt x 269.005pt>
+<PaperElectricalMeasurementBilayer.png, id=164, 943.525pt x 269.005pt>
 File: PaperElectricalMeasurementBilayer.png Graphic file (type png)
 <use PaperElectricalMeasurementBilayer.png>
 Package pdftex.def Info: PaperElectricalMeasurementBilayer.png  used on input l
@@ -2013,7 +1995,7 @@ on.png> <./PaperElectricalMeasurementBilayer.png>]
 
  (chapterWSe2.tex
 Chapter 4.
-<WSe2/WSe2BandStructureWSe2WS2.png, id=198, 383.4325pt x 633.36626pt>
+<WSe2/WSe2BandStructureWSe2WS2.png, id=174, 383.4325pt x 633.36626pt>
 File: WSe2/WSe2BandStructureWSe2WS2.png Graphic file (type png)
 <use WSe2/WSe2BandStructureWSe2WS2.png>
 Package pdftex.def Info: WSe2/WSe2BandStructureWSe2WS2.png  used on input line 
@@ -2022,7 +2004,7 @@ Package pdftex.def Info: WSe2/WSe2BandStructureWSe2WS2.png  used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/PLSpectrum.png, id=199, 1129.21875pt x 771.63281pt>
+<WSe2/PLSpectrum.png, id=175, 1129.21875pt x 771.63281pt>
 File: WSe2/PLSpectrum.png Graphic file (type png)
 <use WSe2/PLSpectrum.png>
 Package pdftex.def Info: WSe2/PLSpectrum.png  used on input line 22.
@@ -2032,7 +2014,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 22--23
 [][] 
  []
 
-<WSe2/RamanSpectrum.png, id=200, 1129.21875pt x 771.63281pt>
+<WSe2/RamanSpectrum.png, id=176, 1129.21875pt x 771.63281pt>
 File: WSe2/RamanSpectrum.png Graphic file (type png)
 <use WSe2/RamanSpectrum.png>
 Package pdftex.def Info: WSe2/RamanSpectrum.png  used on input line 28.
@@ -2050,7 +2032,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 29--29
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/PLIntensity.png, id=201, 1129.21875pt x 765.6103pt>
+<WSe2/PLIntensity.png, id=177, 1129.21875pt x 765.6103pt>
 File: WSe2/PLIntensity.png Graphic file (type png)
 <use WSe2/PLIntensity.png>
 Package pdftex.def Info: WSe2/PLIntensity.png  used on input line 40.
@@ -2060,7 +2042,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 40--41
 [][] 
  []
 
-<WSe2/RamanEIntensity.png, id=202, 1129.21875pt x 765.6103pt>
+<WSe2/RamanEIntensity.png, id=178, 1129.21875pt x 765.6103pt>
 File: WSe2/RamanEIntensity.png Graphic file (type png)
 <use WSe2/RamanEIntensity.png>
 Package pdftex.def Info: WSe2/RamanEIntensity.png  used on input line 46.
@@ -2073,7 +2055,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 46--47
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/WSe2PositionHistograms.png, id=203, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2PositionHistograms.png, id=179, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2PositionHistograms.png Graphic file (type png)
 <use WSe2/WSe2PositionHistograms.png>
 Package pdftex.def Info: WSe2/WSe2PositionHistograms.png  used on input line 58
@@ -2084,7 +2066,7 @@ Overfull \hbox (89.26514pt too wide) in paragraph at lines 58--59
 [][] 
  []
 
-<WSe2/Wse2WidthHistograms.png, id=204, 1129.21875pt x 771.63281pt>
+<WSe2/Wse2WidthHistograms.png, id=180, 1129.21875pt x 771.63281pt>
 File: WSe2/Wse2WidthHistograms.png Graphic file (type png)
 <use WSe2/Wse2WidthHistograms.png>
 Package pdftex.def Info: WSe2/Wse2WidthHistograms.png  used on input line 64.
@@ -2097,7 +2079,7 @@ Overfull \hbox (89.26514pt too wide) in paragraph at lines 64--65
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/WSe2PositionIntensityScatterComparison.png, id=205, 1129.21875pt x 771.63
+<WSe2/WSe2PositionIntensityScatterComparison.png, id=181, 1129.21875pt x 771.63
 281pt>
 File: WSe2/WSe2PositionIntensityScatterComparison.png Graphic file (type png)
 <use WSe2/WSe2PositionIntensityScatterComparison.png>
@@ -2109,7 +2091,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 78--79
 [][] 
  []
 
-<WSe2/Wse2PositionWidthScatterComparison.png, id=206, 1129.21875pt x 771.63281p
+<WSe2/Wse2PositionWidthScatterComparison.png, id=182, 1129.21875pt x 771.63281p
 t>
 File: WSe2/Wse2PositionWidthScatterComparison.png Graphic file (type png)
 <use WSe2/Wse2PositionWidthScatterComparison.png>
@@ -2130,7 +2112,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ] [33 <./WSe2/WSe2BandStructureWSe2WS2.png> <./WSe2/PLSpectrum.png (PNG copy)> 
 <./WSe2/RamanSpectrum.png (PNG copy)>]
-<WSe2/WSe2RamanPositionHistogram1.png, id=214, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2RamanPositionHistogram1.png, id=190, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2RamanPositionHistogram1.png Graphic file (type png)
 <use WSe2/WSe2RamanPositionHistogram1.png>
 Package pdftex.def Info: WSe2/WSe2RamanPositionHistogram1.png  used on input li
@@ -2140,7 +2122,7 @@ ne 101.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/WSe2XPSThinZn.png, id=215, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSThinZn.png, id=191, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSThinZn.png Graphic file (type png)
 <use WSe2/WSe2XPSThinZn.png>
 Package pdftex.def Info: WSe2/WSe2XPSThinZn.png  used on input line 110.
@@ -2150,7 +2132,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 110--111
 [][] 
  []
 
-<WSe2/WSe2XPSThickZn.png, id=216, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSThickZn.png, id=192, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSThickZn.png Graphic file (type png)
 <use WSe2/WSe2XPSThickZn.png>
 Package pdftex.def Info: WSe2/WSe2XPSThickZn.png  used on input line 116.
@@ -2160,7 +2142,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 116--117
 [][] 
  []
 
-<WSe2/WSe2XPSRefZn.png, id=217, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSRefZn.png, id=193, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSRefZn.png Graphic file (type png)
 <use WSe2/WSe2XPSRefZn.png>
 Package pdftex.def Info: WSe2/WSe2XPSRefZn.png  used on input line 122.
@@ -2173,7 +2155,7 @@ Overfull \hbox (112.02873pt too wide) in paragraph at lines 122--123
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/XPSW4fThin.png, id=218, 1129.21875pt x 771.63281pt>
+<WSe2/XPSW4fThin.png, id=194, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSW4fThin.png Graphic file (type png)
 <use WSe2/XPSW4fThin.png>
 Package pdftex.def Info: WSe2/XPSW4fThin.png  used on input line 134.
@@ -2183,7 +2165,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 134--135
 [][] 
  []
 
-<WSe2/XPSW4fThick.png, id=219, 1129.21875pt x 771.63281pt>
+<WSe2/XPSW4fThick.png, id=195, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSW4fThick.png Graphic file (type png)
 <use WSe2/XPSW4fThick.png>
 Package pdftex.def Info: WSe2/XPSW4fThick.png  used on input line 140.
@@ -2193,7 +2175,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 140--141
 [][] 
  []
 
-<WSe2/XPSW4fRef.png, id=220, 1129.21875pt x 771.63281pt>
+<WSe2/XPSW4fRef.png, id=196, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSW4fRef.png Graphic file (type png)
 <use WSe2/XPSW4fRef.png>
 Package pdftex.def Info: WSe2/XPSW4fRef.png  used on input line 146.
@@ -2206,7 +2188,7 @@ Overfull \hbox (112.02873pt too wide) in paragraph at lines 146--147
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/XPSSe3dThin.png, id=221, 1129.21875pt x 771.63281pt>
+<WSe2/XPSSe3dThin.png, id=197, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSSe3dThin.png Graphic file (type png)
 <use WSe2/XPSSe3dThin.png>
 Package pdftex.def Info: WSe2/XPSSe3dThin.png  used on input line 158.
@@ -2216,7 +2198,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 158--159
 [][] 
  []
 
-<WSe2/XPSSe3dThick.png, id=222, 1129.21875pt x 771.63281pt>
+<WSe2/XPSSe3dThick.png, id=198, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSSe3dThick.png Graphic file (type png)
 <use WSe2/XPSSe3dThick.png>
 Package pdftex.def Info: WSe2/XPSSe3dThick.png  used on input line 164.
@@ -2226,7 +2208,7 @@ Overfull \hbox (43.74489pt too wide) in paragraph at lines 164--165
 [][] 
  []
 
-<WSe2/XPSSe3dRef.png, id=223, 1129.21875pt x 771.63281pt>
+<WSe2/XPSSe3dRef.png, id=199, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSSe3dRef.png Graphic file (type png)
 <use WSe2/XPSSe3dRef.png>
 Package pdftex.def Info: WSe2/XPSSe3dRef.png  used on input line 170.
@@ -2262,55 +2244,55 @@ Chapter 5.
 
 
 ] [40]
-<Transfer/TransferPLIntensityMapAsgrown.png, id=247, 1129.21875pt x 771.63281pt
+<Transfer/TransferPLIntensityMapAsgrown.png, id=223, 1129.21875pt x 771.63281pt
 >
 File: Transfer/TransferPLIntensityMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLIntensityMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLIntensityMapAsgrown.png  used on in
 put line 28.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLIntensityMapTransferred.png, id=248, 1129.21875pt x 771.632
+<Transfer/TransferPLIntensityMapTransferred.png, id=224, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferPLIntensityMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLIntensityMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLIntensityMapTransferred.png  used o
 n input line 34.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLPositionMapAsgrown.png, id=249, 1129.21875pt x 771.63281pt>
+<Transfer/TransferPLPositionMapAsgrown.png, id=225, 1129.21875pt x 771.63281pt>
 
 File: Transfer/TransferPLPositionMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLPositionMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLPositionMapAsgrown.png  used on inp
 ut line 40.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLPositionMapTransferred.png, id=250, 1129.21875pt x 771.6328
+<Transfer/TransferPLPositionMapTransferred.png, id=226, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferPLPositionMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLPositionMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLPositionMapTransferred.png  used on
  input line 46.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLWidthMapAsgrown.png, id=251, 1129.21875pt x 771.63281pt>
+<Transfer/TransferPLWidthMapAsgrown.png, id=227, 1129.21875pt x 771.63281pt>
 File: Transfer/TransferPLWidthMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLWidthMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLWidthMapAsgrown.png  used on input 
 line 52.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLWidthMapTransferred.png, id=252, 1129.21875pt x 771.63281pt
+<Transfer/TransferPLWidthMapTransferred.png, id=228, 1129.21875pt x 771.63281pt
 >
 File: Transfer/TransferPLWidthMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLWidthMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLWidthMapTransferred.png  used on in
 put line 58.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityEMapAsgrown.png, id=253, 1129.21875pt x 771.632
+<Transfer/TransferRamanIntensityEMapAsgrown.png, id=229, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferRamanIntensityEMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanIntensityEMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityEMapAsgrown.png  used o
 n input line 70.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityEMapTransferred.png, id=254, 1129.21875pt x 771
+<Transfer/TransferRamanIntensityEMapTransferred.png, id=230, 1129.21875pt x 771
 .63281pt>
 File: Transfer/TransferRamanIntensityEMapTransferred.png Graphic file (type png
 )
@@ -2318,14 +2300,14 @@ File: Transfer/TransferRamanIntensityEMapTransferred.png Graphic file (type png
 Package pdftex.def Info: Transfer/TransferRamanIntensityEMapTransferred.png  us
 ed on input line 76.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityAMapAsgrown.png, id=255, 1129.21875pt x 771.632
+<Transfer/TransferRamanIntensityAMapAsgrown.png, id=231, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferRamanIntensityAMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanIntensityAMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityAMapAsgrown.png  used o
 n input line 82.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityAMapTransferred.png, id=256, 1129.21875pt x 771
+<Transfer/TransferRamanIntensityAMapTransferred.png, id=232, 1129.21875pt x 771
 .63281pt>
 File: Transfer/TransferRamanIntensityAMapTransferred.png Graphic file (type png
 )
@@ -2333,14 +2315,14 @@ File: Transfer/TransferRamanIntensityAMapTransferred.png Graphic file (type png
 Package pdftex.def Info: Transfer/TransferRamanIntensityAMapTransferred.png  us
 ed on input line 88.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanPositionEMapAsgrown.png, id=257, 1129.21875pt x 771.6328
+<Transfer/TransferRamanPositionEMapAsgrown.png, id=233, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferRamanPositionEMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanPositionEMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanPositionEMapAsgrown.png  used on
  input line 94.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanPositionEMapTransferred.png, id=258, 1129.21875pt x 771.
+<Transfer/TransferRamanPositionEMapTransferred.png, id=234, 1129.21875pt x 771.
 63281pt>
 File: Transfer/TransferRamanPositionEMapTransferred.png Graphic file (type png)
 
@@ -2348,20 +2330,20 @@ File: Transfer/TransferRamanPositionEMapTransferred.png Graphic file (type png)
 Package pdftex.def Info: Transfer/TransferRamanPositionEMapTransferred.png  use
 d on input line 100.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanDiffMapAsgrown.png, id=259, 1129.21875pt x 771.63281pt>
+<Transfer/TransferRamanDiffMapAsgrown.png, id=235, 1129.21875pt x 771.63281pt>
 File: Transfer/TransferRamanDiffMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanDiffMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanDiffMapAsgrown.png  used on inpu
 t line 112.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanDiffMapTransferred.png, id=260, 1129.21875pt x 771.63281
+<Transfer/TransferRamanDiffMapTransferred.png, id=236, 1129.21875pt x 771.63281
 pt>
 File: Transfer/TransferRamanDiffMapTransferred.png Graphic file (type png)
 <use Transfer/TransferRamanDiffMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanDiffMapTransferred.png  used on 
 input line 118.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanRatioMapAsgrown.png, id=261, 1129.21875pt x 771.63281pt>
+<Transfer/TransferRamanRatioMapAsgrown.png, id=237, 1129.21875pt x 771.63281pt>
 
 File: Transfer/TransferRamanRatioMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanRatioMapAsgrown.png>
@@ -2373,7 +2355,7 @@ Underfull \hbox (badness 1043) in paragraph at lines 125--125
 []\OT1/cmr/m/n/10.95 (c) |Ra-man peaks ra-tio map of as
  []
 
-<Transfer/TransferRamanRatioMapTransferred.png, id=262, 1129.21875pt x 771.6328
+<Transfer/TransferRamanRatioMapTransferred.png, id=238, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferRamanRatioMapTransferred.png Graphic file (type png)
 <use Transfer/TransferRamanRatioMapTransferred.png>
@@ -2402,24 +2384,24 @@ Chapter 6.
 
 
 ]
-<LowT/LowTPLComparison.png, id=282, 1129.21875pt x 771.63281pt>
+<LowT/LowTPLComparison.png, id=258, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLComparison.png Graphic file (type png)
 <use LowT/LowTPLComparison.png>
 Package pdftex.def Info: LowT/LowTPLComparison.png  used on input line 17.
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
  [47 <./LowT/LowTPLComparison.png (PNG copy)>]
-<LowT/LowTPLDeconvolution.png, id=286, 1129.21875pt x 771.63281pt>
+<LowT/LowTPLDeconvolution.png, id=262, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLDeconvolution.png Graphic file (type png)
 <use LowT/LowTPLDeconvolution.png>
 Package pdftex.def Info: LowT/LowTPLDeconvolution.png  used on input line 29.
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
  [48 <./LowT/LowTPLDeconvolution.png (PNG copy)>]
-<LowT/LowTPLStrongTrion.png, id=290, 1129.21875pt x 771.63281pt>
+<LowT/LowTPLStrongTrion.png, id=266, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLStrongTrion.png Graphic file (type png)
 <use LowT/LowTPLStrongTrion.png>
 Package pdftex.def Info: LowT/LowTPLStrongTrion.png  used on input line 39.
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
-<LowT/LowTPLPressureDifference.png, id=291, 1129.21875pt x 771.63281pt>
+<LowT/LowTPLPressureDifference.png, id=267, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLPressureDifference.png Graphic file (type png)
 <use LowT/LowTPLPressureDifference.png>
 Package pdftex.def Info: LowT/LowTPLPressureDifference.png  used on input line 
@@ -2427,54 +2409,103 @@ Package pdftex.def Info: LowT/LowTPLPressureDifference.png  used on input line
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
 ) [49 <./LowT/LowTPLStrongTrion.png (PNG copy)>] [50 <./LowT/LowTPLPressureDiff
 erence.png (PNG copy)>]
-\openout2 = `chapterWSe21T.aux'.
+\openout2 = `chapterWSe21TIntroduction.aux'.
 
- (chapterWSe21T.tex
+ (chapterWSe21TIntroduction.tex
 Chapter 7.
 [51
 
 
 
+]) [52]
+\openout2 = `chapterWSe21T.aux'.
+
+ (chapterWSe21T.tex
+Chapter 8.
+[53
+
+
+
 ]
-<1T'/RamanSpectrumPre.png, id=301, 1129.21875pt x 771.63281pt>
-File: 1T'/RamanSpectrumPre.png Graphic file (type png)
-<use 1T'/RamanSpectrumPre.png>
-Package pdftex.def Info: 1T'/RamanSpectrumPre.png  used on input line 17.
-(pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
-<1T'/XPSW4fPre.png, id=302, 1129.21875pt x 771.63281pt>
-File: 1T'/XPSW4fPre.png Graphic file (type png)
-<use 1T'/XPSW4fPre.png>
-Package pdftex.def Info: 1T'/XPSW4fPre.png  used on input line 27.
-(pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<1T'/XPSSe3dPre.png, id=303, 1129.21875pt x 771.63281pt>
-File: 1T'/XPSSe3dPre.png Graphic file (type png)
-<use 1T'/XPSSe3dPre.png>
-Package pdftex.def Info: 1T'/XPSSe3dPre.png  used on input line 35.
-(pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<1T'/RamanSpectraComparison.png, id=304, 1129.21875pt x 756.57657pt>
+<1T'/RamanSpectraComparison.png, id=285, 1129.21875pt x 756.57657pt>
 File: 1T'/RamanSpectraComparison.png Graphic file (type png)
 <use 1T'/RamanSpectraComparison.png>
-Package pdftex.def Info: 1T'/RamanSpectraComparison.png  used on input line 43.
+Package pdftex.def Info: 1T'/RamanSpectraComparison.png  used on input line 17.
 
 (pdftex.def)             Requested size: 338.76823pt x 226.97472pt.
+ [54 <./1T'/RamanSpectraComparison.png (PNG copy)>]
+<1T'/XPSW4fPre.png, id=289, 1129.21875pt x 771.63281pt>
+File: 1T'/XPSW4fPre.png Graphic file (type png)
+<use 1T'/XPSW4fPre.png>
+Package pdftex.def Info: 1T'/XPSW4fPre.png  used on input line 28.
+(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
+<1T'/XPSSe3dPre.png, id=290, 1129.21875pt x 771.63281pt>
+File: 1T'/XPSSe3dPre.png Graphic file (type png)
+<use 1T'/XPSSe3dPre.png>
+Package pdftex.def Info: 1T'/XPSSe3dPre.png  used on input line 34.
+(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
+<1T'/XPSW4fAnn.png, id=291, 1129.21875pt x 771.63281pt>
+File: 1T'/XPSW4fAnn.png Graphic file (type png)
+<use 1T'/XPSW4fAnn.png>
+Package pdftex.def Info: 1T'/XPSW4fAnn.png  used on input line 46.
+(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
+<1T'/XPSSe3dAnn.png, id=292, 1129.21875pt x 771.63281pt>
+File: 1T'/XPSSe3dAnn.png Graphic file (type png)
+<use 1T'/XPSSe3dAnn.png>
+Package pdftex.def Info: 1T'/XPSSe3dAnn.png  used on input line 52.
+(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [52 <./1T'/RamanSpectrumPre.png (PNG copy)>] [53 <./1T'/XPSW4fPre.png (PNG co
-py)> <./1T'/XPSSe3dPre.png (PNG copy)>] [54 <./1T'/RamanSpectraComparison.png (
-PNG copy)>]
+[55 <./1T'/XPSW4fPre.png (PNG copy)> <./1T'/XPSSe3dPre.png (PNG copy)>]
+[56 <./1T'/XPSW4fAnn.png (PNG copy)> <./1T'/XPSSe3dAnn.png (PNG copy)>]
+
+LaTeX Warning: Command \r invalid in math mode on input line 63.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 63.
+
+
+LaTeX Warning: Citation `Duerloo2014' on page 57 undefined on input line 63.
+
+<1T'/TEMMaps.png, id=299, 1519.6775pt x 745.78625pt>
+File: 1T'/TEMMaps.png Graphic file (type png)
+<use 1T'/TEMMaps.png>
+Package pdftex.def Info: 1T'/TEMMaps.png  used on input line 67.
+(pdftex.def)             Requested size: 455.90677pt x 223.7376pt.
+
+Overfull \hbox (0.66266pt too wide) in paragraph at lines 67--69
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `Lei2018' on page 57 undefined on input line 74.
+
+
+Overfull \hbox (15.72183pt too wide) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/12 In or-der to in-ves-ti-gate the sam-ples elec-tronic prop-er-
+ties the Kelvin probe force macroscopy
+ []
+
+<1T'/ElectronicProperties.png, id=300, 742.775pt x 762.85pt>
+File: 1T'/ElectronicProperties.png Graphic file (type png)
+<use 1T'/ElectronicProperties.png>
+Package pdftex.def Info: 1T'/ElectronicProperties.png  used on input line 78.
+(pdftex.def)             Requested size: 222.83421pt x 228.85677pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [57] [58 <./1T'/TEMMaps.png>] [59 <./1T'/ElectronicProperties.png>]
 \openout2 = `chapterPhases.aux'.
 
- (chapterPhases.tex
-Chapter 8.
-) [55
+
+(chapterPhases.tex
+Chapter 9.
+) [60
 
 
 
@@ -2482,13 +2513,13 @@ Chapter 8.
 \openout2 = `chapterHeterostructuresIntroduction.aux'.
 
  (chapterHeterostructuresIntroduction.tex
-Chapter 9.
-[56
+Chapter 10.
+[61
 
 
 
 ]
-<Heterostructures/HeterostructureChargeSeparationDiagram.png, id=321, 173.89969
+<Heterostructures/HeterostructureChargeSeparationDiagram.png, id=319, 173.89969
 pt x 192.72pt>
 File: Heterostructures/HeterostructureChargeSeparationDiagram.png Graphic file 
 (type png)
@@ -2500,8 +2531,8 @@ m.png  used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[57]
-<Heterostructures/HeterostructureOpticalMap.png, id=325, 161.85469pt x 161.8546
+[62]
+<Heterostructures/HeterostructureOpticalMap.png, id=323, 161.85469pt x 161.8546
 9pt>
 File: Heterostructures/HeterostructureOpticalMap.png Graphic file (type png)
 <use Heterostructures/HeterostructureOpticalMap.png>
@@ -2512,8 +2543,8 @@ n input line 33.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[58 <./Heterostructures/HeterostructureChargeSeparationDiagram.png>]
-<Heterostructures/HeterostructureOpticalSEMAFMImages.png, id=330, 412.54124pt x
+[63 <./Heterostructures/HeterostructureChargeSeparationDiagram.png>]
+<Heterostructures/HeterostructureOpticalSEMAFMImages.png, id=327, 412.54124pt x
  88.07906pt>
 File: Heterostructures/HeterostructureOpticalSEMAFMImages.png Graphic file (typ
 e png)
@@ -2525,8 +2556,8 @@ g  used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[59 <./Heterostructures/HeterostructureOpticalMap.png>]
-<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=334, 182.93344pt x 
+[64 <./Heterostructures/HeterostructureOpticalMap.png>]
+<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=332, 182.93344pt x 
 301.125pt>
 File: Heterostructures/HeterostructureRamanSpectrumIntro.png Graphic file (type
  png)
@@ -2538,7 +2569,7 @@ Package pdftex.def Info: Heterostructures/HeterostructureRamanSpectrumIntro.png
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructureAFMProfile.png, id=335, 194.97844pt x 135.5062
+<Heterostructures/HeterostructureAFMProfile.png, id=333, 194.97844pt x 135.5062
 6pt>
 File: Heterostructures/HeterostructureAFMProfile.png Graphic file (type png)
 <use Heterostructures/HeterostructureAFMProfile.png>
@@ -2548,7 +2579,7 @@ n input line 69.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumIntro.png, id=336, 429.85594pt x 350
+<Heterostructures/HeterostructurePLSpectrumIntro.png, id=334, 429.85594pt x 350
 .81062pt>
 File: Heterostructures/HeterostructurePLSpectrumIntro.png Graphic file (type pn
 g)
@@ -2556,14 +2587,14 @@ g)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntro.png  u
 sed on input line 80.
 (pdftex.def)             Requested size: 429.85489pt x 350.80975pt.
-[60 <./Heterostructures/HeterostructureOpticalSEMAFMImages.png>]
+[65 <./Heterostructures/HeterostructureOpticalSEMAFMImages.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[61 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)> <./He
-terostructures/HeterostructureAFMProfile.png>] [62 <./Heterostructures/Heterost
+[66 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)> <./He
+terostructures/HeterostructureAFMProfile.png>] [67 <./Heterostructures/Heterost
 ructurePLSpectrumIntro.png>]
-<Heterostructures/HeterostructurePLSpectrumIntroComparison.png, id=348, 236.383
+<Heterostructures/HeterostructurePLSpectrumIntroComparison.png, id=345, 236.383
 12pt x 219.06844pt>
 File: Heterostructures/HeterostructurePLSpectrumIntroComparison.png Graphic fil
 e (type png)
@@ -2571,8 +2602,8 @@ e (type png)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntroCompari
 son.png  used on input line 95.
 (pdftex.def)             Requested size: 236.38254pt x 219.06789pt.
- [63 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
-<Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png, id=352, 348.552
+ [68 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
+<Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png, id=349, 348.552
 19pt x 457.71pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png Graphic fil
 e (type png)
@@ -2584,7 +2615,7 @@ tro.png  used on input line 110.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=353, 353.069
+<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=350, 353.069
 06pt x 328.97906pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png Graphic fil
 e (type png)
@@ -2595,19 +2626,19 @@ ist.png  used on input line 120.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [64] [65 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
-[66 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
+) [69] [70 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
+[71 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
 \openout2 = `chapterHeterostructures.aux'.
 
 
 (chapterHeterostructures.tex
-Chapter 10.
-[67
+Chapter 11.
+[72
 
 
 
 ]
-<Heterostructures/CVDGrowthSetup.png, id=367, 943.525pt x 527.9725pt>
+<Heterostructures/CVDGrowthSetup.png, id=364, 943.525pt x 527.9725pt>
 File: Heterostructures/CVDGrowthSetup.png Graphic file (type png)
 <use Heterostructures/CVDGrowthSetup.png>
 Package pdftex.def Info: Heterostructures/CVDGrowthSetup.png  used on input lin
@@ -2618,8 +2649,8 @@ Overfull \hbox (16.51723pt too wide) in paragraph at lines 23--24
  [] 
  []
 
-[68]
-<Heterostructures/SEMImages.png, id=371, 899.36pt x 631.35875pt>
+[73]
+<Heterostructures/SEMImages.png, id=368, 899.36pt x 631.35875pt>
 File: Heterostructures/SEMImages.png Graphic file (type png)
 <use Heterostructures/SEMImages.png>
 Package pdftex.def Info: Heterostructures/SEMImages.png  used on input line 31.
@@ -2629,8 +2660,8 @@ Package pdftex.def Info: Heterostructures/SEMImages.png  used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[69 <./Heterostructures/CVDGrowthSetup.png>]
-<Heterostructures/OmSi.png, id=376, 566.86781pt x 360.59718pt>
+[74 <./Heterostructures/CVDGrowthSetup.png>]
+<Heterostructures/OmSi.png, id=373, 566.86781pt x 360.59718pt>
 File: Heterostructures/OmSi.png Graphic file (type png)
 <use Heterostructures/OmSi.png>
 Package pdftex.def Info: Heterostructures/OmSi.png  used on input line 47.
@@ -2639,7 +2670,7 @@ Package pdftex.def Info: Heterostructures/OmSi.png  used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/RamanSpectrum2.png, id=377, 1129.21875pt x 756.57657pt>
+<Heterostructures/RamanSpectrum2.png, id=374, 1129.21875pt x 756.57657pt>
 File: Heterostructures/RamanSpectrum2.png Graphic file (type png)
 <use Heterostructures/RamanSpectrum2.png>
 Package pdftex.def Info: Heterostructures/RamanSpectrum2.png  used on input lin
@@ -2648,8 +2679,8 @@ e 56.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[70 <./Heterostructures/SEMImages.png>]
-<Heterostructures/RamanSpectraMonoBi2.png, id=383, 1129.21875pt x 771.63281pt>
+[75 <./Heterostructures/SEMImages.png>]
+<Heterostructures/RamanSpectraMonoBi2.png, id=379, 1129.21875pt x 771.63281pt>
 File: Heterostructures/RamanSpectraMonoBi2.png Graphic file (type png)
 <use Heterostructures/RamanSpectraMonoBi2.png>
 Package pdftex.def Info: Heterostructures/RamanSpectraMonoBi2.png  used on inpu
@@ -2659,14 +2690,14 @@ t line 67.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/RamanIntensityMapEWS2.png, id=384, 782.17218pt x 630.85687pt>
+<Heterostructures/RamanIntensityMapEWS2.png, id=380, 782.17218pt x 630.85687pt>
 
 File: Heterostructures/RamanIntensityMapEWS2.png Graphic file (type png)
 <use Heterostructures/RamanIntensityMapEWS2.png>
 Package pdftex.def Info: Heterostructures/RamanIntensityMapEWS2.png  used on in
 put line 80.
 (pdftex.def)             Requested size: 204.85846pt x 165.22217pt.
-<Heterostructures/RamanIntensityMapEMoS2.png, id=385, 802.49812pt x 630.85687pt
+<Heterostructures/RamanIntensityMapEMoS2.png, id=381, 802.49812pt x 630.85687pt
 >
 File: Heterostructures/RamanIntensityMapEMoS2.png Graphic file (type png)
 <use Heterostructures/RamanIntensityMapEMoS2.png>
@@ -2676,7 +2707,7 @@ nput line 85.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructureRamanDifferenceW.png, id=386, 1129.21875pt x 7
+<Heterostructures/HeterostructureRamanDifferenceW.png, id=382, 1129.21875pt x 7
 71.63281pt>
 File: Heterostructures/HeterostructureRamanDifferenceW.png Graphic file (type p
 ng)
@@ -2687,7 +2718,7 @@ used on input line 96.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumFitted.png, id=387, 1129.21875pt x 7
+<Heterostructures/HeterostructurePLSpectrumFitted.png, id=383, 1129.21875pt x 7
 71.63281pt>
 File: Heterostructures/HeterostructurePLSpectrumFitted.png Graphic file (type p
 ng)
@@ -2698,7 +2729,7 @@ used on input line 106.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumMono.png, id=388, 1129.21875pt x 771
+<Heterostructures/HeterostructurePLSpectrumMono.png, id=384, 1129.21875pt x 771
 .63281pt>
 File: Heterostructures/HeterostructurePLSpectrumMono.png Graphic file (type png
 )
@@ -2710,26 +2741,26 @@ ed on input line 116.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:HeterostructuresPLPositionsMaps' on page 71 undef
+LaTeX Warning: Reference `fig:HeterostructuresPLPositionsMaps' on page 76 undef
 ined on input line 122.
 
-<Heterostructures/PLIntensityMap11.png, id=389, 1129.21875pt x 771.63281pt>
+<Heterostructures/PLIntensityMap11.png, id=385, 1129.21875pt x 771.63281pt>
 File: Heterostructures/PLIntensityMap11.png Graphic file (type png)
 <use Heterostructures/PLIntensityMap11.png>
 Package pdftex.def Info: Heterostructures/PLIntensityMap11.png  used on input l
 ine 126.
 (pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
-[71 <./Heterostructures/OmSi.png>]
+[76 <./Heterostructures/OmSi.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/PLPositionMap21.png, id=394, 816.80156pt x 630.85687pt>
+<Heterostructures/PLPositionMap21.png, id=391, 816.80156pt x 630.85687pt>
 File: Heterostructures/PLPositionMap21.png Graphic file (type png)
 <use Heterostructures/PLPositionMap21.png>
 Package pdftex.def Info: Heterostructures/PLPositionMap21.png  used on input li
 ne 135.
 (pdftex.def)             Requested size: 204.19989pt x 157.71382pt.
-<Heterostructures/PLPositionMap22.png, id=395, 795.72281pt x 630.85687pt>
+<Heterostructures/PLPositionMap22.png, id=392, 795.72281pt x 630.85687pt>
 File: Heterostructures/PLPositionMap22.png Graphic file (type png)
 <use Heterostructures/PLPositionMap22.png>
 Package pdftex.def Info: Heterostructures/PLPositionMap22.png  used on input li
@@ -2738,7 +2769,7 @@ ne 140.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/OMAu.png, id=396, 566.115pt x 361.35pt>
+<Heterostructures/OMAu.png, id=393, 566.115pt x 361.35pt>
 File: Heterostructures/OMAu.png Graphic file (type png)
 <use Heterostructures/OMAu.png>
 Package pdftex.def Info: Heterostructures/OMAu.png  used on input line 153.
@@ -2747,10 +2778,10 @@ Package pdftex.def Info: Heterostructures/OMAu.png  used on input line 153.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:HeterostructureRamanSpectrumAu' on page 72 undefi
+LaTeX Warning: Reference `fig:HeterostructureRamanSpectrumAu' on page 77 undefi
 ned on input line 159.
 
-<Heterostructures/RamanSpectrumAu.png, id=397, 1129.21875pt x 771.63281pt>
+<Heterostructures/RamanSpectrumAu.png, id=394, 1129.21875pt x 771.63281pt>
 File: Heterostructures/RamanSpectrumAu.png Graphic file (type png)
 <use Heterostructures/RamanSpectrumAu.png>
 Package pdftex.def Info: Heterostructures/RamanSpectrumAu.png  used on input li
@@ -2759,7 +2790,7 @@ ne 163.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructuresRamanIntensityEWAu.png, id=398, 819.8128pt x 
+<Heterostructures/HeterostructuresRamanIntensityEWAu.png, id=395, 819.8128pt x 
 630.85687pt>
 File: Heterostructures/HeterostructuresRamanIntensityEWAu.png Graphic file (typ
 e png)
@@ -2767,7 +2798,7 @@ e png)
 Package pdftex.def Info: Heterostructures/HeterostructuresRamanIntensityEWAu.pn
 g  used on input line 174.
 (pdftex.def)             Requested size: 204.9527pt x 157.71382pt.
-<Heterostructures/HeterostructuresRamanIntensityEMoAu.png, id=399, 807.015pt x 
+<Heterostructures/HeterostructuresRamanIntensityEMoAu.png, id=396, 807.015pt x 
 630.85687pt>
 File: Heterostructures/HeterostructuresRamanIntensityEMoAu.png Graphic file (ty
 pe png)
@@ -2778,8 +2809,8 @@ ng  used on input line 179.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[72 <./Heterostructures/RamanSpectrum2.png (PNG copy)>]
-<Heterostructures/SEMImagesFlake.png, id=403, 690.58pt x 719.68875pt>
+[77 <./Heterostructures/RamanSpectrum2.png (PNG copy)>]
+<Heterostructures/SEMImagesFlake.png, id=400, 690.58pt x 719.68875pt>
 File: Heterostructures/SEMImagesFlake.png Graphic file (type png)
 <use Heterostructures/SEMImagesFlake.png>
 Package pdftex.def Info: Heterostructures/SEMImagesFlake.png  used on input lin
@@ -2789,7 +2820,7 @@ e 198.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/TEMImages.png, id=404, 588.1975pt x 556.0775pt>
+<Heterostructures/TEMImages.png, id=401, 588.1975pt x 556.0775pt>
 File: Heterostructures/TEMImages.png Graphic file (type png)
 <use Heterostructures/TEMImages.png>
 Package pdftex.def Info: Heterostructures/TEMImages.png  used on input line 206
@@ -2798,7 +2829,7 @@ Package pdftex.def Info: Heterostructures/TEMImages.png  used on input line 206
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/FIBTEMSEM.png, id=405, 927.465pt x 750.805pt>
+<Heterostructures/FIBTEMSEM.png, id=402, 927.465pt x 750.805pt>
 File: Heterostructures/FIBTEMSEM.png Graphic file (type png)
 <use Heterostructures/FIBTEMSEM.png>
 Package pdftex.def Info: Heterostructures/FIBTEMSEM.png  used on input line 214
@@ -2807,7 +2838,7 @@ Package pdftex.def Info: Heterostructures/FIBTEMSEM.png  used on input line 214
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/STEMEDS.png, id=406, 872.25874pt x 938.50626pt>
+<Heterostructures/STEMEDS.png, id=403, 872.25874pt x 938.50626pt>
 File: Heterostructures/STEMEDS.png Graphic file (type png)
 <use Heterostructures/STEMEDS.png>
 Package pdftex.def Info: Heterostructures/STEMEDS.png  used on input line 222.
@@ -2815,7 +2846,7 @@ Package pdftex.def Info: Heterostructures/STEMEDS.png  used on input line 222.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/FIBSTEMEDS.png, id=407, 724.7075pt x 758.835pt>
+<Heterostructures/FIBSTEMEDS.png, id=404, 724.7075pt x 758.835pt>
 File: Heterostructures/FIBSTEMEDS.png Graphic file (type png)
 <use Heterostructures/FIBSTEMEDS.png>
 Package pdftex.def Info: Heterostructures/FIBSTEMEDS.png  used on input line 23
@@ -2824,10 +2855,10 @@ Package pdftex.def Info: Heterostructures/FIBSTEMEDS.png  used on input line 23
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[73 <./Heterostructures/RamanSpectraMonoBi2.png (PNG copy)>] [74 <./Heterostruc
+[78 <./Heterostructures/RamanSpectraMonoBi2.png (PNG copy)>] [79 <./Heterostruc
 tures/RamanIntensityMapEWS2.png> <./Heterostructures/RamanIntensityMapEMoS2.png
 >]
-<Heterostructures/CyclicVoltammetry.png, id=416, 900.36375pt x 648.4225pt>
+<Heterostructures/CyclicVoltammetry.png, id=413, 900.36375pt x 648.4225pt>
 File: Heterostructures/CyclicVoltammetry.png Graphic file (type png)
 <use Heterostructures/CyclicVoltammetry.png>
 Package pdftex.def Info: Heterostructures/CyclicVoltammetry.png  used on input 
@@ -2837,45 +2868,46 @@ line 247.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[75 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
-[76 <./Heterostructures/HeterostructurePLSpectrumFitted.png (PNG copy)>]
-[77 <./Heterostructures/HeterostructurePLSpectrumMono.png (PNG copy)>])
-[78 <./Heterostructures/PLIntensityMap11.png (PNG copy)>] [79 <./Heterostructur
+[80 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
+[81 <./Heterostructures/HeterostructurePLSpectrumFitted.png (PNG copy)>]
+[82 <./Heterostructures/HeterostructurePLSpectrumMono.png (PNG copy)>])
+[83 <./Heterostructures/PLIntensityMap11.png (PNG copy)>] [84 <./Heterostructur
 es/PLPositionMap21.png> <./Heterostructures/PLPositionMap22.png> <./Heterostruc
-tures/OMAu.png> <./Heterostructures/RamanSpectrumAu.png (PNG copy)>] [80 <./Het
+tures/OMAu.png> <./Heterostructures/RamanSpectrumAu.png (PNG copy)>] [85 <./Het
 erostructures/HeterostructuresRamanIntensityEWAu.png> <./Heterostructures/Heter
 ostructuresRamanIntensityEMoAu.png> <./Heterostructures/SEMImagesFlake.png>]
-[81 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
-[82 <./Heterostructures/STEMEDS.png>] [83 <./Heterostructures/FIBSTEMEDS.png>]
-[84 <./Heterostructures/CyclicVoltammetry.png>]
+[86 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
+[87 <./Heterostructures/STEMEDS.png>] [88 <./Heterostructures/FIBSTEMEDS.png>]
+[89 <./Heterostructures/CyclicVoltammetry.png>]
 \openout2 = `chapterConclusions.aux'.
 
  (chapterConclusions.tex
-Chapter 11.
-[85
+Chapter 12.
+[90
 
 
 
-] [86]) [87]
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
+] [91]) [92]
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
-(thesis.bbl [88
 
-] [89
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
-] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
-[100]) [101] (thesis.aux (Publications.aux) (chapterThesisIntroduction.aux)
-(chapterIntroduction.aux) (chapterWS2.aux) (chapterWSe2.aux)
-(chapterTransfer.aux) (chapterLowTPL.aux) (chapterWSe21T.aux)
-(chapterPhases.aux) (chapterHeterostructuresIntroduction.aux)
-(chapterHeterostructures.aux) (chapterConclusions.aux))
+ []
+
+(thesis.bbl [93
+
+] [94
+
+] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
+[105] [106]) [107] (thesis.aux (Publications.aux)
+(chapterThesisIntroduction.aux) (chapterIntroduction.aux) (chapterWS2.aux)
+(chapterWSe2.aux) (chapterTransfer.aux) (chapterLowTPL.aux)
+(chapterWSe21TIntroduction.aux) (chapterWSe21T.aux) (chapterPhases.aux)
+(chapterHeterostructuresIntroduction.aux) (chapterHeterostructures.aux)
+(chapterConclusions.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -2885,33 +2917,33 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 8 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 18318 strings out of 493305
- 362703 string characters out of 3129367
- 390721 words of memory out of 3000000
- 21392 multiletter control sequences out of 15000+200000
+ 17857 strings out of 493305
+ 351725 string characters out of 3129355
+ 378234 words of memory out of 3000000
+ 20943 multiletter control sequences out of 15000+200000
  22037 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,82p,3865b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Pauson\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\tcrm1095.pk> <C:\Users\Pauson\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\tcrm1200.pk><C:/Users/Pauson/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Pauson/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Pau
-son/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi8.pfb><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Pauson/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Pauson/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Paus
-on/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
-:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy8.pfb><C:/Users/Pauson/AppData/Local/Programs/MiKTeX 2.9/fon
+ 62i,9n,82p,3865b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\tcrm1095.pk> <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\tcrm1200.pk><C:/Users/pp3211/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pp3211/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pp3
+211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmmi8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pp3211/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pp3211/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pp32
+11/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (104 pages, 16816507 bytes).
+Output written on thesis.pdf (110 pages, 18613238 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
+ 566 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 614 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 533 words of extra memory for PDF output out of 10000 (max. 10000000)
 

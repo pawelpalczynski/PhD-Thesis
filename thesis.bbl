@@ -63,6 +63,19 @@ P.~Chen, Woei~Wu Pai, Y.-H. Chan, W.-L. Sun, C.-Z. Xu, D.-S. Lin, M.~Y. Chou,
 \newblock Large quantum-spin-hall gap in single-layer 1t$\prime$ {WSe}2.
 \newblock {\em Nature Communications}, 9(1), may 2018.
 
+\bibitem{Chhowalla2013}
+Manish Chhowalla, Hyeon~Suk Shin, Goki Eda, Lain-Jong Li, Kian~Ping Loh, and
+  Hua Zhang.
+\newblock The chemistry of two-dimensional layered transition metal
+  dichalcogenide nanosheets.
+\newblock {\em Nature Chemistry}, 5(4):263--275, mar 2013.
+
+\bibitem{Cho2015}
+S.~Cho, S.~Kim, J.~H. Kim, J.~Zhao, J.~Seok, D.~H. Keum, J.~Baik, D.-H. Choe,
+  K.~J. Chang, K.~Suenaga, S.~W. Kim, Y.~H. Lee, and H.~Yang.
+\newblock Phase patterning for ohmic homojunction contact in {MoTe}2.
+\newblock {\em Science}, 349(6248):625--628, aug 2015.
+
 \bibitem{Cong2013}
 Chunxiao Cong, Jingzhi Shang, Xing Wu, Bingchen Cao, Namphung Peimyoo, Caiyu
   Qiu, Litao Sun, and Ting Yu.
@@ -273,6 +286,13 @@ Kyung~Nam Kang, Kyle Godin, and Eui-Hyeok Yang.
   concentration.
 \newblock {\em Scientific Reports}, 5(1), aug 2015.
 
+\bibitem{Keum2015}
+Dong~Hoon Keum, Suyeon Cho, Jung~Ho Kim, Duk-Hyun Choe, Ha-Jun Sung, Min Kan,
+  Haeyong Kang, Jae-Yeol Hwang, Sung~Wng Kim, Heejun Yang, K.~J. Chang, and
+  Young~Hee Lee.
+\newblock Bandgap opening in few-layered monoclinic {MoTe}2.
+\newblock {\em Nature Physics}, 11(6):482--486, may 2015.
+
 \bibitem{WS2BandStructureSimulation}
 A.~Kuc, N.~Zibouche, and T.~Heine.
 \newblock Influence of quantum confinement on the electronic structure of the
@@ -314,6 +334,12 @@ Tianshu Li and Giulia Galli.
 \newblock {\em The Journal of Physical Chemistry C}, 111(44):16192--16196, nov
   2007.
 
+\bibitem{Li2016}
+Wenbin Li and Ju~Li.
+\newblock Ferroelasticity and domain physics in two-dimensional transition
+  metal dichalcogenide monolayers.
+\newblock {\em Nature Communications}, 7(1), feb 2016.
+
 \bibitem{Li2015a}
 Xinru Li, Ying Dai, Mengmeng Li, Wei Wei, and Baibiao Huang.
 \newblock Stable si-based pentagonal monolayers: high carrier mobilities and
@@ -350,6 +376,12 @@ Zheng Liu, Matin Amani, Sina Najmaei, Quan Xu, Xiaolong Zou, Wu~Zhou, Ting Yu,
 \newblock Strain and structure heterogeneity in {MoS}2 atomic layers grown by
   chemical vapour deposition.
 \newblock {\em Nature Communications}, 5(1), nov 2014.
+
+\bibitem{Lu2015}
+J.~M. Lu, O.~Zheliuk, I.~Leermakers, N.~F.~Q. Yuan, U.~Zeitler, K.~T. Law, and
+  J.~T. Ye.
+\newblock Evidence for two-dimensional ising superconductivity in gated {MoS}2.
+\newblock {\em Science}, 350(6266):1353--1357, nov 2015.
 
 \bibitem{Ma2018}
 Xiangchao Ma, Xin Wu, Haoda Wang, and Yucheng Wang.
@@ -437,6 +469,12 @@ Satyananda~Kishore Pilli, Thomas~E. Furtak, Logan~D. Brown, Todd~G. Deutsch,
   photoelectrodes for solar water oxidation.
 \newblock {\em Energy {\&} Environmental Science}, 4(12):5028, 2011.
 
+\bibitem{Qian2014}
+X.~Qian, J.~Liu, L.~Fu, and J.~Li.
+\newblock Quantum spin hall effect in two-dimensional transition metal
+  dichalcogenides.
+\newblock {\em Science}, 346(6215):1344--1347, nov 2014.
+
 \bibitem{Rasmussen2015}
 Filip~A. Rasmussen and Kristian~S. Thygesen.
 \newblock Computational 2d materials database: Electronic structure of
@@ -479,6 +517,14 @@ Prasana~K. Sahoo, Shahriar Memaran, Yan Xin, Luis Balicas, and Humberto~R.
   sequential edge-epitaxy.
 \newblock {\em Nature}, 553(7686):63--67, jan 2018.
 
+\bibitem{Saito2015}
+Yu~Saito, Yasuharu Nakamura, Mohammad~Saeed Bahramy, Yoshimitsu Kohama,
+  Jianting Ye, Yuichi Kasahara, Yuji Nakagawa, Masaru Onga, Masashi Tokunaga,
+  Tsutomu Nojima, Youichi Yanase, and Yoshihiro Iwasa.
+\newblock Superconductivity protected by spin{\textendash}valley locking in
+  ion-gated {MoS}2.
+\newblock {\em Nature Physics}, 12(2):144--149, dec 2015.
+
 \bibitem{doi:10.1021/nn5059908}
 Jingzhi Shang, Xiaonan Shen, Chunxiao Cong, Namphung Peimyoo, Bingchen Cao,
   Mustafa Eginligil, and Ting Yu.
@@ -513,6 +559,11 @@ Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
 \newblock Emerging photoluminescence in monolayer mos2.
 \newblock {\em Nano Letters}, 10(4):1271--1275, apr 2010.
 \newblock PMID: 20229981.
+
+\bibitem{Sun2015}
+Yan Sun, Shu-Chun Wu, Mazhar~N. Ali, Claudia Felser, and Binghai Yan.
+\newblock Prediction of weyl semimetal in {orthorhombicMoTe}2.
+\newblock {\em Physical Review B}, 92(16), oct 2015.
 
 \bibitem{Tada2000}
 Haruna Tada, Amy~E. Kumpel, Richard~E. Lathrop, John~B. Slanina, Patricia
