@@ -1617,6 +1617,45 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Article{Chhowalla2013,
+  author    = {Manish Chhowalla and Hyeon Suk Shin and Goki Eda and Lain-Jong Li and Kian Ping Loh and Hua Zhang},
+  title     = {The chemistry of two-dimensional layered transition metal dichalcogenide nanosheets},
+  journal   = {Nature Chemistry},
+  year      = {2013},
+  volume    = {5},
+  number    = {4},
+  pages     = {263--275},
+  month     = {mar},
+  doi       = {10.1038/nchem.1589},
+  publisher = {Springer Nature},
+}
+
+@Article{Saito2015,
+  author    = {Yu Saito and Yasuharu Nakamura and Mohammad Saeed Bahramy and Yoshimitsu Kohama and Jianting Ye and Yuichi Kasahara and Yuji Nakagawa and Masaru Onga and Masashi Tokunaga and Tsutomu Nojima and Youichi Yanase and Yoshihiro Iwasa},
+  title     = {Superconductivity protected by spin{\textendash}valley locking in ion-gated {MoS}2},
+  journal   = {Nature Physics},
+  year      = {2015},
+  volume    = {12},
+  number    = {2},
+  pages     = {144--149},
+  month     = {dec},
+  doi       = {10.1038/nphys3580},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Lu2015,
+  author    = {J. M. Lu and O. Zheliuk and I. Leermakers and N. F. Q. Yuan and U. Zeitler and K. T. Law and J. T. Ye},
+  title     = {Evidence for two-dimensional Ising superconductivity in gated {MoS}2},
+  journal   = {Science},
+  year      = {2015},
+  volume    = {350},
+  number    = {6266},
+  pages     = {1353--1357},
+  month     = {nov},
+  doi       = {10.1126/science.aab2277},
+  publisher = {American Association for the Advancement of Science ({AAAS})},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

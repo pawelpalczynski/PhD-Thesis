@@ -76,6 +76,12 @@ S.~Cho, S.~Kim, J.~H. Kim, J.~Zhao, J.~Seok, D.~H. Keum, J.~Baik, D.-H. Choe,
 \newblock Phase patterning for ohmic homojunction contact in {MoTe}2.
 \newblock {\em Science}, 349(6248):625--628, aug 2015.
 
+\bibitem{Choe2016}
+Duk-Hyun Choe, Ha-Jun Sung, and K.~J. Chang.
+\newblock Understanding topological phase transition in monolayer transition
+  metal dichalcogenides.
+\newblock {\em Physical Review B}, 93(12), mar 2016.
+
 \bibitem{Cong2013}
 Chunxiao Cong, Jingzhi Shang, Xing Wu, Bingchen Cao, Namphung Peimyoo, Caiyu
   Qiu, Litao Sun, and Ting Yu.
@@ -97,6 +103,12 @@ A.~M. Dadgar, D.~Scullion, K.~Kang, D.~Esposito, E.~H. Yang, I.~P. Herman,
 \newblock Strain engineering and raman spectroscopy of monolayer transition
   metal dichalcogenides.
 \newblock {\em Chemistry of Materials}, 30(15):5148--5155, jul 2018.
+
+\bibitem{Duerloo2014}
+Karel-Alexander~N. Duerloo, Yao Li, and Evan~J. Reed.
+\newblock Structural phase transitions in two-dimensional mo- and
+  w-dichalcogenide monolayers.
+\newblock {\em Nature Communications}, 5(1), jul 2014.
 
 \bibitem{Eichfeld2015}
 Sarah~M. Eichfeld, Lorraine Hossain, Yu-Chuan Lin, Aleksander~F. Piasecki,
@@ -181,6 +193,13 @@ Dimitry~V. Gruznev, Sergey~V. Eremeev, Leonid~V. Bondarenko, Alexandra~Yu.
 \newblock Two-dimensional in{\textendash}sb compound on silicon as a quantum
   spin hall insulator.
 \newblock {\em Nano Letters}, 18(7):4338--4345, jun 2018.
+
+\bibitem{Guo2015}
+Yinsheng Guo, Dezheng Sun, Bin Ouyang, Archana Raja, Jun Song, Tony~F. Heinz,
+  and Louis~E. Brus.
+\newblock Probing the dynamics of the metallic-to-semiconducting structural
+  phase transformation in {MoS}2 crystals.
+\newblock {\em Nano Letters}, 15(8):5081--5088, jul 2015.
 
 \bibitem{ExtraordinaryRoomTemperaturePhotoluminescenceInTriangularWS2Monolayers}
 Humberto~R. Gutiérrez, Nestor Perea-López, Ana~Laura Elías, Ayse Berkdemir,
@@ -273,6 +292,11 @@ Sanghyun Jo, Nicolas Ubrig, Helmuth Berger, Alexey~B. Kuzmenko, and Alberto~F.
 \newblock {\em Nano Letters}, 14(4):2019--2025, 2014.
 \newblock PMID: 24669957.
 
+\bibitem{Kane2005}
+C.~L. Kane and E.~J. Mele.
+\newblock Quantum spin hall effect in graphene.
+\newblock {\em Physical Review Letters}, 95(22), nov 2005.
+
 \bibitem{Kang2015}
 Kibum Kang, Saien Xie, Lujie Huang, Yimo Han, Pinshane~Y. Huang, Kin~Fai Mak,
   Cheol-Joo Kim, David Muller, and Jiwoong Park.
@@ -286,12 +310,25 @@ Kyung~Nam Kang, Kyle Godin, and Eui-Hyeok Yang.
   concentration.
 \newblock {\em Scientific Reports}, 5(1), aug 2015.
 
+\bibitem{Kang2014}
+Yimin Kang, Sina Najmaei, Zheng Liu, Yanjun Bao, Yumin Wang, Xing Zhu, Naomi~J.
+  Halas, Peter Nordlander, Pulickel~M. Ajayan, Jun Lou, and Zheyu Fang.
+\newblock Plasmonic hot electron induced structural phase transition in a
+  {MoS}2monolayer.
+\newblock {\em Advanced Materials}, 26(37):6467--6471, aug 2014.
+
 \bibitem{Keum2015}
 Dong~Hoon Keum, Suyeon Cho, Jung~Ho Kim, Duk-Hyun Choe, Ha-Jun Sung, Min Kan,
   Haeyong Kang, Jae-Yeol Hwang, Sung~Wng Kim, Heejun Yang, K.~J. Chang, and
   Young~Hee Lee.
 \newblock Bandgap opening in few-layered monoclinic {MoTe}2.
 \newblock {\em Nature Physics}, 11(6):482--486, may 2015.
+
+\bibitem{Konig2007}
+M.~Konig, S.~Wiedmann, C.~Brune, A.~Roth, H.~Buhmann, L.~W. Molenkamp, X.-L.
+  Qi, and S.-C. Zhang.
+\newblock Quantum spin hall insulator state in {HgTe} quantum wells.
+\newblock {\em Science}, 318(5851):766--770, nov 2007.
 
 \bibitem{WS2BandStructureSimulation}
 A.~Kuc, N.~Zibouche, and T.~Heine.
@@ -320,6 +357,14 @@ Yi-Hsien Lee, Lili Yu, Han Wang, Wenjing Fang, Xi~Ling, Yumeng Shi, Cheng-Te
 \newblock Synthesis and transfer of single-layer transition metal disulfides on
   diverse surfaces.
 \newblock {\em Nano Letters}, 13(4):1852--1857, mar 2013.
+
+\bibitem{Lei2018}
+Bo~Lei, Yuanyuan Pan, Zehua Hu, Jialin Zhang, Du~Xiang, Yue Zheng, Rui Guo,
+  Cheng Han, Lianhui Wang, Jing Lu, Li~Yang, and Wei Chen.
+\newblock Direct observation of semiconductor{\textendash}metal phase
+  transition in bilayer tungsten diselenide induced by potassium surface
+  functionalization.
+\newblock {\em {ACS} Nano}, 12(2):2070--2077, jan 2018.
 
 \bibitem{Li2015}
 Shisheng Li, Shunfeng Wang, Dai-Ming Tang, Weijie Zhao, Huilong Xu, Leiqiang
@@ -361,6 +406,12 @@ Liangxu Lin, Yaoxian Xu, Shaowei Zhang, Ian~M. Ross, Albert C.~M. Ong, and
   quantum dots with giant spin-valley coupling.
 \newblock {\em ACS Nano}, 7(9):8214--8223, 2013.
 \newblock PMID: 23968363.
+
+\bibitem{Lin2014}
+Yung-Chang Lin, Dumitru~O. Dumcenco, Ying-Sheng Huang, and Kazu Suenaga.
+\newblock Atomic mechanism of the semiconducting-to-metallic phase transition
+  in single-layered {MoS}2.
+\newblock {\em Nature Nanotechnology}, 9(5):391--396, apr 2014.
 
 \bibitem{Liu2016}
 Hongwei Liu, Junpeng Lu, Kenneth Ho, Zhenliang Hu, Zhiya Dang, Alexandra
@@ -468,6 +519,15 @@ Satyananda~Kishore Pilli, Thomas~E. Furtak, Logan~D. Brown, Todd~G. Deutsch,
 \newblock Cobalt-phosphate (co-pi) catalyst modified mo-doped {BiVO}4
   photoelectrodes for solar water oxidation.
 \newblock {\em Energy {\&} Environmental Science}, 4(12):5028, 2011.
+
+\bibitem{Qi2016}
+Yanpeng Qi, Pavel~G. Naumov, Mazhar~N. Ali, Catherine~R. Rajamathi, Walter
+  Schnelle, Oleg Barkalov, Michael Hanfland, Shu-Chun Wu, Chandra Shekhar, Yan
+  Sun, Vicky Sü{\ss}, Marcus Schmidt, Ulrich Schwarz, Eckhard Pippel, Peter
+  Werner, Reinald Hillebrand, Tobias Förster, Erik Kampert, Stuart Parkin,
+  R.~J. Cava, Claudia Felser, Binghai Yan, and Sergey~A. Medvedev.
+\newblock Superconductivity in weyl semimetal candidate {MoTe}2.
+\newblock {\em Nature Communications}, 7(1), mar 2016.
 
 \bibitem{Qian2014}
 X.~Qian, J.~Liu, L.~Fu, and J.~Li.
