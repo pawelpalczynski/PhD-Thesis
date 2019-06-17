@@ -317,6 +317,13 @@ Yimin Kang, Sina Najmaei, Zheng Liu, Yanjun Bao, Yumin Wang, Xing Zhu, Naomi~J.
   {MoS}2monolayer.
 \newblock {\em Advanced Materials}, 26(37):6467--6471, aug 2014.
 
+\bibitem{Kappera2014}
+Rajesh Kappera, Damien Voiry, Sibel~Ebru Yalcin, Brittany Branch, Gautam Gupta,
+  Aditya~D. Mohite, and Manish Chhowalla.
+\newblock Phase-engineered low-resistance contacts for ultrathin {MoS}2
+  transistors.
+\newblock {\em Nature Materials}, 13(12):1128--1134, aug 2014.
+
 \bibitem{Keum2015}
 Dong~Hoon Keum, Suyeon Cho, Jung~Ho Kim, Duk-Hyun Choe, Ha-Jun Sung, Min Kan,
   Haeyong Kang, Jae-Yeol Hwang, Sung~Wng Kim, Heejun Yang, K.~J. Chang, and
@@ -419,6 +426,12 @@ Hongwei Liu, Junpeng Lu, Kenneth Ho, Zhenliang Hu, Zhiya Dang, Alexandra
 \newblock Fluorescence concentric triangles: A case of chemical heterogeneity
   in {WS}2 atomic monolayer.
 \newblock {\em Nano Letters}, 16(9):5559--5567, aug 2016.
+
+\bibitem{Liu2016a}
+Junwei Liu, Hua Wang, Chen Fang, Liang Fu, and Xiaofeng Qian.
+\newblock van der waals stacking-induced topological phase transition in
+  layered ternary transition metal chalcogenides.
+\newblock {\em Nano Letters}, 17(1):467--475, dec 2016.
 
 \bibitem{Liu2014}
 Zheng Liu, Matin Amani, Sina Najmaei, Quan Xu, Xiaolong Zou, Wu~Zhou, Ting Yu,
@@ -613,6 +626,13 @@ Kevin Sivula and Roel van~de Krol.
 \newblock Semiconducting materials for photoelectrochemical energy conversion.
 \newblock {\em Nature Reviews Materials}, 1(2), jan 2016.
 
+\bibitem{Song2015}
+Seunghyun Song, Dong~Hoon Keum, Suyeon Cho, David Perello, Yunseok Kim, and
+  Young~Hee Lee.
+\newblock Room temperature semiconductor{\textendash}metal transition of
+  {MoTe}2 thin films engineered by strain.
+\newblock {\em Nano Letters}, 16(1):188--193, dec 2015.
+
 \bibitem{EmergingPhotoluminescenceInMonolayerMoS2}
 Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
   Chim, Giulia Galli, and Feng Wang.
@@ -753,6 +773,12 @@ Zai-Quan Xu, Yupeng Zhang, Shenghuang Lin, Changxi Zheng, Yu~Lin Zhong, Xue
   toward the recyclable use of sapphire substrates.
 \newblock {\em ACS Nano}, 9(6):6178--6187, 2015.
 \newblock PMID: 25961515.
+
+\bibitem{Yang2017}
+Heejun Yang, Sung~Wng Kim, Manish Chhowalla, and Young~Hee Lee.
+\newblock Structural and quantum-state phase transitions in van der waals
+  layered materials.
+\newblock {\em Nature Physics}, 13(10):931--937, jul 2017.
 
 \bibitem{Yu2017a}
 Xiaoyun Yu, N{\'{e}}stor Guijarro, Melissa Johnson, and Kevin Sivula.
