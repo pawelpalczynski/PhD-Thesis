@@ -41,5 +41,11 @@
 \contentsline {section}{\numberline {11.2}Results}{76}
 \contentsline {subsection}{\numberline {11.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{76}
 \contentsline {section}{\numberline {11.3}Appendix}{83}
-\contentsline {chapter}{\numberline {12}Conclusions and future work}{93}
-\contentsline {chapter}{Bibliography}{97}
+\contentsline {chapter}{\numberline {12}Methodology}{93}
+\contentsline {section}{\numberline {12.1}Introduction}{93}
+\contentsline {section}{\numberline {12.2}Raman spectroscopy}{93}
+\contentsline {section}{\numberline {12.3}Photoluminescence spectroscopy}{96}
+\contentsline {section}{\numberline {12.4}X-ray photoelectron spectroscopy}{96}
+\contentsline {section}{\numberline {12.5}\IeC {\textbullet }}{96}
+\contentsline {chapter}{\numberline {13}Conclusions and future work}{97}
+\contentsline {chapter}{Bibliography}{101}

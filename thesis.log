@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  17 JUN 2019 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  19 JUN 2019 20:42
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1182,6 +1182,34 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.sty"
+\lst@mode=\count123
+\lst@gtempboxa=\box29
+\lst@token=\toks26
+\lst@length=\count124
+\lst@currlwidth=\dimen133
+\lst@column=\count125
+\lst@pos=\count126
+\lst@lostspace=\dimen134
+\lst@width=\dimen135
+\lst@newlines=\count127
+\lst@lineno=\count128
+\lst@maxwidth=\dimen136
+
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count129
+\lst@skipnumbers=\count130
+\lst@framebox=\box30
+)
+("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaptio
 n.sty"
 Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
@@ -1194,19 +1222,20 @@ Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
 sty"
 Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen133
-\captionmargin@=\dimen134
-\captionwidth=\dimen135
-\caption@tempdima=\dimen136
-\caption@indent=\dimen137
-\caption@parindent=\dimen138
-\caption@hangindent=\dimen139
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
 )
-\c@ContinuedFloat=\count123
+\c@ContinuedFloat=\count131
+Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-\c@subfigure=\count124
-\c@subtable=\count125
+\c@subfigure=\count132
+\c@subtable=\count133
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonot
 es.sty"
@@ -1224,10 +1253,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 .tex"
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
 s.tex"
-\XKV@toks=\toks26
-\XKV@tempa@toks=\toks27
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
 )
-\XKV@depth=\count126
+\XKV@depth=\count134
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer
@@ -1238,15 +1267,15 @@ f.sty"
 rcs.sty"
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-common.tex"
-\pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen140
-\pgfutil@tempdimb=\dimen141
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen144
+\pgfutil@tempdimb=\dimen145
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-common-lists.tex"))
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-latex.def"
-\pgfutil@abb=\box29
+\pgfutil@abb=\box31
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
@@ -1267,30 +1296,30 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfkeys.code.tex"
-\pgfkeys@pathtoks=\toks29
-\pgfkeys@temptoks=\toks30
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks31
+\pgfkeys@tmptoks=\toks32
 ))
-\pgf@x=\dimen142
-\pgf@y=\dimen143
-\pgf@xa=\dimen144
-\pgf@ya=\dimen145
-\pgf@xb=\dimen146
-\pgf@yb=\dimen147
-\pgf@xc=\dimen148
-\pgf@yc=\dimen149
+\pgf@x=\dimen146
+\pgf@y=\dimen147
+\pgf@xa=\dimen148
+\pgf@ya=\dimen149
+\pgf@xb=\dimen150
+\pgf@yb=\dimen151
+\pgf@xc=\dimen152
+\pgf@yc=\dimen153
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count127
-\c@pgf@countb=\count128
-\c@pgf@countc=\count129
-\c@pgf@countd=\count130
-\t@pgf@toka=\toks32
-\t@pgf@tokb=\toks33
-\t@pgf@tokc=\toks34
+\c@pgf@counta=\count135
+\c@pgf@countb=\count136
+\c@pgf@countc=\count137
+\c@pgf@countd=\count138
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgf.cfg"
@@ -1309,8 +1338,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count131
-\pgfsyssoftpath@bigbuffer@items=\count132
+\pgfsyssoftpath@smallbuffer@items=\count139
+\pgfsyssoftpath@bigbuffer@items=\count140
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsysprotocol.code.tex"
@@ -1328,12 +1357,12 @@ hcalc.code.tex"
 hutil.code.tex")
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hparser.code.tex"
-\pgfmath@dimen=\dimen150
-\pgfmath@count=\count133
-\pgfmath@box=\box30
-\pgfmath@toks=\toks35
-\pgfmath@stack@operand=\toks36
-\pgfmath@stack@operation=\toks37
+\pgfmath@dimen=\dimen154
+\pgfmath@count=\count141
+\pgfmath@box=\box32
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.code.tex"
@@ -1355,57 +1384,57 @@ hfunctions.misc.code.tex")
 hfunctions.integerarithmetics.code.tex")))
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count134
+\c@pgfmathroundto@lastzeros=\count142
 ))
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen151
-\pgf@picmaxx=\dimen152
-\pgf@picminy=\dimen153
-\pgf@picmaxy=\dimen154
-\pgf@pathminx=\dimen155
-\pgf@pathmaxx=\dimen156
-\pgf@pathminy=\dimen157
-\pgf@pathmaxy=\dimen158
-\pgf@xx=\dimen159
-\pgf@xy=\dimen160
-\pgf@yx=\dimen161
-\pgf@yy=\dimen162
-\pgf@zx=\dimen163
-\pgf@zy=\dimen164
+\pgf@picminx=\dimen155
+\pgf@picmaxx=\dimen156
+\pgf@picminy=\dimen157
+\pgf@picmaxy=\dimen158
+\pgf@pathminx=\dimen159
+\pgf@pathmaxx=\dimen160
+\pgf@pathminy=\dimen161
+\pgf@pathmaxy=\dimen162
+\pgf@xx=\dimen163
+\pgf@xy=\dimen164
+\pgf@yx=\dimen165
+\pgf@yy=\dimen166
+\pgf@zx=\dimen167
+\pgf@zy=\dimen168
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen165
-\pgf@path@lasty=\dimen166
+\pgf@path@lastx=\dimen169
+\pgf@path@lasty=\dimen170
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen167
-\pgf@shorten@start@additional=\dimen168
+\pgf@shorten@end@additional=\dimen171
+\pgf@shorten@start@additional=\dimen172
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count135
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count143
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen169
+\pgflinewidth=\dimen173
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen170
-\pgf@pt@y=\dimen171
-\pgf@pt@temp=\dimen172
+\pgf@pt@x=\dimen174
+\pgf@pt@y=\dimen175
+\pgf@pt@temp=\dimen176
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorequick.code.tex"
@@ -1422,13 +1451,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen173
+\pgfarrowsep=\dimen177
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen174
-\pgf@sys@shading@range@num=\count136
+\pgf@max=\dimen178
+\pgf@sys@shading@range@num=\count144
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoreimage.code.tex"
@@ -1437,7 +1466,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box34
+\pgfexternal@startupbox=\box36
 ))
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorelayers.code.tex"
@@ -1454,7 +1483,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
 moduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box35
+\pgfnodeparttextbox=\box37
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
 moduleplot.code.tex"
@@ -1463,8 +1492,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
 \pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen175
-\pgf@nodesepend=\dimen176
+\pgf@nodesepstart=\dimen179
+\pgf@nodesepend=\dimen180
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
 \pgfcomp-version-1-18.sty"
@@ -1486,10 +1515,10 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 h.code.tex")
-\pgffor@iter=\dimen177
-\pgffor@skip=\dimen178
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
+\pgffor@iter=\dimen181
+\pgffor@skip=\dimen182
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
 ))
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\tikz.code.tex"
@@ -1498,32 +1527,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
 gflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count137
-\pgfplotmarksize=\dimen179
+\pgf@plot@mark@count=\count145
+\pgfplotmarksize=\dimen183
 )
-\tikz@lastx=\dimen180
-\tikz@lasty=\dimen181
-\tikz@lastxsaved=\dimen182
-\tikz@lastysaved=\dimen183
-\tikzleveldistance=\dimen184
-\tikzsiblingdistance=\dimen185
-\tikz@figbox=\box36
-\tikz@figbox@bg=\box37
-\tikz@tempbox=\box38
-\tikz@tempbox@bg=\box39
-\tikztreelevel=\count138
-\tikznumberofchildren=\count139
-\tikznumberofcurrentchild=\count140
-\tikz@fig@count=\count141
+\tikz@lastx=\dimen184
+\tikz@lasty=\dimen185
+\tikz@lastxsaved=\dimen186
+\tikz@lastysaved=\dimen187
+\tikzleveldistance=\dimen188
+\tikzsiblingdistance=\dimen189
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count146
+\tikznumberofchildren=\count147
+\tikznumberofcurrentchild=\count148
+\tikz@fig@count=\count149
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
 modulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count142
-\pgfmatrixcurrentcolumn=\count143
-\pgf@matrix@numberofcolumns=\count144
+\pgfmatrixcurrentrow=\count150
+\pgfmatrixcurrentcolumn=\count151
+\pgf@matrix@numberofcolumns=\count152
 )
-\tikz@expandcount=\count145
+\tikz@expandcount=\count153
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\libraries\tikzlibrarytopaths.code.tex"
@@ -1535,18 +1564,18 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count146
-\calc@Bcount=\count147
-\calc@Adimen=\dimen186
-\calc@Bdimen=\dimen187
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen190
+\calc@Bdimen=\dimen191
 \calc@Askip=\skip48
 \calc@Bskip=\skip49
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count148
+\calc@Ccount=\count156
 \calc@Cskip=\skip50
 )
-\c@@todonotes@numberoftodonotes=\count149
+\c@@todonotes@numberoftodonotes=\count157
 )
    defining Unicode char U+2212 (decimal 8722)
 (thesis.aux (Publications.aux) (chapterThesisIntroduction.aux)
@@ -1554,51 +1583,51 @@ LaTeX Info: Redefining \addtolength on input line 81.
 (chapterTransfer.aux) (chapterLowTPL.aux) (chapterWSe21TIntroduction.aux)
 (chapterWSe21T.aux) (chapterPhases.aux)
 (chapterHeterostructuresIntroduction.aux) (chapterHeterostructures.aux)
-(chapterConclusions.aux))
+(chapterMethodology.aux) (chapterConclusions.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 35.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 36.
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr
 .fd"
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 35.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 36.
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 36.
 
 ("C:\Users\pp3211\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
 kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count150
-\scratchdimen=\dimen188
-\scratchbox=\box40
-\nofMPsegments=\count151
-\nofMParguments=\count152
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count153
-\MPscratchDim=\dimen189
-\MPnumerator=\count154
-\makeMPintoPDFobject=\count155
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count158
+\scratchdimen=\dimen192
+\scratchbox=\box42
+\nofMPsegments=\count159
+\nofMParguments=\count160
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count161
+\MPscratchDim=\dimen193
+\MPnumerator=\count162
+\makeMPintoPDFobject=\count163
+\everyMPtoPDFconversion=\toks42
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1636,15 +1665,16 @@ kii"
 
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 35.
-Package gensymb Info: Math companion symbols declared on input line 35.
-LaTeX Info: Redefining \degree on input line 35.
-LaTeX Info: Redefining \celsius on input line 35.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 36.
+Package gensymb Info: Math companion symbols declared on input line 36.
+LaTeX Info: Redefining \degree on input line 36.
+LaTeX Info: Redefining \celsius on input line 36.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 35.
-LaTeX Info: Redefining \ohm on input line 35.
-Package gensymb Info: Using \textohm for \ohm on input line 35.
-Package gensymb Info: Using \textmu for \micro on input line 35.
+erthousand on input line 36.
+LaTeX Info: Redefining \ohm on input line 36.
+Package gensymb Info: Using \textohm for \ohm on input line 36.
+Package gensymb Info: Using \textmu for \micro on input line 36.
+\c@lstlisting=\count164
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
@@ -1652,7 +1682,7 @@ ABD: EveryShipout initializing macros
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 35.
+loading the todonotes package. on input line 36.
 
 (thesis.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
@@ -1676,37 +1706,37 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `Publications.aux'.
 
  (Publications.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--51
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--51
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--51
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--51
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--51
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--51
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--51
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
@@ -1739,7 +1769,7 @@ p-plied to $\OML/cmm/m/it/12 MoS[]$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 MoS[]
 
  (chapterIntroduction.tex
 Chapter 2.
-<TMDCPolytypes.png, id=35, 562.1pt x 323.2075pt>
+<TMDCPolytypes.png, id=36, 562.1pt x 323.2075pt>
 File: TMDCPolytypes.png Graphic file (type png)
 <use TMDCPolytypes.png>
 Package pdftex.def Info: TMDCPolytypes.png  used on input line 10.
@@ -1752,7 +1782,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ] [7 <./TMDCPolytypes.png (PNG copy)>]
-<WS2BandStructureSimulation.png, id=42, 1138.2525pt x 882.29625pt>
+<WS2BandStructureSimulation.png, id=43, 1138.2525pt x 882.29625pt>
 File: WS2BandStructureSimulation.png Graphic file (type png)
 <use WS2BandStructureSimulation.png>
 Package pdftex.def Info: WS2BandStructureSimulation.png  used on input line 27.
@@ -1765,7 +1795,7 @@ Overfull \hbox (29.3078pt too wide) in paragraph at lines 80--81
  []
 
 [11] [12]
-<RamanActiveModes.png, id=62, 1148.29pt x 509.905pt>
+<RamanActiveModes.png, id=63, 1148.29pt x 509.905pt>
 File: RamanActiveModes.png Graphic file (type png)
 <use RamanActiveModes.png>
 Package pdftex.def Info: RamanActiveModes.png  used on input line 103.
@@ -2888,35 +2918,61 @@ ostructuresRamanIntensityEMoAu.png> <./Heterostructures/SEMImagesFlake.png>]
 [89 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
 [90 <./Heterostructures/STEMEDS.png>] [91 <./Heterostructures/FIBSTEMEDS.png>]
 [92 <./Heterostructures/CyclicVoltammetry.png>]
-\openout2 = `chapterConclusions.aux'.
+\openout2 = `chapterMethodology.aux'.
 
- (chapterConclusions.tex
+ (chapterMethodology.tex
 Chapter 12.
 [93
 
 
 
-] [94]) [95]
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
+]
+<Methodology/RamanEnergyLevels.png, id=475, 1204.5pt x 921.4425pt>
+File: Methodology/RamanEnergyLevels.png Graphic file (type png)
+<use Methodology/RamanEnergyLevels.png>
+Package pdftex.def Info: Methodology/RamanEnergyLevels.png  used on input line 
+17.
+(pdftex.def)             Requested size: 361.35278pt x 276.43488pt.
+ [94 <./Methodology/RamanEnergyLevels.png>]
+<Methodology/RamanSetup.png, id=481, 633.36626pt x 381.425pt>
+File: Methodology/RamanSetup.png Graphic file (type png)
+<use Methodology/RamanSetup.png>
+Package pdftex.def Info: Methodology/RamanSetup.png  used on input line 29.
+(pdftex.def)             Requested size: 443.35336pt x 266.99567pt.
+
+
+LaTeX Warning: Reference `app:Matlab' on page 95 undefined on input line 35.
+
+[95 <./Methodology/RamanSetup.png (PNG copy)>]) [96]
+\openout2 = `chapterConclusions.aux'.
+
+ (chapterConclusions.tex
+Chapter 13.
+[97
+
+
+
+] [98]) [99]
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
 
  []
 
-(thesis.bbl [96
+(thesis.bbl [100
 
-] [97
+] [101
 
-] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-[107] [108] [109] [110] [111]) [112] (thesis.aux (Publications.aux)
+] [102] [103] [104] [105] [106] [107] [108] [109]
+[110] [111] [112] [113] [114] [115]) [116] (thesis.aux (Publications.aux)
 (chapterThesisIntroduction.aux) (chapterIntroduction.aux) (chapterWS2.aux)
 (chapterWSe2.aux) (chapterTransfer.aux) (chapterLowTPL.aux)
 (chapterWSe21TIntroduction.aux) (chapterWSe21T.aux) (chapterPhases.aux)
 (chapterHeterostructuresIntroduction.aux) (chapterHeterostructures.aux)
-(chapterConclusions.aux))
+(chapterMethodology.aux) (chapterConclusions.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -2926,33 +2982,34 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 8 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 17883 strings out of 493305
- 352202 string characters out of 3129355
- 378500 words of memory out of 3000000
- 20969 multiletter control sequences out of 15000+200000
- 22037 words of font info for 82 fonts, out of 3000000 for 9000
+ 19231 strings out of 493305
+ 371782 string characters out of 3129355
+ 400225 words of memory out of 3000000
+ 22297 multiletter control sequences out of 15000+200000
+ 22377 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,82p,3865b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,9n,82p,3865b,789s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\tcrm1095.pk> <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\tcrm1200.pk><C:/Users/pp3211/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pp3211/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pp3
-211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pp3211/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pp3211/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pp32
-11/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+ppen\ec\dpi600\tcbx1728.pk> <C:\Users\pp3211\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\tcrm1095.pk> <C:\Users\pp3211\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk><C:/Users/pp3211/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pp3211
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
 :/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (115 pages, 19434145 bytes).
+/cmmi12.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pp3211/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pp3211/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pp321
+1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:
+/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (119 pages, 19514082 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
+ 609 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 548 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 558 words of extra memory for PDF output out of 10000 (max. 10000000)
 
