@@ -38,6 +38,47 @@ A Raman spectrometer used in this work is a Renishaw Raman spectrometer. The 532
 
 The photoluminescence spectroscopy (PL) is an another versatile non-destructive characterisation technique. When applied to the 2D TMDCs it can provide great insight into the crystal stricture, electronic structure of the material as well as some direct information about its optical properties. One of the great advantages of PL spectroscopy is shared with the Raman spectroscopy in that the sample preparation and handling is very easy and quick allowing for high throughput of characterisation. Unlike Raman spectroscopy a substrate choice might become more important for PL measurements owing to the fact that the conductive substrate might result in PL quenching. Since the bandgap of many of the 2D TMDCs lies within the optical range of the spectrum or near to it a single laser at 532nm can be used to excite the samples.
 
-Photoluminescence is a type of luminescence where an excitation is provided by the incident light. 
+Photoluminescence is a type of luminescence where an excitation is provided by the incident light. In a semiconducting material like many of the 2D 2H TMDCs the electron from valence band is excited to the conduction band. Following the excitation the electron and resulting hole relax in both energy and momentum to the edge of the conduction and valence band respectively. Thus they form an exciton, a quasi particle that contains no net charge and can move across the material. An exciton in TMDCs can approach large sizes (Wannier-Mott exciton) due to great value of dielectric constant and resulting screening between the electron and the hole. Such exciton can also interact with the material by getting pinned by defect sites. After very short lifetime the exciton recombines emitting the photon at the same time. The photons emitted by the recombining exciton can be then collected. A plot of the photon count versus the energy of the detected photon forms the PL spectrum.
+
+Therefore the PL spectrum can be used to directly infer the optical bandgap which is the electronic band gap of the material minus the binding energy of the exciton. In TMDCs on top of excitons additional type of quasi particle like trions or biexcitons can be found. Those particles exhibit varying level of binding energy and sometimes require special conditions to become excited. The PL spectrum can be therefore used to infer about the presence of those particles and therefore gain insight into the structure of the material. An energy diagram representing the photoluminescence (fluoresecence) process can be seen in Figure \ref{fig:MethodologyPLDiagram}.
+
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[scale=0.7]{Methodology/PLDiagram.png}
+		\caption{The photoluminescence (fluorescence) process. Reproduced from www.renishaw.com}
+		\label{fig:MethodologyPLDiagram}
+	\end{center}
+\end{figure}
+
+The PL signal becomes broadened due to variety of factors. On of the most important contributors is temperature which results in Gaussian broadening. At room temperature there is a constant peak broadening of about 25 meV. Because that broadening is relatively close to the binding energy of the trion (~30 meV). Therefore at room temperature the trion peak which is generally weaker than the exciton peak cannot be easily resolved. In order to be able to resolve those peaks a PL measurement at lower temperature can be performed.
+
+A photoluminescence setup can look very similar to that of the Raman setup as seen in Figure \ref{fig:MethodologyRamanSetup}. A monochromatic light source e.g. a laser illuminates the sample at the energy greater than that of the materials bandgap. As a result of that the photons emitted from the material together with the inelastically (Raman) and elastically (Rayleigh) scattered photons pass through a filter to remove the latter. The remaining light is then passed through monochromator and detected at the CCD detector. As a result the PL and Raman spectra can be observed in the same spectrum, provided that the sample material can produce both of those signals. 
+
+For low temperature (77K) measurements an environmental stage, Linkam THMS-350V. A pump was used to lower the pressure in the chamber down to about $2 \times 10^{-3}$ mbar. The liquid nitrogen was used to cool down the stage down to 77K. The stage was placed in Renishaw Raman spectrometer to capture PL spectra.
+
+The PL spectrometer used in this work is a Renishaw Raman spectrometer. The 532nm green laser with objective lens of 100x with 0.9 numerical aperture was used and the data was recorded in backscattering configuration. The laser power used was 0.32mW with 0.1s exposition time for maps and up to 5s exposition time for a single extended spectrum. The 1800 lines/mm grating was used resulting in a resolution of about 1.5 $cm^{-1}$. The spectrum was calibrated using silicon Raman peak at 520 $cm^{-1}$. All data analysis was carried out was done using MATLAB software and the peak fitting script can be found in Appendix \ref{app:Matlab}.
 
 \section{X-ray photoelectron spectroscopy}
+
+One of the most useful characterisation techniques for study of 2D TMDCs is X-ray photoelectron spectroscopy. It is a non-destructive method which allows to gain information about the chemical composition of the studied material. It is a very surface sensitive method that allows for obtaining signals from about 10 nm of the sample depth. In order to perform the XPS measurement the sample must be placed in high vacuum (about $10^{-8}$ mbar). It is therefore necessary that the sample contains no liquids or adsorbed gasses which would increase the pressure inside the analysis chamber. 
+
+When a sample is irradiated with a beam of x-ray photons some of those photons get absorbed by the electrons in the sample. Because the energy of the incident photons is relatively large the electrons have enough energy to leave the atoms and travel towards the detector. At the detector their kinetic energy is measured. Because the energy of the incident x-ray photons is known and the kinetic energy of the photoelectrons is measured the remaining energy can be calculated using Equation \ref{eq:XPSEquation}:
+
+\begin{equation}
+E_{binding}  = E_{photon} - (E_{kinetic} + \Phi)
+\label{eq:XPSEquation}
+\end{equation}
+
+If the $\Phi$ which is a instrumental correction factor is known then the $E_{binding}$ can be found. This binding energy depends on the specific atoms from which the electron as well as the specific atomic configuration. Because of that the chemical composition of a given sample surface can be determined. Additionally the number of detected electrons is directly correlated to the concentration of the atoms in the given sample the specific atomic percentages within the scanned area can be calculated. The number of detected electrons can be then plotted against the calculated corresponding binding energy of the electrons to form an XPS spectrum. A diagram of the XPS physics can be seen in Figure \ref{fig:MethodologyXPSSetup}.
+
+In TMDCs the XPS can be used to determine the stoichiometric composition of the as grown material as well as detect any traces of unintentional doping from alkali or halogen atoms or intentional doping by e.g. In atoms. Additionally the amount of oxides as well as the presence of 2H or 1T phases can be quantitatively determined. 
+
+The XPS spectra were collected using the Thermo Scientific K-Alpha XPS system. The Al $K_{\alpha}$ emission line was used as the x-ray source. The pass energy of 20 eV and the energy step of 0.1 eV were used. The XPS spectra were collected at room temperature and pressure of about $3 \times 10^{-8}$ mbar. The acquired data was analysed using Avantage software.
+
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[scale=0.3]{Methodology/XPSSetup.png}
+		\caption{XPS spectrum acquisition diagram. Reproduced from en.wikipedia.org/}
+		\label{fig:MethodologyXPSSetup}
+	\end{center}
+\end{figure}
