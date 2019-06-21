@@ -1808,6 +1808,19 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {Springer Nature},
 }
 
+@Article{Song2015,
+  author    = {Seunghyun Song and Dong Hoon Keum and Suyeon Cho and David Perello and Yunseok Kim and Young Hee Lee},
+  title     = {Room Temperature Semiconductor{\textendash}Metal Transition of {MoTe}2 Thin Films Engineered by Strain},
+  journal   = {Nano Letters},
+  year      = {2015},
+  volume    = {16},
+  number    = {1},
+  pages     = {188--193},
+  month     = {dec},
+  doi       = {10.1021/acs.nanolett.5b03481},
+  publisher = {American Chemical Society ({ACS})},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

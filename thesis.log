@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  20 JUN 2019 22:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  21 JUN 2019 21:55
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1581,9 +1581,9 @@ LaTeX Info: Redefining \addtolength on input line 81.
 (thesis.aux (Publications.aux) (chapterThesisIntroduction.aux)
 (chapterIntroduction.aux) (chapterWS2.aux) (chapterWSe2.aux)
 (chapterTransfer.aux) (chapterLowTPL.aux) (chapterWSe21TIntroduction.aux)
-(chapterWSe21T.aux) (chapterPhases.aux)
-(chapterHeterostructuresIntroduction.aux) (chapterHeterostructures.aux)
-(chapterMethodology.aux) (chapterConclusions.aux))
+(chapterWSe21T.aux) (chapterHeterostructuresIntroduction.aux)
+(chapterHeterostructures.aux) (chapterMethodology.aux) (chapterConclusions.aux)
+)
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -2539,26 +2539,17 @@ Package pdftex.def Info: 1T'/ElectronicProperties.png  used on input line 78.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) [60] [61 <./1T'/TEMMaps.png>] [62 <./1T'/ElectronicProperties.png>]
-\openout2 = `chapterPhases.aux'.
-
-
-(chapterPhases.tex
-Chapter 9.
-) [63
-
-
-
-]
 \openout2 = `chapterHeterostructuresIntroduction.aux'.
 
- (chapterHeterostructuresIntroduction.tex
-Chapter 10.
-[64
+
+(chapterHeterostructuresIntroduction.tex
+Chapter 9.
+[63
 
 
 
 ]
-<Heterostructures/HeterostructureChargeSeparationDiagram.png, id=335, 173.89969
+<Heterostructures/HeterostructureChargeSeparationDiagram.png, id=331, 173.89969
 pt x 192.72pt>
 File: Heterostructures/HeterostructureChargeSeparationDiagram.png Graphic file 
 (type png)
@@ -2570,8 +2561,8 @@ m.png  used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[65]
-<Heterostructures/HeterostructureOpticalMap.png, id=339, 161.85469pt x 161.8546
+[64]
+<Heterostructures/HeterostructureOpticalMap.png, id=336, 161.85469pt x 161.8546
 9pt>
 File: Heterostructures/HeterostructureOpticalMap.png Graphic file (type png)
 <use Heterostructures/HeterostructureOpticalMap.png>
@@ -2582,8 +2573,8 @@ n input line 33.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[66 <./Heterostructures/HeterostructureChargeSeparationDiagram.png>]
-<Heterostructures/HeterostructureOpticalSEMAFMImages.png, id=343, 412.54124pt x
+[65 <./Heterostructures/HeterostructureChargeSeparationDiagram.png>]
+<Heterostructures/HeterostructureOpticalSEMAFMImages.png, id=340, 412.54124pt x
  88.07906pt>
 File: Heterostructures/HeterostructureOpticalSEMAFMImages.png Graphic file (typ
 e png)
@@ -2595,8 +2586,8 @@ g  used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[67 <./Heterostructures/HeterostructureOpticalMap.png>]
-<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=347, 182.93344pt x 
+[66 <./Heterostructures/HeterostructureOpticalMap.png>]
+<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=344, 182.93344pt x 
 301.125pt>
 File: Heterostructures/HeterostructureRamanSpectrumIntro.png Graphic file (type
  png)
@@ -2608,7 +2599,7 @@ Package pdftex.def Info: Heterostructures/HeterostructureRamanSpectrumIntro.png
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructureAFMProfile.png, id=348, 194.97844pt x 135.5062
+<Heterostructures/HeterostructureAFMProfile.png, id=345, 194.97844pt x 135.5062
 6pt>
 File: Heterostructures/HeterostructureAFMProfile.png Graphic file (type png)
 <use Heterostructures/HeterostructureAFMProfile.png>
@@ -2618,7 +2609,7 @@ n input line 69.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumIntro.png, id=349, 429.85594pt x 350
+<Heterostructures/HeterostructurePLSpectrumIntro.png, id=346, 429.85594pt x 350
 .81062pt>
 File: Heterostructures/HeterostructurePLSpectrumIntro.png Graphic file (type pn
 g)
@@ -2626,14 +2617,14 @@ g)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntro.png  u
 sed on input line 80.
 (pdftex.def)             Requested size: 429.85489pt x 350.80975pt.
-[68 <./Heterostructures/HeterostructureOpticalSEMAFMImages.png>]
+[67 <./Heterostructures/HeterostructureOpticalSEMAFMImages.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[69 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)> <./He
-terostructures/HeterostructureAFMProfile.png>] [70 <./Heterostructures/Heterost
+[68 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)> <./He
+terostructures/HeterostructureAFMProfile.png>] [69 <./Heterostructures/Heterost
 ructurePLSpectrumIntro.png>]
-<Heterostructures/HeterostructurePLSpectrumIntroComparison.png, id=361, 236.383
+<Heterostructures/HeterostructurePLSpectrumIntroComparison.png, id=357, 236.383
 12pt x 219.06844pt>
 File: Heterostructures/HeterostructurePLSpectrumIntroComparison.png Graphic fil
 e (type png)
@@ -2641,8 +2632,8 @@ e (type png)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntroCompari
 son.png  used on input line 95.
 (pdftex.def)             Requested size: 236.38254pt x 219.06789pt.
- [71 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
-<Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png, id=365, 348.552
+ [70 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
+<Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png, id=362, 348.552
 19pt x 457.71pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png Graphic fil
 e (type png)
@@ -2654,7 +2645,7 @@ tro.png  used on input line 110.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=366, 353.069
+<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=363, 353.069
 06pt x 328.97906pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png Graphic fil
 e (type png)
@@ -2665,19 +2656,19 @@ ist.png  used on input line 120.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [72] [73 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
-[74 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
+) [71] [72 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
+[73 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
 \openout2 = `chapterHeterostructures.aux'.
 
 
 (chapterHeterostructures.tex
-Chapter 11.
-[75
+Chapter 10.
+[74
 
 
 
 ]
-<Heterostructures/CVDGrowthSetup.png, id=379, 943.525pt x 527.9725pt>
+<Heterostructures/CVDGrowthSetup.png, id=376, 943.525pt x 527.9725pt>
 File: Heterostructures/CVDGrowthSetup.png Graphic file (type png)
 <use Heterostructures/CVDGrowthSetup.png>
 Package pdftex.def Info: Heterostructures/CVDGrowthSetup.png  used on input lin
@@ -2688,8 +2679,8 @@ Overfull \hbox (16.51723pt too wide) in paragraph at lines 23--24
  [] 
  []
 
-[76]
-<Heterostructures/SEMImages.png, id=384, 899.36pt x 631.35875pt>
+[75]
+<Heterostructures/SEMImages.png, id=380, 899.36pt x 631.35875pt>
 File: Heterostructures/SEMImages.png Graphic file (type png)
 <use Heterostructures/SEMImages.png>
 Package pdftex.def Info: Heterostructures/SEMImages.png  used on input line 31.
@@ -2699,8 +2690,8 @@ Package pdftex.def Info: Heterostructures/SEMImages.png  used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[77 <./Heterostructures/CVDGrowthSetup.png>]
-<Heterostructures/OmSi.png, id=389, 566.86781pt x 360.59718pt>
+[76 <./Heterostructures/CVDGrowthSetup.png>]
+<Heterostructures/OmSi.png, id=386, 566.86781pt x 360.59718pt>
 File: Heterostructures/OmSi.png Graphic file (type png)
 <use Heterostructures/OmSi.png>
 Package pdftex.def Info: Heterostructures/OmSi.png  used on input line 47.
@@ -2709,7 +2700,7 @@ Package pdftex.def Info: Heterostructures/OmSi.png  used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/RamanSpectrum2.png, id=390, 1129.21875pt x 756.57657pt>
+<Heterostructures/RamanSpectrum2.png, id=387, 1129.21875pt x 756.57657pt>
 File: Heterostructures/RamanSpectrum2.png Graphic file (type png)
 <use Heterostructures/RamanSpectrum2.png>
 Package pdftex.def Info: Heterostructures/RamanSpectrum2.png  used on input lin
@@ -2718,8 +2709,8 @@ e 56.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[78 <./Heterostructures/SEMImages.png>]
-<Heterostructures/RamanSpectraMonoBi2.png, id=395, 1129.21875pt x 771.63281pt>
+[77 <./Heterostructures/SEMImages.png>]
+<Heterostructures/RamanSpectraMonoBi2.png, id=392, 1129.21875pt x 771.63281pt>
 File: Heterostructures/RamanSpectraMonoBi2.png Graphic file (type png)
 <use Heterostructures/RamanSpectraMonoBi2.png>
 Package pdftex.def Info: Heterostructures/RamanSpectraMonoBi2.png  used on inpu
@@ -2729,14 +2720,14 @@ t line 67.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/RamanIntensityMapEWS2.png, id=396, 782.17218pt x 630.85687pt>
+<Heterostructures/RamanIntensityMapEWS2.png, id=393, 782.17218pt x 630.85687pt>
 
 File: Heterostructures/RamanIntensityMapEWS2.png Graphic file (type png)
 <use Heterostructures/RamanIntensityMapEWS2.png>
 Package pdftex.def Info: Heterostructures/RamanIntensityMapEWS2.png  used on in
 put line 80.
 (pdftex.def)             Requested size: 204.85846pt x 165.22217pt.
-<Heterostructures/RamanIntensityMapEMoS2.png, id=397, 802.49812pt x 630.85687pt
+<Heterostructures/RamanIntensityMapEMoS2.png, id=394, 802.49812pt x 630.85687pt
 >
 File: Heterostructures/RamanIntensityMapEMoS2.png Graphic file (type png)
 <use Heterostructures/RamanIntensityMapEMoS2.png>
@@ -2746,7 +2737,7 @@ nput line 85.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructureRamanDifferenceW.png, id=398, 1129.21875pt x 7
+<Heterostructures/HeterostructureRamanDifferenceW.png, id=395, 1129.21875pt x 7
 71.63281pt>
 File: Heterostructures/HeterostructureRamanDifferenceW.png Graphic file (type p
 ng)
@@ -2757,7 +2748,7 @@ used on input line 96.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumFitted.png, id=399, 1129.21875pt x 7
+<Heterostructures/HeterostructurePLSpectrumFitted.png, id=396, 1129.21875pt x 7
 71.63281pt>
 File: Heterostructures/HeterostructurePLSpectrumFitted.png Graphic file (type p
 ng)
@@ -2768,7 +2759,7 @@ used on input line 106.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumMono.png, id=400, 1129.21875pt x 771
+<Heterostructures/HeterostructurePLSpectrumMono.png, id=397, 1129.21875pt x 771
 .63281pt>
 File: Heterostructures/HeterostructurePLSpectrumMono.png Graphic file (type png
 )
@@ -2780,26 +2771,26 @@ ed on input line 116.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:HeterostructuresPLPositionsMaps' on page 79 undef
+LaTeX Warning: Reference `fig:HeterostructuresPLPositionsMaps' on page 78 undef
 ined on input line 122.
 
-<Heterostructures/PLIntensityMap11.png, id=401, 1129.21875pt x 771.63281pt>
+<Heterostructures/PLIntensityMap11.png, id=398, 1129.21875pt x 771.63281pt>
 File: Heterostructures/PLIntensityMap11.png Graphic file (type png)
 <use Heterostructures/PLIntensityMap11.png>
 Package pdftex.def Info: Heterostructures/PLIntensityMap11.png  used on input l
 ine 126.
 (pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
-[79 <./Heterostructures/OmSi.png>]
+[78 <./Heterostructures/OmSi.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/PLPositionMap21.png, id=406, 816.80156pt x 630.85687pt>
+<Heterostructures/PLPositionMap21.png, id=403, 816.80156pt x 630.85687pt>
 File: Heterostructures/PLPositionMap21.png Graphic file (type png)
 <use Heterostructures/PLPositionMap21.png>
 Package pdftex.def Info: Heterostructures/PLPositionMap21.png  used on input li
 ne 135.
 (pdftex.def)             Requested size: 204.19989pt x 157.71382pt.
-<Heterostructures/PLPositionMap22.png, id=407, 795.72281pt x 630.85687pt>
+<Heterostructures/PLPositionMap22.png, id=404, 795.72281pt x 630.85687pt>
 File: Heterostructures/PLPositionMap22.png Graphic file (type png)
 <use Heterostructures/PLPositionMap22.png>
 Package pdftex.def Info: Heterostructures/PLPositionMap22.png  used on input li
@@ -2808,7 +2799,7 @@ ne 140.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/OMAu.png, id=408, 566.115pt x 361.35pt>
+<Heterostructures/OMAu.png, id=405, 566.115pt x 361.35pt>
 File: Heterostructures/OMAu.png Graphic file (type png)
 <use Heterostructures/OMAu.png>
 Package pdftex.def Info: Heterostructures/OMAu.png  used on input line 153.
@@ -2817,10 +2808,10 @@ Package pdftex.def Info: Heterostructures/OMAu.png  used on input line 153.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:HeterostructureRamanSpectrumAu' on page 80 undefi
+LaTeX Warning: Reference `fig:HeterostructureRamanSpectrumAu' on page 79 undefi
 ned on input line 159.
 
-<Heterostructures/RamanSpectrumAu.png, id=409, 1129.21875pt x 771.63281pt>
+<Heterostructures/RamanSpectrumAu.png, id=406, 1129.21875pt x 771.63281pt>
 File: Heterostructures/RamanSpectrumAu.png Graphic file (type png)
 <use Heterostructures/RamanSpectrumAu.png>
 Package pdftex.def Info: Heterostructures/RamanSpectrumAu.png  used on input li
@@ -2829,7 +2820,7 @@ ne 163.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructuresRamanIntensityEWAu.png, id=410, 819.8128pt x 
+<Heterostructures/HeterostructuresRamanIntensityEWAu.png, id=407, 819.8128pt x 
 630.85687pt>
 File: Heterostructures/HeterostructuresRamanIntensityEWAu.png Graphic file (typ
 e png)
@@ -2837,7 +2828,7 @@ e png)
 Package pdftex.def Info: Heterostructures/HeterostructuresRamanIntensityEWAu.pn
 g  used on input line 174.
 (pdftex.def)             Requested size: 204.9527pt x 157.71382pt.
-<Heterostructures/HeterostructuresRamanIntensityEMoAu.png, id=411, 807.015pt x 
+<Heterostructures/HeterostructuresRamanIntensityEMoAu.png, id=408, 807.015pt x 
 630.85687pt>
 File: Heterostructures/HeterostructuresRamanIntensityEMoAu.png Graphic file (ty
 pe png)
@@ -2848,8 +2839,8 @@ ng  used on input line 179.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[80 <./Heterostructures/RamanSpectrum2.png (PNG copy)>]
-<Heterostructures/SEMImagesFlake.png, id=415, 690.58pt x 719.68875pt>
+[79 <./Heterostructures/RamanSpectrum2.png (PNG copy)>]
+<Heterostructures/SEMImagesFlake.png, id=412, 690.58pt x 719.68875pt>
 File: Heterostructures/SEMImagesFlake.png Graphic file (type png)
 <use Heterostructures/SEMImagesFlake.png>
 Package pdftex.def Info: Heterostructures/SEMImagesFlake.png  used on input lin
@@ -2859,7 +2850,7 @@ e 198.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/TEMImages.png, id=416, 588.1975pt x 556.0775pt>
+<Heterostructures/TEMImages.png, id=413, 588.1975pt x 556.0775pt>
 File: Heterostructures/TEMImages.png Graphic file (type png)
 <use Heterostructures/TEMImages.png>
 Package pdftex.def Info: Heterostructures/TEMImages.png  used on input line 206
@@ -2868,7 +2859,7 @@ Package pdftex.def Info: Heterostructures/TEMImages.png  used on input line 206
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/FIBTEMSEM.png, id=417, 927.465pt x 750.805pt>
+<Heterostructures/FIBTEMSEM.png, id=414, 927.465pt x 750.805pt>
 File: Heterostructures/FIBTEMSEM.png Graphic file (type png)
 <use Heterostructures/FIBTEMSEM.png>
 Package pdftex.def Info: Heterostructures/FIBTEMSEM.png  used on input line 214
@@ -2877,7 +2868,7 @@ Package pdftex.def Info: Heterostructures/FIBTEMSEM.png  used on input line 214
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/STEMEDS.png, id=418, 872.25874pt x 938.50626pt>
+<Heterostructures/STEMEDS.png, id=415, 872.25874pt x 938.50626pt>
 File: Heterostructures/STEMEDS.png Graphic file (type png)
 <use Heterostructures/STEMEDS.png>
 Package pdftex.def Info: Heterostructures/STEMEDS.png  used on input line 222.
@@ -2885,7 +2876,7 @@ Package pdftex.def Info: Heterostructures/STEMEDS.png  used on input line 222.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/FIBSTEMEDS.png, id=419, 724.7075pt x 758.835pt>
+<Heterostructures/FIBSTEMEDS.png, id=416, 724.7075pt x 758.835pt>
 File: Heterostructures/FIBSTEMEDS.png Graphic file (type png)
 <use Heterostructures/FIBSTEMEDS.png>
 Package pdftex.def Info: Heterostructures/FIBSTEMEDS.png  used on input line 23
@@ -2894,10 +2885,10 @@ Package pdftex.def Info: Heterostructures/FIBSTEMEDS.png  used on input line 23
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[81 <./Heterostructures/RamanSpectraMonoBi2.png (PNG copy)>] [82 <./Heterostruc
+[80 <./Heterostructures/RamanSpectraMonoBi2.png (PNG copy)>] [81 <./Heterostruc
 tures/RamanIntensityMapEWS2.png> <./Heterostructures/RamanIntensityMapEMoS2.png
 >]
-<Heterostructures/CyclicVoltammetry.png, id=429, 900.36375pt x 648.4225pt>
+<Heterostructures/CyclicVoltammetry.png, id=425, 900.36375pt x 648.4225pt>
 File: Heterostructures/CyclicVoltammetry.png Graphic file (type png)
 <use Heterostructures/CyclicVoltammetry.png>
 Package pdftex.def Info: Heterostructures/CyclicVoltammetry.png  used on input 
@@ -2907,74 +2898,81 @@ line 247.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[83 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
-[84 <./Heterostructures/HeterostructurePLSpectrumFitted.png (PNG copy)>]
-[85 <./Heterostructures/HeterostructurePLSpectrumMono.png (PNG copy)>])
-[86 <./Heterostructures/PLIntensityMap11.png (PNG copy)>] [87 <./Heterostructur
+[82 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
+[83 <./Heterostructures/HeterostructurePLSpectrumFitted.png (PNG copy)>]
+[84 <./Heterostructures/HeterostructurePLSpectrumMono.png (PNG copy)>])
+[85 <./Heterostructures/PLIntensityMap11.png (PNG copy)>] [86 <./Heterostructur
 es/PLPositionMap21.png> <./Heterostructures/PLPositionMap22.png> <./Heterostruc
-tures/OMAu.png> <./Heterostructures/RamanSpectrumAu.png (PNG copy)>] [88 <./Het
+tures/OMAu.png> <./Heterostructures/RamanSpectrumAu.png (PNG copy)>] [87 <./Het
 erostructures/HeterostructuresRamanIntensityEWAu.png> <./Heterostructures/Heter
 ostructuresRamanIntensityEMoAu.png> <./Heterostructures/SEMImagesFlake.png>]
-[89 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
-[90 <./Heterostructures/STEMEDS.png>] [91 <./Heterostructures/FIBSTEMEDS.png>]
-[92 <./Heterostructures/CyclicVoltammetry.png>]
+[88 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
+[89 <./Heterostructures/STEMEDS.png>] [90 <./Heterostructures/FIBSTEMEDS.png>]
+[91 <./Heterostructures/CyclicVoltammetry.png>]
 \openout2 = `chapterMethodology.aux'.
 
  (chapterMethodology.tex
-Chapter 12.
-[93
+Chapter 11.
+[92
 
 
 
 ]
-<Methodology/RamanEnergyLevels.png, id=475, 1204.5pt x 921.4425pt>
+<Methodology/RamanEnergyLevels.png, id=472, 1204.5pt x 921.4425pt>
 File: Methodology/RamanEnergyLevels.png Graphic file (type png)
 <use Methodology/RamanEnergyLevels.png>
 Package pdftex.def Info: Methodology/RamanEnergyLevels.png  used on input line 
 17.
 (pdftex.def)             Requested size: 361.35278pt x 276.43488pt.
- [94 <./Methodology/RamanEnergyLevels.png>]
-<Methodology/RamanSetup.png, id=481, 633.36626pt x 381.425pt>
+ [93 <./Methodology/RamanEnergyLevels.png>]
+<Methodology/RamanSetup.png, id=477, 633.36626pt x 381.425pt>
 File: Methodology/RamanSetup.png Graphic file (type png)
 <use Methodology/RamanSetup.png>
 Package pdftex.def Info: Methodology/RamanSetup.png  used on input line 29.
 (pdftex.def)             Requested size: 443.35336pt x 266.99567pt.
 
 
-LaTeX Warning: Reference `app:Matlab' on page 95 undefined on input line 35.
+LaTeX Warning: Reference `app:Matlab' on page 94 undefined on input line 35.
 
-[95 <./Methodology/RamanSetup.png (PNG copy)>] [96]
-<Methodology/PLDiagram.png, id=488, 494.84875pt x 361.35pt>
+[94 <./Methodology/RamanSetup.png (PNG copy)>] [95]
+<Methodology/PLDiagram.png, id=485, 494.84875pt x 361.35pt>
 File: Methodology/PLDiagram.png Graphic file (type png)
 <use Methodology/PLDiagram.png>
 Package pdftex.def Info: Methodology/PLDiagram.png  used on input line 47.
 (pdftex.def)             Requested size: 346.39177pt x 252.94327pt.
 
 Underfull \hbox (badness 2393) in paragraph at lines 48--48
-[]\OT1/cmr/m/n/12 Figure 12.3: |The pho-to-lu-mi-nes-cence (flu-o-res-cence) pr
+[]\OT1/cmr/m/n/12 Figure 11.3: |The pho-to-lu-mi-nes-cence (flu-o-res-cence) pr
 o-cess. Re-pro-duced from
  []
 
-[97 <./Methodology/PLDiagram.png (PNG copy)>]
+[96 <./Methodology/PLDiagram.png (PNG copy)>]
 
-LaTeX Warning: Reference `app:Matlab' on page 98 undefined on input line 59.
+LaTeX Warning: Reference `app:Matlab' on page 97 undefined on input line 59.
 
-[98]
-<Methodology/XPSSetup.png, id=495, 1117.17375pt x 838.13126pt>
+[97]
+<Methodology/XPSSetup.png, id=492, 1117.17375pt x 838.13126pt>
 File: Methodology/XPSSetup.png Graphic file (type png)
 <use Methodology/XPSSetup.png>
 Package pdftex.def Info: Methodology/XPSSetup.png  used on input line 80.
 (pdftex.def)             Requested size: 335.15471pt x 251.44131pt.
-) [99 <./Methodology/XPSSetup.png>]
+ [98 <./Methodology/XPSSetup.png>] [99]
+
+LaTeX Warning: Citation `Sze2006' on page 100 undefined on input line 96.
+
+
+LaTeX Warning: Citation `Sze2006' on page 100 undefined on input line 124.
+
+) [100] [101]
 \openout2 = `chapterConclusions.aux'.
 
  (chapterConclusions.tex
-Chapter 13.
-[100
+Chapter 12.
+[102
 
 
 
-] [101]) [102]
+] [103]) [104]
 Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
@@ -2984,22 +2982,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
-(thesis.bbl [103
+(thesis.bbl [105
 
-] [104
+] [106
 
-] [105] [106] [107] [108] [109] [110] [111] [112]
-[113] [114] [115] [116] [117] [118]) [119] (thesis.aux (Publications.aux)
+] [107] [108] [109] [110] [111] [112] [113] [114]
+[115] [116] [117] [118] [119] [120]) [121] (thesis.aux (Publications.aux)
 (chapterThesisIntroduction.aux) (chapterIntroduction.aux) (chapterWS2.aux)
 (chapterWSe2.aux) (chapterTransfer.aux) (chapterLowTPL.aux)
-(chapterWSe21TIntroduction.aux) (chapterWSe21T.aux) (chapterPhases.aux)
+(chapterWSe21TIntroduction.aux) (chapterWSe21T.aux)
 (chapterHeterostructuresIntroduction.aux) (chapterHeterostructures.aux)
 (chapterMethodology.aux) (chapterConclusions.aux))
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 1)
@@ -3007,10 +3002,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 ### simple group (level 1) entered at line 8 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 19239 strings out of 493305
- 372051 string characters out of 3129355
- 400263 words of memory out of 3000000
- 22306 multiletter control sequences out of 15000+200000
+ 19236 strings out of 493305
+ 371936 string characters out of 3129355
+ 399657 words of memory out of 3000000
+ 22310 multiletter control sequences out of 15000+200000
  22037 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,9n,82p,3865b,789s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3031,9 +3026,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pp32
 /cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (122 pages, 20150990 bytes).
+Output written on thesis.pdf (124 pages, 20159576 bytes).
 PDF statistics:
- 616 PDF objects out of 1000 (max. 8388607)
+ 622 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  568 words of extra memory for PDF output out of 10000 (max. 10000000)
 

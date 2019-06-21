@@ -78,7 +78,49 @@ The XPS spectra were collected using the Thermo Scientific K-Alpha XPS system. T
 \begin{figure}[!h]
 	\begin{center}
 		\includegraphics[scale=0.3]{Methodology/XPSSetup.png}
-		\caption{XPS spectrum acquisition diagram. Reproduced from en.wikipedia.org/}
+		\caption{XPS spectrum acquisition diagram. Reproduced from en.wikipedia.org}
 		\label{fig:MethodologyXPSSetup}
 	\end{center}
 \end{figure}
+
+\section{Transfer}
+
+Due to the nature of the 2D materials, the 2D TMDCs are generally always deposited on some substrate and cannot be used independently of it. Depending on the manufacturing method different substrates can be used to initially synthesise or deposit the material. In general however the initially used substrate is different to that which can be used for either characterisation or specific application. The samples synthesised by CVD are grown generally on $Si/SiO_2$ at very high temperature and as such cannot be readily used in electronic applications due to $Si$ deterioration at high temperature. To that effect the as grown samples are required to be transferred to a new substrate. 
+
+In this work the wet transfer method has been utilised to transfer CVD grown samples from $Si/SiO_2$ to another $Si/SiO_2$, Au or TEM grid substrate. In this method the sample is first spin-coated with a thin layer of PMMA at 3000 RPM for 60 s. After that the sample is then dried and heated up to about 50 {\degree}C for about 1 hour to ensure full polymerisation. Following that the substrate with the sample is then placed in a bath of 8\% KOH solution for about 45 min or until the $Si$ under the $SiO_2$ has completely sank to the bottom of the beaker. The think layer of PMMA with the sample at the bottom is then scooped up with a glass slide and transferred to a DI water to remove the KOH. The sample is held in a water bath for about 30 min and the step is repeated 2-3 more times. After the last dilution step the sample is scooped onto a target substrate. The sample is then gently dried using compressed nitrogen or air to drive any water from between the PMMA and the substrate. The substrate is then heated up to about 50 {\degree}C for about an 1h to completely dry the sample of any water and ensure better adhesion to the substrate. The substrate is then placed in a bath of acetone and isopropanol heated up to 60 {\degree}C for about an 1h to remove the PMMA layer. After all PMMA has been removed the sample is heated again on a hot plate up to 100 {\degree}C to remove any traces of PMMA.
+
+\section{Device fabrication}
+
+In order to measure the electric properties of the as-grown materials the material can be used to make a field effect transistor (FET) device. For that purpose the as grown mono- and bi-layer $WS_2$ was transferred onto a $Si/SiO_2$ substrate with the $SiO_2$ layer of 285 nm in thickness. The $Si$ is highly p-doped then acts as a global gate electrode while the $SiO_2$ is a gate dielectric. On top of the deposited contacts for source and drain electrodes additional probes were used in each of the FET devices to eliminate any voltage contributions from the contacts and thus allow for correct measurement of the channel conductance. The drain and source drains as well as the voltage drains were deposited using electron beam lithography. The contacts as well as the probes were made using 50 nm thick Au, while the rest of the leads were made using 5nm thick Ti and 50 nm thick Au. Following the contacts and leads deposition the FET devices were annealed at 200 {\degree}C fpr 2h under $H_2/Ar$ (10/90) flow at 1 bar to remove any remaining PMMA from the lithographic process. The sample was then annealed at 115 {\degree}C for 60 h under high vacuum ($10^{-6}$ mbar) to remove any remaining water.
+
+Following the FET preparation the samples were then characterised in a vacuum chamber in high vacuum ($10^{-6}$ mbar). A low noise source-meter was used to bias the drain electrode with source being grounded. Additionally another source was used to bias the gate electrode. The current across the channel $I_(ds)$ was measured using ammeter while the voltage $V_{A-B}$ across the voltage probes was measured with a voltmeter. The gate bias was applied until the measured current reached linear regime where it is described by Equation \ref{eq:FETCurrent} \cite{Sze2006}: 
+
+\begin{equation}
+I_d = {\mu}_nC_{Ox}\frac{W}{L}(V_{gs} - V_{th})V_{ds}
+\label{eq:FETCurrent}
+\end{equation}
+
+where ${\mu}_n$ is electron field effect mobility, $C_{Ox}$ is the $SiO_2$ capacitance, W, L are the channel width and length, $V_{th}$ is the threshold voltage, $V_{ds}$ and $V_{gs}$ are the drain-source voltage and gain-source voltage respectively. From the measurement of the current the field-effect mobility for the mono- and bi-layer of the $WS_2$ can be calculated using the linear part of the plot from Equation \ref{eq:FETMobility}: 
+
+\begin{equation}
+\mu_{n} = C_{Ox}^{-1}\frac{d{\sigma}}{dV_{gs}}
+\label{eq:FETMobility}
+\end{equation}
+
+where $\sigma$ is the channel conductivity which can be calculated from Equation \ref{eq:FETConductivity}:
+
+\begin{equation}
+\sigma = \frac{LI_{ds}}{W V_{A-B}}
+\label{eq:FETConductivity}
+\end{equation}
+
+and the oxide capacitance $C_{Ox}$ was calculated to be 115$\mu F m^{-2}$ using Equation \ref{eq:FETCapacitance}:
+
+\begin{equation}
+C_{Ox} = \frac{{\epsilon}_0{\epsilon}_r}{d_{Ox}}
+\label{eq:FETCapacitance}
+\end{equation}
+
+where ${\epsilon}_0$ and ${\epsilon}_r$ are the vacuum and relative permittivity of $SiO_2$ respectively and $d_{Ox}$ is the oxide thickness \cite{Sze2006}.
+
+Additionally the the resistance vs temperature measurements were performed flakes were contacted using two wires configuration. The contacts were deposited using standard photolithographic method by applying the photo resist mask (AZ 5214E) followed by evaporation of Ti (5 nm) and Au (30 nm) using thermal evaporation and sputtering respectively. The measurements were then performed using six arm cryogenic probe station. The measurements were taken at high vacuum of $10^{-5}$ mbar and liquid nitrogen temperature. Following the measurements the conductivity was calculated from $\sigma = \frac{L}{RA}$, where L is the distance between contacts (~3 $\mu m$), R is the resistance while A is the flake cross section (0.9 nm - 40$\mu m$). The Keithley 2410 source measure unit as well as Lakeshor temperature controller were used for the measurement.

@@ -25,26 +25,26 @@
 \contentsline {section}{\numberline {8.1}Introduction}{56}
 \contentsline {section}{\numberline {8.2}Results}{57}
 \contentsline {section}{\numberline {8.3}Conclusions}{60}
-\contentsline {chapter}{\numberline {9}TMDC phases - review}{63}
+\contentsline {chapter}{\numberline {9}Heterostructures - state of the art}{63}
 \contentsline {section}{\numberline {9.1}Introduction}{63}
-\contentsline {chapter}{\numberline {10}Heterostructures - state of the art}{64}
-\contentsline {section}{\numberline {10.1}Introduction}{64}
-\contentsline {section}{\numberline {10.2}Properties of bilayer heterostructures}{65}
-\contentsline {section}{\numberline {10.3}Fabrication of bilayer heterostructures}{66}
-\contentsline {subsubsection}{Transfer -approach}{66}
-\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{67}
-\contentsline {section}{\numberline {10.4}Characterization of bilayer heterostructures}{68}
-\contentsline {subsection}{\numberline {10.4.1}Raman spectroscopy}{68}
-\contentsline {subsection}{\numberline {10.4.2}Photoluminescence}{69}
-\contentsline {chapter}{\numberline {11}Heterostructures}{75}
-\contentsline {section}{\numberline {11.1}Introduction}{75}
-\contentsline {section}{\numberline {11.2}Results}{76}
-\contentsline {subsection}{\numberline {11.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{76}
-\contentsline {section}{\numberline {11.3}Appendix}{83}
-\contentsline {chapter}{\numberline {12}Methodology}{93}
-\contentsline {section}{\numberline {12.1}Introduction}{93}
-\contentsline {section}{\numberline {12.2}Raman spectroscopy}{93}
-\contentsline {section}{\numberline {12.3}Photoluminescence spectroscopy}{96}
-\contentsline {section}{\numberline {12.4}X-ray photoelectron spectroscopy}{98}
-\contentsline {chapter}{\numberline {13}Conclusions and future work}{100}
-\contentsline {chapter}{Bibliography}{104}
+\contentsline {section}{\numberline {9.2}Properties of bilayer heterostructures}{64}
+\contentsline {section}{\numberline {9.3}Fabrication of bilayer heterostructures}{65}
+\contentsline {subsubsection}{Transfer -approach}{65}
+\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{66}
+\contentsline {section}{\numberline {9.4}Characterization of bilayer heterostructures}{67}
+\contentsline {subsection}{\numberline {9.4.1}Raman spectroscopy}{67}
+\contentsline {subsection}{\numberline {9.4.2}Photoluminescence}{68}
+\contentsline {chapter}{\numberline {10}Heterostructures}{74}
+\contentsline {section}{\numberline {10.1}Introduction}{74}
+\contentsline {section}{\numberline {10.2}Results}{75}
+\contentsline {subsection}{\numberline {10.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{75}
+\contentsline {section}{\numberline {10.3}Appendix}{82}
+\contentsline {chapter}{\numberline {11}Methodology}{92}
+\contentsline {section}{\numberline {11.1}Introduction}{92}
+\contentsline {section}{\numberline {11.2}Raman spectroscopy}{92}
+\contentsline {section}{\numberline {11.3}Photoluminescence spectroscopy}{95}
+\contentsline {section}{\numberline {11.4}X-ray photoelectron spectroscopy}{97}
+\contentsline {section}{\numberline {11.5}Transfer}{98}
+\contentsline {section}{\numberline {11.6}Device fabrication}{99}
+\contentsline {chapter}{\numberline {12}Conclusions and future work}{102}
+\contentsline {chapter}{Bibliography}{106}
