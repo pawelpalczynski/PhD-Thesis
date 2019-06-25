@@ -23,6 +23,14 @@ M.~Amani, D.-H. Lien, D.~Kiriya, J.~Xiao, A.~Azcatl, J.~Noh, S.~R. Madhvapathy,
 \newblock Near-unity photoluminescence quantum yield in {MoS}2.
 \newblock {\em Science}, 350(6264):1065--1068, nov 2015.
 
+\bibitem{Barbone2018}
+Matteo Barbone, Alejandro R.-P. Montblanch, Dhiren~M. Kara, Carmen
+  Palacios-Berraquero, Alisson~R. Cadore, Domenico~De Fazio, Benjamin Pingault,
+  Elaheh Mostaani, Han Li, Bin Chen, Kenji Watanabe, Takashi Taniguchi,
+  Sefaattin Tongay, Gang Wang, Andrea~C. Ferrari, and Mete Atatüre.
+\newblock Charge-tuneable biexciton complexes in monolayer {WSe}2.
+\newblock {\em Nature Communications}, 9(1), sep 2018.
+
 \bibitem{ExtraordinarySunlightAbsorptionAndOneNanometerThickPhotovoltaicsUsingTwo-DimensionalMonolayerMaterials}
 Marco Bernardi, Maurizia Palummo, and Jeffrey~C. Grossman.
 \newblock Extraordinary sunlight absorption and one nanometer thick
@@ -97,6 +105,11 @@ Yang Cui, Run Xin, Zhihao Yu, Yiming Pan, Zhun-Yong Ong, Xiaoxu Wei, Junzhuan
   high-$\kappa$ dielectrics.
 \newblock {\em Advanced Materials}, 27(35):5230--5234, aug 2015.
 
+\bibitem{Currie2015}
+M.~Currie, A.~T. Hanbicki, G.~Kioseoglou, and B.~T. Jonker.
+\newblock Optical control of charged exciton states in tungsten disulfide.
+\newblock {\em Applied Physics Letters}, 106(20):201907, may 2015.
+
 \bibitem{Dadgar2018}
 A.~M. Dadgar, D.~Scullion, K.~Kang, D.~Esposito, E.~H. Yang, I.~P. Herman,
   M.~A. Pimenta, E.-J.~G. Santos, and A.~N. Pasupathy.
@@ -135,6 +148,12 @@ Zaiyao Fei, Tauno Palomaki, Sanfeng Wu, Wenjin Zhao, Xinghan Cai, Bosong Sun,
   Paul Nguyen, Joseph Finney, Xiaodong Xu, and David~H. Cobden.
 \newblock Edge conduction in monolayer {WTe}2.
 \newblock {\em Nature Physics}, 13(7):677--682, apr 2017.
+
+\bibitem{Feldmann1988}
+J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
+  Elliott.
+\newblock Linewidth dependence of radiative exciton lifetimes in quantum wells.
+\newblock {\em Physical Review Letters}, 60(3):243--243, jan 1988.
 
 \bibitem{Freedman1959}
 Meyer~L. Freedman.
@@ -209,6 +228,17 @@ Humberto~R. Gutiérrez, Nestor Perea-López, Ana~Laura Elías, Ayse Berkdemir,
   monolayers.
 \newblock {\em Nano Letters}, 13(8):3447--3454, dec 2013.
 \newblock PMID: 23194096.
+
+\bibitem{Haug1989}
+H.~Haug and L.~B{\'{a}}nyai, editors.
+\newblock {\em Optical Switching in Low-Dimensional Systems}.
+\newblock Springer {US}, 1989.
+
+\bibitem{Haug1994}
+Hartmut Haug, Stephen~W. Koch, and Leonid~V. Keldysh.
+\newblock Quantum theory of the optical and electronic properties of
+  semiconductors.
+\newblock {\em Physics Today}, 47(2):106--108, feb 2004.
 
 \bibitem{Hofmann1988}
 Wolfgang~K. Hofmann.
@@ -337,6 +367,11 @@ M.~Konig, S.~Wiedmann, C.~Brune, A.~Roth, H.~Buhmann, L.~W. Molenkamp, X.-L.
 \newblock Quantum spin hall insulator state in {HgTe} quantum wells.
 \newblock {\em Science}, 318(5851):766--770, nov 2007.
 
+\bibitem{Korn2011}
+T.~Korn, S.~Heydrich, M.~Hirmer, J.~Schmutzler, and C.~Schüller.
+\newblock Low-temperature photocarrier dynamics in monolayer {MoS}2.
+\newblock {\em Applied Physics Letters}, 99(10):102109, sep 2011.
+
 \bibitem{WS2BandStructureSimulation}
 A.~Kuc, N.~Zibouche, and T.~Heine.
 \newblock Influence of quantum confinement on the electronic structure of the
@@ -464,10 +499,28 @@ He~Keliang Shan~Jie Mak, Kin~Fai and Tony~F. Heinz.
 \newblock Control of valley polarization in monolayer mos2 by optical helicity.
 \newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
 
+\bibitem{Mak2012}
+Kin~Fai Mak, Keliang He, Changgu Lee, Gwan~Hyoung Lee, James Hone, Tony~F.
+  Heinz, and Jie Shan.
+\newblock Tightly bound trions in monolayer {MoS}2.
+\newblock {\em Nature Materials}, 12(3):207--211, dec 2012.
+
+\bibitem{Mak2012a}
+Kin~Fai Mak, Keliang He, Jie Shan, and Tony~F. Heinz.
+\newblock Control of valley polarization in monolayer {MoS}2 by optical
+  helicity.
+\newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
+
 \bibitem{AtomicallyThinMoS2ANewDirect-GapSemiconductor}
 Kin~Fai Mak, Changgu Lee, James Hone, Jie Shan, and Tony~F. Heinz.
 \newblock Atomically thin $mos_2$: A new direct-gap semiconductor.
 \newblock {\em Phys. Rev. Lett.}, 105(13):136805, Sep 2010.
+
+\bibitem{Mak2016}
+Kin~Fai Mak and Jie Shan.
+\newblock Photonics and optoelectronics of 2d semiconductor transition metal
+  dichalcogenides.
+\newblock {\em Nature Photonics}, 10(4):216--226, mar 2016.
 
 \bibitem{Martinez2004}
 H.~Martinez, A.~Benayad, D.~Gonbeau, P.~Vinatier, B.~Pecquenard, and
@@ -476,6 +529,12 @@ H.~Martinez, A.~Benayad, D.~Gonbeau, P.~Vinatier, B.~Pecquenard, and
   films {MOySz} (m=w, ti) studied by {XPS}.
 \newblock {\em Applied Surface Science}, 236(1-4):377--386, sep 2004.
 
+\bibitem{Massicotte2015}
+M.~Massicotte, P.~Schmidt, F.~Vialla, K.~G. Schädler, A.~Reserbat-Plantey,
+  K.~Watanabe, T.~Taniguchi, K.~J. Tielrooij, and F.~H.~L. Koppens.
+\newblock Picosecond photoresponse in van der waals heterostructures.
+\newblock {\em Nature Nanotechnology}, 11(1):42--46, oct 2015.
+
 \bibitem{McCrory2015}
 Charles C.~L. McCrory, Suho Jung, Ivonne~M. Ferrer, Shawn~M. Chatman, Jonas~C.
   Peters, and Thomas~F. Jaramillo.
@@ -483,6 +542,11 @@ Charles C.~L. McCrory, Suho Jung, Ivonne~M. Ferrer, Shawn~M. Chatman, Jonas~C.
   electrocatalysts for solar water splitting devices.
 \newblock {\em Journal of the American Chemical Society}, 137(13):4347--4357,
   mar 2015.
+
+\bibitem{Mouri2013}
+Shinichiro Mouri, Yuhei Miyauchi, and Kazunari Matsuda.
+\newblock Tunable photoluminescence of monolayer {MoS}2 via chemical doping.
+\newblock {\em Nano Letters}, 13(12):5944--5948, nov 2013.
 
 \bibitem{doi:10.1021/nn503093k}
 Mitsuhiro Okada, Takumi Sawazaki, Kenji Watanabe, Takashi Taniguch, Hiroki
@@ -583,6 +647,13 @@ Youmin Rong, Ye~Fan, Ai~Leen Koh, Alex~W. Robertson, Kuang He, Shanshan Wang,
   domains of {WS}2.
 \newblock {\em Nanoscale}, 6(20):12096--12103, sep 2014.
 
+\bibitem{Ross2013}
+Jason~S. Ross, Sanfeng Wu, Hongyi Yu, Nirmal~J. Ghimire, Aaron~M. Jones, Grant
+  Aivazian, Jiaqiang Yan, David~G. Mandrus, Di~Xiao, Wang Yao, and Xiaodong Xu.
+\newblock Electrical control of neutral and charged excitons in a monolayer
+  semiconductor.
+\newblock {\em Nature Communications}, 4(1), feb 2013.
+
 \bibitem{Sahoo2018}
 Prasana~K. Sahoo, Shahriar Memaran, Yan Xin, Luis Balicas, and Humberto~R.
   Guti{\'{e}}rrez.
@@ -644,6 +715,16 @@ Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
 Yan Sun, Shu-Chun Wu, Mazhar~N. Ali, Claudia Felser, and Binghai Yan.
 \newblock Prediction of weyl semimetal in {orthorhombicMoTe}2.
 \newblock {\em Physical Review B}, 92(16), oct 2015.
+
+\bibitem{Sze2002}
+Simon~M. Sze.
+\newblock {\em Semiconductor Devices: Physics and Technology}.
+\newblock Wiley, 2002.
+
+\bibitem{Sze2006}
+Simon~M. Sze and Kwok~K. Ng.
+\newblock {\em Physics of Semiconductor Devices}.
+\newblock Wiley-Blackwell, 2006.
 
 \bibitem{Tada2000}
 Haruna Tada, Amy~E. Kumpel, Richard~E. Lathrop, John~B. Slanina, Patricia
@@ -715,6 +796,13 @@ Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
 \newblock {\em Nature Nanotechnology}, 7:699 EP --, Nov 2012.
 \newblock Review Article.
 
+\bibitem{Wang2012}
+Rui Wang, Brian~A. Ruzicka, Nardeep Kumar, Matthew~Z. Bellus, Hsin-Ying Chiu,
+  and Hui Zhao.
+\newblock Ultrafast and spatially resolved studies of charge carriers in
+  atomically thin molybdenum disulfide.
+\newblock {\em Physical Review B}, 86(4), jul 2012.
+
 \bibitem{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}
 Kiran Kumar Amara Jing Ren Pang Minglin Toh Xin Zhang Christian Kloc Ping
   Heng~Tane Weijie~Zhao, Zohreh~Ghorannevis and Goki Eda.
@@ -780,6 +868,18 @@ Heejun Yang, Sung~Wng Kim, Manish Chhowalla, and Young~Hee Lee.
   layered materials.
 \newblock {\em Nature Physics}, 13(10):931--937, jul 2017.
 
+\bibitem{Ye2014}
+Ziliang Ye, Ting Cao, Kevin O'Brien, Hanyu Zhu, Xiaobo Yin, Yuan Wang,
+  Steven~G. Louie, and Xiang Zhang.
+\newblock Probing excitonic dark states in single-layer tungsten disulphide.
+\newblock {\em Nature}, 513(7517):214--218, aug 2014.
+
+\bibitem{You2015}
+Yumeng You, Xiao-Xiao Zhang, Timothy~C. Berkelbach, Mark~S. Hybertsen, David~R.
+  Reichman, and Tony~F. Heinz.
+\newblock Observation of biexcitons in monolayer {WSe}2.
+\newblock {\em Nature Physics}, 11(6):477--481, may 2015.
+
 \bibitem{Yu2017a}
 Xiaoyun Yu, N{\'{e}}stor Guijarro, Melissa Johnson, and Kevin Sivula.
 \newblock Defect mitigation of solution-processed 2d {WSe}2 nanoflakes for
@@ -832,6 +932,14 @@ Longhui Zeng, Lili Tao, Chunyin Tang, Bo~Zhou, Hui Long, Yang Chai, Shu~Ping
 \newblock High-responsivity {UV}-vis photodetector based on transferable {WS}2
   film deposited by magnetron sputtering.
 \newblock {\em Scientific Reports}, 6(1), jan 2016.
+
+\bibitem{Zhang2014}
+Mei Zhang, Juanxia Wu, Yiming Zhu, Dumitru~O. Dumcenco, Jinhua Hong, Nannan
+  Mao, Shibin Deng, Yanfeng Chen, Yanlian Yang, Chuanhong Jin, Sunil~H. Chaki,
+  Ying-Sheng Huang, Jin Zhang, and Liming Xie.
+\newblock Two-dimensional molybdenum tungsten diselenide alloys:
+  Photoluminescence, raman scattering, and electrical transport.
+\newblock {\em {ACS} Nano}, 8(7):7130--7137, jun 2014.
 
 \bibitem{doi:10.1021/nn403454e}
 Yu~Zhang, Yanfeng Zhang, Qingqing Ji, Jing Ju, Hongtao Yuan, Jianping Shi, Teng

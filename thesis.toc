@@ -3,48 +3,50 @@
 \contentsline {section}{\numberline {2.1}Properties of TMDCs}{6}
 \contentsline {subsection}{\numberline {2.1.1}Electronic properties}{7}
 \contentsline {subsection}{\numberline {2.1.2}Optical properties}{9}
-\contentsline {section}{\numberline {2.2}Phonon dispersion}{13}
-\contentsline {chapter}{\numberline {3}Role of precursors in growth of monolayer $WS_2$}{15}
-\contentsline {section}{\numberline {3.1}Introduction}{15}
-\contentsline {section}{\numberline {3.2}Results}{17}
-\contentsline {section}{\numberline {3.3}Conclusions}{30}
-\contentsline {chapter}{\numberline {4}WSe2}{32}
-\contentsline {section}{\numberline {4.1}Introduction}{32}
-\contentsline {section}{\numberline {4.2}Results}{32}
-\contentsline {chapter}{\numberline {5}Transfer}{39}
-\contentsline {section}{\numberline {5.1}Introduction}{39}
-\contentsline {section}{\numberline {5.2}Experimental}{39}
-\contentsline {section}{\numberline {5.3}Results}{40}
-\contentsline {section}{\numberline {5.4}Conclusions}{42}
-\contentsline {chapter}{\numberline {6}Low T PL}{46}
-\contentsline {section}{\numberline {6.1}Introduction}{46}
-\contentsline {section}{\numberline {6.2}Experimental}{46}
-\contentsline {section}{\numberline {6.3}Results}{47}
-\contentsline {chapter}{\numberline {7}1T' $WSe_2$ introduction}{51}
-\contentsline {chapter}{\numberline {8}1T' $WSe_2$}{56}
-\contentsline {section}{\numberline {8.1}Introduction}{56}
-\contentsline {section}{\numberline {8.2}Results}{57}
-\contentsline {section}{\numberline {8.3}Conclusions}{60}
-\contentsline {chapter}{\numberline {9}Heterostructures - state of the art}{63}
-\contentsline {section}{\numberline {9.1}Introduction}{63}
-\contentsline {section}{\numberline {9.2}Properties of bilayer heterostructures}{64}
-\contentsline {section}{\numberline {9.3}Fabrication of bilayer heterostructures}{65}
-\contentsline {subsubsection}{Transfer -approach}{65}
-\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{66}
-\contentsline {section}{\numberline {9.4}Characterization of bilayer heterostructures}{67}
-\contentsline {subsection}{\numberline {9.4.1}Raman spectroscopy}{67}
-\contentsline {subsection}{\numberline {9.4.2}Photoluminescence}{68}
-\contentsline {chapter}{\numberline {10}Heterostructures}{74}
-\contentsline {section}{\numberline {10.1}Introduction}{74}
-\contentsline {section}{\numberline {10.2}Results}{75}
-\contentsline {subsection}{\numberline {10.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{75}
-\contentsline {section}{\numberline {10.3}Appendix}{82}
-\contentsline {chapter}{\numberline {11}Methodology}{92}
-\contentsline {section}{\numberline {11.1}Introduction}{92}
-\contentsline {section}{\numberline {11.2}Raman spectroscopy}{92}
-\contentsline {section}{\numberline {11.3}Photoluminescence spectroscopy}{95}
-\contentsline {section}{\numberline {11.4}X-ray photoelectron spectroscopy}{97}
-\contentsline {section}{\numberline {11.5}Transfer}{98}
-\contentsline {section}{\numberline {11.6}Device fabrication}{99}
-\contentsline {chapter}{\numberline {12}Conclusions and future work}{102}
-\contentsline {chapter}{Bibliography}{106}
+\contentsline {subsection}{\numberline {2.1.3}Optoelectronics applications}{14}
+\contentsline {subsubsection}{Photodetectors}{15}
+\contentsline {section}{\numberline {2.2}Phonon dispersion}{17}
+\contentsline {chapter}{\numberline {3}Role of precursors in growth of monolayer $WS_2$}{19}
+\contentsline {section}{\numberline {3.1}Introduction}{19}
+\contentsline {section}{\numberline {3.2}Results}{21}
+\contentsline {section}{\numberline {3.3}Conclusions}{34}
+\contentsline {chapter}{\numberline {4}WSe2}{36}
+\contentsline {section}{\numberline {4.1}Introduction}{36}
+\contentsline {section}{\numberline {4.2}Results}{36}
+\contentsline {chapter}{\numberline {5}Transfer}{43}
+\contentsline {section}{\numberline {5.1}Introduction}{43}
+\contentsline {section}{\numberline {5.2}Experimental}{43}
+\contentsline {section}{\numberline {5.3}Results}{44}
+\contentsline {section}{\numberline {5.4}Conclusions}{46}
+\contentsline {chapter}{\numberline {6}Low T PL}{50}
+\contentsline {section}{\numberline {6.1}Introduction}{50}
+\contentsline {section}{\numberline {6.2}Experimental}{50}
+\contentsline {section}{\numberline {6.3}Results}{51}
+\contentsline {chapter}{\numberline {7}1T' $WSe_2$ introduction}{55}
+\contentsline {chapter}{\numberline {8}1T' $WSe_2$}{60}
+\contentsline {section}{\numberline {8.1}Introduction}{60}
+\contentsline {section}{\numberline {8.2}Results}{61}
+\contentsline {section}{\numberline {8.3}Conclusions}{64}
+\contentsline {chapter}{\numberline {9}Heterostructures - state of the art}{67}
+\contentsline {section}{\numberline {9.1}Introduction}{67}
+\contentsline {section}{\numberline {9.2}Properties of bilayer heterostructures}{68}
+\contentsline {section}{\numberline {9.3}Fabrication of bilayer heterostructures}{69}
+\contentsline {subsubsection}{Transfer -approach}{69}
+\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{70}
+\contentsline {section}{\numberline {9.4}Characterization of bilayer heterostructures}{71}
+\contentsline {subsection}{\numberline {9.4.1}Raman spectroscopy}{71}
+\contentsline {subsection}{\numberline {9.4.2}Photoluminescence}{72}
+\contentsline {chapter}{\numberline {10}Heterostructures}{78}
+\contentsline {section}{\numberline {10.1}Introduction}{78}
+\contentsline {section}{\numberline {10.2}Results}{79}
+\contentsline {subsection}{\numberline {10.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{79}
+\contentsline {section}{\numberline {10.3}Appendix}{86}
+\contentsline {chapter}{\numberline {11}Methodology}{96}
+\contentsline {section}{\numberline {11.1}Introduction}{96}
+\contentsline {section}{\numberline {11.2}Raman spectroscopy}{96}
+\contentsline {section}{\numberline {11.3}Photoluminescence spectroscopy}{99}
+\contentsline {section}{\numberline {11.4}X-ray photoelectron spectroscopy}{101}
+\contentsline {section}{\numberline {11.5}Transfer}{102}
+\contentsline {section}{\numberline {11.6}Device fabrication}{103}
+\contentsline {chapter}{\numberline {12}Conclusions and future work}{106}
+\contentsline {chapter}{Bibliography}{110}
