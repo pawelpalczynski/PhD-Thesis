@@ -31,6 +31,13 @@ Matteo Barbone, Alejandro R.-P. Montblanch, Dhiren~M. Kara, Carmen
 \newblock Charge-tuneable biexciton complexes in monolayer {WSe}2.
 \newblock {\em Nature Communications}, 9(1), sep 2018.
 
+\bibitem{Baugher2014}
+Britton W.~H. Baugher, Hugh O.~H. Churchill, Yafang Yang, and Pablo
+  Jarillo-Herrero.
+\newblock Optoelectronic devices based on electrically tunable p{\textendash}n
+  diodes in a monolayer dichalcogenide.
+\newblock {\em Nature Nanotechnology}, 9(4):262--267, mar 2014.
+
 \bibitem{ExtraordinarySunlightAbsorptionAndOneNanometerThickPhotovoltaicsUsingTwo-DimensionalMonolayerMaterials}
 Marco Bernardi, Maurizia Palummo, and Jeffrey~C. Grossman.
 \newblock Extraordinary sunlight absorption and one nanometer thick
@@ -70,6 +77,13 @@ P.~Chen, Woei~Wu Pai, Y.-H. Chan, W.-L. Sun, C.-Z. Xu, D.-S. Lin, M.~Y. Chou,
   A.-V. Fedorov, and T.-C. Chiang.
 \newblock Large quantum-spin-hall gap in single-layer 1t$\prime$ {WSe}2.
 \newblock {\em Nature Communications}, 9(1), may 2018.
+
+\bibitem{Cheng2014}
+Rui Cheng, Dehui Li, Hailong Zhou, Chen Wang, Anxiang Yin, Shan Jiang, Yuan
+  Liu, Yu~Chen, Yu~Huang, and Xiangfeng Duan.
+\newblock Electroluminescence and photocurrent generation from atomically sharp
+  {WSe}2/{MoS}2 heterojunction p{\textendash}n diodes.
+\newblock {\em Nano Letters}, 14(10):5590--5597, sep 2014.
 
 \bibitem{Chhowalla2013}
 Manish Chhowalla, Hyeon~Suk Shin, Goki Eda, Lain-Jong Li, Kian~Ping Loh, and
@@ -117,6 +131,12 @@ A.~M. Dadgar, D.~Scullion, K.~Kang, D.~Esposito, E.~H. Yang, I.~P. Herman,
   metal dichalcogenides.
 \newblock {\em Chemistry of Materials}, 30(15):5148--5155, jul 2018.
 
+\bibitem{Deshpande2001}
+M.P. Deshpande, S.K. Gupta, Ajay Agarwal, and M.K. Agarwal.
+\newblock Transport and optical property measurements in indium intercalated
+  molybdenum diselenide single crystals grown by {DVT} technique.
+\newblock {\em Synthetic Metals}, 123(1):73--81, aug 2001.
+
 \bibitem{Duerloo2014}
 Karel-Alexander~N. Duerloo, Yao Li, and Evan~J. Reed.
 \newblock Structural phase transitions in two-dimensional mo- and
@@ -155,6 +175,13 @@ J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
 \newblock Linewidth dependence of radiative exciton lifetimes in quantum wells.
 \newblock {\em Physical Review Letters}, 60(3):243--243, jan 1988.
 
+\bibitem{Fontana2013}
+Marcio Fontana, Tristan Deppe, Anthony~K. Boyd, Mohamed Rinzan, Amy~Y. Liu,
+  Makarand Paranjape, and Paola Barbara.
+\newblock Electron-hole transport and photovoltaic effect in gated {MoS}2
+  schottky junctions.
+\newblock {\em Scientific Reports}, 3(1), apr 2013.
+
 \bibitem{Freedman1959}
 Meyer~L. Freedman.
 \newblock The tungstic acids.
@@ -166,6 +193,11 @@ Qi~Fu, Wenhui Wang, Lei Yang, Jian Huang, Jingyu Zhang, and Bin Xiang.
 \newblock Controllable synthesis of high quality monolayer {WS}2 on a {SiO}2/si
   substrate by chemical vapor deposition.
 \newblock {\em {RSC} Advances}, 5(21):15795--15799, 2015.
+
+\bibitem{Furchi2014}
+Marco~M. Furchi, Dmitry~K. Polyushkin, Andreas Pospischil, and Thomas Mueller.
+\newblock Mechanisms of photoconductivity in atomically thin {MoS}2.
+\newblock {\em Nano Letters}, 14(11):6165--6170, oct 2014.
 
 \bibitem{Gao2015}
 Yang Gao, Zhibo Liu, Dong-Ming Sun, Le~Huang, Lai-Peng Ma, Li-Chang Yin, Teng
@@ -228,6 +260,12 @@ Humberto~R. Gutiérrez, Nestor Perea-López, Ana~Laura Elías, Ayse Berkdemir,
   monolayers.
 \newblock {\em Nano Letters}, 13(8):3447--3454, dec 2013.
 \newblock PMID: 23194096.
+
+\bibitem{Hahn1949}
+Harry Hahn and Wilhelm Klingler.
+\newblock Über die kristallstrukturen des in2s3und in2te3.
+\newblock {\em Zeitschrift für anorganische Chemie}, 260(1-3):97--109, oct
+  1949.
 
 \bibitem{Haug1989}
 H.~Haug and L.~B{\'{a}}nyai, editors.
@@ -354,6 +392,11 @@ Rajesh Kappera, Damien Voiry, Sibel~Ebru Yalcin, Brittany Branch, Gautam Gupta,
   transistors.
 \newblock {\em Nature Materials}, 13(12):1128--1134, aug 2014.
 
+\bibitem{Katz2001}
+O.~Katz, V.~Garber, B.~Meyler, G.~Bahir, and J.~Salzman.
+\newblock Gain mechanism in {GaN} schottky ultraviolet detectors.
+\newblock {\em Applied Physics Letters}, 79(10):1417--1419, sep 2001.
+
 \bibitem{Keum2015}
 Dong~Hoon Keum, Suyeon Cho, Jung~Ho Kim, Duk-Hyun Choe, Ha-Jun Sung, Min Kan,
   Haeyong Kang, Jae-Yeol Hwang, Sung~Wng Kim, Heejun Yang, K.~J. Chang, and
@@ -391,6 +434,14 @@ Changyong Lan, Chun Li, Yi~Yin, and Yong Liu.
 \newblock Large-area synthesis of monolayer {WS}2and its ambient-sensitive
   photo-detecting performance.
 \newblock {\em Nanoscale}, 7(14):5974--5980, 2015.
+
+\bibitem{Lee2014}
+Chul-Ho Lee, Gwan-Hyoung Lee, Arend~M. van~der Zande, Wenchao Chen, Yilei Li,
+  Minyong Han, Xu~Cui, Ghidewon Arefe, Colin Nuckolls, Tony~F. Heinz, Jing Guo,
+  James Hone, and Philip Kim.
+\newblock Atomically thin p{\textendash}n junctions with van der waals
+  heterointerfaces.
+\newblock {\em Nature Nanotechnology}, 9(9):676--681, aug 2014.
 
 \bibitem{Lee2013}
 Yi-Hsien Lee, Lili Yu, Han Wang, Wenjing Fang, Xi~Ling, Yumeng Shi, Cheng-Te
@@ -475,6 +526,12 @@ Zheng Liu, Matin Amani, Sina Najmaei, Quan Xu, Xiaolong Zou, Wu~Zhou, Ting Yu,
 \newblock Strain and structure heterogeneity in {MoS}2 atomic layers grown by
   chemical vapour deposition.
 \newblock {\em Nature Communications}, 5(1), nov 2014.
+
+\bibitem{Lopez-Sanchez2013}
+Oriol Lopez-Sanchez, Dominik Lembke, Metin Kayci, Aleksandra Radenovic, and
+  Andras Kis.
+\newblock Ultrasensitive photodetectors based on monolayer {MoS}2.
+\newblock {\em Nature Nanotechnology}, 8(7):497--501, jun 2013.
 
 \bibitem{Lu2015}
 J.~M. Lu, O.~Zheliuk, I.~Leermakers, N.~F.~Q. Yuan, U.~Zeitler, K.~T. Law, and
@@ -647,6 +704,14 @@ Youmin Rong, Ye~Fan, Ai~Leen Koh, Alex~W. Robertson, Kuang He, Shanshan Wang,
   domains of {WS}2.
 \newblock {\em Nanoscale}, 6(20):12096--12103, sep 2014.
 
+\bibitem{Ross2014}
+Jason~S. Ross, Philip Klement, Aaron~M. Jones, Nirmal~J. Ghimire, Jiaqiang Yan,
+  D.~G. Mandrus, Takashi Taniguchi, Kenji Watanabe, Kenji Kitamura, Wang Yao,
+  David~H. Cobden, and Xiaodong Xu.
+\newblock Electrically tunable excitonic light-emitting diodes based on
+  monolayer {WSe}2 p{\textendash}n junctions.
+\newblock {\em Nature Nanotechnology}, 9(4):268--272, mar 2014.
+
 \bibitem{Ross2013}
 Jason~S. Ross, Sanfeng Wu, Hongyi Yu, Nirmal~J. Ghimire, Aaron~M. Jones, Grant
   Aivazian, Jiaqiang Yan, David~G. Mandrus, Di~Xiao, Wang Yao, and Xiaodong Xu.
@@ -696,6 +761,12 @@ Xinjian Shi, Il~Yong Choi, Kan Zhang, Jeong Kwon, Dong~Yeong Kim, Ja~Kyung Lee,
 Kevin Sivula and Roel van~de Krol.
 \newblock Semiconducting materials for photoelectrochemical energy conversion.
 \newblock {\em Nature Reviews Materials}, 1(2), jan 2016.
+
+\bibitem{Somoano1979}
+Robert~B. Somoano and John~A. Woollam.
+\newblock Intercalation compounds of molybdenum disulfide.
+\newblock In {\em Intercalated Layered Materials}, pages 307--319. Springer
+  Netherlands, 1979.
 
 \bibitem{Song2015}
 Seunghyun Song, Dong~Hoon Keum, Suyeon Cho, David Perello, Yunseok Kim, and
@@ -758,6 +829,13 @@ Sefaattin Tongay, Joonki Suh, Can Ataca, Wen Fan, Alexander Luce, Jeong~Seuk
   semiconductors: interplay between bound, charged and free excitons.
 \newblock {\em Scientific Reports}, 3(1), sep 2013.
 
+\bibitem{Tsai2013}
+Dung-Sheng Tsai, Keng-Ku Liu, Der-Hsien Lien, Meng-Lin Tsai, Chen-Fang Kang,
+  Chin-An Lin, Lain-Jong Li, and Jr-Hau He.
+\newblock Few-layer {MoS}2 with high broadband photogain and fast optical
+  switching for use in harsh environments.
+\newblock {\em {ACS} Nano}, 7(5):3905--3911, apr 2013.
+
 \bibitem{Zande2014}
 Arend~M. van~der Zande, Jens Kunstmann, Alexey Chernikov, Daniel~A. Chenet,
   YuMeng You, XiaoXiao Zhang, Pinshane~Y. Huang, Timothy~C. Berkelbach, Lei
@@ -780,6 +858,11 @@ Damien Voiry, Jieun Yang, and Manish Chhowalla.
 \newblock Recent strategies for improving the catalytic activity of 2d {TMD}
   nanosheets toward the hydrogen evolution reaction.
 \newblock {\em Advanced Materials}, 28(29):6197--6206, feb 2016.
+
+\bibitem{Wagner1991}
+C.~D Wagner.
+\newblock The nist x-ray photoelectron spectroscopy (xps) database.
+\newblock Online, 1991.
 
 \bibitem{Wang2013}
 Qianwen Wang, Ping Wu, Gengyu Cao, and Min Huang.
@@ -861,6 +944,18 @@ Zai-Quan Xu, Yupeng Zhang, Shenghuang Lin, Changxi Zheng, Yu~Lin Zhong, Xue
   toward the recyclable use of sapphire substrates.
 \newblock {\em ACS Nano}, 9(6):6178--6187, 2015.
 \newblock PMID: 25961515.
+
+\bibitem{Yacobi1979}
+B~G Yacobi, F~W Boswell, and J~M Corbett.
+\newblock Intercalation-induced shift of the absorption edge in {ZrS}2and
+  {HfS}2.
+\newblock {\em Journal of Physics C: Solid State Physics}, 12(11):2189--2196,
+  jun 1979.
+
+\bibitem{Yacobi1979a}
+B.G. Yacobi, F.W. Boswell, and J.M. Corbett.
+\newblock The fundamental absorption edge in {NixZrS}2.
+\newblock {\em Materials Research Bulletin}, 14(8):1033--1038, aug 1979.
 
 \bibitem{Yang2017}
 Heejun Yang, Sung~Wng Kim, Manish Chhowalla, and Young~Hee Lee.

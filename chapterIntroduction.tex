@@ -119,9 +119,12 @@ Here I summarize the main developments in optoelectronic devices based on 2D TMD
 
 TMDC photodetectors are still at the early stages of development and they have been used and demonstrated in the same operational wavelengths as silicon. 2D TMDCs, however present intrinsic advantages over silicon  which are the mechanical flexibility and electronically highly tunability.
 2D TMDC photodetectors operate mostly on the basis of the photovoltaic effect and exhibit low dark currents and high responsivity while the operation speed remain limited. Significant improvements should be possible given the short exciton lifetimes in these materials (~10–100 ps)\cite{Massicotte2015}\cite{Korn2011}\cite{Wang2012}. The operation modes of photodetection based on the photovoltaic effect can be divided \cite{Sze2002} into two categories: photoconduction, and photocurrent. Photoconduction is based on photoexcited carriers which increase the device's conductance, while the photocurrent, in which photoexcited carriers are converted into current with the help of a built-in electric field originated from a symmetry-lowering element such as a junction (p-n junction).
-Experimental demonstration of photodetectors are based on both in-plane and out-of-plane structures of 2D TMDCs (Fig. 3). In-plane devices allows to control the material's properties through electrostatic gating which offers a better accuracy of the out-of-plane devices. However the latter can support a much higher bias field (up to ~1 V $nm^{–1}$) which can enable a more efficient exciton dissociation. Indeed exciton dissociation in TMDCs is key due to the very high binding energy and in case of tunnelling ionization of excitons the process becomes inefficient when a bias electric field is small compared with $E_B/(ea_B) \approx 0.2 V nm^{–1}$ (a very large field indeed)\cite{Haug1994}. While excitons dissociation is effectively achieved by electric fields (either built-in or externally applied).
+Experimental demonstration of photodetectors are based on both in-plane and out-of-plane structures of 2D TMDCs (Figure \ref{fig:PhotodetectorDiagram} and Figure \ref{fig:PhotoconductorDiagram}). In-plane devices allows to control the material's properties through electrostatic gating which offers a better accuracy than the out-of-plane devices. However the latter can support a much higher bias field (up to ~1 V $nm^{–1}$) which can enable a more efficient exciton dissociation. Indeed exciton dissociation in TMDCs is key due to the very high binding energy and in case of tunnelling ionization of excitons the process becomes inefficient when a bias electric field is small compared with $E_B/(ea_B) \approx 0.2 V nm^{–1}$ (a very large field indeed)\cite{Haug1994} while excitons dissociation is effectively achieved by electric fields (either built-in or externally applied).
 
-\newpage
+There has been many successful attempts in making photodetectors based on photoconductivity and utilising TMDCs as an active material. Monolayer $MoS_2$ has been used for a transistor achieving responsivity of 880 $AW^{-1}$ with a bandwidth of $~0.1 Hz$ (Figure \ref{fig:PhotodetectorDiagram}) \cite{Lopez-Sanchez2013}. A much better bandwidth ($>10 kHz$) and therefore a faster device has been achieved, but with a smaller responsivity of $~1 AW^{-1}$ \cite{Tsai2013}. The large photogain is associated with the trapped carrier at the interface states \cite{Katz2001}. The devices conductivity tends to be modified primarily by the doping as well as trapped states \cite{Tsai2013} \cite{Furchi2014}.
+
+Similarly devices based on photocurrent for photodetection hase been achieved. These can be made by creating a junction both out of plane \cite{Withers2015}\cite{Cheng2014} as well as in plane \cite{Ross2014}\cite{Fontana2013}. $WSe_2$ has been used to make an in plane p-n junction with a depletion region of up to 500 nm and a resulting field of 0.02 $V nm^{-1}$.  In such a device a responsivity of $~1 mAW^{-1}$ and $~200 mAW^{-1}$ was demonstrated under zero bias and a forward bias respectively \cite{Baugher2014}. Due to large diffusion length of excitons it is difficult to achieve both wide depletion area as well as a strong built in field to dissociate strongly bound excitons. On the other hand the out of plane heterojunctions made out of one n-type (e.g. $MoS_2$) and one p-type (e.g. $WSe_2$) layers can rectify these issues. Such built device can achieve very high in built electric fields of $~1 V nm^{-1}$ and a zero bias responsivity of $~0.1 A W^{-1}$ \cite{Cheng2014}\cite{Lee2014}. 
+
 \begin{figure}[!h]
 	\begin{center}
 		\includegraphics[scale=0.35]{PhotodetectorDiagram.png}
@@ -141,23 +144,17 @@ the monolayer $MoS_2$ photodetector taking into consideration small Schottky bar
 
 \newpage
 \begin{table}[!ht]
-\label{tab:GrapheneTMDCPhotodectorsComparison}
-\caption{Comparison of performances of graphene and 2D TMD photodetectors}
+	\label{tab:GrapheneTMDCPhotodectorsComparison}
+	\caption{Comparison of performances of graphene and 2D TMD photodetectors}
 \end{table}
 
 \begin{tiny}
 \begin{center}
-\begin{tabular}{l|l|l|l|l}
+\begin{tabular}{l|llll}
 
-									& Device type		& Responsivity				& Bandwidth			& Quantum efficiency	\\
-\textbf{Graphene}					& Bolometric		& $~0.2 mAW^{-1} (RT)$		& >1 GHz			& -						\\
-Zero bandgap						&					& $~10^5 VW^{-1} (LT)$		& -					& -						\\
-Broadband							& Photoconduction	& $~0.1 mAW^{-1} $			& -					& -						\\
-Mainly based on photothermal		& Heterojunction	& $~10 mAW^{-1} $			& >40 GHz			& 1-10\% (E)			\\
-with weak photovoltaic element		& 					& $~100 mAW^{-1}$			& >20 Ghz			& 10-30\% (I)			\\
-High dark current					& 					& (waveguide)				& 					&					\\\hline
-\textbf{2DTMDs}						& Photoconduction	& 							&					&						\\	
-Near-infrared to visible gap		& In-plane			& $~1-10^3 AW^{-1}$			& 0.1 Hz to >10 kHz & ~50\% (E) 			\\
+									& Device type		& Responsivity				& Bandwidth			& Quantum efficiency	\\\hline
+									& Photoconduction	& 							&					&						\\	
+Near-infrared to visible gap		& In-plane			& $~1-10^3 AW^{-1}$			& 0.1 Hz to $>10$ kHz & ~50\% (E) 			\\
 Strong exciton binding				& Out-of-plane		& $~0.1 AW^{-1}$			& $\leq$200 GHz 	& 						\\
 Mainly based on photovoltaic effect & Heterojunction 	& 							& 					&						\\
 Low dark current					& In-plane			& $1 mAW^{-1}$ (zero bias)	& - 				& ~2\% (I) (zero bias) 	\\
@@ -167,25 +164,27 @@ Low dark current					& In-plane			& $1 mAW^{-1}$ (zero bias)	& - 				& ~2\% (I) 
 \end{tabular}
 \end{center}
 \end{tiny}
+
+
 	
 \section{Phonon dispersion}
 	
 	The vibrational and phononic characteristics of TMDCs have been investigated at length by both theoretical simulations as well as experimental studies. The $2H-MX_2$ crystal structure of the TMDCs belongs to $D_{6h}^4$ point group and there are 18 lattice dynamical modes at the $\Gamma$ point. Phonons belonging to these modes can be represented as Eq. \ref{eq:PhononDispersionRepresentation} \cite{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}: 
 	
-	\begin{equation}
+\begin{equation}
 	{\Gamma} = A_{1g} + 2A_{2u} + B_{1u} + 2B_{2g} + E_{1g} + 2E_{1u} + E_{2u} + 2E_{2g}
 	\label{eq:PhononDispersionRepresentation} 
-	\end{equation}
+\end{equation}
 	
 	In TMDCs 4 active Raman modes can be observed $E_{1g}, E^1_{2g}, E^2_{2g}, A_{1g}$. These can be seen in Figure \ref{fig:4ActiveRamanModes}. The $E^2_{2g}$ is a shear mode that involves 2 layers vibrating against each other. The $E_{1g}$ is an in-plane vibration of chalcogen atoms but is forbidden in the back-scattering configuration. For monolayers therefore it leaves primarily the $E^1_{2g}$ which is an in-plane mode involving vibration of both metal and chalcogen atoms as well as $A_{1g}$ which is an out-of-plane mode involving only chalcogen atoms. 
 	
-	\begin{figure}[h]
+\begin{figure}[h]
 	\begin{center}
-	\includegraphics[scale=0.4]{RamanActiveModes.png}
-	\caption{4 active Raman modes in TMDCs. Metal atoms and chalcogen atoms are black and blue respectively. Adopted from \cite{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}}
-	\label{fig:4ActiveRamanModes}
+		\includegraphics[scale=0.4]{RamanActiveModes.png}
+		\caption{4 active Raman modes in TMDCs. Metal atoms and chalcogen atoms are black and blue respectively. Adopted from \cite{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}}
+		\label{fig:4ActiveRamanModes}
 	\end{center}
-	\end{figure}
+\end{figure}
 	
 	These two peaks tend to dominate the spectrum of any TMDCs, whether monolayer or few-layer or bulk. The shear mode $E^2_{2g}$ appears at low Raman shift frequencies and is therefore difficult to observe but can be used to differentiate monolayer from few-layer material. Since $E^1_{2g}$ is an in-plane mode it tends to be unaffected by the number of layers due to weak van der Vaals forces between the layers but can be seen to be slightly redshifted as the number of layers increases. As seen in Figure \ref{fig:TypicalRamanSpectrumWS2} the $E^1_{2g}$ peak at about 352 $cm^{-1}$ is overlapping with another stronger peak, a 2LA(M) peak at 350 $cm^{-1}$ which is a longitudinal acoustic mode caused by in-plane collective oscillations of W and S atoms. The second strongest peak at around 416 $cm^{-1}$ is an $A_{1g}$ peak, caused by out of plane vibrations. Because of that it is much more sensitive to the number of layers and is seen to become blueshifted as the number of layers increases. This has been attributed to the restorative forces as well as increase in dielectric screening of the Coulomb forces. Combining both of these shifts in frequency with the changing number of layers the difference between these two peak position can be used to identify the number of layers in TMDCs as seen in Figure \ref{fig:LayerNumberIdentificationRamanShiftWS2}
 	
