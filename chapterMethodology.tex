@@ -138,3 +138,35 @@ The SEM images were produced using field emission gun SEM (FEG-SEM, Gemini 1525)
 		\label{fig:MethodologySEMSetup}
 	\end{center}
 \end{figure}
+
+\section{Atomic force microscopy (AFM)}
+
+The atomic force microscopy (AFM) is one of scanning probe microscopy methods that allows for imaging surface morphology below the nm range as well as manipulation and force measurement. As seen in Figure \ref{fig:MethodologyAFMSetup} the AFM operates by touching and following the sample surface. The probe, which is a very sharply ended tip made of silicon or silicon nitride and a tip radius in the range of nanometers, is mounted on a cantilever. That cantilever is then controlled by a piezoelectric actuator which adjust the position based on the feedback from the laser measuring the actual cantilever deflection. The tip itself when brought close to the surface of the sample experiences a number of possible forces such as van der Waals forces, electrostatic forces, magnetic forces, chemical bond forces or mechanical contact forces which leads to a deflection one way or the other.
+
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[scale=0.3]{Methodology/AFMSetup.png}
+		\caption{Diagram of AFM setup and operating basics. Reproduced from ccem.mcmaster.ca}
+		\label{fig:MethodologyAFMSetup}
+	\end{center}
+\end{figure}
+
+The measurement can be performed in different modes as seen in Figure \ref{fig:MethodologyAFMSetup}. In contact mode the tip is dragged along the surface and either a tip deflection is directly measured or a constant height is maintained while the deflection required to maintain it is recorded \cite{Binnig1993}. Alternatively in a tapping mode the tip is oscillated at a resonant frequency and a constant amplitude is maintained. As the tip gets closer to the surface the forces act stronger and therefore the required correction is recorded and surface morphology and force can be determined. A tapping mode tends to be more useful for characterisation of 2D materials as it avoids damage to them but it is slower and may result in some artefacts \cite{Schmitz1997}.
+
+When using tip with radius of <5 nm of curvature a lateral resolution of ~5 nm and a vertical resolution of few \r{A} can be achieved. With a contaminated surface the resolution can quickly become bigger and therefore the thickness measurement of the 2D materials can become overestimated. In this work the measurements were carried out using AFM Asylum MFP 3D in a tapping mode with a probe tip made of silicon nitride and a radius of ~8 nm on a PPP-NCHR 20 Nanosensors cantilever.
+
+\section{TEM}
+
+Transmission electron microscopy (TEM) is a microscopy technique in which a high energy (60-300 kV) electron beam is directed at a very thin (<100 nm) sample. As a result an image of the sample can be produced at resolution much greater than that achieved with optical microscopy due to much smaller wavelength of the electrons compared to the visible photons. As the electron beam passes through the sample it carries information about its electron density, periodicity and phase and can then form an image on a fluorescent screen. The resulting bright field image shows contrast due to variation in thickness across the sample, and as the magnification increases the interaction between the electron beam and the sample becomes more complex giving rise to different types of contrast. 
+
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[scale=0.3]{Methodology/TEMSetup.png}
+		\caption{Crossection of a TEM column. Reproduced from ccber.ucsb.edu}
+		\label{fig:MethodologyTEMSetup}
+	\end{center}
+\end{figure}
+
+Because the wavelength of the high energy electrons is much smaller than the distance between the atoms in a crystal lattice, the sample can act as a diffraction grating for the incident beam. By shifting the back focal plane instead of the image plane onto the imaging screen and inserting an aperture the diffraction pattern from selected area (SADP) can be achieved. This allows to gain information about the crystal structure and defects within much smaller area than what is possible with x-ray diffraction.
+
+In this work the TEM used was a FEI Titan 80-300 S/TEM at 80kV with a monochromator and $C_s$ aberration image corrector. The focal series images were produced using different objective lens focus values ($C_s$ =~ -4$\mu m$). Exit wave reconstruction was achieved using TrueImage (FEI).

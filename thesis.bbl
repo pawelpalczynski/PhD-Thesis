@@ -38,11 +38,27 @@ Britton W.~H. Baugher, Hugh O.~H. Churchill, Yafang Yang, and Pablo
   diodes in a monolayer dichalcogenide.
 \newblock {\em Nature Nanotechnology}, 9(4):262--267, mar 2014.
 
+\bibitem{Berkdemir2013}
+Ayse Berkdemir, Humberto~R. Guti{\'{e}}rrez, Andr{\'{e}}s~R.
+  Botello-M{\'{e}}ndez, N{\'{e}}stor Perea-L{\'{o}}pez, Ana~Laura El{\'{\i}}as,
+  Chen-Ing Chia, Bei Wang, Vincent~H. Crespi, Florentino
+  L{\'{o}}pez-Ur{\'{\i}}as, Jean-Christophe Charlier, Humberto Terrones, and
+  Mauricio Terrones.
+\newblock Identification of individual and few layers of {WS}2 using raman
+  spectroscopy.
+\newblock {\em Scientific Reports}, 3(1), apr 2013.
+
 \bibitem{ExtraordinarySunlightAbsorptionAndOneNanometerThickPhotovoltaicsUsingTwo-DimensionalMonolayerMaterials}
 Marco Bernardi, Maurizia Palummo, and Jeffrey~C. Grossman.
 \newblock Extraordinary sunlight absorption and one nanometer thick
   photovoltaics using two-dimensional monolayer materials.
 \newblock {\em Nano Letters}, 13(8):3664--3670, Aug 2013.
+
+\bibitem{Binnig1993}
+G.~Binnig, C.~F. Quate, and Ch~Gerber.
+\newblock Atomic force microscope.
+\newblock In {\em Scanning Tunneling Microscopy}, pages 55--58. Springer
+  Netherlands, 1993.
 
 \bibitem{Carmalt2003}
 Claire~J. Carmalt, Ivan~P. Parkin, and Emily~S. Peters.
@@ -404,6 +420,13 @@ Dong~Hoon Keum, Suyeon Cho, Jung~Ho Kim, Duk-Hyun Choe, Ha-Jun Sung, Min Kan,
 \newblock Bandgap opening in few-layered monoclinic {MoTe}2.
 \newblock {\em Nature Physics}, 11(6):482--486, may 2015.
 
+\bibitem{Kochat2011}
+Vidya Kochat, Atindra~Nath Pal, E.~S. Sneha, Arjun Sampathkumar, Anshita
+  Gairola, S.~A. Shivashankar, Srinivasan Raghavan, and Arindam Ghosh.
+\newblock High contrast imaging and thickness determination of graphene with
+  in-column secondary electron microscopy.
+\newblock {\em Journal of Applied Physics}, 110(1):014315, jul 2011.
+
 \bibitem{Konig2007}
 M.~Konig, S.~Wiedmann, C.~Brune, A.~Roth, H.~Buhmann, L.~W. Molenkamp, X.-L.
   Qi, and S.-C. Zhang.
@@ -434,6 +457,12 @@ Changyong Lan, Chun Li, Yi~Yin, and Yong Liu.
 \newblock Large-area synthesis of monolayer {WS}2and its ambient-sensitive
   photo-detecting performance.
 \newblock {\em Nanoscale}, 7(14):5974--5980, 2015.
+
+\bibitem{Lee2010}
+Changgu Lee, Hugen Yan, Louis~E. Brus, Tony~F. Heinz, James Hone, and Sunmin
+  Ryu.
+\newblock Anomalous lattice vibrations of single- and few-layer {MoS}2.
+\newblock {\em {ACS} Nano}, 4(5):2695--2700, apr 2010.
 
 \bibitem{Lee2014}
 Chul-Ho Lee, Gwan-Hyoung Lee, Arend~M. van~der Zande, Wenchao Chen, Yilei Li,
@@ -605,6 +634,20 @@ Shinichiro Mouri, Yuhei Miyauchi, and Kazunari Matsuda.
 \newblock Tunable photoluminescence of monolayer {MoS}2 via chemical doping.
 \newblock {\em Nano Letters}, 13(12):5944--5948, nov 2013.
 
+\bibitem{Nan2014}
+Haiyan Nan, Zilu Wang, Wenhui Wang, Zheng Liang, Yan Lu, Qian Chen, Daowei He,
+  Pingheng Tan, Feng Miao, Xinran Wang, Jinlan Wang, and Zhenhua Ni.
+\newblock Strong photoluminescence enhancement of {MoS}2 through defect
+  engineering and oxygen bonding.
+\newblock {\em {ACS} Nano}, 8(6):5738--5745, may 2014.
+
+\bibitem{Ogura2009}
+Toshihiko Ogura.
+\newblock Analyzing indirect secondary electron contrast of unstained
+  bacteriophage t4 based on {SEM} images and monte carlo simulations.
+\newblock {\em Biochemical and Biophysical Research Communications},
+  380(2):254--259, mar 2009.
+
 \bibitem{doi:10.1021/nn503093k}
 Mitsuhiro Okada, Takumi Sawazaki, Kenji Watanabe, Takashi Taniguch, Hiroki
   Hibino, Hisanori Shinohara, and Ryo Kitaura.
@@ -733,6 +776,13 @@ Yu~Saito, Yasuharu Nakamura, Mohammad~Saeed Bahramy, Yoshimitsu Kohama,
 \newblock Superconductivity protected by spin{\textendash}valley locking in
   ion-gated {MoS}2.
 \newblock {\em Nature Physics}, 12(2):144--149, dec 2015.
+
+\bibitem{Schmitz1997}
+I.~Schmitz, M.~Schreiner, G.~Friedbacher, and M.~Grasserbauer.
+\newblock Tapping-mode {AFM} in comparison to contact-mode {AFM} as a tool for
+  in situ investigations of surface reactions with reference to glass
+  corrosion.
+\newblock {\em Analytical Chemistry}, 69(6):1012--1018, mar 1997.
 
 \bibitem{doi:10.1021/nn5059908}
 Jingzhi Shang, Xiaonan Shen, Chunxiao Cong, Namphung Peimyoo, Bingchen Cao,
