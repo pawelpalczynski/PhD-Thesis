@@ -2324,6 +2324,28 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {American Chemical Society ({ACS})},
 }
 
+@InCollection{Schmidt2013,
+  author    = {Peer Schmidt and Michael Binnewies and Robert Glaum and Marcus Schmidt},
+  title     = {Chemical Vapor Transport Reactions{\textendash}Methods, Materials, Modeling},
+  booktitle = {Advanced Topics on Crystal Growth},
+  publisher = {{InTech}},
+  year      = {2013},
+  month     = {feb},
+  doi       = {10.5772/55547},
+}
+
+@Article{Reale2016,
+  author    = {Francesco Reale and Kanudha Sharda and Cecilia Mattevi},
+  title     = {From bulk crystals to atomically thin layers of group {VI}-transition metal dichalcogenides vapour phase synthesis},
+  journal   = {Applied Materials Today},
+  year      = {2016},
+  volume    = {3},
+  pages     = {11--22},
+  month     = {jun},
+  doi       = {10.1016/j.apmt.2015.12.003},
+  publisher = {Elsevier {BV}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
