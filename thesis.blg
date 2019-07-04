@@ -5,20 +5,19 @@ A level-1 auxiliary file: sectionAbbreviations.aux
 A level-1 auxiliary file: chapterThesisIntroduction.aux
 A level-1 auxiliary file: chapterIntroduction.aux
 A level-1 auxiliary file: chapterCVDIntroduction.aux
-A level-1 auxiliary file: chapterWS2.aux
-A level-1 auxiliary file: chapterWSe2.aux
-A level-1 auxiliary file: chapterTransfer.aux
-A level-1 auxiliary file: chapterLowTPL.aux
-A level-1 auxiliary file: chapterWSe21TIntroduction.aux
-A level-1 auxiliary file: chapterWSe21T.aux
-A level-1 auxiliary file: chapterIn.aux
 A level-1 auxiliary file: chapterHeterostructuresIntroduction.aux
+A level-1 auxiliary file: chapterWSe21TIntroduction.aux
+A level-1 auxiliary file: chapterWS2.aux
+A level-1 auxiliary file: chapterLowTPL.aux
+A level-1 auxiliary file: chapterTransfer.aux
+A level-1 auxiliary file: chapterIn.aux
+A level-1 auxiliary file: chapterWSe2.aux
+A level-1 auxiliary file: chapterWSe21T.aux
 A level-1 auxiliary file: chapterHeterostructures.aux
 A level-1 auxiliary file: chapterMethodology.aux
 A level-1 auxiliary file: chapterConclusions.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
-Warning--I didn't find a database entry for "Chung1998"
 Name 1 in "Tengfei Yan, Xiaofen Qiao, Xiaona Liu, Pingheng Tan, and Xinhui Zhang" has a comma at the end for entry PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2
 while executing---line 1049 of file plain.bst
 Too many commas in name 1 of "Tengfei Yan, Xiaofen Qiao, Xiaona Liu, Pingheng Tan, and Xinhui Zhang" for entry PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2

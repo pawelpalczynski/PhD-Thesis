@@ -66,6 +66,12 @@ G.~Binnig, C.~F. Quate, and Ch~Gerber.
 \newblock In {\em Scanning Tunneling Microscopy}, pages 55--58. Springer
   Netherlands, 1993.
 
+\bibitem{Bosi2015}
+Matteo Bosi.
+\newblock Growth and synthesis of mono and few-layers transition metal
+  dichalcogenides by vapour techniques: a review.
+\newblock {\em {RSC} Advances}, 5(92):75500--75518, 2015.
+
 \bibitem{Brixner1962}
 L.H. Brixner.
 \newblock Preparation and properties of the single crystalline {AB}2-type
@@ -138,6 +144,11 @@ Duk-Hyun Choe, Ha-Jun Sung, and K.~J. Chang.
   metal dichalcogenides.
 \newblock {\em Physical Review B}, 93(12), mar 2016.
 
+\bibitem{Chung1998}
+J.-W. Chung, Z.R. Dai, and F.S. Ohuchi.
+\newblock {WS}2 thin films by metal organic chemical vapor deposition.
+\newblock {\em Journal of Crystal Growth}, 186(1-2):137--150, mar 1998.
+
 \bibitem{Cong2013}
 Chunxiao Cong, Jingzhi Shang, Xing Wu, Bingchen Cao, Namphung Peimyoo, Caiyu
   Qiu, Litao Sun, and Ting Yu.
@@ -176,6 +187,14 @@ Karel-Alexander~N. Duerloo, Yao Li, and Evan~J. Reed.
 \newblock Structural phase transitions in two-dimensional mo- and
   w-dichalcogenide monolayers.
 \newblock {\em Nature Communications}, 5(1), jul 2014.
+
+\bibitem{Dumcenco2015}
+Dumitru Dumcenco, Dmitry Ovchinnikov, Kolyo Marinov, Predrag Lazi{\'{c}}, Marco
+  Gibertini, Nicola Marzari, Oriol~Lopez Sanchez, Yen-Cheng Kung, Daria
+  Krasnozhon, Ming-Wei Chen, Simone Bertolazzi, Philippe Gillet,
+  Anna~Fontcuberta i~Morral, Aleksandra Radenovic, and Andras Kis.
+\newblock Large-area epitaxial monolayer {MoS}2.
+\newblock {\em {ACS} Nano}, 9(4):4611--4620, apr 2015.
 
 \bibitem{Eichfeld2015}
 Sarah~M. Eichfeld, Lorraine Hossain, Yu-Chuan Lin, Aleksander~F. Piasecki,
@@ -387,6 +406,13 @@ Muhammad~Waqas Iqbal, Muhammad~Zahir Iqbal, Muhammad~Farooq Khan,
   transistors.
 \newblock {\em Nanoscale}, 7(2):747--757, 2015.
 
+\bibitem{Ji2013}
+Qingqing Ji, Yanfeng Zhang, Teng Gao, Yu~Zhang, Donglin Ma, Mengxi Liu, Yubin
+  Chen, Xiaofen Qiao, Ping-Heng Tan, Min Kan, Ji~Feng, Qiang Sun, and Zhongfan
+  Liu.
+\newblock Epitaxial monolayer {MoS}2 on mica with novel photoluminescence.
+\newblock {\em Nano Letters}, 13(8):3870--3877, aug 2013.
+
 \bibitem{doi:10.1021/nl500171v}
 Sanghyun Jo, Nicolas Ubrig, Helmuth Berger, Alexey~B. Kuzmenko, and Alberto~F.
   Morpurgo.
@@ -498,6 +524,14 @@ Yi-Hsien Lee, Lili Yu, Han Wang, Wenjing Fang, Xi~Ling, Yumeng Shi, Cheng-Te
   diverse surfaces.
 \newblock {\em Nano Letters}, 13(4):1852--1857, mar 2013.
 
+\bibitem{Lee2012}
+Yi-Hsien Lee, Xin-Quan Zhang, Wenjing Zhang, Mu-Tung Chang, Cheng-Te Lin,
+  Kai-Di Chang, Ya-Chu Yu, Jacob Tse-Wei Wang, Chia-Seng Chang, Lain-Jong Li,
+  and Tsung-Wu Lin.
+\newblock Synthesis of large-area {MoS}2atomic layers with chemical vapor
+  deposition.
+\newblock {\em Advanced Materials}, 24(17):2320--2325, mar 2012.
+
 \bibitem{Lei2018}
 Bo~Lei, Yuanyuan Pan, Zehua Hu, Jialin Zhang, Du~Xiang, Yue Zheng, Rui Guo,
   Cheng Han, Lianhui Wang, Jing Lu, Li~Yang, and Wei Chen.
@@ -558,6 +592,13 @@ Yung-Chang Lin, Dumitru~O. Dumcenco, Ying-Sheng Huang, and Kazu Suenaga.
 \newblock Atomic mechanism of the semiconducting-to-metallic phase transition
   in single-layered {MoS}2.
 \newblock {\em Nature Nanotechnology}, 9(5):391--396, apr 2014.
+
+\bibitem{Ling2014}
+Xi~Ling, Yi-Hsien Lee, Yuxuan Lin, Wenjing Fang, Lili Yu, Mildred~S.
+  Dresselhaus, and Jing Kong.
+\newblock Role of the seeding promoter in {MoS}2 growth by chemical vapor
+  deposition.
+\newblock {\em Nano Letters}, 14(2):464--472, jan 2014.
 
 \bibitem{Liu2016}
 Hongwei Liu, Junpeng Lu, Kenneth Ho, Zhenliang Hu, Zhiya Dang, Alexandra
@@ -657,6 +698,13 @@ Charles C.~L. McCrory, Suho Jung, Ivonne~M. Ferrer, Shawn~M. Chatman, Jonas~C.
 Shinichiro Mouri, Yuhei Miyauchi, and Kazunari Matsuda.
 \newblock Tunable photoluminescence of monolayer {MoS}2 via chemical doping.
 \newblock {\em Nano Letters}, 13(12):5944--5948, nov 2013.
+
+\bibitem{Najmaei2013}
+Sina Najmaei, Zheng Liu, Wu~Zhou, Xiaolong Zou, Gang Shi, Sidong Lei, Boris~I.
+  Yakobson, Juan-Carlos Idrobo, Pulickel~M. Ajayan, and Jun Lou.
+\newblock Vapour phase growth and grain boundary structure of molybdenum
+  disulphide atomic layers.
+\newblock {\em Nature Materials}, 12(8):754--759, jun 2013.
 
 \bibitem{Nan2014}
 Haiyan Nan, Zilu Wang, Wenhui Wang, Zheng Liang, Yan Lu, Qian Chen, Daowei He,
@@ -842,6 +890,12 @@ Xinjian Shi, Il~Yong Choi, Kan Zhang, Jeong Kwon, Dong~Yeong Kim, Ja~Kyung Lee,
 \newblock Efficient photoelectrochemical hydrogen production from bismuth
   vanadate-decorated tungsten trioxide helix nanostructures.
 \newblock {\em Nature Communications}, 5(1), sep 2014.
+
+\bibitem{Shi2015}
+Yumeng Shi, Henan Li, and Lain-Jong Li.
+\newblock Recent advances in controlled synthesis of two-dimensional transition
+  metal dichalcogenides via vapour deposition techniques.
+\newblock {\em Chemical Society Reviews}, 44(9):2744--2756, 2015.
 
 \bibitem{Sivula2016}
 Kevin Sivula and Roel van~de Krol.
@@ -1091,6 +1145,12 @@ Xiaoyun Yu and Kevin Sivula.
   of solvent-exfoliated {WSe}2.
 \newblock {\em Chemistry of Materials}, 29(16):6863--6875, aug 2017.
 
+\bibitem{Yu2013}
+Yifei Yu, Chun Li, Yi~Liu, Liqin Su, Yong Zhang, and Linyou Cao.
+\newblock Controlled scalable synthesis of uniform, high-quality monolayer and
+  few-layer {MoS}2 films.
+\newblock {\em Scientific Reports}, 3(1), may 2013.
+
 \bibitem{Yu2018}
 Yifu Yu, Gwang-Hyeon Nam, Qiyuan He, Xue-Jun Wu, Kang Zhang, Zhenzhong Yang,
   Junze Chen, Qinglang Ma, Meiting Zhao, Zhengqing Liu, Fei-Rong Ran, Xingzhi
@@ -1127,6 +1187,14 @@ Mei Zhang, Juanxia Wu, Yiming Zhu, Dumitru~O. Dumcenco, Jinhua Hong, Nannan
 \newblock Two-dimensional molybdenum tungsten diselenide alloys:
   Photoluminescence, raman scattering, and electrical transport.
 \newblock {\em {ACS} Nano}, 8(7):7130--7137, jun 2014.
+
+\bibitem{Zhang2014a}
+Yu~Zhang, Qingqing Ji, Gao-Feng Han, Jing Ju, Jianping Shi, Donglin Ma, Jingyu
+  Sun, Yanshuo Zhang, Minjie Li, Xing-You Lang, Yanfeng Zhang, and Zhongfan
+  Liu.
+\newblock Dendritic, transferable, strictly monolayer {MoS}2 flakes synthesized
+  on {SrTiO}3 single crystals for efficient electrocatalytic applications.
+\newblock {\em {ACS} Nano}, 8(8):8617--8624, jul 2014.
 
 \bibitem{doi:10.1021/nn403454e}
 Yu~Zhang, Yanfeng Zhang, Qingqing Ji, Jing Ju, Hongtao Yuan, Jianping Shi, Teng

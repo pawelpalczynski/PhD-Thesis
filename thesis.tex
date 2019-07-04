@@ -20,6 +20,11 @@
 \usepackage{xcolor}
 \usepackage{listings}
 \usepackage{subcaption}
+\usepackage{tocloft,calc}
+
+\renewcommand{\cftchappresnum}{Chapter }
+\AtBeginDocument{\addtolength\cftchapnumwidth{\widthof{\bfseries Chapter }}}
+
 % \usepackage[disable]{todonotes} % notes not showed
 \usepackage[draft]{todonotes}   % notes showed  
 % \newcommand{\comment}[1]{}  %comment not showed
@@ -47,9 +52,6 @@
 \include{Publications}
 
 \newpage
-\section*{Abstract}
-
-\newpage
 \include{sectionAbbreviations}
 
 \tableofcontents
@@ -57,14 +59,14 @@
 \include{chapterThesisIntroduction}
 \include{chapterIntroduction}
 \include{chapterCVDIntroduction}
-\include{chapterWS2}
-\include{chapterWSe2}
-\include{chapterTransfer}
-\include{chapterLowTPL}
-\include{chapterWSe21TIntroduction}
-\include{chapterWSe21T}
-\include{chapterIn}
 \include{chapterHeterostructuresIntroduction}
+\include{chapterWSe21TIntroduction}
+\include{chapterWS2}
+\include{chapterLowTPL}
+\include{chapterTransfer}
+\include{chapterIn}
+\include{chapterWSe2}
+\include{chapterWSe21T}
 \include{chapterHeterostructures}
 \include{chapterMethodology}
 \include{chapterConclusions}
