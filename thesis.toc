@@ -8,58 +8,58 @@
 \contentsline {section}{\numberline {2.2}Phonon dispersion}{24}
 \contentsline {section}{\numberline {2.3}Conclusions}{26}
 \contentsline {section}{\numberline {2.4}$WS_2$ CVD state of the art}{29}
-\contentsline {chapter}{\numberline {3}Role of precursors in growth of monolayer $WS_2$}{30}
-\contentsline {section}{\numberline {3.1}Introduction}{30}
-\contentsline {section}{\numberline {3.2}Results}{32}
-\contentsline {section}{\numberline {3.3}Conclusions}{46}
-\contentsline {chapter}{\numberline {4}WSe2}{48}
-\contentsline {section}{\numberline {4.1}Introduction}{48}
-\contentsline {section}{\numberline {4.2}Results}{48}
-\contentsline {section}{\numberline {4.3}Conclusions}{55}
-\contentsline {chapter}{\numberline {5}Transfer}{56}
-\contentsline {section}{\numberline {5.1}Introduction}{56}
-\contentsline {section}{\numberline {5.2}Experimental}{56}
-\contentsline {section}{\numberline {5.3}Results}{57}
-\contentsline {section}{\numberline {5.4}Conclusions}{59}
-\contentsline {chapter}{\numberline {6}Low T PL}{63}
-\contentsline {section}{\numberline {6.1}Introduction}{63}
-\contentsline {section}{\numberline {6.2}Experimental}{63}
-\contentsline {section}{\numberline {6.3}Results}{64}
-\contentsline {section}{\numberline {6.4}Conclusions}{66}
-\contentsline {chapter}{\numberline {7}1T' $WSe_2$ state of the art}{68}
-\contentsline {section}{\numberline {7.1}Introduction}{68}
-\contentsline {section}{\numberline {7.2}Conclusions}{71}
-\contentsline {chapter}{\numberline {8}1T' $WSe_2$}{73}
-\contentsline {section}{\numberline {8.1}Introduction}{73}
-\contentsline {section}{\numberline {8.2}Results}{74}
-\contentsline {section}{\numberline {8.3}Conclusions}{77}
-\contentsline {chapter}{\numberline {9}Post-transition metal doping of monolayer $WS_2$}{80}
-\contentsline {section}{\numberline {9.1}Introduction}{80}
-\contentsline {section}{\numberline {9.2}Results}{81}
-\contentsline {section}{\numberline {9.3}Conclusions}{90}
-\contentsline {chapter}{\numberline {10}Heterostructures - state of the art}{91}
-\contentsline {section}{\numberline {10.1}Introduction}{91}
-\contentsline {section}{\numberline {10.2}Properties of bilayer heterostructures}{92}
-\contentsline {section}{\numberline {10.3}Fabrication of bilayer heterostructures}{93}
-\contentsline {subsubsection}{Transfer -approach}{93}
-\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{94}
-\contentsline {section}{\numberline {10.4}Characterization of bilayer heterostructures}{95}
-\contentsline {subsection}{\numberline {10.4.1}Raman spectroscopy}{95}
-\contentsline {subsection}{\numberline {10.4.2}Photoluminescence}{96}
-\contentsline {chapter}{\numberline {11}Heterostructures}{102}
-\contentsline {section}{\numberline {11.1}Introduction}{102}
-\contentsline {section}{\numberline {11.2}Results}{103}
-\contentsline {subsection}{\numberline {11.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{103}
-\contentsline {section}{\numberline {11.3}Appendix}{110}
-\contentsline {chapter}{\numberline {12}Methodology}{120}
-\contentsline {section}{\numberline {12.1}Introduction}{120}
-\contentsline {section}{\numberline {12.2}Raman spectroscopy}{120}
-\contentsline {section}{\numberline {12.3}Photoluminescence spectroscopy}{123}
-\contentsline {section}{\numberline {12.4}X-ray photoelectron spectroscopy}{125}
-\contentsline {section}{\numberline {12.5}Transfer}{126}
-\contentsline {section}{\numberline {12.6}Device fabrication}{127}
-\contentsline {section}{\numberline {12.7}Scanning electron microscopy (SEM)}{129}
-\contentsline {section}{\numberline {12.8}Atomic force microscopy (AFM)}{129}
-\contentsline {section}{\numberline {12.9}TEM}{131}
-\contentsline {chapter}{\numberline {13}Conclusions and future work}{133}
-\contentsline {chapter}{Bibliography}{137}
+\contentsline {chapter}{\numberline {3}Role of precursors in growth of monolayer $WS_2$}{31}
+\contentsline {section}{\numberline {3.1}Introduction}{31}
+\contentsline {section}{\numberline {3.2}Results}{33}
+\contentsline {section}{\numberline {3.3}Conclusions}{47}
+\contentsline {chapter}{\numberline {4}WSe2}{49}
+\contentsline {section}{\numberline {4.1}Introduction}{49}
+\contentsline {section}{\numberline {4.2}Results}{49}
+\contentsline {section}{\numberline {4.3}Conclusions}{56}
+\contentsline {chapter}{\numberline {5}Transfer}{58}
+\contentsline {section}{\numberline {5.1}Introduction}{58}
+\contentsline {section}{\numberline {5.2}Experimental}{58}
+\contentsline {section}{\numberline {5.3}Results}{59}
+\contentsline {section}{\numberline {5.4}Conclusions}{61}
+\contentsline {chapter}{\numberline {6}Low T PL}{65}
+\contentsline {section}{\numberline {6.1}Introduction}{65}
+\contentsline {section}{\numberline {6.2}Experimental}{65}
+\contentsline {section}{\numberline {6.3}Results}{66}
+\contentsline {section}{\numberline {6.4}Conclusions}{68}
+\contentsline {chapter}{\numberline {7}1T' $WSe_2$ state of the art}{70}
+\contentsline {section}{\numberline {7.1}Introduction}{70}
+\contentsline {section}{\numberline {7.2}Conclusions}{73}
+\contentsline {chapter}{\numberline {8}1T' $WSe_2$}{75}
+\contentsline {section}{\numberline {8.1}Introduction}{75}
+\contentsline {section}{\numberline {8.2}Results}{76}
+\contentsline {section}{\numberline {8.3}Conclusions}{79}
+\contentsline {chapter}{\numberline {9}Post-transition metal doping of monolayer $WS_2$}{82}
+\contentsline {section}{\numberline {9.1}Introduction}{82}
+\contentsline {section}{\numberline {9.2}Results}{83}
+\contentsline {section}{\numberline {9.3}Conclusions}{93}
+\contentsline {chapter}{\numberline {10}Heterostructures - state of the art}{96}
+\contentsline {section}{\numberline {10.1}Introduction}{96}
+\contentsline {section}{\numberline {10.2}Properties of bilayer heterostructures}{97}
+\contentsline {section}{\numberline {10.3}Fabrication of bilayer heterostructures}{98}
+\contentsline {subsubsection}{Transfer -approach}{98}
+\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{99}
+\contentsline {section}{\numberline {10.4}Characterization of bilayer heterostructures}{100}
+\contentsline {subsection}{\numberline {10.4.1}Raman spectroscopy}{100}
+\contentsline {subsection}{\numberline {10.4.2}Photoluminescence}{101}
+\contentsline {chapter}{\numberline {11}Heterostructures}{107}
+\contentsline {section}{\numberline {11.1}Introduction}{107}
+\contentsline {section}{\numberline {11.2}Results}{108}
+\contentsline {subsection}{\numberline {11.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{108}
+\contentsline {section}{\numberline {11.3}Appendix}{115}
+\contentsline {chapter}{\numberline {12}Methodology}{125}
+\contentsline {section}{\numberline {12.1}Introduction}{125}
+\contentsline {section}{\numberline {12.2}Raman spectroscopy}{125}
+\contentsline {section}{\numberline {12.3}Photoluminescence spectroscopy}{128}
+\contentsline {section}{\numberline {12.4}X-ray photoelectron spectroscopy}{130}
+\contentsline {section}{\numberline {12.5}Transfer}{131}
+\contentsline {section}{\numberline {12.6}Device fabrication}{132}
+\contentsline {section}{\numberline {12.7}Scanning electron microscopy (SEM)}{134}
+\contentsline {section}{\numberline {12.8}Atomic force microscopy (AFM)}{134}
+\contentsline {section}{\numberline {12.9}TEM}{136}
+\contentsline {chapter}{\numberline {13}Conclusions and future work}{138}
+\contentsline {chapter}{Bibliography}{142}

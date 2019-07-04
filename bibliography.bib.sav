@@ -2437,6 +2437,133 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {Elsevier {BV}},
 }
 
+@Article{Zande2013,
+  author    = {Arend M. van der Zande and Pinshane Y. Huang and Daniel A. Chenet and Timothy C. Berkelbach and YuMeng You and Gwan-Hyoung Lee and Tony F. Heinz and David R. Reichman and David A. Muller and James C. Hone},
+  title     = {Grains and grain boundaries in highly crystalline monolayer molybdenum disulphide},
+  journal   = {Nature Materials},
+  year      = {2013},
+  volume    = {12},
+  number    = {6},
+  pages     = {554--561},
+  month     = {may},
+  doi       = {10.1038/nmat3633},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Dumcenco2015,
+  author    = {Dumitru Dumcenco and Dmitry Ovchinnikov and Kolyo Marinov and Predrag Lazi{\'{c}} and Marco Gibertini and Nicola Marzari and Oriol Lopez Sanchez and Yen-Cheng Kung and Daria Krasnozhon and Ming-Wei Chen and Simone Bertolazzi and Philippe Gillet and Anna Fontcuberta i Morral and Aleksandra Radenovic and Andras Kis},
+  title     = {Large-Area Epitaxial Monolayer {MoS}2},
+  journal   = {{ACS} Nano},
+  year      = {2015},
+  volume    = {9},
+  number    = {4},
+  pages     = {4611--4620},
+  month     = {apr},
+  doi       = {10.1021/acsnano.5b01281},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Lee2012,
+  author    = {Yi-Hsien Lee and Xin-Quan Zhang and Wenjing Zhang and Mu-Tung Chang and Cheng-Te Lin and Kai-Di Chang and Ya-Chu Yu and Jacob Tse-Wei Wang and Chia-Seng Chang and Lain-Jong Li and Tsung-Wu Lin},
+  title     = {Synthesis of Large-Area {MoS}2Atomic Layers with Chemical Vapor Deposition},
+  journal   = {Advanced Materials},
+  year      = {2012},
+  volume    = {24},
+  number    = {17},
+  pages     = {2320--2325},
+  month     = {mar},
+  doi       = {10.1002/adma.201104798},
+  publisher = {Wiley},
+}
+
+@Article{Ling2014,
+  author    = {Xi Ling and Yi-Hsien Lee and Yuxuan Lin and Wenjing Fang and Lili Yu and Mildred S. Dresselhaus and Jing Kong},
+  title     = {Role of the Seeding Promoter in {MoS}2 Growth by Chemical Vapor Deposition},
+  journal   = {Nano Letters},
+  year      = {2014},
+  volume    = {14},
+  number    = {2},
+  pages     = {464--472},
+  month     = {jan},
+  doi       = {10.1021/nl4033704},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Najmaei2013,
+  author    = {Sina Najmaei and Zheng Liu and Wu Zhou and Xiaolong Zou and Gang Shi and Sidong Lei and Boris I. Yakobson and Juan-Carlos Idrobo and Pulickel M. Ajayan and Jun Lou},
+  title     = {Vapour phase growth and grain boundary structure of molybdenum disulphide atomic layers},
+  journal   = {Nature Materials},
+  year      = {2013},
+  volume    = {12},
+  number    = {8},
+  pages     = {754--759},
+  month     = {jun},
+  doi       = {10.1038/nmat3673},
+  publisher = {Springer Nature},
+}
+
+@Article{Ji2013,
+  author    = {Qingqing Ji and Yanfeng Zhang and Teng Gao and Yu Zhang and Donglin Ma and Mengxi Liu and Yubin Chen and Xiaofen Qiao and Ping-Heng Tan and Min Kan and Ji Feng and Qiang Sun and Zhongfan Liu},
+  title     = {Epitaxial Monolayer {MoS}2 on Mica with Novel Photoluminescence},
+  journal   = {Nano Letters},
+  year      = {2013},
+  volume    = {13},
+  number    = {8},
+  pages     = {3870--3877},
+  month     = {aug},
+  doi       = {10.1021/nl401938t},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Zhang2014a,
+  author    = {Yu Zhang and Qingqing Ji and Gao-Feng Han and Jing Ju and Jianping Shi and Donglin Ma and Jingyu Sun and Yanshuo Zhang and Minjie Li and Xing-You Lang and Yanfeng Zhang and Zhongfan Liu},
+  title     = {Dendritic, Transferable, Strictly Monolayer {MoS}2 Flakes Synthesized on {SrTiO}3 Single Crystals for Efficient Electrocatalytic Applications},
+  journal   = {{ACS} Nano},
+  year      = {2014},
+  volume    = {8},
+  number    = {8},
+  pages     = {8617--8624},
+  month     = {jul},
+  doi       = {10.1021/nn503412w},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Yu2013,
+  author    = {Yifei Yu and Chun Li and Yi Liu and Liqin Su and Yong Zhang and Linyou Cao},
+  title     = {Controlled Scalable Synthesis of Uniform, High-Quality Monolayer and Few-layer {MoS}2 Films},
+  journal   = {Scientific Reports},
+  year      = {2013},
+  volume    = {3},
+  number    = {1},
+  month     = {may},
+  doi       = {10.1038/srep01866},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Bosi2015,
+  author    = {Matteo Bosi},
+  title     = {Growth and synthesis of mono and few-layers transition metal dichalcogenides by vapour techniques: a review},
+  journal   = {{RSC} Advances},
+  year      = {2015},
+  volume    = {5},
+  number    = {92},
+  pages     = {75500--75518},
+  doi       = {10.1039/c5ra09356b},
+  publisher = {Royal Society of Chemistry ({RSC})},
+}
+
+@Article{Shi2015,
+  author    = {Yumeng Shi and Henan Li and Lain-Jong Li},
+  title     = {Recent advances in controlled synthesis of two-dimensional transition metal dichalcogenides via vapour deposition techniques},
+  journal   = {Chemical Society Reviews},
+  year      = {2015},
+  volume    = {44},
+  number    = {9},
+  pages     = {2744--2756},
+  doi       = {10.1039/c4cs00256c},
+  publisher = {Royal Society of Chemistry ({RSC})},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

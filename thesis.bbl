@@ -1,5 +1,11 @@
 \begin{thebibliography}{100}
 
+\bibitem{Al-Hilli1972}
+A.A. Al-Hilli and B.L. Evans.
+\newblock The preparation and properties of transition metal dichalcogenide
+  single crystals.
+\newblock {\em Journal of Crystal Growth}, 15(2):93--101, jul 1972.
+
 \bibitem{Alexeev2019}
 Evgeny~M. Alexeev, David~A. Ruiz-Tijerina, Mark Danovich, Matthew~J. Hamer,
   Daniel~J. Terry, Pramoda~K. Nayak, Seongjoon Ahn, Sangyeon Pak, Juwon Lee,
@@ -59,6 +65,18 @@ G.~Binnig, C.~F. Quate, and Ch~Gerber.
 \newblock Atomic force microscope.
 \newblock In {\em Scanning Tunneling Microscopy}, pages 55--58. Springer
   Netherlands, 1993.
+
+\bibitem{Brixner1962}
+L.H. Brixner.
+\newblock Preparation and properties of the single crystalline {AB}2-type
+  selenides and tellurides of niobium, tantalum, molybdenum and tungsten.
+\newblock {\em Journal of Inorganic and Nuclear Chemistry}, 24(3):257--263, mar
+  1962.
+
+\bibitem{Brown1966}
+B.~E. Brown.
+\newblock The crystal structures of {WTe}2and high-temperature {MoTe}2.
+\newblock {\em Acta Crystallographica}, 20(2):268--274, feb 1966.
 
 \bibitem{Carmalt2003}
 Claire~J. Carmalt, Ivan~P. Parkin, and Emily~S. Peters.
@@ -488,6 +506,12 @@ Bo~Lei, Yuanyuan Pan, Zehua Hu, Jialin Zhang, Du~Xiang, Yue Zheng, Rui Guo,
   functionalization.
 \newblock {\em {ACS} Nano}, 12(2):2070--2077, jan 2018.
 
+\bibitem{Lenz1997}
+M.~Lenz and R.~Gruehn.
+\newblock Developments in measuring and calculating chemical vapor transport
+  phenomena demonstrated on cr, mo, w, and their compounds.
+\newblock {\em Chemical Reviews}, 97(8):2967--2994, dec 1997.
+
 \bibitem{Li2015}
 Shisheng Li, Shunfeng Wang, Dai-Ming Tang, Weijie Zhao, Huilong Xu, Leiqiang
   Chu, Yoshio Bando, Dmitri Golberg, and Goki Eda.
@@ -733,6 +757,12 @@ Francesco Reale, Pawel Palczynski, Iddo Amit, Gareth~F. Jones, Jake~D. Mehew,
 \newblock High-mobility and high-optical quality atomically thin {WS} 2.
 \newblock {\em Scientific Reports}, 7(1), nov 2017.
 
+\bibitem{Reale2016}
+Francesco Reale, Kanudha Sharda, and Cecilia Mattevi.
+\newblock From bulk crystals to atomically thin layers of group {VI}-transition
+  metal dichalcogenides vapour phase synthesis.
+\newblock {\em Applied Materials Today}, 3:11--22, jun 2016.
+
 \bibitem{Rigosi2015}
 Albert~F. Rigosi, Heather~M. Hill, Yilei Li, Alexey Chernikov, and Tony~F.
   Heinz.
@@ -776,6 +806,12 @@ Yu~Saito, Yasuharu Nakamura, Mohammad~Saeed Bahramy, Yoshimitsu Kohama,
 \newblock Superconductivity protected by spin{\textendash}valley locking in
   ion-gated {MoS}2.
 \newblock {\em Nature Physics}, 12(2):144--149, dec 2015.
+
+\bibitem{Schmidt2013}
+Peer Schmidt, Michael Binnewies, Robert Glaum, and Marcus Schmidt.
+\newblock Chemical vapor transport reactions{\textendash}methods, materials,
+  modeling.
+\newblock In {\em Advanced Topics on Crystal Growth}. {InTech}, feb 2013.
 
 \bibitem{Schmitz1997}
 I.~Schmitz, M.~Schreiner, G.~Friedbacher, and M.~Grasserbauer.
@@ -836,6 +872,12 @@ Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
 Yan Sun, Shu-Chun Wu, Mazhar~N. Ali, Claudia Felser, and Binghai Yan.
 \newblock Prediction of weyl semimetal in {orthorhombicMoTe}2.
 \newblock {\em Physical Review B}, 92(16), oct 2015.
+
+\bibitem{Sunil1997}
+K~Sunil and M~A Ittyachen.
+\newblock The growth and thermodynamical feasibility of tungsten diselenide
+  single crystals using chemical vapour transport technique.
+\newblock {\em Bulletin of Materials Science}, 20(2):231--238, apr 1997.
 
 \bibitem{Sze2002}
 Simon~M. Sze.
