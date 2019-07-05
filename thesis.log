@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  5 JUL 2019 20:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  5 JUL 2019 22:05
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1846,13 +1846,13 @@ Chapter 2.
 <TMDCPolytypes.png, id=51, 562.1pt x 323.2075pt>
 File: TMDCPolytypes.png Graphic file (type png)
 <use TMDCPolytypes.png>
-Package pdftex.def Info: TMDCPolytypes.png  used on input line 11.
+Package pdftex.def Info: TMDCPolytypes.png  used on input line 13.
 (pdftex.def)             Requested size: 393.46732pt x 226.2437pt.
  [13 <./TMDCPolytypes.png (PNG copy)>]
 <WS2BandStructureSimulation.png, id=55, 1138.2525pt x 882.29625pt>
 File: WS2BandStructureSimulation.png Graphic file (type png)
 <use WS2BandStructureSimulation.png>
-Package pdftex.def Info: WS2BandStructureSimulation.png  used on input line 28.
+Package pdftex.def Info: WS2BandStructureSimulation.png  used on input line 30.
 
 (pdftex.def)             Requested size: 455.29294pt x 352.91225pt.
 
@@ -1863,32 +1863,32 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <WS2TypicalPLSpectra.png, id=63, 986.68625pt x 929.4725pt>
 File: WS2TypicalPLSpectra.png Graphic file (type png)
 <use WS2TypicalPLSpectra.png>
-Package pdftex.def Info: WS2TypicalPLSpectra.png  used on input line 65.
+Package pdftex.def Info: WS2TypicalPLSpectra.png  used on input line 67.
 (pdftex.def)             Requested size: 296.00815pt x 278.8439pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16] [17 <./WS2TypicalPLSpectra.png>]
-Overfull \hbox (29.3078pt too wide) in paragraph at lines 81--82
+Overfull \hbox (29.3078pt too wide) in paragraph at lines 83--84
 []\OT1/cmr/m/n/12 Similar ef-fect has been shown us-ing the 2,3,5,6-tetrafluoro
 -7,7,8,8-tetracyanoquinodimethane
  []
 
 [18] [19]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 101.
+LaTeX Warning: Command \textendash invalid in math mode on input line 103.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 102.
+LaTeX Warning: Command \textendash invalid in math mode on input line 104.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 102.
+LaTeX Warning: Command \textendash invalid in math mode on input line 104.
 
 <TMDCAbsorption.png, id=81, 836.12375pt x 666.49pt>
 File: TMDCAbsorption.png Graphic file (type png)
 <use TMDCAbsorption.png>
-Package pdftex.def Info: TMDCAbsorption.png  used on input line 107.
+Package pdftex.def Info: TMDCAbsorption.png  used on input line 109.
 (pdftex.def)             Requested size: 376.25221pt x 299.91772pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1896,28 +1896,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <TMDCQuasiparticles.png, id=82, 565.11125pt x 903.375pt>
 File: TMDCQuasiparticles.png Graphic file (type png)
 <use TMDCQuasiparticles.png>
-Package pdftex.def Info: TMDCQuasiparticles.png  used on input line 115.
+Package pdftex.def Info: TMDCQuasiparticles.png  used on input line 117.
 (pdftex.def)             Requested size: 197.7919pt x 316.18599pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [20]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 130.
+LaTeX Warning: Command \textendash invalid in math mode on input line 132.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 130.
+LaTeX Warning: Command \textendash invalid in math mode on input line 132.
 
 [21 <./TMDCAbsorption.png>] [22 <./TMDCQuasiparticles.png>]
 <PhotodetectorDiagram.png, id=94, 978.65625pt x 879.285pt>
 File: PhotodetectorDiagram.png Graphic file (type png)
 <use PhotodetectorDiagram.png>
-Package pdftex.def Info: PhotodetectorDiagram.png  used on input line 138.
+Package pdftex.def Info: PhotodetectorDiagram.png  used on input line 140.
 (pdftex.def)             Requested size: 342.53482pt x 307.75436pt.
 <PhotoconductorDiagram.png, id=95, 1500.60625pt x 549.05125pt>
 File: PhotoconductorDiagram.png Graphic file (type png)
 <use PhotoconductorDiagram.png>
-Package pdftex.def Info: PhotoconductorDiagram.png  used on input line 147.
+Package pdftex.def Info: PhotoconductorDiagram.png  used on input line 149.
 (pdftex.def)             Requested size: 375.15065pt x 137.26247pt.
 
 
@@ -1975,21 +1975,23 @@ ificationRamanMoS2.png (PNG copy)>] [29 <./WSe2RamanSpectra.png>]
 \openout2 = `chapterCVDIntroduction.aux'.
 
 
-(chapterCVDIntroduction.tex [30
+(chapterCVDIntroduction.tex
+Chapter 3.
+[30
 
 
-] [31]) [32]
+
+] [31]) [32] [33]
 \openout2 = `chapterHeterostructuresIntroduction.aux'.
 
-
-(chapterHeterostructuresIntroduction.tex
-Chapter 3.
-[33
+ (chapterHeterostructuresIntroduction.tex
+Chapter 4.
+[34
 
 
 
 ]
-<Heterostructures/HeterostructureChargeSeparationDiagram.png, id=146, 173.89969
+<Heterostructures/HeterostructureChargeSeparationDiagram.png, id=149, 173.89969
 pt x 192.72pt>
 File: Heterostructures/HeterostructureChargeSeparationDiagram.png Graphic file 
 (type png)
@@ -2001,8 +2003,8 @@ m.png  used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34]
-<Heterostructures/HeterostructureOpticalMap.png, id=150, 161.85469pt x 161.8546
+[35]
+<Heterostructures/HeterostructureOpticalMap.png, id=153, 161.85469pt x 161.8546
 9pt>
 File: Heterostructures/HeterostructureOpticalMap.png Graphic file (type png)
 <use Heterostructures/HeterostructureOpticalMap.png>
@@ -2013,8 +2015,8 @@ n input line 33.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35 <./Heterostructures/HeterostructureChargeSeparationDiagram.png>]
-<Heterostructures/HeterostructureOpticalSEMAFMImages.png, id=154, 412.54124pt x
+[36 <./Heterostructures/HeterostructureChargeSeparationDiagram.png>]
+<Heterostructures/HeterostructureOpticalSEMAFMImages.png, id=158, 412.54124pt x
  88.07906pt>
 File: Heterostructures/HeterostructureOpticalSEMAFMImages.png Graphic file (typ
 e png)
@@ -2026,8 +2028,8 @@ g  used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36 <./Heterostructures/HeterostructureOpticalMap.png>]
-<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=159, 182.93344pt x 
+[37 <./Heterostructures/HeterostructureOpticalMap.png>]
+<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=162, 182.93344pt x 
 301.125pt>
 File: Heterostructures/HeterostructureRamanSpectrumIntro.png Graphic file (type
  png)
@@ -2039,7 +2041,7 @@ Package pdftex.def Info: Heterostructures/HeterostructureRamanSpectrumIntro.png
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructureAFMProfile.png, id=160, 194.97844pt x 135.5062
+<Heterostructures/HeterostructureAFMProfile.png, id=163, 194.97844pt x 135.5062
 6pt>
 File: Heterostructures/HeterostructureAFMProfile.png Graphic file (type png)
 <use Heterostructures/HeterostructureAFMProfile.png>
@@ -2049,7 +2051,7 @@ n input line 69.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumIntro.png, id=161, 429.85594pt x 350
+<Heterostructures/HeterostructurePLSpectrumIntro.png, id=164, 429.85594pt x 350
 .81062pt>
 File: Heterostructures/HeterostructurePLSpectrumIntro.png Graphic file (type pn
 g)
@@ -2057,14 +2059,14 @@ g)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntro.png  u
 sed on input line 80.
 (pdftex.def)             Requested size: 429.85489pt x 350.80975pt.
-[37 <./Heterostructures/HeterostructureOpticalSEMAFMImages.png>]
+[38 <./Heterostructures/HeterostructureOpticalSEMAFMImages.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[38 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)> <./He
-terostructures/HeterostructureAFMProfile.png>] [39 <./Heterostructures/Heterost
+[39 <./Heterostructures/HeterostructureRamanSpectrumIntro.png (PNG copy)> <./He
+terostructures/HeterostructureAFMProfile.png>] [40 <./Heterostructures/Heterost
 ructurePLSpectrumIntro.png>]
-<Heterostructures/HeterostructurePLSpectrumIntroComparison.png, id=172, 236.383
+<Heterostructures/HeterostructurePLSpectrumIntroComparison.png, id=175, 236.383
 12pt x 219.06844pt>
 File: Heterostructures/HeterostructurePLSpectrumIntroComparison.png Graphic fil
 e (type png)
@@ -2072,8 +2074,8 @@ e (type png)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntroCompari
 son.png  used on input line 95.
 (pdftex.def)             Requested size: 236.38254pt x 219.06789pt.
- [40 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
-<Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png, id=176, 348.552
+ [41 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
+<Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png, id=179, 348.552
 19pt x 457.71pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png Graphic fil
 e (type png)
@@ -2085,7 +2087,7 @@ tro.png  used on input line 110.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=177, 353.069
+<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=180, 353.069
 06pt x 328.97906pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png Graphic fil
 e (type png)
@@ -2096,24 +2098,24 @@ ist.png  used on input line 120.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [41] [42 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
-[43 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
+) [42] [43 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
+[44 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
 \openout2 = `chapterWSe21TIntroduction.aux'.
 
 
 (chapterWSe21TIntroduction.tex
-Chapter 4.
-[44
+Chapter 5.
+[45
 
 
 
 ]
-<1T'/TMDCPhases.png, id=191, 1364.09625pt x 779.91376pt>
+<1T'/TMDCPhases.png, id=194, 1364.09625pt x 779.91376pt>
 File: 1T'/TMDCPhases.png Graphic file (type png)
 <use 1T'/TMDCPhases.png>
 Package pdftex.def Info: 1T'/TMDCPhases.png  used on input line 10.
 (pdftex.def)             Requested size: 409.23204pt x 233.97594pt.
-<1T'/EnergyDiagram.png, id=192, 768.8725pt x 468.75125pt>
+<1T'/EnergyDiagram.png, id=195, 768.8725pt x 468.75125pt>
 File: 1T'/EnergyDiagram.png Graphic file (type png)
 <use 1T'/EnergyDiagram.png>
 Package pdftex.def Info: 1T'/EnergyDiagram.png  used on input line 18.
@@ -2122,8 +2124,8 @@ Package pdftex.def Info: 1T'/EnergyDiagram.png  used on input line 18.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[45 <./1T'/TMDCPhases.png>] [46 <./1T'/EnergyDiagram.png>]
-<1T'/Homojunction.png, id=201, 920.43875pt x 851.18pt>
+[46 <./1T'/TMDCPhases.png>] [47 <./1T'/EnergyDiagram.png>]
+<1T'/Homojunction.png, id=204, 920.43875pt x 851.18pt>
 File: 1T'/Homojunction.png Graphic file (type png)
 <use 1T'/Homojunction.png>
 Package pdftex.def Info: 1T'/Homojunction.png  used on input line 38.
@@ -2132,22 +2134,22 @@ Package pdftex.def Info: 1T'/Homojunction.png  used on input line 38.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [47] [48 <./1T'/Homojunction.png>]
+) [48] [49 <./1T'/Homojunction.png>]
 \openout2 = `chapterWS2.aux'.
 
  (chapterWS2.tex
-Chapter 5.
-[49
+Chapter 6.
+[50
 
 
 
-] [50]
-<PaperSIFurnace.png, id=216, 1056.94875pt x 407.5225pt>
+] [51]
+<PaperSIFurnace.png, id=219, 1056.94875pt x 407.5225pt>
 File: PaperSIFurnace.png Graphic file (type png)
 <use PaperSIFurnace.png>
 Package pdftex.def Info: PaperSIFurnace.png  used on input line 19.
 (pdftex.def)             Requested size: 317.08707pt x 122.25769pt.
-<PaperOptical.png, id=217, 953.5625pt x 679.53876pt>
+<PaperOptical.png, id=220, 953.5625pt x 679.53876pt>
 File: PaperOptical.png Graphic file (type png)
 <use PaperOptical.png>
 Package pdftex.def Info: PaperOptical.png  used on input line 28.
@@ -2156,8 +2158,8 @@ Package pdftex.def Info: PaperOptical.png  used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[51 <./PaperSIFurnace.png>]
-<PaperSIOpticalContinous.png, id=222, 577.15625pt x 429.605pt>
+[52 <./PaperSIFurnace.png>]
+<PaperSIOpticalContinous.png, id=225, 577.15625pt x 429.605pt>
 File: PaperSIOpticalContinous.png Graphic file (type png)
 <use PaperSIOpticalContinous.png>
 Package pdftex.def Info: PaperSIOpticalContinous.png  used on input line 40.
@@ -2166,7 +2168,7 @@ Package pdftex.def Info: PaperSIOpticalContinous.png  used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIOpticalAFM.png, id=223, 342.27875pt x 255.95625pt>
+<PaperSIOpticalAFM.png, id=226, 342.27875pt x 255.95625pt>
 File: PaperSIOpticalAFM.png Graphic file (type png)
 <use PaperSIOpticalAFM.png>
 Package pdftex.def Info: PaperSIOpticalAFM.png  used on input line 48.
@@ -2174,26 +2176,26 @@ Package pdftex.def Info: PaperSIOpticalAFM.png  used on input line 48.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[52 <./PaperOptical.png>] [53 <./PaperSIOpticalContinous.png> <./PaperSIOptical
+[53 <./PaperOptical.png>] [54 <./PaperSIOpticalContinous.png> <./PaperSIOptical
 AFM.png>]
-<PaperSIXRD.png, id=233, 1066.98625pt x 568.1225pt>
+<PaperSIXRD.png, id=237, 1066.98625pt x 568.1225pt>
 File: PaperSIXRD.png Graphic file (type png)
 <use PaperSIXRD.png>
 Package pdftex.def Info: PaperSIXRD.png  used on input line 62.
 (pdftex.def)             Requested size: 320.09834pt x 170.43805pt.
-<PaperSIXRDOptical.png, id=234, 1061.9675pt x 427.5975pt>
+<PaperSIXRDOptical.png, id=238, 1061.9675pt x 427.5975pt>
 File: PaperSIXRDOptical.png Graphic file (type png)
 <use PaperSIXRDOptical.png>
 Package pdftex.def Info: PaperSIXRDOptical.png  used on input line 70.
 (pdftex.def)             Requested size: 318.5927pt x 128.28023pt.
- [54 <./PaperSIXRD.png> <./PaperSIXRDOptical.png>]
-<PaperAFM.png, id=241, 948.54375pt x 765.86125pt>
+ [55 <./PaperSIXRD.png> <./PaperSIXRDOptical.png>]
+<PaperAFM.png, id=244, 948.54375pt x 765.86125pt>
 File: PaperAFM.png Graphic file (type png)
 <use PaperAFM.png>
 Package pdftex.def Info: PaperAFM.png  used on input line 82.
 (pdftex.def)             Requested size: 284.56532pt x 229.76015pt.
- [55 <./PaperAFM.png>]
-<PaperPLMaps.png, id=246, 1002.74625pt x 671.50874pt>
+ [56 <./PaperAFM.png>]
+<PaperPLMaps.png, id=249, 1002.74625pt x 671.50874pt>
 File: PaperPLMaps.png Graphic file (type png)
 <use PaperPLMaps.png>
 Package pdftex.def Info: PaperPLMaps.png  used on input line 94.
@@ -2202,8 +2204,8 @@ Package pdftex.def Info: PaperPLMaps.png  used on input line 94.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[56]
-<PaperPLSpectraHistograms.png, id=250, 943.525pt x 675.52374pt>
+[57]
+<PaperPLSpectraHistograms.png, id=253, 943.525pt x 675.52374pt>
 File: PaperPLSpectraHistograms.png Graphic file (type png)
 <use PaperPLSpectraHistograms.png>
 Package pdftex.def Info: PaperPLSpectraHistograms.png  used on input line 104.
@@ -2212,22 +2214,22 @@ Package pdftex.def Info: PaperPLSpectraHistograms.png  used on input line 104.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIMapsIntensityE.png, id=251, 967.615pt x 655.44875pt>
+<PaperSIMapsIntensityE.png, id=254, 967.615pt x 655.44875pt>
 File: PaperSIMapsIntensityE.png Graphic file (type png)
 <use PaperSIMapsIntensityE.png>
 Package pdftex.def Info: PaperSIMapsIntensityE.png  used on input line 115.
 (pdftex.def)             Requested size: 182.09486pt x 123.34639pt.
-<PaperSIMapsPositionE.png, id=252, 971.63pt x 658.46pt>
+<PaperSIMapsPositionE.png, id=255, 971.63pt x 658.46pt>
 File: PaperSIMapsPositionE.png Graphic file (type png)
 <use PaperSIMapsPositionE.png>
 Package pdftex.def Info: PaperSIMapsPositionE.png  used on input line 121.
 (pdftex.def)             Requested size: 182.09486pt x 123.40067pt.
-<PaperSIMapsIntensityA.png, id=253, 971.63pt x 663.47874pt>
+<PaperSIMapsIntensityA.png, id=256, 971.63pt x 663.47874pt>
 File: PaperSIMapsIntensityA.png Graphic file (type png)
 <use PaperSIMapsIntensityA.png>
 Package pdftex.def Info: PaperSIMapsIntensityA.png  used on input line 127.
 (pdftex.def)             Requested size: 182.09486pt x 124.3412pt.
-<PaperSIMapsPositionA.png, id=254, 969.6225pt x 658.46pt>
+<PaperSIMapsPositionA.png, id=257, 969.6225pt x 658.46pt>
 File: PaperSIMapsPositionA.png Graphic file (type png)
 <use PaperSIMapsPositionA.png>
 Package pdftex.def Info: PaperSIMapsPositionA.png  used on input line 133.
@@ -2235,7 +2237,7 @@ Package pdftex.def Info: PaperSIMapsPositionA.png  used on input line 133.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIMapsDifference.png, id=255, 957.5775pt x 649.42625pt>
+<PaperSIMapsDifference.png, id=258, 957.5775pt x 649.42625pt>
 File: PaperSIMapsDifference.png Graphic file (type png)
 <use PaperSIMapsDifference.png>
 Package pdftex.def Info: PaperSIMapsDifference.png  used on input line 146.
@@ -2243,13 +2245,13 @@ Package pdftex.def Info: PaperSIMapsDifference.png  used on input line 146.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[57 <./PaperPLMaps.png>]
-<PaperSIMapsPositionPL.png, id=260, 963.6pt x 655.44875pt>
+[58 <./PaperPLMaps.png>]
+<PaperSIMapsPositionPL.png, id=263, 963.6pt x 655.44875pt>
 File: PaperSIMapsPositionPL.png Graphic file (type png)
 <use PaperSIMapsPositionPL.png>
 Package pdftex.def Info: PaperSIMapsPositionPL.png  used on input line 157.
 (pdftex.def)             Requested size: 182.09486pt x 123.85646pt.
-<PaperSIMapsWidthPL.png, id=261, 959.585pt x 655.44875pt>
+<PaperSIMapsWidthPL.png, id=264, 959.585pt x 655.44875pt>
 File: PaperSIMapsWidthPL.png Graphic file (type png)
 <use PaperSIMapsWidthPL.png>
 Package pdftex.def Info: PaperSIMapsWidthPL.png  used on input line 163.
@@ -2258,8 +2260,8 @@ Package pdftex.def Info: PaperSIMapsWidthPL.png  used on input line 163.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[58 <./PaperPLSpectraHistograms.png>]
-<PaperSIMapsCutting.png, id=266, 1039.885pt x 676.5275pt>
+[59 <./PaperPLSpectraHistograms.png>]
+<PaperSIMapsCutting.png, id=269, 1039.885pt x 676.5275pt>
 File: PaperSIMapsCutting.png Graphic file (type png)
 <use PaperSIMapsCutting.png>
 Package pdftex.def Info: PaperSIMapsCutting.png  used on input line 176.
@@ -2268,22 +2270,22 @@ Package pdftex.def Info: PaperSIMapsCutting.png  used on input line 176.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PaperSIScatterWO3.png, id=267, 1078.0275pt x 403.5075pt>
+<PaperSIScatterWO3.png, id=270, 1078.0275pt x 403.5075pt>
 File: PaperSIScatterWO3.png Graphic file (type png)
 <use PaperSIScatterWO3.png>
 Package pdftex.def Info: PaperSIScatterWO3.png  used on input line 187.
 (pdftex.def)             Requested size: 323.41075pt x 121.05318pt.
-<PaperSIScatterWO3NaCl.png, id=268, 1083.04625pt x 401.5pt>
+<PaperSIScatterWO3NaCl.png, id=271, 1083.04625pt x 401.5pt>
 File: PaperSIScatterWO3NaCl.png Graphic file (type png)
 <use PaperSIScatterWO3NaCl.png>
 Package pdftex.def Info: PaperSIScatterWO3NaCl.png  used on input line 193.
 (pdftex.def)             Requested size: 324.91638pt x 120.45091pt.
-<PaperSIScatterH2WO4NaCl.png, id=269, 1064.97874pt x 404.51125pt>
+<PaperSIScatterH2WO4NaCl.png, id=272, 1064.97874pt x 404.51125pt>
 File: PaperSIScatterH2WO4NaCl.png Graphic file (type png)
 <use PaperSIScatterH2WO4NaCl.png>
 Package pdftex.def Info: PaperSIScatterH2WO4NaCl.png  used on input line 199.
 (pdftex.def)             Requested size: 319.4961pt x 121.35431pt.
-<PaperSIScatterComparison.png, id=270, 1067.99pt x 411.5375pt>
+<PaperSIScatterComparison.png, id=273, 1067.99pt x 411.5375pt>
 File: PaperSIScatterComparison.png Graphic file (type png)
 <use PaperSIScatterComparison.png>
 Package pdftex.def Info: PaperSIScatterComparison.png  used on input line 205.
@@ -2291,10 +2293,10 @@ Package pdftex.def Info: PaperSIScatterComparison.png  used on input line 205.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[59 <./PaperSIMapsIntensityE.png> <./PaperSIMapsPositionE.png> <./PaperSIMapsIn
-tensityA.png> <./PaperSIMapsPositionA.png>] [60 <./PaperSIMapsDifference.png> <
+[60 <./PaperSIMapsIntensityE.png> <./PaperSIMapsPositionE.png> <./PaperSIMapsIn
+tensityA.png> <./PaperSIMapsPositionA.png>] [61 <./PaperSIMapsDifference.png> <
 ./PaperSIMapsPositionPL.png> <./PaperSIMapsWidthPL.png>]
-<PaperXPS.png, id=286, 943.525pt x 598.235pt>
+<PaperXPS.png, id=289, 943.525pt x 598.235pt>
 File: PaperXPS.png Graphic file (type png)
 <use PaperXPS.png>
 Package pdftex.def Info: PaperXPS.png  used on input line 218.
@@ -2303,13 +2305,13 @@ Package pdftex.def Info: PaperXPS.png  used on input line 218.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[61 <./PaperSIMapsCutting.png>]
+[62 <./PaperSIMapsCutting.png>]
 
-LaTeX Warning: Text page 62 contains only floats.
+LaTeX Warning: Text page 63 contains only floats.
 
-[62 <./PaperSIScatterWO3.png> <./PaperSIScatterWO3NaCl.png> <./PaperSIScatterH2
+[63 <./PaperSIScatterWO3.png> <./PaperSIScatterWO3NaCl.png> <./PaperSIScatterH2
 WO4NaCl.png> <./PaperSIScatterComparison.png>]
-<PaperElectricalMeasurementMonolayer.png, id=299, 944.52875pt x 1042.89626pt>
+<PaperElectricalMeasurementMonolayer.png, id=302, 944.52875pt x 1042.89626pt>
 File: PaperElectricalMeasurementMonolayer.png Graphic file (type png)
 <use PaperElectricalMeasurementMonolayer.png>
 Package pdftex.def Info: PaperElectricalMeasurementMonolayer.png  used on input
@@ -2325,113 +2327,113 @@ Overfull \hbox (1.59155pt too wide) in paragraph at lines 234--235
 to me-chan-i-cally ex-fo-li-ated $\OML/cmm/m/it/12 WS[]$
  []
 
-[63 <./PaperXPS.png>] [64 <./PaperElectricalMeasurementMonolayer.png>]
-<PaperMobilityComparison.png, id=308, 954.56625pt x 379.4175pt>
+[64 <./PaperXPS.png>] [65 <./PaperElectricalMeasurementMonolayer.png>]
+<PaperMobilityComparison.png, id=311, 954.56625pt x 379.4175pt>
 File: PaperMobilityComparison.png Graphic file (type png)
 <use PaperMobilityComparison.png>
 Package pdftex.def Info: PaperMobilityComparison.png  used on input line 238.
 (pdftex.def)             Requested size: 286.37209pt x 113.82613pt.
-<PaperElectricalMeasurementBilayer.png, id=309, 943.525pt x 269.005pt>
+<PaperElectricalMeasurementBilayer.png, id=312, 943.525pt x 269.005pt>
 File: PaperElectricalMeasurementBilayer.png Graphic file (type png)
 <use PaperElectricalMeasurementBilayer.png>
 Package pdftex.def Info: PaperElectricalMeasurementBilayer.png  used on input l
 ine 246.
 (pdftex.def)             Requested size: 283.05968pt x 80.70212pt.
 )
-[65 <./PaperMobilityComparison.png> <./PaperElectricalMeasurementBilayer.png>]
-[66]
+[66 <./PaperMobilityComparison.png> <./PaperElectricalMeasurementBilayer.png>]
+[67]
 \openout2 = `chapterLowTPL.aux'.
 
  (chapterLowTPL.tex
-Chapter 6.
-[67
+Chapter 7.
+[68
 
 
 
 ]
-<LowT/LowTPLComparison.png, id=322, 1129.21875pt x 771.63281pt>
+<LowT/LowTPLComparison.png, id=325, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLComparison.png Graphic file (type png)
 <use LowT/LowTPLComparison.png>
 Package pdftex.def Info: LowT/LowTPLComparison.png  used on input line 17.
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
- [68 <./LowT/LowTPLComparison.png (PNG copy)>]
-<LowT/LowTPLDeconvolution.png, id=326, 1129.21875pt x 771.63281pt>
+ [69 <./LowT/LowTPLComparison.png (PNG copy)>]
+<LowT/LowTPLDeconvolution.png, id=329, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLDeconvolution.png Graphic file (type png)
 <use LowT/LowTPLDeconvolution.png>
 Package pdftex.def Info: LowT/LowTPLDeconvolution.png  used on input line 29.
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
- [69 <./LowT/LowTPLDeconvolution.png (PNG copy)>]
-<LowT/LowTPLStrongTrion.png, id=330, 1129.21875pt x 771.63281pt>
+ [70 <./LowT/LowTPLDeconvolution.png (PNG copy)>]
+<LowT/LowTPLStrongTrion.png, id=333, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLStrongTrion.png Graphic file (type png)
 <use LowT/LowTPLStrongTrion.png>
 Package pdftex.def Info: LowT/LowTPLStrongTrion.png  used on input line 39.
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
-<LowT/LowTPLPressureDifference.png, id=331, 1129.21875pt x 771.63281pt>
+<LowT/LowTPLPressureDifference.png, id=334, 1129.21875pt x 771.63281pt>
 File: LowT/LowTPLPressureDifference.png Graphic file (type png)
 <use LowT/LowTPLPressureDifference.png>
 Package pdftex.def Info: LowT/LowTPLPressureDifference.png  used on input line 
 49.
 (pdftex.def)             Requested size: 451.6795pt x 308.64764pt.
-) [70 <./LowT/LowTPLStrongTrion.png (PNG copy)>] [71 <./LowT/LowTPLPressureDiff
+) [71 <./LowT/LowTPLStrongTrion.png (PNG copy)>] [72 <./LowT/LowTPLPressureDiff
 erence.png (PNG copy)>]
 \openout2 = `chapterTransfer.aux'.
 
  (chapterTransfer.tex
-Chapter 7.
-[72
+Chapter 8.
+[73
 
 
 
-] [73] [74]
-<Transfer/TransferPLIntensityMapAsgrown.png, id=348, 1129.21875pt x 771.63281pt
+] [74] [75]
+<Transfer/TransferPLIntensityMapAsgrown.png, id=351, 1129.21875pt x 771.63281pt
 >
 File: Transfer/TransferPLIntensityMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLIntensityMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLIntensityMapAsgrown.png  used on in
 put line 29.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLIntensityMapTransferred.png, id=349, 1129.21875pt x 771.632
+<Transfer/TransferPLIntensityMapTransferred.png, id=352, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferPLIntensityMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLIntensityMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLIntensityMapTransferred.png  used o
 n input line 35.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLPositionMapAsgrown.png, id=350, 1129.21875pt x 771.63281pt>
+<Transfer/TransferPLPositionMapAsgrown.png, id=353, 1129.21875pt x 771.63281pt>
 
 File: Transfer/TransferPLPositionMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLPositionMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLPositionMapAsgrown.png  used on inp
 ut line 41.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLPositionMapTransferred.png, id=351, 1129.21875pt x 771.6328
+<Transfer/TransferPLPositionMapTransferred.png, id=354, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferPLPositionMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLPositionMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLPositionMapTransferred.png  used on
  input line 47.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLWidthMapAsgrown.png, id=352, 1129.21875pt x 771.63281pt>
+<Transfer/TransferPLWidthMapAsgrown.png, id=355, 1129.21875pt x 771.63281pt>
 File: Transfer/TransferPLWidthMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferPLWidthMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferPLWidthMapAsgrown.png  used on input 
 line 53.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferPLWidthMapTransferred.png, id=353, 1129.21875pt x 771.63281pt
+<Transfer/TransferPLWidthMapTransferred.png, id=356, 1129.21875pt x 771.63281pt
 >
 File: Transfer/TransferPLWidthMapTransferred.png Graphic file (type png)
 <use Transfer/TransferPLWidthMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferPLWidthMapTransferred.png  used on in
 put line 59.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityEMapAsgrown.png, id=354, 1129.21875pt x 771.632
+<Transfer/TransferRamanIntensityEMapAsgrown.png, id=357, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferRamanIntensityEMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanIntensityEMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityEMapAsgrown.png  used o
 n input line 71.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityEMapTransferred.png, id=355, 1129.21875pt x 771
+<Transfer/TransferRamanIntensityEMapTransferred.png, id=358, 1129.21875pt x 771
 .63281pt>
 File: Transfer/TransferRamanIntensityEMapTransferred.png Graphic file (type png
 )
@@ -2439,14 +2441,14 @@ File: Transfer/TransferRamanIntensityEMapTransferred.png Graphic file (type png
 Package pdftex.def Info: Transfer/TransferRamanIntensityEMapTransferred.png  us
 ed on input line 77.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityAMapAsgrown.png, id=356, 1129.21875pt x 771.632
+<Transfer/TransferRamanIntensityAMapAsgrown.png, id=359, 1129.21875pt x 771.632
 81pt>
 File: Transfer/TransferRamanIntensityAMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanIntensityAMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanIntensityAMapAsgrown.png  used o
 n input line 83.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanIntensityAMapTransferred.png, id=357, 1129.21875pt x 771
+<Transfer/TransferRamanIntensityAMapTransferred.png, id=360, 1129.21875pt x 771
 .63281pt>
 File: Transfer/TransferRamanIntensityAMapTransferred.png Graphic file (type png
 )
@@ -2454,14 +2456,14 @@ File: Transfer/TransferRamanIntensityAMapTransferred.png Graphic file (type png
 Package pdftex.def Info: Transfer/TransferRamanIntensityAMapTransferred.png  us
 ed on input line 89.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanPositionEMapAsgrown.png, id=358, 1129.21875pt x 771.6328
+<Transfer/TransferRamanPositionEMapAsgrown.png, id=361, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferRamanPositionEMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanPositionEMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanPositionEMapAsgrown.png  used on
  input line 95.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanPositionEMapTransferred.png, id=359, 1129.21875pt x 771.
+<Transfer/TransferRamanPositionEMapTransferred.png, id=362, 1129.21875pt x 771.
 63281pt>
 File: Transfer/TransferRamanPositionEMapTransferred.png Graphic file (type png)
 
@@ -2469,20 +2471,20 @@ File: Transfer/TransferRamanPositionEMapTransferred.png Graphic file (type png)
 Package pdftex.def Info: Transfer/TransferRamanPositionEMapTransferred.png  use
 d on input line 101.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanDiffMapAsgrown.png, id=360, 1129.21875pt x 771.63281pt>
+<Transfer/TransferRamanDiffMapAsgrown.png, id=363, 1129.21875pt x 771.63281pt>
 File: Transfer/TransferRamanDiffMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanDiffMapAsgrown.png>
 Package pdftex.def Info: Transfer/TransferRamanDiffMapAsgrown.png  used on inpu
 t line 113.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanDiffMapTransferred.png, id=361, 1129.21875pt x 771.63281
+<Transfer/TransferRamanDiffMapTransferred.png, id=364, 1129.21875pt x 771.63281
 pt>
 File: Transfer/TransferRamanDiffMapTransferred.png Graphic file (type png)
 <use Transfer/TransferRamanDiffMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanDiffMapTransferred.png  used on 
 input line 119.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-<Transfer/TransferRamanRatioMapAsgrown.png, id=362, 1129.21875pt x 771.63281pt>
+<Transfer/TransferRamanRatioMapAsgrown.png, id=365, 1129.21875pt x 771.63281pt>
 
 File: Transfer/TransferRamanRatioMapAsgrown.png Graphic file (type png)
 <use Transfer/TransferRamanRatioMapAsgrown.png>
@@ -2494,36 +2496,36 @@ Underfull \hbox (badness 1043) in paragraph at lines 126--126
 []\OT1/cmr/m/n/10.95 (c) |Ra-man peaks ra-tio map of as
  []
 
-<Transfer/TransferRamanRatioMapTransferred.png, id=363, 1129.21875pt x 771.6328
+<Transfer/TransferRamanRatioMapTransferred.png, id=366, 1129.21875pt x 771.6328
 1pt>
 File: Transfer/TransferRamanRatioMapTransferred.png Graphic file (type png)
 <use Transfer/TransferRamanRatioMapTransferred.png>
 Package pdftex.def Info: Transfer/TransferRamanRatioMapTransferred.png  used on
  input line 131.
 (pdftex.def)             Requested size: 169.3755pt x 115.73991pt.
-) [75 <./Transfer/TransferPLIntensityMapAsgrown.png (PNG copy)> <./Transfer/Tra
+) [76 <./Transfer/TransferPLIntensityMapAsgrown.png (PNG copy)> <./Transfer/Tra
 nsferPLIntensityMapTransferred.png (PNG copy)> <./Transfer/TransferPLPositionMa
 pAsgrown.png (PNG copy)> <./Transfer/TransferPLPositionMapTransferred.png (PNG 
 copy)> <./Transfer/TransferPLWidthMapAsgrown.png (PNG copy)> <./Transfer/Transf
-erPLWidthMapTransferred.png (PNG copy)>] [76] [77 <./Transfer/TransferRamanInte
+erPLWidthMapTransferred.png (PNG copy)>] [77] [78 <./Transfer/TransferRamanInte
 nsityEMapAsgrown.png (PNG copy)> <./Transfer/TransferRamanIntensityEMapTransfer
 red.png (PNG copy)> <./Transfer/TransferRamanIntensityAMapAsgrown.png (PNG copy
 )> <./Transfer/TransferRamanIntensityAMapTransferred.png (PNG copy)> <./Transfe
 r/TransferRamanPositionEMapAsgrown.png (PNG copy)> <./Transfer/TransferRamanPos
-itionEMapTransferred.png (PNG copy)>] [78 <./Transfer/TransferRamanDiffMapAsgro
+itionEMapTransferred.png (PNG copy)>] [79 <./Transfer/TransferRamanDiffMapAsgro
 wn.png (PNG copy)> <./Transfer/TransferRamanDiffMapTransferred.png (PNG copy)> 
 <./Transfer/TransferRamanRatioMapAsgrown.png (PNG copy)> <./Transfer/TransferRa
 manRatioMapTransferred.png (PNG copy)>]
 \openout2 = `chapterIn.aux'.
 
  (chapterIn.tex
-Chapter 8.
-[79
+Chapter 9.
+[80
 
 
 
 ]
-<In/FurnaceSetup.png, id=380, 868.24374pt x 326.21875pt>
+<In/FurnaceSetup.png, id=383, 868.24374pt x 326.21875pt>
 File: In/FurnaceSetup.png Graphic file (type png)
 <use In/FurnaceSetup.png>
 Package pdftex.def Info: In/FurnaceSetup.png  used on input line 24.
@@ -2532,8 +2534,8 @@ Package pdftex.def Info: In/FurnaceSetup.png  used on input line 24.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80]
-<In/OMSEMImages1.png, id=384, 866.23625pt x 600.2425pt>
+[81]
+<In/OMSEMImages1.png, id=387, 866.23625pt x 600.2425pt>
 File: In/OMSEMImages1.png Graphic file (type png)
 <use In/OMSEMImages1.png>
 Package pdftex.def Info: In/OMSEMImages1.png  used on input line 35.
@@ -2542,17 +2544,17 @@ File: In/OMSEMImages1.png Graphic file (type png)
 <use In/OMSEMImages1.png>
 Package pdftex.def Info: In/OMSEMImages1.png  used on input line 40.
 (pdftex.def)             Requested size: 303.18723pt x 210.08801pt.
-<In/XPSW4f.png, id=385, 865.2325pt x 592.2125pt>
+<In/XPSW4f.png, id=388, 865.2325pt x 592.2125pt>
 File: In/XPSW4f.png Graphic file (type png)
 <use In/XPSW4f.png>
 Package pdftex.def Info: In/XPSW4f.png  used on input line 51.
 (pdftex.def)             Requested size: 302.8359pt x 207.27747pt.
-<In/XPSS2p.png, id=386, 865.2325pt x 592.2125pt>
+<In/XPSS2p.png, id=389, 865.2325pt x 592.2125pt>
 File: In/XPSS2p.png Graphic file (type png)
 <use In/XPSS2p.png>
 Package pdftex.def Info: In/XPSS2p.png  used on input line 56.
 (pdftex.def)             Requested size: 302.8359pt x 207.27747pt.
-<In/XPSIn3d.png, id=387, 865.2325pt x 592.2125pt>
+<In/XPSIn3d.png, id=390, 865.2325pt x 592.2125pt>
 File: In/XPSIn3d.png Graphic file (type png)
 <use In/XPSIn3d.png>
 Package pdftex.def Info: In/XPSIn3d.png  used on input line 60.
@@ -2566,7 +2568,7 @@ Package caption Warning: \label without proper reference on input line 61.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:InXPSIn3d' on page 81 undefined on input line 68.
+LaTeX Warning: Reference `fig:InXPSIn3d' on page 82 undefined on input line 68.
 
 
 
@@ -2574,40 +2576,40 @@ Package caption Warning: \label without proper reference on input line 52.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:InXPSW4f' on page 81 undefined on input line 68.
+LaTeX Warning: Reference `fig:InXPSW4f' on page 82 undefined on input line 68.
 
 
 Package caption Warning: \label without proper reference on input line 52.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:InXPSW4f' on page 81 undefined on input line 68.
+LaTeX Warning: Reference `fig:InXPSW4f' on page 82 undefined on input line 68.
 
 
 Package caption Warning: \label without proper reference on input line 52.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:InXPSW4f' on page 81 undefined on input line 68.
+LaTeX Warning: Reference `fig:InXPSW4f' on page 82 undefined on input line 68.
 
 
 Package caption Warning: \label without proper reference on input line 57.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:InXPSS2p' on page 81 undefined on input line 70.
+LaTeX Warning: Reference `fig:InXPSS2p' on page 82 undefined on input line 70.
 
-[81 <./In/FurnaceSetup.png>] [82 <./In/OMSEMImages1.png>]
+[82 <./In/FurnaceSetup.png>] [83 <./In/OMSEMImages1.png>]
 Overfull \vbox (34.74648pt too high) has occurred while \output is active []
 
 
-[83 <./In/XPSW4f.png> <./In/XPSS2p.png> <./In/XPSIn3d.png>]
-<In/XRDAll.png, id=402, 865.2325pt x 579.16376pt>
+[84 <./In/XPSW4f.png> <./In/XPSS2p.png> <./In/XPSIn3d.png>]
+<In/XRDAll.png, id=406, 865.2325pt x 579.16376pt>
 File: In/XRDAll.png Graphic file (type png)
 <use In/XRDAll.png>
 Package pdftex.def Info: In/XRDAll.png  used on input line 116.
 (pdftex.def)             Requested size: 302.8359pt x 202.71034pt.
-<In/XRDIn.png, id=403, 868.24374pt x 593.21625pt>
+<In/XRDIn.png, id=407, 868.24374pt x 593.21625pt>
 File: In/XRDIn.png Graphic file (type png)
 <use In/XRDIn.png>
 Package pdftex.def Info: In/XRDIn.png  used on input line 122.
@@ -2616,7 +2618,7 @@ Package pdftex.def Info: In/XRDIn.png  used on input line 122.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<In/RamanPL.png, id=404, 868.24374pt x 336.25626pt>
+<In/RamanPL.png, id=408, 868.24374pt x 336.25626pt>
 File: In/RamanPL.png Graphic file (type png)
 <use In/RamanPL.png>
 Package pdftex.def Info: In/RamanPL.png  used on input line 133.
@@ -2624,31 +2626,31 @@ Package pdftex.def Info: In/RamanPL.png  used on input line 133.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<In/SEMCentre.png, id=405, 866.23625pt x 600.2425pt>
+<In/SEMCentre.png, id=409, 866.23625pt x 600.2425pt>
 File: In/SEMCentre.png Graphic file (type png)
 <use In/SEMCentre.png>
 Package pdftex.def Info: In/SEMCentre.png  used on input line 143.
 (pdftex.def)             Requested size: 433.11707pt x 300.12051pt.
-[84]
+[85]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[85 <./In/XRDAll.png> <./In/XRDIn.png>] [86 <./In/RamanPL.png> <./In/SEMCentre.
+[86 <./In/XRDAll.png> <./In/XRDIn.png>] [87 <./In/RamanPL.png> <./In/SEMCentre.
 png>]
-<In/ElectricalMeasurements.png, id=420, 868.24374pt x 687.56876pt>
+<In/ElectricalMeasurements.png, id=423, 868.24374pt x 687.56876pt>
 File: In/ElectricalMeasurements.png Graphic file (type png)
 <use In/ElectricalMeasurements.png>
 Package pdftex.def Info: In/ElectricalMeasurements.png  used on input line 153.
 
 (pdftex.def)             Requested size: 434.1208pt x 343.78354pt.
- [87 <./In/ElectricalMeasurements.png>]
-<In/RamanPositionHistogram.png, id=425, 868.24374pt x 343.2825pt>
+ [88 <./In/ElectricalMeasurements.png>]
+<In/RamanPositionHistogram.png, id=428, 868.24374pt x 343.2825pt>
 File: In/RamanPositionHistogram.png Graphic file (type png)
 <use In/RamanPositionHistogram.png>
 Package pdftex.def Info: In/RamanPositionHistogram.png  used on input line 162.
 
 (pdftex.def)             Requested size: 434.1208pt x 171.64082pt.
-<In/PLRatioHistogram.png, id=426, 940.51375pt x 642.4pt>
+<In/PLRatioHistogram.png, id=429, 940.51375pt x 642.4pt>
 File: In/PLRatioHistogram.png Graphic file (type png)
 <use In/PLRatioHistogram.png>
 Package pdftex.def Info: In/PLRatioHistogram.png  used on input line 170.
@@ -2658,28 +2660,28 @@ Overfull \hbox (15.01161pt too wide) in paragraph at lines 170--171
  [] 
  []
 
-[88 <./In/RamanPositionHistogram.png> <./In/PLRatioHistogram.png>]
-<In/TEMImage1.png, id=432, 891.33pt x 593.21625pt>
+[89 <./In/RamanPositionHistogram.png> <./In/PLRatioHistogram.png>]
+<In/TEMImage1.png, id=435, 891.33pt x 593.21625pt>
 File: In/TEMImage1.png Graphic file (type png)
 <use In/TEMImage1.png>
 Package pdftex.def Info: In/TEMImage1.png  used on input line 183.
 (pdftex.def)             Requested size: 295.90588pt x 196.93869pt.
-<In/TEMImage2.png, id=433, 891.33pt x 593.21625pt>
+<In/TEMImage2.png, id=436, 891.33pt x 593.21625pt>
 File: In/TEMImage2.png Graphic file (type png)
 <use In/TEMImage2.png>
 Package pdftex.def Info: In/TEMImage2.png  used on input line 189.
 (pdftex.def)             Requested size: 295.90588pt x 196.93869pt.
-<In/TEMImage3.png, id=434, 889.3225pt x 592.2125pt>
+<In/TEMImage3.png, id=437, 889.3225pt x 592.2125pt>
 File: In/TEMImage3.png Graphic file (type png)
 <use In/TEMImage3.png>
 Package pdftex.def Info: In/TEMImage3.png  used on input line 195.
 (pdftex.def)             Requested size: 295.90588pt x 197.04825pt.
-<In/TEMEDSFra.png, id=435, 1046.91125pt x 503.8825pt>
+<In/TEMEDSFra.png, id=438, 1046.91125pt x 503.8825pt>
 File: In/TEMEDSFra.png Graphic file (type png)
 <use In/TEMEDSFra.png>
 Package pdftex.def Info: In/TEMEDSFra.png  used on input line 209.
 (pdftex.def)             Requested size: 273.14923pt x 131.46767pt.
-<In/TEMEDS.png, id=436, 1046.91125pt x 502.87875pt>
+<In/TEMEDS.png, id=439, 1046.91125pt x 502.87875pt>
 File: In/TEMEDS.png Graphic file (type png)
 <use In/TEMEDS.png>
 Package pdftex.def Info: In/TEMEDS.png  used on input line 215.
@@ -2694,8 +2696,8 @@ LaTeX Warning: Command \r invalid in math mode on input line 224.
 
 LaTeX Warning: Command \r invalid in math mode on input line 224.
 
-[89]
-<In/TEMED.png, id=440, 889.3225pt x 593.21625pt>
+[90]
+<In/TEMED.png, id=444, 889.3225pt x 593.21625pt>
 File: In/TEMED.png Graphic file (type png)
 <use In/TEMED.png>
 Package pdftex.def Info: In/TEMED.png  used on input line 228.
@@ -2704,325 +2706,320 @@ Package pdftex.def Info: In/TEMED.png  used on input line 228.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [90] [91 <./In/TEMImage1.png> <./In/TEMImage2.png> <./In/TEMImage3.png>]
-[92 <./In/TEMEDSFra.png> <./In/TEMEDS.png> <./In/TEMED.png>]
+) [91] [92 <./In/TEMImage1.png> <./In/TEMImage2.png> <./In/TEMImage3.png>]
+[93 <./In/TEMEDSFra.png> <./In/TEMEDS.png> <./In/TEMED.png>]
 \openout2 = `chapterWSe2.aux'.
 
  (chapterWSe2.tex
-Chapter 9.
-<WSe2/WSe2BandStructureWSe2WS2.png, id=457, 383.4325pt x 633.36626pt>
-File: WSe2/WSe2BandStructureWSe2WS2.png Graphic file (type png)
-<use WSe2/WSe2BandStructureWSe2WS2.png>
-Package pdftex.def Info: WSe2/WSe2BandStructureWSe2WS2.png  used on input line 
-9.
-(pdftex.def)             Requested size: 191.71577pt x 316.68236pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<WSe2/OMMap.png, id=458, 566.115pt x 361.35pt>
-File: WSe2/OMMap.png Graphic file (type png)
-<use WSe2/OMMap.png>
-Package pdftex.def Info: WSe2/OMMap.png  used on input line 21.
-(pdftex.def)             Requested size: 283.05681pt x 180.67456pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[93
+Chapter 10.
+[94
 
 
 
 ]
-<WSe2/PLSpectrum.png, id=462, 1129.21875pt x 771.63281pt>
+<WSe2/OMMap.png, id=463, 566.115pt x 361.35pt>
+File: WSe2/OMMap.png Graphic file (type png)
+<use WSe2/OMMap.png>
+Package pdftex.def Info: WSe2/OMMap.png  used on input line 19.
+(pdftex.def)             Requested size: 283.05681pt x 180.67456pt.
+<WSe2/PLSpectrum.png, id=464, 1129.21875pt x 771.63281pt>
 File: WSe2/PLSpectrum.png Graphic file (type png)
 <use WSe2/PLSpectrum.png>
-Package pdftex.def Info: WSe2/PLSpectrum.png  used on input line 34.
+Package pdftex.def Info: WSe2/PLSpectrum.png  used on input line 31.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (66.50154pt too wide) in paragraph at lines 34--35
+Overfull \hbox (66.50154pt too wide) in paragraph at lines 31--32
 [][] 
  []
 
-<WSe2/RamanSpectrum.png, id=463, 1129.21875pt x 771.63281pt>
+<WSe2/RamanSpectrum.png, id=465, 1129.21875pt x 771.63281pt>
 File: WSe2/RamanSpectrum.png Graphic file (type png)
 <use WSe2/RamanSpectrum.png>
-Package pdftex.def Info: WSe2/RamanSpectrum.png  used on input line 40.
+Package pdftex.def Info: WSe2/RamanSpectrum.png  used on input line 37.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (66.50154pt too wide) in paragraph at lines 40--41
+Overfull \hbox (66.50154pt too wide) in paragraph at lines 37--38
 [][] 
  []
 
 
-Underfull \hbox (badness 4492) in paragraph at lines 41--41
+Underfull \hbox (badness 4492) in paragraph at lines 38--38
 []\OT1/cmr/m/n/10.95 (b) |Typ-i-cal Ra-man spec-trum
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/PLIntensity.png, id=464, 1129.21875pt x 765.6103pt>
+<WSe2/PLIntensity.png, id=466, 1129.21875pt x 765.6103pt>
 File: WSe2/PLIntensity.png Graphic file (type png)
 <use WSe2/PLIntensity.png>
-Package pdftex.def Info: WSe2/PLIntensity.png  used on input line 52.
+Package pdftex.def Info: WSe2/PLIntensity.png  used on input line 49.
 (pdftex.def)             Requested size: 225.83975pt x 153.11934pt.
 
-Overfull \hbox (66.50154pt too wide) in paragraph at lines 52--53
+Overfull \hbox (66.50154pt too wide) in paragraph at lines 49--50
 [][] 
  []
 
-<WSe2/RamanEIntensity.png, id=465, 1129.21875pt x 765.6103pt>
+<WSe2/RamanEIntensity.png, id=467, 1129.21875pt x 765.6103pt>
 File: WSe2/RamanEIntensity.png Graphic file (type png)
 <use WSe2/RamanEIntensity.png>
-Package pdftex.def Info: WSe2/RamanEIntensity.png  used on input line 58.
+Package pdftex.def Info: WSe2/RamanEIntensity.png  used on input line 55.
 (pdftex.def)             Requested size: 225.83975pt x 153.11934pt.
 
-Overfull \hbox (66.50154pt too wide) in paragraph at lines 58--59
+Overfull \hbox (66.50154pt too wide) in paragraph at lines 55--56
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[94 <./WSe2/WSe2BandStructureWSe2WS2.png> <./WSe2/OMMap.png>]
-<WSe2/WSe2PositionHistograms.png, id=471, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2PositionHistograms.png, id=468, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2PositionHistograms.png Graphic file (type png)
 <use WSe2/WSe2PositionHistograms.png>
-Package pdftex.def Info: WSe2/WSe2PositionHistograms.png  used on input line 70
+Package pdftex.def Info: WSe2/WSe2PositionHistograms.png  used on input line 67
 .
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (134.79233pt too wide) in paragraph at lines 70--71
+Overfull \hbox (134.79233pt too wide) in paragraph at lines 67--68
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []\OT1/cmr/m/n/10.95 (a) |WSe2 PL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 \OT1/cmr/m/n/10.95 peak po-si-tions
  []
 
-<WSe2/Wse2WidthHistograms.png, id=472, 1129.21875pt x 771.63281pt>
+<WSe2/Wse2WidthHistograms.png, id=469, 1129.21875pt x 771.63281pt>
 File: WSe2/Wse2WidthHistograms.png Graphic file (type png)
 <use WSe2/Wse2WidthHistograms.png>
-Package pdftex.def Info: WSe2/Wse2WidthHistograms.png  used on input line 76.
+Package pdftex.def Info: WSe2/Wse2WidthHistograms.png  used on input line 73.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (134.79233pt too wide) in paragraph at lines 76--77
+Overfull \hbox (134.79233pt too wide) in paragraph at lines 73--74
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 []\OT1/cmr/m/n/10.95 (b) |WSe2 PL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 \OT1/cmr/m/n/10.95 peak po-si-tions
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/WSe2PositionIntensityScatterComparison.png, id=473, 1129.21875pt x 771.63
+<WSe2/WSe2PositionIntensityScatterComparison.png, id=470, 1129.21875pt x 771.63
 281pt>
 File: WSe2/WSe2PositionIntensityScatterComparison.png Graphic file (type png)
 <use WSe2/WSe2PositionIntensityScatterComparison.png>
 Package pdftex.def Info: WSe2/WSe2PositionIntensityScatterComparison.png  used 
-on input line 90.
+on input line 87.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 90--91
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 87--88
 [][] 
  []
 
-<WSe2/Wse2PositionWidthScatterComparison.png, id=474, 1129.21875pt x 771.63281p
+<WSe2/Wse2PositionWidthScatterComparison.png, id=471, 1129.21875pt x 771.63281p
 t>
 File: WSe2/Wse2PositionWidthScatterComparison.png Graphic file (type png)
 <use WSe2/Wse2PositionWidthScatterComparison.png>
 Package pdftex.def Info: WSe2/Wse2PositionWidthScatterComparison.png  used on i
-nput line 96.
+nput line 93.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 96--97
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 93--94
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[95 <./WSe2/PLSpectrum.png (PNG copy)> <./WSe2/RamanSpectrum.png (PNG copy)> <.
-/WSe2/PLIntensity.png (PNG copy)> <./WSe2/RamanEIntensity.png (PNG copy)>]
-[96 <./WSe2/WSe2PositionHistograms.png (PNG copy)> <./WSe2/Wse2WidthHistograms.
-png (PNG copy)> <./WSe2/WSe2PositionIntensityScatterComparison.png (PNG copy)> 
-<./WSe2/Wse2PositionWidthScatterComparison.png (PNG copy)>]
-<WSe2/WSe2RamanPositionHistogram1.png, id=482, 1129.21875pt x 771.63281pt>
+[95 <./WSe2/OMMap.png>] [96 <./WSe2/PLSpectrum.png (PNG copy)> <./WSe2/RamanSpe
+ctrum.png (PNG copy)> <./WSe2/PLIntensity.png (PNG copy)> <./WSe2/RamanEIntensi
+ty.png (PNG copy)>]
+<WSe2/WSe2RamanPositionHistogram1.png, id=480, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2RamanPositionHistogram1.png Graphic file (type png)
 <use WSe2/WSe2RamanPositionHistogram1.png>
 Package pdftex.def Info: WSe2/WSe2RamanPositionHistogram1.png  used on input li
-ne 113.
+ne 110.
 (pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
-<WSe2/XPSW4fThin.png, id=483, 1129.21875pt x 771.63281pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<WSe2/XPSW4fThin.png, id=481, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSW4fThin.png Graphic file (type png)
 <use WSe2/XPSW4fThin.png>
-Package pdftex.def Info: WSe2/XPSW4fThin.png  used on input line 122.
+Package pdftex.def Info: WSe2/XPSW4fThin.png  used on input line 119.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 122--123
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 119--120
 [][] 
  []
 
-<WSe2/XPSW4fThick.png, id=484, 1129.21875pt x 771.63281pt>
+<WSe2/XPSW4fThick.png, id=482, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSW4fThick.png Graphic file (type png)
 <use WSe2/XPSW4fThick.png>
-Package pdftex.def Info: WSe2/XPSW4fThick.png  used on input line 128.
+Package pdftex.def Info: WSe2/XPSW4fThick.png  used on input line 125.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 128--129
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 125--126
 [][] 
  []
 
-<WSe2/XPSW4fRef.png, id=485, 1129.21875pt x 771.63281pt>
+<WSe2/XPSW4fRef.png, id=483, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSW4fRef.png Graphic file (type png)
 <use WSe2/XPSW4fRef.png>
-Package pdftex.def Info: WSe2/XPSW4fRef.png  used on input line 134.
+Package pdftex.def Info: WSe2/XPSW4fRef.png  used on input line 131.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (112.02873pt too wide) in paragraph at lines 134--135
+Overfull \hbox (112.02873pt too wide) in paragraph at lines 131--132
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/XPSSe3dThin.png, id=486, 1129.21875pt x 771.63281pt>
+<WSe2/XPSSe3dThin.png, id=484, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSSe3dThin.png Graphic file (type png)
 <use WSe2/XPSSe3dThin.png>
-Package pdftex.def Info: WSe2/XPSSe3dThin.png  used on input line 146.
+Package pdftex.def Info: WSe2/XPSSe3dThin.png  used on input line 143.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 146--147
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 143--144
 [][] 
  []
 
-<WSe2/XPSSe3dThick.png, id=487, 1129.21875pt x 771.63281pt>
+<WSe2/XPSSe3dThick.png, id=485, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSSe3dThick.png Graphic file (type png)
 <use WSe2/XPSSe3dThick.png>
-Package pdftex.def Info: WSe2/XPSSe3dThick.png  used on input line 152.
+Package pdftex.def Info: WSe2/XPSSe3dThick.png  used on input line 149.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 152--153
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 149--150
 [][] 
  []
 
-<WSe2/XPSSe3dRef.png, id=488, 1129.21875pt x 771.63281pt>
+<WSe2/XPSSe3dRef.png, id=486, 1129.21875pt x 771.63281pt>
 File: WSe2/XPSSe3dRef.png Graphic file (type png)
 <use WSe2/XPSSe3dRef.png>
-Package pdftex.def Info: WSe2/XPSSe3dRef.png  used on input line 158.
+Package pdftex.def Info: WSe2/XPSSe3dRef.png  used on input line 155.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (112.02873pt too wide) in paragraph at lines 158--159
+Overfull \hbox (112.02873pt too wide) in paragraph at lines 155--156
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<WSe2/WSe2XPSThinZn.png, id=489, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSThinZn.png, id=487, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSThinZn.png Graphic file (type png)
 <use WSe2/WSe2XPSThinZn.png>
-Package pdftex.def Info: WSe2/WSe2XPSThinZn.png  used on input line 170.
+Package pdftex.def Info: WSe2/WSe2XPSThinZn.png  used on input line 167.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 170--171
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 167--168
 [][] 
  []
 
-<WSe2/WSe2XPSThickZn.png, id=490, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSThickZn.png, id=488, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSThickZn.png Graphic file (type png)
 <use WSe2/WSe2XPSThickZn.png>
-Package pdftex.def Info: WSe2/WSe2XPSThickZn.png  used on input line 176.
+Package pdftex.def Info: WSe2/WSe2XPSThickZn.png  used on input line 173.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (43.74489pt too wide) in paragraph at lines 176--177
+Overfull \hbox (43.74489pt too wide) in paragraph at lines 173--174
 [][] 
  []
 
-<WSe2/WSe2XPSRefZn.png, id=491, 1129.21875pt x 771.63281pt>
+<WSe2/WSe2XPSRefZn.png, id=489, 1129.21875pt x 771.63281pt>
 File: WSe2/WSe2XPSRefZn.png Graphic file (type png)
 <use WSe2/WSe2XPSRefZn.png>
-Package pdftex.def Info: WSe2/WSe2XPSRefZn.png  used on input line 182.
+Package pdftex.def Info: WSe2/WSe2XPSRefZn.png  used on input line 179.
 (pdftex.def)             Requested size: 225.83975pt x 154.32382pt.
 
-Overfull \hbox (112.02873pt too wide) in paragraph at lines 182--183
+Overfull \hbox (112.02873pt too wide) in paragraph at lines 179--180
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[97 <./WSe2/WSe2RamanPositionHistogram1.png (PNG copy)>] [98 <./WSe2/XPSW4fThin
-.png (PNG copy)> <./WSe2/XPSW4fThick.png (PNG copy)> <./WSe2/XPSW4fRef.png (PNG
- copy)>]
+[97 <./WSe2/WSe2PositionHistograms.png (PNG copy)> <./WSe2/Wse2WidthHistograms.
+png (PNG copy)> <./WSe2/WSe2PositionIntensityScatterComparison.png (PNG copy)> 
+<./WSe2/Wse2PositionWidthScatterComparison.png (PNG copy)>]
 
-LaTeX Warning: Reference `fig:WSe2XPSZnThin' on page 99 undefined on input line
- 197.
+LaTeX Warning: Text page 98 contains only floats.
+
+[98 <./WSe2/WSe2RamanPositionHistogram1.png (PNG copy)> <./WSe2/XPSW4fThin.png 
+(PNG copy)> <./WSe2/XPSW4fThick.png (PNG copy)> <./WSe2/XPSW4fRef.png (PNG copy
+)>] [99 <./WSe2/XPSSe3dThin.png (PNG copy)> <./WSe2/XPSSe3dThick.png (PNG copy)
+> <./WSe2/XPSSe3dRef.png (PNG copy)>] [100 <./WSe2/WSe2XPSThinZn.png (PNG copy)
+> <./WSe2/WSe2XPSThickZn.png (PNG copy)> <./WSe2/WSe2XPSRefZn.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:WSe2XPSZnThin' on page 101 undefined on input lin
+e 194.
 
 
-LaTeX Warning: Reference `fig:WSe2XPSThick' on page 99 undefined on input line 
-197.
+LaTeX Warning: Reference `fig:WSe2XPSThick' on page 101 undefined on input line
+ 194.
 
-[99 <./WSe2/XPSSe3dThin.png (PNG copy)> <./WSe2/XPSSe3dThick.png (PNG copy)> <.
-/WSe2/XPSSe3dRef.png (PNG copy)>]) [100 <./WSe2/WSe2XPSThinZn.png (PNG copy)> <
-./WSe2/WSe2XPSThickZn.png (PNG copy)> <./WSe2/WSe2XPSRefZn.png (PNG copy)>]
-[101]
+) [101] [102]
 \openout2 = `chapterWSe21T.aux'.
 
  (chapterWSe21T.tex
-Chapter 10.
-[102
+Chapter 11.
+[103
 
 
 
 ]
-<1T'/RamanSpectraComparison.png, id=511, 1129.21875pt x 756.57657pt>
+<1T'/RamanSpectraComparison.png, id=512, 1129.21875pt x 756.57657pt>
 File: 1T'/RamanSpectraComparison.png Graphic file (type png)
 <use 1T'/RamanSpectraComparison.png>
 Package pdftex.def Info: 1T'/RamanSpectraComparison.png  used on input line 17.
 
 (pdftex.def)             Requested size: 338.76823pt x 226.97472pt.
- [103 <./1T'/RamanSpectraComparison.png (PNG copy)>]
-<1T'/XPSW4fPre.png, id=515, 1129.21875pt x 771.63281pt>
+ [104 <./1T'/RamanSpectraComparison.png (PNG copy)>]
+<1T'/XPSW4fPre.png, id=516, 1129.21875pt x 771.63281pt>
 File: 1T'/XPSW4fPre.png Graphic file (type png)
 <use 1T'/XPSW4fPre.png>
 Package pdftex.def Info: 1T'/XPSW4fPre.png  used on input line 28.
 (pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
-<1T'/XPSSe3dPre.png, id=516, 1129.21875pt x 771.63281pt>
+<1T'/XPSSe3dPre.png, id=517, 1129.21875pt x 771.63281pt>
 File: 1T'/XPSSe3dPre.png Graphic file (type png)
 <use 1T'/XPSSe3dPre.png>
 Package pdftex.def Info: 1T'/XPSSe3dPre.png  used on input line 34.
-(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
-<1T'/XPSW4fAnn.png, id=517, 1129.21875pt x 771.63281pt>
-File: 1T'/XPSW4fAnn.png Graphic file (type png)
-<use 1T'/XPSW4fAnn.png>
-Package pdftex.def Info: 1T'/XPSW4fAnn.png  used on input line 46.
-(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
-<1T'/XPSSe3dAnn.png, id=518, 1129.21875pt x 771.63281pt>
-File: 1T'/XPSSe3dAnn.png Graphic file (type png)
-<use 1T'/XPSSe3dAnn.png>
-Package pdftex.def Info: 1T'/XPSSe3dAnn.png  used on input line 52.
 (pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[104 <./1T'/XPSW4fPre.png (PNG copy)> <./1T'/XPSSe3dPre.png (PNG copy)>]
-[105 <./1T'/XPSW4fAnn.png (PNG copy)> <./1T'/XPSSe3dAnn.png (PNG copy)>]
-<1T'/TEMMaps.png, id=525, 1519.6775pt x 745.78625pt>
+<1T'/XPSW4fAnn.png, id=518, 1129.21875pt x 771.63281pt>
+File: 1T'/XPSW4fAnn.png Graphic file (type png)
+<use 1T'/XPSW4fAnn.png>
+Package pdftex.def Info: 1T'/XPSW4fAnn.png  used on input line 46.
+(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
+<1T'/XPSSe3dAnn.png, id=519, 1129.21875pt x 771.63281pt>
+File: 1T'/XPSSe3dAnn.png Graphic file (type png)
+<use 1T'/XPSSe3dAnn.png>
+Package pdftex.def Info: 1T'/XPSSe3dAnn.png  used on input line 52.
+(pdftex.def)             Requested size: 395.23248pt x 270.07553pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<1T'/TEMMaps.png, id=520, 1519.6775pt x 745.78625pt>
 File: 1T'/TEMMaps.png Graphic file (type png)
 <use 1T'/TEMMaps.png>
 Package pdftex.def Info: 1T'/TEMMaps.png  used on input line 67.
@@ -3041,26 +3038,29 @@ Overfull \hbox (15.72183pt too wide) in paragraph at lines 74--75
 ties the Kelvin probe force macroscopy
  []
 
-<1T'/ElectronicProperties.png, id=526, 742.775pt x 762.85pt>
+<1T'/ElectronicProperties.png, id=521, 742.775pt x 762.85pt>
 File: 1T'/ElectronicProperties.png Graphic file (type png)
 <use 1T'/ElectronicProperties.png>
 Package pdftex.def Info: 1T'/ElectronicProperties.png  used on input line 78.
 (pdftex.def)             Requested size: 222.83421pt x 228.85677pt.
+[105]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [106] [107 <./1T'/TEMMaps.png>] [108 <./1T'/ElectronicProperties.png>]
+) [106 <./1T'/XPSW4fPre.png (PNG copy)> <./1T'/XPSSe3dPre.png (PNG copy)>]
+[107 <./1T'/XPSW4fAnn.png (PNG copy)> <./1T'/XPSSe3dAnn.png (PNG copy)>]
+[108 <./1T'/TEMMaps.png>] [109 <./1T'/ElectronicProperties.png>]
 \openout2 = `chapterHeterostructures.aux'.
 
 
 (chapterHeterostructures.tex
-Chapter 11.
-[109
+Chapter 12.
+[110
 
 
 
 ]
-<Heterostructures/CVDGrowthSetup.png, id=542, 943.525pt x 527.9725pt>
+<Heterostructures/CVDGrowthSetup.png, id=543, 943.525pt x 527.9725pt>
 File: Heterostructures/CVDGrowthSetup.png Graphic file (type png)
 <use Heterostructures/CVDGrowthSetup.png>
 Package pdftex.def Info: Heterostructures/CVDGrowthSetup.png  used on input lin
@@ -3071,8 +3071,8 @@ Overfull \hbox (16.51723pt too wide) in paragraph at lines 23--24
  [] 
  []
 
-[110]
-<Heterostructures/SEMImages.png, id=546, 899.36pt x 631.35875pt>
+[111]
+<Heterostructures/SEMImages.png, id=547, 899.36pt x 631.35875pt>
 File: Heterostructures/SEMImages.png Graphic file (type png)
 <use Heterostructures/SEMImages.png>
 Package pdftex.def Info: Heterostructures/SEMImages.png  used on input line 31.
@@ -3082,8 +3082,8 @@ Package pdftex.def Info: Heterostructures/SEMImages.png  used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[111 <./Heterostructures/CVDGrowthSetup.png>]
-<Heterostructures/OmSi.png, id=551, 566.86781pt x 360.59718pt>
+[112 <./Heterostructures/CVDGrowthSetup.png>]
+<Heterostructures/OmSi.png, id=552, 566.86781pt x 360.59718pt>
 File: Heterostructures/OmSi.png Graphic file (type png)
 <use Heterostructures/OmSi.png>
 Package pdftex.def Info: Heterostructures/OmSi.png  used on input line 47.
@@ -3092,7 +3092,7 @@ Package pdftex.def Info: Heterostructures/OmSi.png  used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/RamanSpectrum2.png, id=552, 1129.21875pt x 756.57657pt>
+<Heterostructures/RamanSpectrum2.png, id=553, 1129.21875pt x 756.57657pt>
 File: Heterostructures/RamanSpectrum2.png Graphic file (type png)
 <use Heterostructures/RamanSpectrum2.png>
 Package pdftex.def Info: Heterostructures/RamanSpectrum2.png  used on input lin
@@ -3101,8 +3101,8 @@ e 56.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[112 <./Heterostructures/SEMImages.png>]
-<Heterostructures/RamanSpectraMonoBi2.png, id=557, 1129.21875pt x 771.63281pt>
+[113 <./Heterostructures/SEMImages.png>]
+<Heterostructures/RamanSpectraMonoBi2.png, id=558, 1129.21875pt x 771.63281pt>
 File: Heterostructures/RamanSpectraMonoBi2.png Graphic file (type png)
 <use Heterostructures/RamanSpectraMonoBi2.png>
 Package pdftex.def Info: Heterostructures/RamanSpectraMonoBi2.png  used on inpu
@@ -3112,14 +3112,14 @@ t line 67.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/RamanIntensityMapEWS2.png, id=558, 782.17218pt x 630.85687pt>
+<Heterostructures/RamanIntensityMapEWS2.png, id=559, 782.17218pt x 630.85687pt>
 
 File: Heterostructures/RamanIntensityMapEWS2.png Graphic file (type png)
 <use Heterostructures/RamanIntensityMapEWS2.png>
 Package pdftex.def Info: Heterostructures/RamanIntensityMapEWS2.png  used on in
 put line 80.
 (pdftex.def)             Requested size: 204.85846pt x 165.22217pt.
-<Heterostructures/RamanIntensityMapEMoS2.png, id=559, 802.49812pt x 630.85687pt
+<Heterostructures/RamanIntensityMapEMoS2.png, id=560, 802.49812pt x 630.85687pt
 >
 File: Heterostructures/RamanIntensityMapEMoS2.png Graphic file (type png)
 <use Heterostructures/RamanIntensityMapEMoS2.png>
@@ -3129,7 +3129,7 @@ nput line 85.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructureRamanDifferenceW.png, id=560, 1129.21875pt x 7
+<Heterostructures/HeterostructureRamanDifferenceW.png, id=561, 1129.21875pt x 7
 71.63281pt>
 File: Heterostructures/HeterostructureRamanDifferenceW.png Graphic file (type p
 ng)
@@ -3140,7 +3140,7 @@ used on input line 96.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumFitted.png, id=561, 1129.21875pt x 7
+<Heterostructures/HeterostructurePLSpectrumFitted.png, id=562, 1129.21875pt x 7
 71.63281pt>
 File: Heterostructures/HeterostructurePLSpectrumFitted.png Graphic file (type p
 ng)
@@ -3151,7 +3151,7 @@ used on input line 106.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumMono.png, id=562, 1129.21875pt x 771
+<Heterostructures/HeterostructurePLSpectrumMono.png, id=563, 1129.21875pt x 771
 .63281pt>
 File: Heterostructures/HeterostructurePLSpectrumMono.png Graphic file (type png
 )
@@ -3163,26 +3163,26 @@ ed on input line 116.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:HeterostructuresPLPositionsMaps' on page 113 unde
+LaTeX Warning: Reference `fig:HeterostructuresPLPositionsMaps' on page 114 unde
 fined on input line 122.
 
-<Heterostructures/PLIntensityMap11.png, id=563, 1129.21875pt x 771.63281pt>
+<Heterostructures/PLIntensityMap11.png, id=564, 1129.21875pt x 771.63281pt>
 File: Heterostructures/PLIntensityMap11.png Graphic file (type png)
 <use Heterostructures/PLIntensityMap11.png>
 Package pdftex.def Info: Heterostructures/PLIntensityMap11.png  used on input l
 ine 126.
 (pdftex.def)             Requested size: 338.76823pt x 231.49162pt.
-[113 <./Heterostructures/OmSi.png>]
+[114 <./Heterostructures/OmSi.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/PLPositionMap21.png, id=568, 816.80156pt x 630.85687pt>
+<Heterostructures/PLPositionMap21.png, id=570, 816.80156pt x 630.85687pt>
 File: Heterostructures/PLPositionMap21.png Graphic file (type png)
 <use Heterostructures/PLPositionMap21.png>
 Package pdftex.def Info: Heterostructures/PLPositionMap21.png  used on input li
 ne 135.
 (pdftex.def)             Requested size: 204.19989pt x 157.71382pt.
-<Heterostructures/PLPositionMap22.png, id=569, 795.72281pt x 630.85687pt>
+<Heterostructures/PLPositionMap22.png, id=571, 795.72281pt x 630.85687pt>
 File: Heterostructures/PLPositionMap22.png Graphic file (type png)
 <use Heterostructures/PLPositionMap22.png>
 Package pdftex.def Info: Heterostructures/PLPositionMap22.png  used on input li
@@ -3191,7 +3191,7 @@ ne 140.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/OMAu.png, id=570, 566.115pt x 361.35pt>
+<Heterostructures/OMAu.png, id=572, 566.115pt x 361.35pt>
 File: Heterostructures/OMAu.png Graphic file (type png)
 <use Heterostructures/OMAu.png>
 Package pdftex.def Info: Heterostructures/OMAu.png  used on input line 153.
@@ -3200,10 +3200,10 @@ Package pdftex.def Info: Heterostructures/OMAu.png  used on input line 153.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:HeterostructureRamanSpectrumAu' on page 114 undef
+LaTeX Warning: Reference `fig:HeterostructureRamanSpectrumAu' on page 115 undef
 ined on input line 159.
 
-<Heterostructures/RamanSpectrumAu.png, id=571, 1129.21875pt x 771.63281pt>
+<Heterostructures/RamanSpectrumAu.png, id=573, 1129.21875pt x 771.63281pt>
 File: Heterostructures/RamanSpectrumAu.png Graphic file (type png)
 <use Heterostructures/RamanSpectrumAu.png>
 Package pdftex.def Info: Heterostructures/RamanSpectrumAu.png  used on input li
@@ -3212,7 +3212,7 @@ ne 163.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructuresRamanIntensityEWAu.png, id=572, 819.8128pt x 
+<Heterostructures/HeterostructuresRamanIntensityEWAu.png, id=574, 819.8128pt x 
 630.85687pt>
 File: Heterostructures/HeterostructuresRamanIntensityEWAu.png Graphic file (typ
 e png)
@@ -3220,7 +3220,7 @@ e png)
 Package pdftex.def Info: Heterostructures/HeterostructuresRamanIntensityEWAu.pn
 g  used on input line 174.
 (pdftex.def)             Requested size: 204.9527pt x 157.71382pt.
-<Heterostructures/HeterostructuresRamanIntensityEMoAu.png, id=573, 807.015pt x 
+<Heterostructures/HeterostructuresRamanIntensityEMoAu.png, id=575, 807.015pt x 
 630.85687pt>
 File: Heterostructures/HeterostructuresRamanIntensityEMoAu.png Graphic file (ty
 pe png)
@@ -3231,8 +3231,8 @@ ng  used on input line 179.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[114 <./Heterostructures/RamanSpectrum2.png (PNG copy)>]
-<Heterostructures/SEMImagesFlake.png, id=578, 690.58pt x 719.68875pt>
+[115 <./Heterostructures/RamanSpectrum2.png (PNG copy)>]
+<Heterostructures/SEMImagesFlake.png, id=579, 690.58pt x 719.68875pt>
 File: Heterostructures/SEMImagesFlake.png Graphic file (type png)
 <use Heterostructures/SEMImagesFlake.png>
 Package pdftex.def Info: Heterostructures/SEMImagesFlake.png  used on input lin
@@ -3242,7 +3242,7 @@ e 198.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/TEMImages.png, id=579, 588.1975pt x 556.0775pt>
+<Heterostructures/TEMImages.png, id=580, 588.1975pt x 556.0775pt>
 File: Heterostructures/TEMImages.png Graphic file (type png)
 <use Heterostructures/TEMImages.png>
 Package pdftex.def Info: Heterostructures/TEMImages.png  used on input line 206
@@ -3251,7 +3251,7 @@ Package pdftex.def Info: Heterostructures/TEMImages.png  used on input line 206
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/FIBTEMSEM.png, id=580, 927.465pt x 750.805pt>
+<Heterostructures/FIBTEMSEM.png, id=581, 927.465pt x 750.805pt>
 File: Heterostructures/FIBTEMSEM.png Graphic file (type png)
 <use Heterostructures/FIBTEMSEM.png>
 Package pdftex.def Info: Heterostructures/FIBTEMSEM.png  used on input line 214
@@ -3260,7 +3260,7 @@ Package pdftex.def Info: Heterostructures/FIBTEMSEM.png  used on input line 214
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/STEMEDS.png, id=581, 872.25874pt x 938.50626pt>
+<Heterostructures/STEMEDS.png, id=582, 872.25874pt x 938.50626pt>
 File: Heterostructures/STEMEDS.png Graphic file (type png)
 <use Heterostructures/STEMEDS.png>
 Package pdftex.def Info: Heterostructures/STEMEDS.png  used on input line 222.
@@ -3268,7 +3268,7 @@ Package pdftex.def Info: Heterostructures/STEMEDS.png  used on input line 222.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/FIBSTEMEDS.png, id=582, 724.7075pt x 758.835pt>
+<Heterostructures/FIBSTEMEDS.png, id=583, 724.7075pt x 758.835pt>
 File: Heterostructures/FIBSTEMEDS.png Graphic file (type png)
 <use Heterostructures/FIBSTEMEDS.png>
 Package pdftex.def Info: Heterostructures/FIBSTEMEDS.png  used on input line 23
@@ -3277,10 +3277,10 @@ Package pdftex.def Info: Heterostructures/FIBSTEMEDS.png  used on input line 23
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[115 <./Heterostructures/RamanSpectraMonoBi2.png (PNG copy)>] [116 <./Heterostr
+[116 <./Heterostructures/RamanSpectraMonoBi2.png (PNG copy)>] [117 <./Heterostr
 uctures/RamanIntensityMapEWS2.png> <./Heterostructures/RamanIntensityMapEMoS2.p
 ng>]
-<Heterostructures/CyclicVoltammetry.png, id=591, 900.36375pt x 648.4225pt>
+<Heterostructures/CyclicVoltammetry.png, id=592, 900.36375pt x 648.4225pt>
 File: Heterostructures/CyclicVoltammetry.png Graphic file (type png)
 <use Heterostructures/CyclicVoltammetry.png>
 Package pdftex.def Info: Heterostructures/CyclicVoltammetry.png  used on input 
@@ -3290,66 +3290,66 @@ line 246.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[117 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
-[118 <./Heterostructures/HeterostructurePLSpectrumFitted.png (PNG copy)>]
-[119 <./Heterostructures/HeterostructurePLSpectrumMono.png (PNG copy)>])
-[120 <./Heterostructures/PLIntensityMap11.png (PNG copy)>] [121 <./Heterostruct
+[118 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
+[119 <./Heterostructures/HeterostructurePLSpectrumFitted.png (PNG copy)>]
+[120 <./Heterostructures/HeterostructurePLSpectrumMono.png (PNG copy)>])
+[121 <./Heterostructures/PLIntensityMap11.png (PNG copy)>] [122 <./Heterostruct
 ures/PLPositionMap21.png> <./Heterostructures/PLPositionMap22.png> <./Heterostr
-uctures/OMAu.png> <./Heterostructures/RamanSpectrumAu.png (PNG copy)>] [122 <./
+uctures/OMAu.png> <./Heterostructures/RamanSpectrumAu.png (PNG copy)>] [123 <./
 Heterostructures/HeterostructuresRamanIntensityEWAu.png> <./Heterostructures/He
 terostructuresRamanIntensityEMoAu.png> <./Heterostructures/SEMImagesFlake.png>]
-[123 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
-[124 <./Heterostructures/STEMEDS.png>] [125 <./Heterostructures/FIBSTEMEDS.png>
-] [126 <./Heterostructures/CyclicVoltammetry.png>]
+[124 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
+[125 <./Heterostructures/STEMEDS.png>] [126 <./Heterostructures/FIBSTEMEDS.png>
+] [127 <./Heterostructures/CyclicVoltammetry.png>]
 \openout2 = `chapterMethodology.aux'.
 
  (chapterMethodology.tex
-Chapter 12.
-[127
+Chapter 13.
+[128
 
 
 
 ]
-<Methodology/RamanEnergyLevels.png, id=638, 1204.5pt x 921.4425pt>
+<Methodology/RamanEnergyLevels.png, id=639, 1204.5pt x 921.4425pt>
 File: Methodology/RamanEnergyLevels.png Graphic file (type png)
 <use Methodology/RamanEnergyLevels.png>
 Package pdftex.def Info: Methodology/RamanEnergyLevels.png  used on input line 
 17.
 (pdftex.def)             Requested size: 361.35278pt x 276.43488pt.
- [128 <./Methodology/RamanEnergyLevels.png>]
-<Methodology/RamanSetup.png, id=643, 633.36626pt x 381.425pt>
+ [129 <./Methodology/RamanEnergyLevels.png>]
+<Methodology/RamanSetup.png, id=644, 633.36626pt x 381.425pt>
 File: Methodology/RamanSetup.png Graphic file (type png)
 <use Methodology/RamanSetup.png>
 Package pdftex.def Info: Methodology/RamanSetup.png  used on input line 29.
 (pdftex.def)             Requested size: 443.35336pt x 266.99567pt.
 
 
-LaTeX Warning: Reference `app:Matlab' on page 129 undefined on input line 35.
+LaTeX Warning: Reference `app:Matlab' on page 130 undefined on input line 35.
 
-[129 <./Methodology/RamanSetup.png (PNG copy)>] [130]
-<Methodology/PLDiagram.png, id=650, 494.84875pt x 361.35pt>
+[130 <./Methodology/RamanSetup.png (PNG copy)>] [131]
+<Methodology/PLDiagram.png, id=651, 494.84875pt x 361.35pt>
 File: Methodology/PLDiagram.png Graphic file (type png)
 <use Methodology/PLDiagram.png>
 Package pdftex.def Info: Methodology/PLDiagram.png  used on input line 47.
 (pdftex.def)             Requested size: 346.39177pt x 252.94327pt.
 
 Underfull \hbox (badness 2393) in paragraph at lines 48--48
-[]\OT1/cmr/m/n/12 Figure 12.3: |The pho-to-lu-mi-nes-cence (flu-o-res-cence) pr
+[]\OT1/cmr/m/n/12 Figure 13.3: |The pho-to-lu-mi-nes-cence (flu-o-res-cence) pr
 o-cess. Re-pro-duced from
  []
 
-[131 <./Methodology/PLDiagram.png (PNG copy)>]
+[132 <./Methodology/PLDiagram.png (PNG copy)>]
 
-LaTeX Warning: Reference `app:Matlab' on page 132 undefined on input line 59.
+LaTeX Warning: Reference `app:Matlab' on page 133 undefined on input line 59.
 
-[132]
-<Methodology/XPSSetup.png, id=658, 1117.17375pt x 838.13126pt>
+[133]
+<Methodology/XPSSetup.png, id=659, 1117.17375pt x 838.13126pt>
 File: Methodology/XPSSetup.png Graphic file (type png)
 <use Methodology/XPSSetup.png>
 Package pdftex.def Info: Methodology/XPSSetup.png  used on input line 80.
 (pdftex.def)             Requested size: 335.15471pt x 251.44131pt.
- [133 <./Methodology/XPSSetup.png>] [134] [135]
-<Methodology/SEMSetup.png, id=669, 564.1075pt x 702.625pt>
+ [134 <./Methodology/XPSSetup.png>] [135] [136]
+<Methodology/SEMSetup.png, id=670, 564.1075pt x 702.625pt>
 File: Methodology/SEMSetup.png Graphic file (type png)
 <use Methodology/SEMSetup.png>
 Package pdftex.def Info: Methodology/SEMSetup.png  used on input line 136.
@@ -3358,23 +3358,23 @@ Package pdftex.def Info: Methodology/SEMSetup.png  used on input line 136.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[136]
-<Methodology/AFMSetup.png, id=673, 1027.84pt x 705.63625pt>
+[137]
+<Methodology/AFMSetup.png, id=674, 1027.84pt x 705.63625pt>
 File: Methodology/AFMSetup.png Graphic file (type png)
 <use Methodology/AFMSetup.png>
 Package pdftex.def Info: Methodology/AFMSetup.png  used on input line 148.
 (pdftex.def)             Requested size: 308.35437pt x 211.6925pt.
 
 Underfull \hbox (badness 1424) in paragraph at lines 149--149
-[]\OT1/cmr/m/n/12 Figure 12.6: |Di-a-gram of AFM setup and op-er-at-ing ba-sics
+[]\OT1/cmr/m/n/12 Figure 13.6: |Di-a-gram of AFM setup and op-er-at-ing ba-sics
 . Re-pro-duced from
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[137 <./Methodology/SEMSetup.png>]
-<Methodology/TEMSetup.png, id=678, 620.3175pt x 491.8375pt>
+[138 <./Methodology/SEMSetup.png>]
+<Methodology/TEMSetup.png, id=680, 620.3175pt x 491.8375pt>
 File: Methodology/TEMSetup.png Graphic file (type png)
 <use Methodology/TEMSetup.png>
 Package pdftex.def Info: Methodology/TEMSetup.png  used on input line 164.
@@ -3383,17 +3383,17 @@ Package pdftex.def Info: Methodology/TEMSetup.png  used on input line 164.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [138 <./Methodology/AFMSetup.png (PNG copy)>] [139 <./Methodology/TEMSetup.pn
+) [139 <./Methodology/AFMSetup.png (PNG copy)>] [140 <./Methodology/TEMSetup.pn
 g (PNG copy)>]
 \openout2 = `chapterConclusions.aux'.
 
  (chapterConclusions.tex
-Chapter 13.
-[140
+Chapter 14.
+[141
 
 
 
-] [141]) [142]
+] [142]) [143]
 Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
@@ -3403,18 +3403,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
-(thesis.bbl [143
+(thesis.bbl [144
 
-] [144
+] [145
 
-] [145] [146] [147]
+] [146] [147] [148]
 Underfull \hbox (badness 1067) in paragraph at lines 264--267
 []\OT1/cmr/m/n/12 Marco M. Furchi, Dmitry K. Polyushkin, An-dreas Pospis-chil, 
 and Thomas
  []
 
-[148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159]
-[160] [161] [162] [163] [164]) [165] (thesis.aux (titlepage.aux)
+[149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
+[161] [162] [163] [164] [165]) [166] (thesis.aux (titlepage.aux)
 (Publications.aux) (sectionAbbreviations.aux) (chapterThesisIntroduction.aux)
 (chapterIntroduction.aux) (chapterCVDIntroduction.aux)
 (chapterHeterostructuresIntroduction.aux) (chapterWSe21TIntroduction.aux)
@@ -3426,10 +3426,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 19741 strings out of 493305
- 380794 string characters out of 3129355
- 408900 words of memory out of 3000000
- 22781 multiletter control sequences out of 15000+200000
+ 19736 strings out of 493305
+ 380609 string characters out of 3129355
+ 410515 words of memory out of 3000000
+ 22776 multiletter control sequences out of 15000+200000
  23021 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,9n,79p,4075b,688s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3454,9 +3454,9 @@ amsfonts/cm/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pp3211/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (166 pages, 27794408 bytes).
+Output written on thesis.pdf (167 pages, 27603682 bytes).
 PDF statistics:
- 833 PDF objects out of 1000 (max. 8388607)
+ 834 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 733 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 728 words of extra memory for PDF output out of 10000 (max. 10000000)
 
