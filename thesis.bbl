@@ -1,5 +1,12 @@
 \begin{thebibliography}{100}
 
+\bibitem{Ahn2017}
+Geun~Ho Ahn, Matin Amani, Haider Rasool, Der-Hsien Lien, James~P. Mastandrea,
+  Joel W.~Ager III, Madan Dubey, Daryl~C. Chrzan, Andrew~M. Minor, and Ali
+  Javey.
+\newblock Strain-engineered growth of two-dimensional materials.
+\newblock {\em Nature Communications}, 8(1), sep 2017.
+
 \bibitem{Al-Hilli1972}
 A.A. Al-Hilli and B.L. Evans.
 \newblock The preparation and properties of transition metal dichalcogenide
@@ -36,6 +43,12 @@ Matteo Barbone, Alejandro R.-P. Montblanch, Dhiren~M. Kara, Carmen
   Sefaattin Tongay, Gang Wang, Andrea~C. Ferrari, and Mete Atatüre.
 \newblock Charge-tuneable biexciton complexes in monolayer {WSe}2.
 \newblock {\em Nature Communications}, 9(1), sep 2018.
+
+\bibitem{Barrera2017}
+Diego Barrera, Qingxiao Wang, Yun-Ju Lee, Lanxia Cheng, Moon~J. Kim, Jiyoung
+  Kim, and Julia W.~P. Hsu.
+\newblock Solution synthesis of few-layer 2h {MX}2 (m = mo, w; x = s, se).
+\newblock {\em Journal of Materials Chemistry C}, 5(11):2859--2864, 2017.
 
 \bibitem{Baugher2014}
 Britton W.~H. Baugher, Hugh O.~H. Churchill, Yafang Yang, and Pablo
@@ -350,6 +363,13 @@ Xiaoping Hong, Jonghwan Kim, Su-Fei Shi, Yu~Zhang, Chenhao Jin, Yinghui Sun,
   heterostructures.
 \newblock {\em Nature Nanotechnology}, 9(9):682--686, aug 2014.
 
+\bibitem{Hsu2017}
+Wei-Ting Hsu, Li-Syuan Lu, Dean Wang, Jing-Kai Huang, Ming-Yang Li, Tay-Rong
+  Chang, Yi-Chia Chou, Zhen-Yu Juang, Horng-Tay Jeng, Lain-Jong Li, and Wen-Hao
+  Chang.
+\newblock Evidence of indirect gap in monolayer {WSe}2.
+\newblock {\em Nature Communications}, 8(1), oct 2017.
+
 \bibitem{Hu2016}
 Peng Hu, Jun Ye, Xuexia He, Kezhao Du, Keke~K. Zhang, Xingzhi Wang, Qihua
   Xiong, Zheng Liu, Hui Jiang, and Christian Kloc.
@@ -419,6 +439,14 @@ Sanghyun Jo, Nicolas Ubrig, Helmuth Berger, Alexey~B. Kuzmenko, and Alberto~F.
 \newblock Mono- and bilayer ws2 light-emitting transistors.
 \newblock {\em Nano Letters}, 14(4):2019--2025, 2014.
 \newblock PMID: 24669957.
+
+\bibitem{Jung2015}
+Wonil Jung, Sujeong Lee, Dongwon Yoo, Sohee Jeong, Pere Mir{\'{o}}, Agnieszka
+  Kuc, Thomas Heine, and Jinwoo Cheon.
+\newblock Colloidal synthesis of single-layer {MSe}2 (m = mo, w) nanosheets via
+  anisotropic solution-phase growth approach.
+\newblock {\em Journal of the American Chemical Society}, 137(23):7266--7269,
+  jun 2015.
 
 \bibitem{Kane2005}
 C.~L. Kane and E.~J. Mele.
@@ -960,6 +988,14 @@ Xiaona Liu Pingheng~Tan Tengfei~Yan, Xiaofen~Qiao and Xinhui Zhang.
 \newblock Photoluminescence properties and exciton dynamics in monolayer wse2.
 \newblock {\em Applied Physics Letters}, 105(10):101901, sep 2014.
 
+\bibitem{Terrones2014}
+H.~Terrones, E.~Del Corro, S.~Feng, J.~M. Poumirol, D.~Rhodes, D.~Smirnov,
+  N.~R. Pradhan, Z.~Lin, M.~A.~T. Nguyen, A.~L. El{\'{\i}}as, T.~E. Mallouk,
+  L.~Balicas, M.~A. Pimenta, and M.~Terrones.
+\newblock New first order raman-active modes in few layered transition metal
+  dichalcogenides.
+\newblock {\em Scientific Reports}, 4(1), feb 2014.
+
 \bibitem{Tongay2014}
 Sefaattin Tongay, Wen Fan, Jun Kang, Joonsuk Park, Unsal Koldemir, Joonki Suh,
   Deepa~S. Narang, Kai Liu, Jie Ji, Jingbo Li, Robert Sinclair, and Junqiao Wu.
@@ -1172,6 +1208,12 @@ Seok~Joon Yun, Sang~Hoon Chae, Hyun Kim, Jin~Cheol Park, Ji-Hoon Park, Gang~Hee
 \newblock Synthesis of centimeter-scale monolayer tungsten disulfide film on
   gold foils.
 \newblock {\em {ACS} Nano}, 9(5):5510--5519, apr 2015.
+
+\bibitem{Yun2012}
+Won~Seok Yun, S.~W. Han, Soon~Cheol Hong, In~Gee Kim, and J.~D. Lee.
+\newblock Thickness and strain effects on electronic structures of transition
+  metal dichalcogenides: 2h-{MX}2semiconductors (m=mo, w;x=s, se, te).
+\newblock {\em Physical Review B}, 85(3), jan 2012.
 
 \bibitem{Zeng2016}
 Longhui Zeng, Lili Tao, Chunyin Tang, Bo~Zhou, Hui Long, Yang Chai, Shu~Ping
