@@ -51,16 +51,17 @@
 \contentsline {section}{\numberline {12.1}Introduction}{110}
 \contentsline {section}{\numberline {12.2}Results}{111}
 \contentsline {subsection}{\numberline {12.2.1}Growth of $MoS_2$/$WS_2$ heterostructures}{111}
-\contentsline {section}{\numberline {12.3}Appendix}{118}
-\contentsline {chapter}{\numberline {13}Methodology}{128}
-\contentsline {section}{\numberline {13.1}Introduction}{128}
-\contentsline {section}{\numberline {13.2}Raman spectroscopy}{128}
-\contentsline {section}{\numberline {13.3}Photoluminescence spectroscopy}{131}
-\contentsline {section}{\numberline {13.4}X-ray photoelectron spectroscopy}{133}
-\contentsline {section}{\numberline {13.5}Transfer}{134}
-\contentsline {section}{\numberline {13.6}Device fabrication}{135}
-\contentsline {section}{\numberline {13.7}Scanning electron microscopy (SEM)}{137}
-\contentsline {section}{\numberline {13.8}Atomic force microscopy (AFM)}{137}
-\contentsline {section}{\numberline {13.9}TEM}{139}
-\contentsline {chapter}{\numberline {14}Conclusions and future work}{141}
-\contentsline {chapter}{Bibliography}{145}
+\contentsline {section}{\numberline {12.3}Conclusions}{117}
+\contentsline {section}{\numberline {12.4}Appendix}{118}
+\contentsline {chapter}{\numberline {13}Methodology}{127}
+\contentsline {section}{\numberline {13.1}Introduction}{127}
+\contentsline {section}{\numberline {13.2}Raman spectroscopy}{127}
+\contentsline {section}{\numberline {13.3}Photoluminescence spectroscopy}{130}
+\contentsline {section}{\numberline {13.4}X-ray photoelectron spectroscopy}{132}
+\contentsline {section}{\numberline {13.5}Transfer}{133}
+\contentsline {section}{\numberline {13.6}Device fabrication}{134}
+\contentsline {section}{\numberline {13.7}Scanning electron microscopy (SEM)}{136}
+\contentsline {section}{\numberline {13.8}Atomic force microscopy (AFM)}{136}
+\contentsline {section}{\numberline {13.9}TEM}{138}
+\contentsline {chapter}{\numberline {14}Conclusions and future work}{140}
+\contentsline {chapter}{Bibliography}{144}

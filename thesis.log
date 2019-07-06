@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  5 JUL 2019 22:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  6 JUL 2019 13:04
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -3279,18 +3279,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [116 <./Heterostructures/RamanSpectraMonoBi2.png (PNG copy)>] [117 <./Heterostr
 uctures/RamanIntensityMapEWS2.png> <./Heterostructures/RamanIntensityMapEMoS2.p
-ng>]
-<Heterostructures/CyclicVoltammetry.png, id=592, 900.36375pt x 648.4225pt>
-File: Heterostructures/CyclicVoltammetry.png Graphic file (type png)
-<use Heterostructures/CyclicVoltammetry.png>
-Package pdftex.def Info: Heterostructures/CyclicVoltammetry.png  used on input 
-line 246.
-(pdftex.def)             Requested size: 270.1112pt x 194.52824pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[118 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
+ng>] [118 <./Heterostructures/HeterostructureRamanDifferenceW.png (PNG copy)>]
 [119 <./Heterostructures/HeterostructurePLSpectrumFitted.png (PNG copy)>]
 [120 <./Heterostructures/HeterostructurePLSpectrumMono.png (PNG copy)>])
 [121 <./Heterostructures/PLIntensityMap11.png (PNG copy)>] [122 <./Heterostruct
@@ -3300,34 +3289,34 @@ Heterostructures/HeterostructuresRamanIntensityEWAu.png> <./Heterostructures/He
 terostructuresRamanIntensityEMoAu.png> <./Heterostructures/SEMImagesFlake.png>]
 [124 <./Heterostructures/TEMImages.png> <./Heterostructures/FIBTEMSEM.png>]
 [125 <./Heterostructures/STEMEDS.png>] [126 <./Heterostructures/FIBSTEMEDS.png>
-] [127 <./Heterostructures/CyclicVoltammetry.png>]
+]
 \openout2 = `chapterMethodology.aux'.
 
  (chapterMethodology.tex
 Chapter 13.
-[128
+[127
 
 
 
 ]
-<Methodology/RamanEnergyLevels.png, id=639, 1204.5pt x 921.4425pt>
+<Methodology/RamanEnergyLevels.png, id=634, 1204.5pt x 921.4425pt>
 File: Methodology/RamanEnergyLevels.png Graphic file (type png)
 <use Methodology/RamanEnergyLevels.png>
 Package pdftex.def Info: Methodology/RamanEnergyLevels.png  used on input line 
 17.
 (pdftex.def)             Requested size: 361.35278pt x 276.43488pt.
- [129 <./Methodology/RamanEnergyLevels.png>]
-<Methodology/RamanSetup.png, id=644, 633.36626pt x 381.425pt>
+ [128 <./Methodology/RamanEnergyLevels.png>]
+<Methodology/RamanSetup.png, id=639, 633.36626pt x 381.425pt>
 File: Methodology/RamanSetup.png Graphic file (type png)
 <use Methodology/RamanSetup.png>
 Package pdftex.def Info: Methodology/RamanSetup.png  used on input line 29.
 (pdftex.def)             Requested size: 443.35336pt x 266.99567pt.
 
 
-LaTeX Warning: Reference `app:Matlab' on page 130 undefined on input line 35.
+LaTeX Warning: Reference `app:Matlab' on page 129 undefined on input line 35.
 
-[130 <./Methodology/RamanSetup.png (PNG copy)>] [131]
-<Methodology/PLDiagram.png, id=651, 494.84875pt x 361.35pt>
+[129 <./Methodology/RamanSetup.png (PNG copy)>] [130]
+<Methodology/PLDiagram.png, id=646, 494.84875pt x 361.35pt>
 File: Methodology/PLDiagram.png Graphic file (type png)
 <use Methodology/PLDiagram.png>
 Package pdftex.def Info: Methodology/PLDiagram.png  used on input line 47.
@@ -3338,18 +3327,18 @@ Underfull \hbox (badness 2393) in paragraph at lines 48--48
 o-cess. Re-pro-duced from
  []
 
-[132 <./Methodology/PLDiagram.png (PNG copy)>]
+[131 <./Methodology/PLDiagram.png (PNG copy)>]
 
-LaTeX Warning: Reference `app:Matlab' on page 133 undefined on input line 59.
+LaTeX Warning: Reference `app:Matlab' on page 132 undefined on input line 59.
 
-[133]
-<Methodology/XPSSetup.png, id=659, 1117.17375pt x 838.13126pt>
+[132]
+<Methodology/XPSSetup.png, id=654, 1117.17375pt x 838.13126pt>
 File: Methodology/XPSSetup.png Graphic file (type png)
 <use Methodology/XPSSetup.png>
 Package pdftex.def Info: Methodology/XPSSetup.png  used on input line 80.
 (pdftex.def)             Requested size: 335.15471pt x 251.44131pt.
- [134 <./Methodology/XPSSetup.png>] [135] [136]
-<Methodology/SEMSetup.png, id=670, 564.1075pt x 702.625pt>
+ [133 <./Methodology/XPSSetup.png>] [134] [135]
+<Methodology/SEMSetup.png, id=665, 564.1075pt x 702.625pt>
 File: Methodology/SEMSetup.png Graphic file (type png)
 <use Methodology/SEMSetup.png>
 Package pdftex.def Info: Methodology/SEMSetup.png  used on input line 136.
@@ -3358,8 +3347,8 @@ Package pdftex.def Info: Methodology/SEMSetup.png  used on input line 136.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[137]
-<Methodology/AFMSetup.png, id=674, 1027.84pt x 705.63625pt>
+[136]
+<Methodology/AFMSetup.png, id=669, 1027.84pt x 705.63625pt>
 File: Methodology/AFMSetup.png Graphic file (type png)
 <use Methodology/AFMSetup.png>
 Package pdftex.def Info: Methodology/AFMSetup.png  used on input line 148.
@@ -3373,8 +3362,8 @@ Underfull \hbox (badness 1424) in paragraph at lines 149--149
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[138 <./Methodology/SEMSetup.png>]
-<Methodology/TEMSetup.png, id=680, 620.3175pt x 491.8375pt>
+[137 <./Methodology/SEMSetup.png>]
+<Methodology/TEMSetup.png, id=674, 620.3175pt x 491.8375pt>
 File: Methodology/TEMSetup.png Graphic file (type png)
 <use Methodology/TEMSetup.png>
 Package pdftex.def Info: Methodology/TEMSetup.png  used on input line 164.
@@ -3383,17 +3372,17 @@ Package pdftex.def Info: Methodology/TEMSetup.png  used on input line 164.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [139 <./Methodology/AFMSetup.png (PNG copy)>] [140 <./Methodology/TEMSetup.pn
+) [138 <./Methodology/AFMSetup.png (PNG copy)>] [139 <./Methodology/TEMSetup.pn
 g (PNG copy)>]
 \openout2 = `chapterConclusions.aux'.
 
  (chapterConclusions.tex
 Chapter 14.
-[141
+[140
 
 
 
-] [142]) [143]
+] [141]) [142]
 Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
@@ -3403,18 +3392,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
-(thesis.bbl [144
+(thesis.bbl [143
 
-] [145
+] [144
 
-] [146] [147] [148]
+] [145] [146] [147]
 Underfull \hbox (badness 1067) in paragraph at lines 264--267
 []\OT1/cmr/m/n/12 Marco M. Furchi, Dmitry K. Polyushkin, An-dreas Pospis-chil, 
 and Thomas
  []
 
-[149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
-[161] [162] [163] [164] [165]) [166] (thesis.aux (titlepage.aux)
+[148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159]
+[160] [161] [162] [163] [164]) [165] (thesis.aux (titlepage.aux)
 (Publications.aux) (sectionAbbreviations.aux) (chapterThesisIntroduction.aux)
 (chapterIntroduction.aux) (chapterCVDIntroduction.aux)
 (chapterHeterostructuresIntroduction.aux) (chapterWSe21TIntroduction.aux)
@@ -3424,12 +3413,15 @@ and Thomas
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 19736 strings out of 493305
- 380609 string characters out of 3129355
- 410515 words of memory out of 3000000
- 22776 multiletter control sequences out of 15000+200000
+ 19732 strings out of 493305
+ 380434 string characters out of 3129355
+ 403515 words of memory out of 3000000
+ 22772 multiletter control sequences out of 15000+200000
  23021 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,9n,79p,4075b,688s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3454,9 +3446,9 @@ amsfonts/cm/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pp3211/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (167 pages, 27603682 bytes).
+Output written on thesis.pdf (166 pages, 27334517 bytes).
 PDF statistics:
- 834 PDF objects out of 1000 (max. 8388607)
+ 829 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 728 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 723 words of extra memory for PDF output out of 10000 (max. 10000000)
 
