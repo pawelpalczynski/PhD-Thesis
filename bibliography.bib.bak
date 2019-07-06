@@ -947,7 +947,7 @@ url={https://doi.org/10.1021/nl401544y}
 
 @Article{Yun2012,
   author    = {Won Seok Yun and S. W. Han and Soon Cheol Hong and In Gee Kim and J. D. Lee},
-  title     = {Thickness and strain effects on electronic structures of transition metal dichalcogenides: 2H-{MX}2semiconductors (M=Mo, W$\mathsemicolon$X=S, Se, Te)},
+  title     = {Thickness and strain effects on electronic structures of transition metal dichalcogenides: 2H-{MX}2semiconductors (M=Mo, W;X=S, Se, Te)},
   journal   = {Physical Review B},
   year      = {2012},
   volume    = {85},

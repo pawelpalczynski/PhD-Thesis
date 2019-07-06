@@ -21,15 +21,10 @@
 \usepackage{listings}
 \usepackage{subcaption}
 \usepackage{tocloft,calc}
+\usepackage{float}
 
 \renewcommand{\cftchappresnum}{Chapter }
 \AtBeginDocument{\addtolength\cftchapnumwidth{\widthof{\bfseries Chapter }}}
-
-% \usepackage[disable]{todonotes} % notes not showed
-\usepackage[draft]{todonotes}   % notes showed  
-% \newcommand{\comment}[1]{}  %comment not showed
-\newcommand{\comment}[1]
-{\par {\bfseries \color{blue} #1 \par}} %comment showed
 
 \linespread{1.5}
 
@@ -51,6 +46,12 @@
 \newpage
 \include{Publications}
 
+\section*{Conferences}
+
+Graphene Week, 13-17 June, 2016. (Best poster)\\ \\
+UK Semiconductors, 14-15 July, 2017.\\ \\
+MRS Boston, 26 November - 1 December, 2017.
+
 \newpage
 \include{sectionAbbreviations}
 
@@ -68,16 +69,11 @@
 \include{chapterWSe2}
 \include{chapterWSe21T}
 \include{chapterHeterostructures}
+\include{sectionAppendix}
 \include{chapterMethodology}
 \include{chapterConclusions}
 \appendix
 %\include{appendixMatlab}
-
-\section*{Conferences}
-
-Graphene Week, 13-17 June, 2016. (Best poster)\\ \\
-UK Semiconductors, 14-15 July, 2017.\\ \\
-MRS Boston, 26 November - 1 December, 2017.
 
 \bibliographystyle{plain}
 \bibliography{bibliography}{}
