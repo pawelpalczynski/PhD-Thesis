@@ -8,9 +8,9 @@
 \contentsline {subsubsection}{LED}{25}
 \contentsline {subsubsection}{Photoinduced valley currents}{26}
 \contentsline {section}{\numberline {2.2}Phonon dispersion}{26}
-\contentsline {section}{\numberline {2.3}Conclusions}{30}
+\contentsline {section}{\numberline {2.3}Conclusions}{31}
 \contentsline {chapter}{\numberline {3}$WS_2$ CVD state of the art}{32}
-\contentsline {section}{\numberline {3.1}Conclusions}{34}
+\contentsline {section}{\numberline {3.1}Conclusions}{35}
 \contentsline {chapter}{\numberline {4}The state-of-the-art of bilayer heterostructure of $MoS_2/WS_2$}{36}
 \contentsline {section}{\numberline {4.1}Introduction}{36}
 \contentsline {section}{\numberline {4.2}Properties of bilayer heterostructures}{37}

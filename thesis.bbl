@@ -235,6 +235,12 @@ Zaiyao Fei, Tauno Palomaki, Sanfeng Wu, Wenjin Zhao, Xinghan Cai, Bosong Sun,
 \newblock Edge conduction in monolayer {WTe}2.
 \newblock {\em Nature Physics}, 13(7):677--682, apr 2017.
 
+\bibitem{Feldmann1987}
+J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
+  Elliott.
+\newblock Linewidth dependence of radiative exciton lifetimes in quantum wells.
+\newblock {\em Physical Review Letters}, 59(20):2337--2340, nov 1987.
+
 \bibitem{Feldmann1988}
 J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
   Elliott.
@@ -383,6 +389,13 @@ Xuan Hu, Poya Yasaei, Jacob Jokisaari, Serdar Ö{\u{g}}üt, Amin Salehi-Khojin,
 \newblock Mapping thermal expansion coefficients in freestanding 2d materials
   at the nanometer scale.
 \newblock {\em Physical Review Letters}, 120(5), feb 2018.
+
+\bibitem{Hu2019}
+Zhenliang Hu, Jose Avila, Xinyun Wang, Jin~Feng Leong, Qi~Zhang, Yanpeng Liu,
+  Maria~C. Asensio, Junpeng Lu, Alexandra Carvalho, Chorng~Haur Sow, and
+  Antonio Helio~Castro Neto.
+\newblock The role of oxygen atoms on excitons at the edges of monolayer {WS}2.
+\newblock {\em Nano Letters}, jun 2019.
 
 \bibitem{ValleyPolarizationInMoS2MonolayersByOpticalPumping}
 Wang Yao Di~Xiao Hualing~Zeng, Junfeng~Dai and Xiaodong Cui.
@@ -678,6 +691,11 @@ He~Keliang Shan~Jie Mak, Kin~Fai and Tony~F. Heinz.
 \newblock Control of valley polarization in monolayer mos2 by optical helicity.
 \newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
 
+\bibitem{Mak2014}
+K.~F. Mak, K.~L. McGill, J.~Park, and P.~L. McEuen.
+\newblock The valley hall effect in {MoS}2 transistors.
+\newblock {\em Science}, 344(6191):1489--1492, jun 2014.
+
 \bibitem{Mak2012}
 Kin~Fai Mak, Keliang He, Changgu Lee, Gwan~Hyoung Lee, James Hone, Tony~F.
   Heinz, and Jie Shan.
@@ -797,6 +815,12 @@ Satyananda~Kishore Pilli, Thomas~E. Furtak, Logan~D. Brown, Todd~G. Deutsch,
   photoelectrodes for solar water oxidation.
 \newblock {\em Energy {\&} Environmental Science}, 4(12):5028, 2011.
 
+\bibitem{Pospischil2014}
+Andreas Pospischil, Marco~M. Furchi, and Thomas Mueller.
+\newblock Solar-energy conversion and light emission in an atomic monolayer
+  p{\textendash}n diode.
+\newblock {\em Nature Nanotechnology}, 9(4):257--261, mar 2014.
+
 \bibitem{Qi2016}
 Yanpeng Qi, Pavel~G. Naumov, Mazhar~N. Ali, Catherine~R. Rajamathi, Walter
   Schnelle, Oleg Barkalov, Michael Hanfland, Shu-Chun Wu, Chandra Shekhar, Yan
@@ -883,6 +907,12 @@ Yu~Saito, Yasuharu Nakamura, Mohammad~Saeed Bahramy, Yoshimitsu Kohama,
   ion-gated {MoS}2.
 \newblock {\em Nature Physics}, 12(2):144--149, dec 2015.
 
+\bibitem{Salehzadeh2015}
+Omid Salehzadeh, Mehrdad Djavid, Nhung~Hong Tran, Ishiang Shih, and Zetian Mi.
+\newblock Optically pumped two-dimensional {MoS}2 lasers operating at
+  room-temperature.
+\newblock {\em Nano Letters}, 15(8):5302--5306, jul 2015.
+
 \bibitem{Schmidt2013}
 Peer Schmidt, Michael Binnewies, Robert Glaum, and Marcus Schmidt.
 \newblock Chemical vapor transport reactions{\textendash}methods, materials,
@@ -954,6 +984,12 @@ Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
 Yan Sun, Shu-Chun Wu, Mazhar~N. Ali, Claudia Felser, and Binghai Yan.
 \newblock Prediction of weyl semimetal in {orthorhombicMoTe}2.
 \newblock {\em Physical Review B}, 92(16), oct 2015.
+
+\bibitem{Sundaram2013}
+R.~S. Sundaram, M.~Engel, A.~Lombardo, R.~Krupke, A.~C. Ferrari, Ph. Avouris,
+  and M.~Steiner.
+\newblock Electroluminescence in single layer {MoS}2.
+\newblock {\em Nano Letters}, 13(4):1416--1421, mar 2013.
 
 \bibitem{Sunil1997}
 K~Sunil and M~A Ittyachen.
@@ -1101,6 +1137,13 @@ Ryan~J. Wu, Michael~L. Odlyzko, and K.~Andre Mkhoyan.
   {TEM}.
 \newblock {\em Ultramicroscopy}, 147:8--20, dec 2014.
 
+\bibitem{Wu2015}
+Sanfeng Wu, Sonia Buckley, John~R. Schaibley, Liefeng Feng, Jiaqiang Yan,
+  David~G. Mandrus, Fariba Hatami, Wang Yao, Jelena Vu{\v{c}}kovi{\'{c}}, Arka
+  Majumdar, and Xiaodong Xu.
+\newblock Monolayer semiconductor nanocavity lasers with ultralow thresholds.
+\newblock {\em Nature}, 520(7545):69--72, mar 2015.
+
 \bibitem{Wypych1992}
 Fernando Wypych and Robert Schöllhorn.
 \newblock 1t-{MoS}2, a new metallic modification of molybdenum disulfide.
@@ -1144,6 +1187,12 @@ Heejun Yang, Sung~Wng Kim, Manish Chhowalla, and Young~Hee Lee.
 \newblock Structural and quantum-state phase transitions in van der waals
   layered materials.
 \newblock {\em Nature Physics}, 13(10):931--937, jul 2017.
+
+\bibitem{Ye2015}
+Yu~Ye, Zi~Jing Wong, Xiufang Lu, Xingjie Ni, Hanyu Zhu, Xianhui Chen, Yuan
+  Wang, and Xiang Zhang.
+\newblock Monolayer excitonic laser.
+\newblock {\em Nature Photonics}, 9(11):733--737, oct 2015.
 
 \bibitem{Ye2014}
 Ziliang Ye, Ting Cao, Kevin O'Brien, Hanyu Zhu, Xiaobo Yin, Yuan Wang,
@@ -1196,6 +1245,13 @@ Yifu Yu, Gwang-Hyeon Nam, Qiyuan He, Xue-Jun Wu, Kang Zhang, Zhenzhong Yang,
   crystals.
 \newblock {\em Nature Chemistry}, 10(6):638--643, apr 2018.
 
+\bibitem{Yuan2014}
+Hongtao Yuan, Xinqiang Wang, Biao Lian, Haijun Zhang, Xianfa Fang, Bo~Shen,
+  Gang Xu, Yong Xu, Shou-Cheng Zhang, Harold~Y. Hwang, and Yi~Cui.
+\newblock Generation and electric control of spin{\textendash}valley-coupled
+  circular photogalvanic current in {WSe}2.
+\newblock {\em Nature Nanotechnology}, 9(10):851--857, sep 2014.
+
 \bibitem{Yuan2015}
 Long Yuan and Libai Huang.
 \newblock Exciton dynamics and annihilation in {WS}2 2d semiconductors.
@@ -1229,6 +1285,11 @@ Mei Zhang, Juanxia Wu, Yiming Zhu, Dumitru~O. Dumcenco, Jinhua Hong, Nannan
 \newblock Two-dimensional molybdenum tungsten diselenide alloys:
   Photoluminescence, raman scattering, and electrical transport.
 \newblock {\em {ACS} Nano}, 8(7):7130--7137, jun 2014.
+
+\bibitem{Zhang2014b}
+Y.~J. Zhang, T.~Oka, R.~Suzuki, J.~T. Ye, and Y.~Iwasa.
+\newblock Electrically switchable chiral light-emitting transistor.
+\newblock {\em Science}, 344(6185):725--728, apr 2014.
 
 \bibitem{Zhang2014a}
 Yu~Zhang, Qingqing Ji, Gao-Feng Han, Jing Ju, Jianping Shi, Donglin Ma, Jingyu

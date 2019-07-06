@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  6 JUL 2019 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  6 JUL 2019 21:42
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1557,19 +1557,13 @@ Overfull \hbox (29.3078pt too wide) in paragraph at lines 83--84
 -7,7,8,8-tetracyanoquinodimethane
  []
 
-[19]
-
-LaTeX Warning: Citation `Hu2019' on page 20 undefined on input line 91.
-
-[20]
-
-LaTeX Warning: Citation `Feldmann1987' on page 21 undefined on input line 104.
-
+[19] [20]
 <TMDCAbsorption.png, id=82, 836.12375pt x 666.49pt>
 File: TMDCAbsorption.png Graphic file (type png)
 <use TMDCAbsorption.png>
 Package pdftex.def Info: TMDCAbsorption.png  used on input line 108.
 (pdftex.def)             Requested size: 376.25221pt x 299.91772pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1601,42 +1595,13 @@ Overfull \hbox (0.42563pt too wide) in paragraph at lines 162--174
  [] 
  []
 
-
-LaTeX Warning: Citation `Sundaram2013' on page 25 undefined on input line 179.
-
-
-LaTeX Warning: Citation `Pospischil2014' on page 25 undefined on input line 179
-.
-
-
-LaTeX Warning: Citation `Pospischil2014' on page 25 undefined on input line 179
-.
-
-
-LaTeX Warning: Citation `Zhang2014b' on page 25 undefined on input line 179.
-
-
-LaTeX Warning: Citation `Wu2015' on page 25 undefined on input line 179.
-
-
-LaTeX Warning: Citation `Ye2015' on page 25 undefined on input line 179.
-
-
-LaTeX Warning: Citation `Salehzadeh2015' on page 25 undefined on input line 179
-.
-
 [25 <./PhotoconductorDiagram.png>]
-
-LaTeX Warning: Citation `Mak2014' on page 26 undefined on input line 183.
-
-
-LaTeX Warning: Citation `Yuan2014' on page 26 undefined on input line 183.
-
 <RamanActiveModes.png, id=111, 1148.29pt x 509.905pt>
 File: RamanActiveModes.png Graphic file (type png)
 <use RamanActiveModes.png>
 Package pdftex.def Info: RamanActiveModes.png  used on input line 200.
 (pdftex.def)             Requested size: 229.65393pt x 101.97919pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1673,16 +1638,11 @@ File: WSe2RamanSpectra.png Graphic file (type png)
 <use WSe2RamanSpectra.png>
 Package pdftex.def Info: WSe2RamanSpectra.png  used on input line 239.
 (pdftex.def)             Requested size: 218.21138pt x 175.25163pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[29 <./NumberLayerIdentificationRaman.png (PNG copy)>]) [30 <./NumberLayerIdent
-ificationRamanMoS2.png (PNG copy)>] [31 <./WSe2RamanSpectra.png>]
+ [29 <./NumberLayerIdentificationRaman.png (PNG copy)>] [30 <./NumberLayerIdent
+ificationRamanMoS2.png (PNG copy)> <./WSe2RamanSpectra.png>]) [31]
 \openout2 = `chapterCVDIntroduction.aux'.
 
-
-(chapterCVDIntroduction.tex
+ (chapterCVDIntroduction.tex
 Chapter 3.
 [32
 
@@ -3064,13 +3024,13 @@ Chapter 14.
 
 
 ] [147] [148] [149]
-Underfull \hbox (badness 1067) in paragraph at lines 264--267
+Underfull \hbox (badness 1067) in paragraph at lines 270--273
 []\OT1/cmr/m/n/12 Marco M. Furchi, Dmitry K. Polyushkin, An-dreas Pospis-chil, 
 and Thomas
  []
 
 [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
-[162] [163] [164] [165] [166]) [167] (thesis.aux (titlepage.aux)
+[162] [163] [164] [165] [166] [167] [168]) [169] (thesis.aux (titlepage.aux)
 (Publications.aux) (sectionAbbreviations.aux) (chapterThesisIntroduction.aux)
 (chapterIntroduction.aux) (chapterCVDIntroduction.aux)
 (chapterHeterostructuresIntroduction.aux) (chapterWSe21TIntroduction.aux)
@@ -3080,12 +3040,15 @@ and Thomas
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 9916 strings out of 493305
- 163149 string characters out of 3129355
- 220313 words of memory out of 3000000
- 13167 multiletter control sequences out of 15000+200000
+ 9917 strings out of 493305
+ 163159 string characters out of 3129355
+ 220327 words of memory out of 3000000
+ 13168 multiletter control sequences out of 15000+200000
  23021 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,9n,41p,4075b,579s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3110,9 +3073,9 @@ amsfonts/cm/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pp3211/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (168 pages, 27328480 bytes).
+Output written on thesis.pdf (170 pages, 27331352 bytes).
 PDF statistics:
- 832 PDF objects out of 1000 (max. 8388607)
+ 839 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  711 words of extra memory for PDF output out of 10000 (max. 10000000)
 
