@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  6 JUL 2019 21:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.22)  7 JUL 2019 16:56
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1691,12 +1691,9 @@ e png)
 Package pdftex.def Info: Heterostructures/HeterostructureOpticalSEMAFMImages.pn
 g  used on input line 47.
 (pdftex.def)             Requested size: 412.54024pt x 88.07883pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[39 <./Heterostructures/HeterostructureOpticalMap.png>]
-<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=166, 182.93344pt x 
+ [39 <./Heterostructures/HeterostructureOpticalMap.png>] [40 <./Heterostructure
+s/HeterostructureOpticalSEMAFMImages.png>]
+<Heterostructures/HeterostructureRamanSpectrumIntro.png, id=169, 182.93344pt x 
 301.125pt>
 File: Heterostructures/HeterostructureRamanSpectrumIntro.png Graphic file (type
  png)
@@ -1704,21 +1701,14 @@ File: Heterostructures/HeterostructureRamanSpectrumIntro.png Graphic file (type
 Package pdftex.def Info: Heterostructures/HeterostructureRamanSpectrumIntro.png
   used on input line 61.
 (pdftex.def)             Requested size: 128.05252pt x 210.78606pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Heterostructures/HeterostructureAFMProfile.png, id=167, 194.97844pt x 135.5062
+<Heterostructures/HeterostructureAFMProfile.png, id=170, 194.97844pt x 135.5062
 6pt>
 File: Heterostructures/HeterostructureAFMProfile.png Graphic file (type png)
 <use Heterostructures/HeterostructureAFMProfile.png>
 Package pdftex.def Info: Heterostructures/HeterostructureAFMProfile.png  used o
 n input line 69.
 (pdftex.def)             Requested size: 194.97795pt x 135.5059pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Heterostructures/HeterostructurePLSpectrumIntro.png, id=168, 429.85594pt x 350
+<Heterostructures/HeterostructurePLSpectrumIntro.png, id=171, 429.85594pt x 350
 .81062pt>
 File: Heterostructures/HeterostructurePLSpectrumIntro.png Graphic file (type pn
 g)
@@ -1726,7 +1716,7 @@ g)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntro.png  u
 sed on input line 80.
 (pdftex.def)             Requested size: 429.85489pt x 350.80975pt.
-[40 <./Heterostructures/HeterostructureOpticalSEMAFMImages.png>]
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1741,31 +1731,37 @@ e (type png)
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumIntroCompari
 son.png  used on input line 95.
 (pdftex.def)             Requested size: 236.38254pt x 219.06789pt.
- [43 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43]
 <Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png, id=184, 348.552
 19pt x 457.71pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png Graphic fil
 e (type png)
 <use Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumInterlayerIn
-tro.png  used on input line 110.
+tro.png  used on input line 107.
 (pdftex.def)             Requested size: 348.55132pt x 457.7089pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=185, 353.069
+[44 <./Heterostructures/HeterostructurePLSpectrumIntroComparison.png>]
+<Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png, id=188, 353.069
 06pt x 328.97906pt>
 File: Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png Graphic fil
 e (type png)
 <use Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>
 Package pdftex.def Info: Heterostructures/HeterostructurePLSpectrumInterlayerTw
-ist.png  used on input line 120.
+ist.png  used on input line 117.
 (pdftex.def)             Requested size: 353.06819pt x 328.97826pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [44] [45 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
+) [45 <./Heterostructures/HeterostructurePLSpectrumInterlayerIntro.png>]
 [46 <./Heterostructures/HeterostructurePLSpectrumInterlayerTwist.png>]
 \openout2 = `chapterWSe21TIntroduction.aux'.
 
@@ -1801,7 +1797,7 @@ Package pdftex.def Info: 1T'/Homojunction.png  used on input line 38.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [50] [51 <./1T'/Homojunction.png>]
+[50]) [51 <./1T'/Homojunction.png>]
 \openout2 = `chapterWS2.aux'.
 
  (chapterWS2.tex
@@ -3024,7 +3020,7 @@ Chapter 14.
 
 
 ] [147] [148] [149]
-Underfull \hbox (badness 1067) in paragraph at lines 270--273
+Underfull \hbox (badness 1067) in paragraph at lines 275--278
 []\OT1/cmr/m/n/12 Marco M. Furchi, Dmitry K. Polyushkin, An-dreas Pospis-chil, 
 and Thomas
  []
@@ -3040,15 +3036,12 @@ and Thomas
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 9917 strings out of 493305
- 163159 string characters out of 3129355
- 220327 words of memory out of 3000000
- 13168 multiletter control sequences out of 15000+200000
+ 9921 strings out of 493305
+ 163199 string characters out of 3129355
+ 220347 words of memory out of 3000000
+ 13172 multiletter control sequences out of 15000+200000
  23021 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,9n,41p,4075b,579s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3073,7 +3066,7 @@ amsfonts/cm/cmsy10.pfb><C:/Users/pp3211/AppData/Local/Programs/MiKTeX 2.9/fonts
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pp3211/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pp3211/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (170 pages, 27331352 bytes).
+Output written on thesis.pdf (170 pages, 27332694 bytes).
 PDF statistics:
  839 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

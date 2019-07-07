@@ -36,6 +36,11 @@ M.~Amani, D.-H. Lien, D.~Kiriya, J.~Xiao, A.~Azcatl, J.~Noh, S.~R. Madhvapathy,
 \newblock Near-unity photoluminescence quantum yield in {MoS}2.
 \newblock {\em Science}, 350(6264):1065--1068, nov 2015.
 
+\bibitem{Amin2015}
+B.~Amin, N.~Singh, and U.~Schwingenschlögl.
+\newblock Heterostructures of transition metal dichalcogenides.
+\newblock {\em Physical Review B}, 92(7), aug 2015.
+
 \bibitem{Barbone2018}
 Matteo Barbone, Alejandro R.-P. Montblanch, Dhiren~M. Kara, Carmen
   Palacios-Berraquero, Alisson~R. Cadore, Domenico~De Fazio, Benjamin Pingault,
@@ -350,6 +355,14 @@ Hartmut Haug, Stephen~W. Koch, and Leonid~V. Keldysh.
   semiconductors.
 \newblock {\em Physics Today}, 47(2):106--108, feb 2004.
 
+\bibitem{Heo2015}
+Hoseok Heo, Ji~Ho Sung, Soonyoung Cha, Bo-Gyu Jang, Joo-Youn Kim, Gangtae Jin,
+  Donghun Lee, Ji-Hoon Ahn, Myoung-Jae Lee, Ji~Hoon Shim, Hyunyong Choi, and
+  Moon-Ho Jo.
+\newblock Interlayer orientation-dependent light absorption and emission in
+  monolayer semiconductor stacks.
+\newblock {\em Nature Communications}, 6(1), jun 2015.
+
 \bibitem{Hofmann1988}
 Wolfgang~K. Hofmann.
 \newblock Thin films of molybdenum and tungsten disulphides by metal organic
@@ -654,6 +667,13 @@ Junwei Liu, Hua Wang, Chen Fang, Liang Fu, and Xiaofeng Qian.
   layered ternary transition metal chalcogenides.
 \newblock {\em Nano Letters}, 17(1):467--475, dec 2016.
 
+\bibitem{Liu2014a}
+Kaihui Liu, Liming Zhang, Ting Cao, Chenhao Jin, Diana Qiu, Qin Zhou, Alex
+  Zettl, Peidong Yang, Steve~G. Louie, and Feng Wang.
+\newblock Evolution of interlayer coupling in twisted molybdenum disulfide
+  bilayers.
+\newblock {\em Nature Communications}, 5(1), sep 2014.
+
 \bibitem{Liu2014}
 Zheng Liu, Matin Amani, Sina Najmaei, Quan Xu, Xiaolong Zou, Wu~Zhou, Ting Yu,
   Caiyu Qiu, A.~Glen Birdwell, Frank~J. Crowne, Robert Vajtai, Boris~I.
@@ -758,6 +778,14 @@ Haiyan Nan, Zilu Wang, Wenhui Wang, Zheng Liang, Yan Lu, Qian Chen, Daowei He,
 \newblock Strong photoluminescence enhancement of {MoS}2 through defect
   engineering and oxygen bonding.
 \newblock {\em {ACS} Nano}, 8(6):5738--5745, may 2014.
+
+\bibitem{Nayak2017}
+Pramoda~K. Nayak, Yevhen Horbatenko, Seongjoon Ahn, Gwangwoo Kim, Jae-Ung Lee,
+  Kyung~Yeol Ma, A-Rang Jang, Hyunseob Lim, Dogyeong Kim, Sunmin Ryu, Hyeonsik
+  Cheong, Noejung Park, and Hyeon~Suk Shin.
+\newblock Probing evolution of twist-angle-dependent interlayer excitons in
+  {MoSe}2/{WSe}2 van der waals heterostructures.
+\newblock {\em {ACS} Nano}, 11(4):4041--4050, apr 2017.
 
 \bibitem{Ogura2009}
 Toshihiko Ogura.

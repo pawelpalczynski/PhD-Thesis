@@ -2765,6 +2765,55 @@ url={https://doi.org/10.1021/nl401544y}
   publisher = {Springer Nature},
 }
 
+@Article{Amin2015,
+  author    = {B. Amin and N. Singh and U. Schwingenschlögl},
+  title     = {Heterostructures of transition metal dichalcogenides},
+  journal   = {Physical Review B},
+  year      = {2015},
+  volume    = {92},
+  number    = {7},
+  month     = {aug},
+  doi       = {10.1103/physrevb.92.075439},
+  publisher = {American Physical Society ({APS})},
+}
+
+@Article{Nayak2017,
+  author    = {Pramoda K. Nayak and Yevhen Horbatenko and Seongjoon Ahn and Gwangwoo Kim and Jae-Ung Lee and Kyung Yeol Ma and A-Rang Jang and Hyunseob Lim and Dogyeong Kim and Sunmin Ryu and Hyeonsik Cheong and Noejung Park and Hyeon Suk Shin},
+  title     = {Probing Evolution of Twist-Angle-Dependent Interlayer Excitons in {MoSe}2/{WSe}2 van der Waals Heterostructures},
+  journal   = {{ACS} Nano},
+  year      = {2017},
+  volume    = {11},
+  number    = {4},
+  pages     = {4041--4050},
+  month     = {apr},
+  doi       = {10.1021/acsnano.7b00640},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Heo2015,
+  author    = {Hoseok Heo and Ji Ho Sung and Soonyoung Cha and Bo-Gyu Jang and Joo-Youn Kim and Gangtae Jin and Donghun Lee and Ji-Hoon Ahn and Myoung-Jae Lee and Ji Hoon Shim and Hyunyong Choi and Moon-Ho Jo},
+  title     = {Interlayer orientation-dependent light absorption and emission in monolayer semiconductor stacks},
+  journal   = {Nature Communications},
+  year      = {2015},
+  volume    = {6},
+  number    = {1},
+  month     = {jun},
+  doi       = {10.1038/ncomms8372},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Liu2014a,
+  author    = {Kaihui Liu and Liming Zhang and Ting Cao and Chenhao Jin and Diana Qiu and Qin Zhou and Alex Zettl and Peidong Yang and Steve G. Louie and Feng Wang},
+  title     = {Evolution of interlayer coupling in twisted molybdenum disulfide bilayers},
+  journal   = {Nature Communications},
+  year      = {2014},
+  volume    = {5},
+  number    = {1},
+  month     = {sep},
+  doi       = {10.1038/ncomms5966},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
