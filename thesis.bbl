@@ -41,6 +41,18 @@ B.~Amin, N.~Singh, and U.~Schwingenschlögl.
 \newblock Heterostructures of transition metal dichalcogenides.
 \newblock {\em Physical Review B}, 92(7), aug 2015.
 
+\bibitem{Aslan2018}
+Ozgur~Burak Aslan, Minda Deng, and Tony~F. Heinz.
+\newblock Strain tuning of excitons in monolayer {WSe}2.
+\newblock {\em Physical Review B}, 98(11), sep 2018.
+
+\bibitem{Baglio1983}
+J.~Baglio, E.~Kamieniecki, N.~DeCola, C.~Struck, J.~Marzik, K.~Dwight, and
+  A.~Wold.
+\newblock Growth and characterization of n-{WS}2 and niobium-doped p-{WS}2
+  single crystals.
+\newblock {\em Journal of Solid State Chemistry}, 49(2):166--179, sep 1983.
+
 \bibitem{Barbone2018}
 Matteo Barbone, Alejandro R.-P. Montblanch, Dhiren~M. Kara, Carmen
   Palacios-Berraquero, Alisson~R. Cadore, Domenico~De Fazio, Benjamin Pingault,
@@ -76,7 +88,7 @@ Ayse Berkdemir, Humberto~R. Guti{\'{e}}rrez, Andr{\'{e}}s~R.
 Marco Bernardi, Maurizia Palummo, and Jeffrey~C. Grossman.
 \newblock Extraordinary sunlight absorption and one nanometer thick
   photovoltaics using two-dimensional monolayer materials.
-\newblock {\em Nano Letters}, 13(8):3664--3670, Aug 2013.
+\newblock {\em Nano Letters}, 13(8):3664--3670, jul 2013.
 
 \bibitem{Binnig1993}
 G.~Binnig, C.~F. Quate, and Ch~Gerber.
@@ -330,12 +342,12 @@ Yinsheng Guo, Dezheng Sun, Bin Ouyang, Archana Raja, Jun Song, Tony~F. Heinz,
 \newblock {\em Nano Letters}, 15(8):5081--5088, jul 2015.
 
 \bibitem{ExtraordinaryRoomTemperaturePhotoluminescenceInTriangularWS2Monolayers}
-Humberto~R. Gutiérrez, Nestor Perea-López, Ana~Laura Elías, Ayse Berkdemir,
-  Bei Wang, Ruitao Lv, Florentino López-Urías, Vincent~H. Crespi, Humberto
-  Terrones, and Mauricio Terrones.
-\newblock Extraordinary room-temperature photoluminescence in triangular ws2
+Humberto~R. Guti{\'{e}}rrez, Nestor Perea-L{\'{o}}pez, Ana~Laura El{\'{\i}}as,
+  Ayse Berkdemir, Bei Wang, Ruitao Lv, Florentino L{\'{o}}pez-Ur{\'{\i}}as,
+  Vincent~H. Crespi, Humberto Terrones, and Mauricio Terrones.
+\newblock Extraordinary room-temperature photoluminescence in triangular {WS}2
   monolayers.
-\newblock {\em Nano Letters}, 13(8):3447--3454, dec 2013.
+\newblock {\em Nano Letters}, 13(8):3447--3454, dec 2012.
 \newblock PMID: 23194096.
 
 \bibitem{Hahn1949}
@@ -409,11 +421,6 @@ Zhenliang Hu, Jose Avila, Xinyun Wang, Jin~Feng Leong, Qi~Zhang, Yanpeng Liu,
   Antonio Helio~Castro Neto.
 \newblock The role of oxygen atoms on excitons at the edges of monolayer {WS}2.
 \newblock {\em Nano Letters}, jun 2019.
-
-\bibitem{ValleyPolarizationInMoS2MonolayersByOpticalPumping}
-Wang Yao Di~Xiao Hualing~Zeng, Junfeng~Dai and Xiaodong Cui.
-\newblock Valley polarization in mos2 monolayers by optical pumping.
-\newblock {\em Nature Nanotechnology}, 7(8):490--493, jun 2012.
 
 \bibitem{Hui2013}
 Yeung~Yu Hui, Xiaofei Liu, Wenjing Jie, Ngai~Yui Chan, Jianhua Hao, Yu-Te Hsu,
@@ -518,6 +525,12 @@ Dong~Hoon Keum, Suyeon Cho, Jung~Ho Kim, Duk-Hyun Choe, Ha-Jun Sung, Min Kan,
 \newblock Bandgap opening in few-layered monoclinic {MoTe}2.
 \newblock {\em Nature Physics}, 11(6):482--486, may 2015.
 
+\bibitem{Kim2012}
+HoKwon Kim, Cecilia Mattevi, M.~Reyes Calvo, Jenny~C. Oberg, Luca Artiglia,
+  Stefano Agnoli, Cyrus~F. Hirjibehedin, Manish Chhowalla, and Eduardo Saiz.
+\newblock Activation energy paths for graphene nucleation and growth on cu.
+\newblock {\em {ACS} Nano}, 6(4):3614--3623, mar 2012.
+
 \bibitem{Kochat2011}
 Vidya Kochat, Atindra~Nath Pal, E.~S. Sneha, Arjun Sampathkumar, Anshita
   Gairola, S.~A. Shivashankar, Srinivasan Raghavan, and Arindam Ghosh.
@@ -539,8 +552,8 @@ T.~Korn, S.~Heydrich, M.~Hirmer, J.~Schmutzler, and C.~Schüller.
 \bibitem{WS2BandStructureSimulation}
 A.~Kuc, N.~Zibouche, and T.~Heine.
 \newblock Influence of quantum confinement on the electronic structure of the
-  transition metal sulfide $t$s${}_{2}$.
-\newblock {\em Phys. Rev. B}, 83(24):245213, Jun 2011.
+  transition metal {sulfideTS}2.
+\newblock {\em Physical Review B}, 83(24):245213, jun 2011.
 
 \bibitem{Kunstmann2018}
 Jens Kunstmann, Fabian Mooshammer, Philipp Nagler, Andrey Chaves, Frederick
@@ -609,7 +622,7 @@ Shisheng Li, Shunfeng Wang, Dai-Ming Tang, Weijie Zhao, Huilong Xu, Leiqiang
 
 \bibitem{ElectronicPropertiesOfMoS2Nanoparticles}
 Tianshu Li and Giulia Galli.
-\newblock Electronic properties of mos2 nanoparticles.
+\newblock Electronic properties of {MoS}2nanoparticles.
 \newblock {\em The Journal of Physical Chemistry C}, 111(44):16192--16196, nov
   2007.
 
@@ -628,7 +641,7 @@ Xinru Li, Ying Dai, Mengmeng Li, Wei Wei, and Baibiao Huang.
 \bibitem{ProbingSymmetryPropertiesOfFew-LayerMoS2Andh-BNByOpticalSecond-HarmonicGeneration}
 Yilei Li, Yi~Rao, Kin~Fai Mak, Yumeng You, Shuyuan Wang, Cory~R. Dean, and
   Tony~F. Heinz.
-\newblock Probing symmetry properties of few-layer mos2 and h-bn by optical
+\newblock Probing symmetry properties of few-layer {MoS}2 and h-{BN} by optical
   second-harmonic generation.
 \newblock {\em Nano Letters}, 13(7):3329--3333, jun 2013.
 \newblock PMID: 23718906.
@@ -700,17 +713,6 @@ Xiangchao Ma, Xin Wu, Haoda Wang, and Yucheng Wang.
   water-splitting photocatalyst with a low carrier recombination rate.
 \newblock {\em Journal of Materials Chemistry A}, 6(5):2295--2301, 2018.
 
-\bibitem{TightlyBoundTrionsInMonolayer}
-He~Keliang Lee Changgu Lee Gwan Hyoung Hone James Heinz Tony~F. Mak, Kin~Fai
-  and Jie Shan.
-\newblock Tightly bound trions in monolayer.
-\newblock {\em Nature Materials}, 12(3):207--211, dec 2013.
-
-\bibitem{ControlOfValleyPolarizationInMonolayerMoS2ByOpticalHelicity}
-He~Keliang Shan~Jie Mak, Kin~Fai and Tony~F. Heinz.
-\newblock Control of valley polarization in monolayer mos2 by optical helicity.
-\newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
-
 \bibitem{Mak2014}
 K.~F. Mak, K.~L. McGill, J.~Park, and P.~L. McEuen.
 \newblock The valley hall effect in {MoS}2 transistors.
@@ -728,10 +730,16 @@ Kin~Fai Mak, Keliang He, Jie Shan, and Tony~F. Heinz.
   helicity.
 \newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
 
+\bibitem{ControlOfValleyPolarizationInMonolayerMoS2ByOpticalHelicity}
+Kin~Fai Mak, Keliang He, Jie Shan, and Tony~F. Heinz.
+\newblock Control of valley polarization in monolayer {MoS}2 by optical
+  helicity.
+\newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
+
 \bibitem{AtomicallyThinMoS2ANewDirect-GapSemiconductor}
 Kin~Fai Mak, Changgu Lee, James Hone, Jie Shan, and Tony~F. Heinz.
-\newblock Atomically thin $mos_2$: A new direct-gap semiconductor.
-\newblock {\em Phys. Rev. Lett.}, 105(13):136805, Sep 2010.
+\newblock Atomically {ThinMoS}2: A new direct-gap semiconductor.
+\newblock {\em Physical Review Letters}, 105(13):136805, sep 2010.
 
 \bibitem{Mak2016}
 Kin~Fai Mak and Jie Shan.
@@ -759,6 +767,12 @@ Charles C.~L. McCrory, Suho Jung, Ivonne~M. Ferrer, Shawn~M. Chatman, Jonas~C.
   electrocatalysts for solar water splitting devices.
 \newblock {\em Journal of the American Chemical Society}, 137(13):4347--4357,
   mar 2015.
+
+\bibitem{McKone2012}
+James~R. McKone, Adam~P. Pieterick, Harry~B. Gray, and Nathan~S. Lewis.
+\newblock Hydrogen evolution from pt/ru-coated p-type {WSe}2 photocathodes.
+\newblock {\em Journal of the American Chemical Society}, 135(1):223--231, dec
+  2012.
 
 \bibitem{Mouri2013}
 Shinichiro Mouri, Yuhei Miyauchi, and Kazunari Matsuda.
@@ -863,6 +877,12 @@ X.~Qian, J.~Liu, L.~Fu, and J.~Li.
 \newblock Quantum spin hall effect in two-dimensional transition metal
   dichalcogenides.
 \newblock {\em Science}, 346(6215):1344--1347, nov 2014.
+
+\bibitem{Rao1981}
+G.V.~Subba Rao and C.S. Sunandana.
+\newblock {LAYERED} {DICHALCOGENIDES} {AND} {INTERCALATED} {MATERIALS}.
+\newblock In {\em Preparation and Characterization of Materials}, pages
+  269--282. Elsevier, 1981.
 
 \bibitem{Rasmussen2015}
 Filip~A. Rasmussen and Kristian~S. Thygesen.
@@ -1004,7 +1024,7 @@ Seunghyun Song, Dong~Hoon Keum, Suyeon Cho, David Perello, Yunseok Kim, and
 \bibitem{EmergingPhotoluminescenceInMonolayerMoS2}
 Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
   Chim, Giulia Galli, and Feng Wang.
-\newblock Emerging photoluminescence in monolayer mos2.
+\newblock Emerging photoluminescence in monolayer {MoS}2.
 \newblock {\em Nano Letters}, 10(4):1271--1275, apr 2010.
 \newblock PMID: 20229981.
 
@@ -1047,11 +1067,6 @@ Chaoliang Tan, Junze Chen, Xue-Jun Wu, and Hua Zhang.
 \newblock Epitaxial growth of hybrid nanostructures.
 \newblock {\em Nature Reviews Materials}, 3(2), jan 2018.
 
-\bibitem{PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2}
-Xiaona Liu Pingheng~Tan Tengfei~Yan, Xiaofen~Qiao and Xinhui Zhang.
-\newblock Photoluminescence properties and exciton dynamics in monolayer wse2.
-\newblock {\em Applied Physics Letters}, 105(10):101901, sep 2014.
-
 \bibitem{Terrones2014}
 H.~Terrones, E.~Del Corro, S.~Feng, J.~M. Poumirol, D.~Rhodes, D.~Smirnov,
   N.~R. Pradhan, Z.~Lin, M.~A.~T. Nguyen, A.~L. El{\'{\i}}as, T.~E. Mallouk,
@@ -1081,6 +1096,12 @@ Dung-Sheng Tsai, Keng-Ku Liu, Der-Hsien Lien, Meng-Lin Tsai, Chen-Fang Kang,
 \newblock Few-layer {MoS}2 with high broadband photogain and fast optical
   switching for use in harsh environments.
 \newblock {\em {ACS} Nano}, 7(5):3905--3911, apr 2013.
+
+\bibitem{Turler2004}
+A.~Turler.
+\newblock Gas phase chemistry of superheavy elements.
+\newblock {\em Journal of Nuclear and Radiochemical Sciences}, 5(2):R19--R25,
+  2004.
 
 \bibitem{Zande2014}
 Arend~M. van~der Zande, Jens Kunstmann, Alexey Chernikov, Daniel~A. Chenet,
@@ -1122,7 +1143,7 @@ Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
   Michael~S. Strano.
 \newblock Electronics and optoelectronics of two-dimensional transition metal
   dichalcogenides.
-\newblock {\em Nature Nanotechnology}, 7:699 EP --, Nov 2012.
+\newblock {\em Nature Nanotechnology}, 7:699--712, Nov 2012.
 \newblock Review Article.
 
 \bibitem{Wang2012}
@@ -1131,12 +1152,6 @@ Rui Wang, Brian~A. Ruzicka, Nardeep Kumar, Matthew~Z. Bellus, Hsin-Ying Chiu,
 \newblock Ultrafast and spatially resolved studies of charge carriers in
   atomically thin molybdenum disulfide.
 \newblock {\em Physical Review B}, 86(4), jul 2012.
-
-\bibitem{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}
-Kiran Kumar Amara Jing Ren Pang Minglin Toh Xin Zhang Christian Kloc Ping
-  Heng~Tane Weijie~Zhao, Zohreh~Ghorannevis and Goki Eda.
-\newblock Lattice dynamics in mono- and few-layer sheets of $ws_2$ and $wse_2$.
-\newblock {\em Nanoscale}, 5(20):9677−9683, August 2013.
 
 \bibitem{TheTransitionMetalDichalcogenidesDiscussionAndInterpretationOfTheObservedOpticalElectricalAndStructuralProperties}
 J.A. Wilson and A.D. Yoffe.
@@ -1179,9 +1194,9 @@ Fernando Wypych and Robert Schöllhorn.
 
 \bibitem{CoupledSpinAndValleyPhysicsInMonolayersOfMoS2AndOtherGroup-VIDichalcogenides}
 Di~Xiao, Gui-Bin Liu, Wanxiang Feng, Xiaodong Xu, and Wang Yao.
-\newblock Coupled spin and valley physics in monolayers of $mos_2$ and other
-  group-vi dichalcogenides.
-\newblock {\em Phys. Rev. Lett.}, 108(19):196802, May 2012.
+\newblock Coupled spin and valley physics in monolayers {ofMoS}2and other
+  group-{VI} dichalcogenides.
+\newblock {\em Physical Review Letters}, 108(19):196802, may 2012.
 
 \bibitem{Xu2013}
 Yong Xu, Binghai Yan, Hai-Jun Zhang, Jing Wang, Gang Xu, Peizhe Tang, Wenhui
@@ -1209,6 +1224,12 @@ B~G Yacobi, F~W Boswell, and J~M Corbett.
 B.G. Yacobi, F.W. Boswell, and J.M. Corbett.
 \newblock The fundamental absorption edge in {NixZrS}2.
 \newblock {\em Materials Research Bulletin}, 14(8):1033--1038, aug 1979.
+
+\bibitem{PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2}
+Tengfei Yan, Xiaofen Qiao, Xiaona Liu, Pingheng Tan, and Xinhui Zhang.
+\newblock Photoluminescence properties and exciton dynamics in monolayer
+  {WSe}2.
+\newblock {\em Applied Physics Letters}, 105(10):101901, sep 2014.
 
 \bibitem{Yang2017}
 Heejun Yang, Sung~Wng Kim, Manish Chhowalla, and Young~Hee Lee.
@@ -1299,6 +1320,11 @@ Won~Seok Yun, S.~W. Han, Soon~Cheol Hong, In~Gee Kim, and J.~D. Lee.
   metal dichalcogenides: 2h-{MX}2semiconductors (m=mo, w;x=s, se, te).
 \newblock {\em Physical Review B}, 85(3), jan 2012.
 
+\bibitem{ValleyPolarizationInMoS2MonolayersByOpticalPumping}
+Hualing Zeng, Junfeng Dai, Wang Yao, Di~Xiao, and Xiaodong Cui.
+\newblock Valley polarization in {MoS}2 monolayers by optical pumping.
+\newblock {\em Nature Nanotechnology}, 7(8):490--493, jun 2012.
+
 \bibitem{Zeng2016}
 Longhui Zeng, Lili Tao, Chunyin Tang, Bo~Zhou, Hui Long, Yang Chai, Shu~Ping
   Lau, and Yuen~Hong Tsang.
@@ -1336,19 +1362,25 @@ Yu~Zhang, Yanfeng Zhang, Qingqing Ji, Jing Ju, Hongtao Yuan, Jianping Shi, Teng
 \newblock {\em ACS Nano}, 7(10):8963--8971, 2013.
 \newblock PMID: 24047054.
 
+\bibitem{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}
+Weijie Zhao, Zohreh Ghorannevis, Kiran~Kumar Amara, Jing~Ren Pang, Minglin Toh,
+  Xin Zhang, Christian Kloc, Ping~Heng Tan, and Goki Eda.
+\newblock Lattice dynamics in mono- and few-layer sheets of {WS}2 and {WSe}2.
+\newblock {\em Nanoscale}, 5(20):9677, August 2013.
+
 \bibitem{EvolutionOfElectronicStructureInAtomicallyThinSheetsOfWS2AndWSe2}
 Weijie Zhao, Zohreh Ghorannevis, Leiqiang Chu, Minglin Toh, Christian Kloc,
   Ping-Heng Tan, and Goki Eda.
-\newblock Evolution of electronic structure in atomically thin sheets of ws2
-  and wse2.
-\newblock {\em ACS Nano}, 7(1):791--797, dec 2013.
+\newblock Evolution of electronic structure in atomically thin sheets of {WS}2
+  and {WSe}2.
+\newblock {\em {ACS} Nano}, 7(1):791--797, dec 2012.
 \newblock PMID: 23256505.
 
 \bibitem{GiantSpin-orbit-inducedSpinSplittingInTwo-dimensionalTransition-metalDichalcogenideSemiconductors}
-Z.~Y. Zhu, Y.~C. Cheng, and U.~Schwingenschl\"ogl.
+Z.~Y. Zhu, Y.~C. Cheng, and U.~Schwingenschlögl.
 \newblock Giant spin-orbit-induced spin splitting in two-dimensional
   transition-metal dichalcogenide semiconductors.
-\newblock {\em Phys. Rev. B}, 84(15):153402, Oct 2011.
+\newblock {\em Physical Review B}, 84(15):153402, oct 2011.
 
 \bibitem{Zhuang2013}
 Houlong~L. Zhuang and Richard~G. Hennig.

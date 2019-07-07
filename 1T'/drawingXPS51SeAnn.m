@@ -11,4 +11,6 @@ set(gca, 'YTickLabel', [])
 ylabel('Counts (s^{-1})', 'FontSize', 40, 'FontName', 'Arial')
 xlabel('Binding energy (eV)', 'FontSize', 40, 'FontName', 'Arial')
 
+legend('Measurment', 'Total fit', '2H WSe_2', 'Location', 'NorthWest')
+
 axis([52 58 2000 7000])
