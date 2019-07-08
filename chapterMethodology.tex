@@ -170,3 +170,7 @@ Transmission electron microscopy (TEM) is a microscopy technique in which a high
 Because the wavelength of the high energy electrons is much smaller than the distance between the atoms in a crystal lattice, the sample can act as a diffraction grating for the incident beam. By shifting the back focal plane instead of the image plane onto the imaging screen and inserting an aperture the diffraction pattern from selected area (SADP) can be achieved. This allows to gain information about the crystal structure and defects within much smaller area than what is possible with x-ray diffraction.
 
 In this work the TEM used was a FEI Titan 80-300 S/TEM at 80kV with a monochromator and $C_s$ aberration image corrector. The focal series images were produced using different objective lens focus values ($C_s = -4\mu m$). Exit wave reconstruction was achieved using TrueImage (FEI).
+
+\section{MATLAB Script}
+
+In order to analyse the PL and Raman spectra, both individual and maps, the MATLAB software was utilised. The spectra were exported from the Wire software used for Renishaw Raman spectrometer and they were then imported into MATLAB. Using "peakfit.m" script from "https://terpconnect.umd.edu/~toh/spectrum/peakfit.m" the peaks were fitted with required number of peaks. For peak fitting the Voigt peakshape was used. Several scripts were developed for the purpose of automating data import, analysis and peak fitting of PL and Raman maps.

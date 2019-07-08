@@ -135,13 +135,6 @@ Hailong Chen, Xiewen Wen, Jing Zhang, Tianmin Wu, Yongji Gong, Xiang Zhang,
   {MoS}2/{WS}2 heterostructures.
 \newblock {\em Nature Communications}, 7(1), aug 2016.
 
-\bibitem{Chen2015}
-Kun Chen, Xi~Wan, Jinxiu Wen, Weiguang Xie, Zhiwen Kang, Xiaoliang Zeng,
-  Huanjun Chen, and Jian-Bin Xu.
-\newblock Electronic properties of {MoS}2{\textendash}{WS}2 heterostructures
-  synthesized with two-step lateral epitaxial strategy.
-\newblock {\em {ACS} Nano}, 9(10):9868--9876, sep 2015.
-
 \bibitem{Chen2018}
 P.~Chen, Woei~Wu Pai, Y.-H. Chan, W.-L. Sun, C.-Z. Xu, D.-S. Lin, M.~Y. Chou,
   A.-V. Fedorov, and T.-C. Chiang.
@@ -271,12 +264,6 @@ Marcio Fontana, Tristan Deppe, Anthony~K. Boyd, Mohamed Rinzan, Amy~Y. Liu,
   schottky junctions.
 \newblock {\em Scientific Reports}, 3(1), apr 2013.
 
-\bibitem{Freedman1959}
-Meyer~L. Freedman.
-\newblock The tungstic acids.
-\newblock {\em Journal of the American Chemical Society}, 81(15):3834--3839,
-  aug 1959.
-
 \bibitem{Fu2015}
 Qi~Fu, Wenhui Wang, Lei Yang, Jian Huang, Jingyu Zhang, and Bin Xiang.
 \newblock Controllable synthesis of high quality monolayer {WS}2 on a {SiO}2/si
@@ -380,12 +367,6 @@ Wolfgang~K. Hofmann.
 \newblock Thin films of molybdenum and tungsten disulphides by metal organic
   chemical vapour deposition.
 \newblock {\em Journal of Materials Science}, 23(11):3981--3986, nov 1988.
-
-\bibitem{Hong2011}
-Suk~Joon Hong, Seungok Lee, Jum~Suk Jang, and Jae~Sung Lee.
-\newblock Heterojunction {BiVO}4/{WO}3 electrodes for enhanced photoactivity of
-  water oxidation.
-\newblock {\em Energy {\&} Environmental Science}, 4(5):1781, 2011.
 
 \bibitem{Hong2014}
 Xiaoping Hong, Jonghwan Kim, Su-Fei Shi, Yu~Zhang, Chenhao Jin, Yinghui Sun,
@@ -707,12 +688,6 @@ J.~M. Lu, O.~Zheliuk, I.~Leermakers, N.~F.~Q. Yuan, U.~Zeitler, K.~T. Law, and
 \newblock Evidence for two-dimensional ising superconductivity in gated {MoS}2.
 \newblock {\em Science}, 350(6266):1353--1357, nov 2015.
 
-\bibitem{Ma2018}
-Xiangchao Ma, Xin Wu, Haoda Wang, and Yucheng Wang.
-\newblock A janus {MoSSe} monolayer: a potential wide solar-spectrum
-  water-splitting photocatalyst with a low carrier recombination rate.
-\newblock {\em Journal of Materials Chemistry A}, 6(5):2295--2301, 2018.
-
 \bibitem{Mak2014}
 K.~F. Mak, K.~L. McGill, J.~Park, and P.~L. McEuen.
 \newblock The valley hall effect in {MoS}2 transistors.
@@ -759,14 +734,6 @@ M.~Massicotte, P.~Schmidt, F.~Vialla, K.~G. Schädler, A.~Reserbat-Plantey,
   K.~Watanabe, T.~Taniguchi, K.~J. Tielrooij, and F.~H.~L. Koppens.
 \newblock Picosecond photoresponse in van der waals heterostructures.
 \newblock {\em Nature Nanotechnology}, 11(1):42--46, oct 2015.
-
-\bibitem{McCrory2015}
-Charles C.~L. McCrory, Suho Jung, Ivonne~M. Ferrer, Shawn~M. Chatman, Jonas~C.
-  Peters, and Thomas~F. Jaramillo.
-\newblock Benchmarking hydrogen evolving reaction and oxygen evolving reaction
-  electrocatalysts for solar water splitting devices.
-\newblock {\em Journal of the American Chemical Society}, 137(13):4347--4357,
-  mar 2015.
 
 \bibitem{McKone2012}
 James~R. McKone, Adam~P. Pieterick, Harry~B. Gray, and Nathan~S. Lewis.
@@ -822,12 +789,6 @@ Dmitry Ovchinnikov, Adrien Allain, Ying-Sheng Huang, Dumitru Dumcenco, and
 \newblock Electrical transport properties of single-layer {WS}2.
 \newblock {\em {ACS} Nano}, 8(8):8174--8181, jul 2014.
 
-\bibitem{Parzinger2015}
-Eric Parzinger, Bastian Miller, Benno Blaschke, Jose~A. Garrido, Joel~W. Ager,
-  Alexander Holleitner, and Ursula Wurstbauer.
-\newblock Photocatalytic stability of single- and few-layer {MoS}2.
-\newblock {\em {ACS} Nano}, 9(11):11302--11309, nov 2015.
-
 \bibitem{doi:10.1021/nn4046002}
 Namphung Peimyoo, Jingzhi Shang, Chunxiao Cong, Xiaonan Shen, Xiangyang Wu,
   Edwin K.~L. Yeow, and Ting Yu.
@@ -842,20 +803,6 @@ Namphung Peimyoo, Weihuang Yang, Jingzhi Shang, Xiaonan Shen, Yanlong Wang, and
 \newblock Chemically driven tunable light emission of charged and neutral
   excitons in monolayer {WS}2.
 \newblock {\em {ACS} Nano}, 8(11):11320--11329, oct 2014.
-
-\bibitem{Pesci2017}
-Federico~M. Pesci, Maria~S. Sokolikova, Chiara Grotta, Peter~C. Sherrell,
-  Francesco Reale, Kanudha Sharda, Na~Ni, Pawel Palczynski, and Cecilia
-  Mattevi.
-\newblock {MoS}2/{WS}2 heterojunction for photoelectrochemical water oxidation.
-\newblock {\em {ACS} Catalysis}, 7(8):4990--4998, July 2017.
-
-\bibitem{Pilli2011}
-Satyananda~Kishore Pilli, Thomas~E. Furtak, Logan~D. Brown, Todd~G. Deutsch,
-  John~A. Turner, and Andrew~M. Herring.
-\newblock Cobalt-phosphate (co-pi) catalyst modified mo-doped {BiVO}4
-  photoelectrodes for solar water oxidation.
-\newblock {\em Energy {\&} Environmental Science}, 4(12):5028, 2011.
 
 \bibitem{Pospischil2014}
 Andreas Pospischil, Marco~M. Furchi, and Thomas Mueller.
@@ -891,13 +838,6 @@ Filip~A. Rasmussen and Kristian~S. Thygesen.
 \newblock {\em The Journal of Physical Chemistry C}, 119(23):13169--13183, jun
   2015.
 
-\bibitem{Raza2016}
-Faizan Raza, Jung~Hyun Park, Hye-Rim Lee, Hye-In Kim, Su-Ji Jeon, and Jong-Ho
-  Kim.
-\newblock Visible-light-driven oxidative coupling reactions of amines by
-  photoactive {WS}2 nanosheets.
-\newblock {\em {ACS} Catalysis}, 6(5):2754--2759, mar 2016.
-
 \bibitem{Reale2017}
 Francesco Reale, Pawel Palczynski, Iddo Amit, Gareth~F. Jones, Jake~D. Mehew,
   Agnes Bacon, Na~Ni, Peter~C. Sherrell, Stefano Agnoli, Monica~F. Craciun,
@@ -910,13 +850,6 @@ Francesco Reale, Kanudha Sharda, and Cecilia Mattevi.
 \newblock From bulk crystals to atomically thin layers of group {VI}-transition
   metal dichalcogenides vapour phase synthesis.
 \newblock {\em Applied Materials Today}, 3:11--22, jun 2016.
-
-\bibitem{Rigosi2015}
-Albert~F. Rigosi, Heather~M. Hill, Yilei Li, Alexey Chernikov, and Tony~F.
-  Heinz.
-\newblock Probing interlayer interactions in transition metal dichalcogenide
-  heterostructures by optical spectroscopy: {MoS}2/{WS}2 and {MoSe}2/{WSe}2.
-\newblock {\em Nano Letters}, 15(8):5033--5038, jul 2015.
 
 \bibitem{Rong2014}
 Youmin Rong, Ye~Fan, Ai~Leen Koh, Alex~W. Robertson, Kuang He, Shanshan Wang,
@@ -939,13 +872,6 @@ Jason~S. Ross, Sanfeng Wu, Hongyi Yu, Nirmal~J. Ghimire, Aaron~M. Jones, Grant
 \newblock Electrical control of neutral and charged excitons in a monolayer
   semiconductor.
 \newblock {\em Nature Communications}, 4(1), feb 2013.
-
-\bibitem{Sahoo2018}
-Prasana~K. Sahoo, Shahriar Memaran, Yan Xin, Luis Balicas, and Humberto~R.
-  Guti{\'{e}}rrez.
-\newblock One-pot growth of two-dimensional lateral heterostructures via
-  sequential edge-epitaxy.
-\newblock {\em Nature}, 553(7686):63--67, jan 2018.
 
 \bibitem{Saito2015}
 Yu~Saito, Yasuharu Nakamura, Mohammad~Saeed Bahramy, Yoshimitsu Kohama,
@@ -982,6 +908,13 @@ Jingzhi Shang, Xiaonan Shen, Chunxiao Cong, Namphung Peimyoo, Bingchen Cao,
 \newblock {\em ACS Nano}, 9(1):647--655, 2015.
 \newblock PMID: 25560634.
 
+\bibitem{Sherrell2019}
+Peter~C. Sherrell, Pawel Palczynski, Maria Sokolikova, Francesco~Reale
+  andFederico M.~Pesci, Mauro Och, and Cecilia Mattevi.
+\newblock Large-area cvd mos2/ws2 heterojunctions as a photoelectrocatalyst for
+  salt water oxidation.
+\newblock {\em ACS Appl. Energy Mater.}, 2019.
+
 \bibitem{Shi2014}
 Jianping Shi, Donglin Ma, Gao-Feng Han, Yu~Zhang, Qingqing Ji, Teng Gao, Jingyu
   Sun, Xiuju Song, Cong Li, Yanshuo Zhang, Xing-You Lang, Yanfeng Zhang, and
@@ -989,13 +922,6 @@ Jianping Shi, Donglin Ma, Gao-Feng Han, Yu~Zhang, Qingqing Ji, Teng Gao, Jingyu
 \newblock Controllable growth and transfer of monolayer {MoS}2 on au foils and
   its potential application in hydrogen evolution reaction.
 \newblock {\em {ACS} Nano}, 8(10):10196--10204, sep 2014.
-
-\bibitem{Shi2014a}
-Xinjian Shi, Il~Yong Choi, Kan Zhang, Jeong Kwon, Dong~Yeong Kim, Ja~Kyung Lee,
-  Sang~Ho Oh, Jong~Kyu Kim, and Jong~Hyeok Park.
-\newblock Efficient photoelectrochemical hydrogen production from bismuth
-  vanadate-decorated tungsten trioxide helix nanostructures.
-\newblock {\em Nature Communications}, 5(1), sep 2014.
 
 \bibitem{Shi2015}
 Yumeng Shi, Henan Li, and Lain-Jong Li.
@@ -1007,6 +933,12 @@ Yumeng Shi, Henan Li, and Lain-Jong Li.
 Kevin Sivula and Roel van~de Krol.
 \newblock Semiconducting materials for photoelectrochemical energy conversion.
 \newblock {\em Nature Reviews Materials}, 1(2), jan 2016.
+
+\bibitem{Sokolikova2019}
+Maria~S. Sokolikova, Peter~C. Sherrell, Pawel Palczynski, Victoria~L. Bemmer,
+  and Cecilia Mattevi.
+\newblock Direct solution-phase synthesis of 1t' {WSe}2 nanosheets.
+\newblock {\em Nature Communications}, 10(1), feb 2019.
 
 \bibitem{Somoano1979}
 Robert~B. Somoano and John~A. Woollam.
@@ -1119,12 +1051,6 @@ Damien Voiry, Hisato Yamaguchi, Junwen Li, Rafael Silva, Diego C.~B. Alves,
 \newblock Enhanced catalytic activity in strained chemically exfoliated {WS}2
   nanosheets for hydrogen evolution.
 \newblock {\em Nature Materials}, 12(9):850--855, jul 2013.
-
-\bibitem{Voiry2016}
-Damien Voiry, Jieun Yang, and Manish Chhowalla.
-\newblock Recent strategies for improving the catalytic activity of 2d {TMD}
-  nanosheets toward the hydrogen evolution reaction.
-\newblock {\em Advanced Materials}, 28(29):6197--6206, feb 2016.
 
 \bibitem{Wagner1991}
 C.~D Wagner.
@@ -1255,18 +1181,6 @@ Yumeng You, Xiao-Xiao Zhang, Timothy~C. Berkelbach, Mark~S. Hybertsen, David~R.
 \newblock Observation of biexcitons in monolayer {WSe}2.
 \newblock {\em Nature Physics}, 11(6):477--481, may 2015.
 
-\bibitem{Yu2017a}
-Xiaoyun Yu, N{\'{e}}stor Guijarro, Melissa Johnson, and Kevin Sivula.
-\newblock Defect mitigation of solution-processed 2d {WSe}2 nanoflakes for
-  solar-to-hydrogen conversion.
-\newblock {\em Nano Letters}, 18(1):215--222, dec 2017.
-
-\bibitem{Yu2015}
-Xiaoyun Yu, Mathieu~S. Pr{\'{e}}vot, N{\'{e}}stor Guijarro, and Kevin Sivula.
-\newblock Self-assembled 2d {WSe}2 thin films for photoelectrochemical hydrogen
-  production.
-\newblock {\em Nature Communications}, 6(1), jul 2015.
-
 \bibitem{Yu2016}
 Xiaoyun Yu and Kevin Sivula.
 \newblock Toward large-area solar energy conversion with semiconducting 2d
@@ -1381,12 +1295,5 @@ Z.~Y. Zhu, Y.~C. Cheng, and U.~Schwingenschlögl.
 \newblock Giant spin-orbit-induced spin splitting in two-dimensional
   transition-metal dichalcogenide semiconductors.
 \newblock {\em Physical Review B}, 84(15):153402, oct 2011.
-
-\bibitem{Zhuang2013}
-Houlong~L. Zhuang and Richard~G. Hennig.
-\newblock Computational search for single-layer transition-metal dichalcogenide
-  photocatalysts.
-\newblock {\em The Journal of Physical Chemistry C}, 117(40):20440--20445, sep
-  2013.
 
 \end{thebibliography}

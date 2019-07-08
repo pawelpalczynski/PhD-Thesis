@@ -2783,6 +2783,86 @@
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Article{Aslan2018,
+  author    = {Ozgur Burak Aslan and Minda Deng and Tony F. Heinz},
+  title     = {Strain tuning of excitons in monolayer {WSe}2},
+  journal   = {Physical Review B},
+  year      = {2018},
+  volume    = {98},
+  number    = {11},
+  month     = {sep},
+  doi       = {10.1103/physrevb.98.115308},
+  publisher = {American Physical Society ({APS})},
+}
+
+@InCollection{Rao1981,
+  author    = {G.V. Subba Rao and C.S. Sunandana},
+  title     = {{LAYERED} {DICHALCOGENIDES} {AND} {INTERCALATED} {MATERIALS}},
+  booktitle = {Preparation and Characterization of Materials},
+  publisher = {Elsevier},
+  year      = {1981},
+  pages     = {269--282},
+  doi       = {10.1016/b978-0-12-355040-8.50017-x},
+}
+
+@Article{Kim2012,
+  author    = {HoKwon Kim and Cecilia Mattevi and M. Reyes Calvo and Jenny C. Oberg and Luca Artiglia and Stefano Agnoli and Cyrus F. Hirjibehedin and Manish Chhowalla and Eduardo Saiz},
+  title     = {Activation Energy Paths for Graphene Nucleation and Growth on Cu},
+  journal   = {{ACS} Nano},
+  year      = {2012},
+  volume    = {6},
+  number    = {4},
+  pages     = {3614--3623},
+  month     = {mar},
+  doi       = {10.1021/nn3008965},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{McKone2012,
+  author    = {James R. McKone and Adam P. Pieterick and Harry B. Gray and Nathan S. Lewis},
+  title     = {Hydrogen Evolution from Pt/Ru-Coated p-Type {WSe}2 Photocathodes},
+  journal   = {Journal of the American Chemical Society},
+  year      = {2012},
+  volume    = {135},
+  number    = {1},
+  pages     = {223--231},
+  month     = {dec},
+  doi       = {10.1021/ja308581g},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{Baglio1983,
+  author    = {J. Baglio and E. Kamieniecki and N. DeCola and C. Struck and J. Marzik and K. Dwight and A. Wold},
+  title     = {Growth and characterization of n-{WS}2 and niobium-doped p-{WS}2 single crystals},
+  journal   = {Journal of Solid State Chemistry},
+  year      = {1983},
+  volume    = {49},
+  number    = {2},
+  pages     = {166--179},
+  month     = {sep},
+  doi       = {10.1016/0022-4596(83)90110-x},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Turler2004,
+  author    = {A. Turler},
+  title     = {Gas Phase Chemistry of Superheavy Elements},
+  journal   = {Journal of Nuclear and Radiochemical Sciences},
+  year      = {2004},
+  volume    = {5},
+  number    = {2},
+  pages     = {R19--R25},
+  doi       = {10.14494/jnrs2000.5.r19},
+  publisher = {The Japan Society of Nuclear and Radiochemical Sciences},
+}
+
+@Article{Sherrell2019,
+  author  = {Peter C. Sherrell and Pawel Palczynski and Maria Sokolikova and Francesco Reale andFederico M. Pesci and Mauro Och and Cecilia Mattevi},
+  title   = {Large-Area CVD MoS2/WS2 Heterojunctions as a Photoelectrocatalyst for Salt Water Oxidation},
+  journal = {ACS Appl. Energy Mater.},
+  year    = {2019},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
