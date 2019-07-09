@@ -22,6 +22,17 @@
 \usepackage{subcaption}
 \usepackage{tocloft,calc}
 \usepackage{float}
+%\usepackage{polski}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\usepackage{afterpage}
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
 
 \renewcommand{\cftchappresnum}{Chapter }
 \AtBeginDocument{\addtolength\cftchapnumwidth{\widthof{\bfseries Chapter }}}
@@ -38,8 +49,10 @@
 \begin{document}
 
 \include{titlepage}
-\section*{Declaration}
-\section*{Acknowledgements}
+\newpage \blankpage
+\include{declaration}
+\include{copyrightdeclaration}
+\include{acknowledgements}
 \include{Publications}
 \include{sectionAbbreviations}
 \include{abstract}
