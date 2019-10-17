@@ -1,1299 +1,1085 @@
 \begin{thebibliography}{100}
 
-\bibitem{Ahn2017}
-Geun~Ho Ahn, Matin Amani, Haider Rasool, Der-Hsien Lien, James~P. Mastandrea,
-  Joel W.~Ager III, Madan Dubey, Daryl~C. Chrzan, Andrew~M. Minor, and Ali
-  Javey.
-\newblock Strain-engineered growth of two-dimensional materials.
-\newblock {\em Nature Communications}, 8(1), sep 2017.
+\bibitem{ElectronicsAndOptoelectronicsOfTwo-dimensionalTransitionMetalDichalcogenides}
+Q.~H. Wang, K.~Kalantar-Zadeh, A.~Kis, J.~N. Coleman, and M.~S. Strano,
+  ``Electronics and optoelectronics of two-dimensional transition metal
+  dichalcogenides,'' {\em Nature Nanotechnology}, vol.~7, pp.~699--712, Nov
+  2012.
+\newblock Review Article.
+
+\bibitem{WS2BandStructureSimulation}
+A.~Kuc, N.~Zibouche, and T.~Heine, ``Influence of quantum confinement on the
+  electronic structure of the transition metal {sulfideTS}2,'' {\em Physical
+  Review B}, vol.~83, p.~245213, jun 2011.
+
+\bibitem{EmergingPhotoluminescenceInMonolayerMoS2}
+A.~Splendiani, L.~Sun, Y.~Zhang, T.~Li, J.~Kim, C.-Y. Chim, G.~Galli, and
+  F.~Wang, ``Emerging photoluminescence in monolayer {MoS}2,'' {\em Nano
+  Letters}, vol.~10, pp.~1271--1275, apr 2010.
+\newblock PMID: 20229981.
+
+\bibitem{ExtraordinaryRoomTemperaturePhotoluminescenceInTriangularWS2Monolayers}
+H.~R. Guti{\'{e}}rrez, N.~Perea-L{\'{o}}pez, A.~L. El{\'{\i}}as, A.~Berkdemir,
+  B.~Wang, R.~Lv, F.~L{\'{o}}pez-Ur{\'{\i}}as, V.~H. Crespi, H.~Terrones, and
+  M.~Terrones, ``Extraordinary room-temperature photoluminescence in triangular
+  {WS}2 monolayers,'' {\em Nano Letters}, vol.~13, pp.~3447--3454, dec 2012.
+\newblock PMID: 23194096.
+
+\bibitem{ExtraordinarySunlightAbsorptionAndOneNanometerThickPhotovoltaicsUsingTwo-DimensionalMonolayerMaterials}
+M.~Bernardi, M.~Palummo, and J.~C. Grossman, ``Extraordinary sunlight
+  absorption and one nanometer thick photovoltaics using two-dimensional
+  monolayer materials,'' {\em Nano Letters}, vol.~13, pp.~3664--3670, jul 2013.
+
+\bibitem{Ye2014}
+Z.~Ye, T.~Cao, K.~O'Brien, H.~Zhu, X.~Yin, Y.~Wang, S.~G. Louie, and X.~Zhang,
+  ``Probing excitonic dark states in single-layer tungsten disulphide,'' {\em
+  Nature}, vol.~513, pp.~214--218, aug 2014.
+
+\bibitem{Currie2015}
+M.~Currie, A.~T. Hanbicki, G.~Kioseoglou, and B.~T. Jonker, ``Optical control
+  of charged exciton states in tungsten disulfide,'' {\em Applied Physics
+  Letters}, vol.~106, p.~201907, may 2015.
+
+\bibitem{Nan2014}
+H.~Nan, Z.~Wang, W.~Wang, Z.~Liang, Y.~Lu, Q.~Chen, D.~He, P.~Tan, F.~Miao,
+  X.~Wang, J.~Wang, and Z.~Ni, ``Strong photoluminescence enhancement of {MoS}2
+  through defect engineering and oxygen bonding,'' {\em {ACS} Nano}, vol.~8,
+  pp.~5738--5745, may 2014.
+
+\bibitem{Mouri2013}
+S.~Mouri, Y.~Miyauchi, and K.~Matsuda, ``Tunable photoluminescence of monolayer
+  {MoS}2 via chemical doping,'' {\em Nano Letters}, vol.~13, pp.~5944--5948,
+  nov 2013.
+
+\bibitem{Zhang2014}
+M.~Zhang, J.~Wu, Y.~Zhu, D.~O. Dumcenco, J.~Hong, N.~Mao, S.~Deng, Y.~Chen,
+  Y.~Yang, C.~Jin, S.~H. Chaki, Y.-S. Huang, J.~Zhang, and L.~Xie,
+  ``Two-dimensional molybdenum tungsten diselenide alloys: Photoluminescence,
+  raman scattering, and electrical transport,'' {\em {ACS} Nano}, vol.~8,
+  pp.~7130--7137, jun 2014.
+
+\bibitem{Mak2012}
+K.~F. Mak, K.~He, C.~Lee, G.~H. Lee, J.~Hone, T.~F. Heinz, and J.~Shan,
+  ``Tightly bound trions in monolayer {MoS}2,'' {\em Nature Materials},
+  vol.~12, pp.~207--211, dec 2012.
+
+\bibitem{Mak2012a}
+K.~F. Mak, K.~He, J.~Shan, and T.~F. Heinz, ``Control of valley polarization in
+  monolayer {MoS}2 by optical helicity,'' {\em Nature Nanotechnology}, vol.~7,
+  pp.~494--498, jun 2012.
+
+\bibitem{PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2}
+T.~Yan, X.~Qiao, X.~Liu, P.~Tan, and X.~Zhang, ``Photoluminescence properties
+  and exciton dynamics in monolayer {WSe}2,'' {\em Applied Physics Letters},
+  vol.~105, p.~101901, sep 2014.
+
+\bibitem{Hu2019}
+Z.~Hu, J.~Avila, X.~Wang, J.~F. Leong, Q.~Zhang, Y.~Liu, M.~C. Asensio, J.~Lu,
+  A.~Carvalho, C.~H. Sow, and A.~H.~C. Neto, ``The role of oxygen atoms on
+  excitons at the edges of monolayer {WS}2,'' {\em Nano Letters}, jun 2019.
+
+\bibitem{Haug1994}
+H.~Haug, S.~W. Koch, and L.~V. Keldysh, ``Quantum theory of the optical and
+  electronic properties of semiconductors,'' {\em Physics Today}, vol.~47,
+  pp.~106--108, feb 2004.
+
+\bibitem{Ross2013}
+J.~S. Ross, S.~Wu, H.~Yu, N.~J. Ghimire, A.~M. Jones, G.~Aivazian, J.~Yan,
+  D.~G. Mandrus, D.~Xiao, W.~Yao, and X.~Xu, ``Electrical control of neutral
+  and charged excitons in a monolayer semiconductor,'' {\em Nature
+  Communications}, vol.~4, feb 2013.
+
+\bibitem{doi:10.1021/nn5059908}
+J.~Shang, X.~Shen, C.~Cong, N.~Peimyoo, B.~Cao, M.~Eginligil, and T.~Yu,
+  ``Observation of excitonic fine structure in a 2d transition-metal
+  dichalcogenide semiconductor,'' {\em ACS Nano}, vol.~9, no.~1, pp.~647--655,
+  2015.
+\newblock PMID: 25560634.
+
+\bibitem{You2015}
+Y.~You, X.-X. Zhang, T.~C. Berkelbach, M.~S. Hybertsen, D.~R. Reichman, and
+  T.~F. Heinz, ``Observation of biexcitons in monolayer {WSe}2,'' {\em Nature
+  Physics}, vol.~11, pp.~477--481, may 2015.
+
+\bibitem{Barbone2018}
+M.~Barbone, A.~R.-P. Montblanch, D.~M. Kara, C.~Palacios-Berraquero, A.~R.
+  Cadore, D.~D. Fazio, B.~Pingault, E.~Mostaani, H.~Li, B.~Chen, K.~Watanabe,
+  T.~Taniguchi, S.~Tongay, G.~Wang, A.~C. Ferrari, and M.~Atatüre,
+  ``Charge-tuneable biexciton complexes in monolayer {WSe}2,'' {\em Nature
+  Communications}, vol.~9, sep 2018.
+
+\bibitem{Feldmann1988}
+J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
+  Elliott, ``Linewidth dependence of radiative exciton lifetimes in quantum
+  wells,'' {\em Physical Review Letters}, vol.~60, pp.~243--243, jan 1988.
+
+\bibitem{Haug1989}
+H.~Haug and L.~B{\'{a}}nyai, eds., {\em Optical Switching in Low-Dimensional
+  Systems}.
+\newblock Springer {US}, 1989.
+
+\bibitem{AtomicallyThinMoS2ANewDirect-GapSemiconductor}
+K.~F. Mak, C.~Lee, J.~Hone, J.~Shan, and T.~F. Heinz, ``Atomically {ThinMoS}2:
+  A new direct-gap semiconductor,'' {\em Physical Review Letters}, vol.~105,
+  p.~136805, sep 2010.
+
+\bibitem{Feldmann1987}
+J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
+  Elliott, ``Linewidth dependence of radiative exciton lifetimes in quantum
+  wells,'' {\em Physical Review Letters}, vol.~59, pp.~2337--2340, nov 1987.
+
+\bibitem{Mak2016}
+K.~F. Mak and J.~Shan, ``Photonics and optoelectronics of 2d semiconductor
+  transition metal dichalcogenides,'' {\em Nature Photonics}, vol.~10,
+  pp.~216--226, mar 2016.
+
+\bibitem{Massicotte2015}
+M.~Massicotte, P.~Schmidt, F.~Vialla, K.~G. Schädler, A.~Reserbat-Plantey,
+  K.~Watanabe, T.~Taniguchi, K.~J. Tielrooij, and F.~H.~L. Koppens,
+  ``Picosecond photoresponse in van der waals heterostructures,'' {\em Nature
+  Nanotechnology}, vol.~11, pp.~42--46, oct 2015.
+
+\bibitem{Korn2011}
+T.~Korn, S.~Heydrich, M.~Hirmer, J.~Schmutzler, and C.~Schüller,
+  ``Low-temperature photocarrier dynamics in monolayer {MoS}2,'' {\em Applied
+  Physics Letters}, vol.~99, p.~102109, sep 2011.
+
+\bibitem{Wang2012}
+R.~Wang, B.~A. Ruzicka, N.~Kumar, M.~Z. Bellus, H.-Y. Chiu, and H.~Zhao,
+  ``Ultrafast and spatially resolved studies of charge carriers in atomically
+  thin molybdenum disulfide,'' {\em Physical Review B}, vol.~86, jul 2012.
+
+\bibitem{Sze2002}
+S.~M. Sze, {\em Semiconductor Devices: Physics and Technology}.
+\newblock Wiley, 2002.
+
+\bibitem{Lopez-Sanchez2013}
+O.~Lopez-Sanchez, D.~Lembke, M.~Kayci, A.~Radenovic, and A.~Kis,
+  ``Ultrasensitive photodetectors based on monolayer {MoS}2,'' {\em Nature
+  Nanotechnology}, vol.~8, pp.~497--501, jun 2013.
+
+\bibitem{Tsai2013}
+D.-S. Tsai, K.-K. Liu, D.-H. Lien, M.-L. Tsai, C.-F. Kang, C.-A. Lin, L.-J. Li,
+  and J.-H. He, ``Few-layer {MoS}2 with high broadband photogain and fast
+  optical switching for use in harsh environments,'' {\em {ACS} Nano}, vol.~7,
+  pp.~3905--3911, apr 2013.
+
+\bibitem{Katz2001}
+O.~Katz, V.~Garber, B.~Meyler, G.~Bahir, and J.~Salzman, ``Gain mechanism in
+  {GaN} schottky ultraviolet detectors,'' {\em Applied Physics Letters},
+  vol.~79, pp.~1417--1419, sep 2001.
+
+\bibitem{Furchi2014}
+M.~M. Furchi, D.~K. Polyushkin, A.~Pospischil, and T.~Mueller, ``Mechanisms of
+  photoconductivity in atomically thin {MoS}2,'' {\em Nano Letters}, vol.~14,
+  pp.~6165--6170, oct 2014.
+
+\bibitem{Withers2015}
+F.~Withers, O.~D. Pozo-Zamudio, A.~Mishchenko, A.~P. Rooney, A.~Gholinia,
+  K.~Watanabe, T.~Taniguchi, S.~J. Haigh, A.~K. Geim, A.~I. Tartakovskii, and
+  K.~S. Novoselov, ``Light-emitting diodes by band-structure engineering in van
+  der waals heterostructures,'' {\em Nature Materials}, vol.~14, pp.~301--306,
+  feb 2015.
+
+\bibitem{Cheng2014}
+R.~Cheng, D.~Li, H.~Zhou, C.~Wang, A.~Yin, S.~Jiang, Y.~Liu, Y.~Chen, Y.~Huang,
+  and X.~Duan, ``Electroluminescence and photocurrent generation from
+  atomically sharp {WSe}2/{MoS}2 heterojunction p{\textendash}n diodes,'' {\em
+  Nano Letters}, vol.~14, pp.~5590--5597, sep 2014.
+
+\bibitem{Ross2014}
+J.~S. Ross, P.~Klement, A.~M. Jones, N.~J. Ghimire, J.~Yan, D.~G. Mandrus,
+  T.~Taniguchi, K.~Watanabe, K.~Kitamura, W.~Yao, D.~H. Cobden, and X.~Xu,
+  ``Electrically tunable excitonic light-emitting diodes based on monolayer
+  {WSe}2 p{\textendash}n junctions,'' {\em Nature Nanotechnology}, vol.~9,
+  pp.~268--272, mar 2014.
+
+\bibitem{Fontana2013}
+M.~Fontana, T.~Deppe, A.~K. Boyd, M.~Rinzan, A.~Y. Liu, M.~Paranjape, and
+  P.~Barbara, ``Electron-hole transport and photovoltaic effect in gated {MoS}2
+  schottky junctions,'' {\em Scientific Reports}, vol.~3, apr 2013.
+
+\bibitem{Baugher2014}
+B.~W.~H. Baugher, H.~O.~H. Churchill, Y.~Yang, and P.~Jarillo-Herrero,
+  ``Optoelectronic devices based on electrically tunable p{\textendash}n diodes
+  in a monolayer dichalcogenide,'' {\em Nature Nanotechnology}, vol.~9,
+  pp.~262--267, mar 2014.
+
+\bibitem{Lee2014}
+C.-H. Lee, G.-H. Lee, A.~M. van~der Zande, W.~Chen, Y.~Li, M.~Han, X.~Cui,
+  G.~Arefe, C.~Nuckolls, T.~F. Heinz, J.~Guo, J.~Hone, and P.~Kim, ``Atomically
+  thin p{\textendash}n junctions with van der waals heterointerfaces,'' {\em
+  Nature Nanotechnology}, vol.~9, pp.~676--681, aug 2014.
+
+\bibitem{Sundaram2013}
+R.~S. Sundaram, M.~Engel, A.~Lombardo, R.~Krupke, A.~C. Ferrari, P.~Avouris,
+  and M.~Steiner, ``Electroluminescence in single layer {MoS}2,'' {\em Nano
+  Letters}, vol.~13, pp.~1416--1421, mar 2013.
+
+\bibitem{Pospischil2014}
+A.~Pospischil, M.~M. Furchi, and T.~Mueller, ``Solar-energy conversion and
+  light emission in an atomic monolayer p{\textendash}n diode,'' {\em Nature
+  Nanotechnology}, vol.~9, pp.~257--261, mar 2014.
+
+\bibitem{Zhang2014b}
+Y.~J. Zhang, T.~Oka, R.~Suzuki, J.~T. Ye, and Y.~Iwasa, ``Electrically
+  switchable chiral light-emitting transistor,'' {\em Science}, vol.~344,
+  pp.~725--728, apr 2014.
+
+\bibitem{Wu2015}
+S.~Wu, S.~Buckley, J.~R. Schaibley, L.~Feng, J.~Yan, D.~G. Mandrus, F.~Hatami,
+  W.~Yao, J.~Vu{\v{c}}kovi{\'{c}}, A.~Majumdar, and X.~Xu, ``Monolayer
+  semiconductor nanocavity lasers with ultralow thresholds,'' {\em Nature},
+  vol.~520, pp.~69--72, mar 2015.
+
+\bibitem{Ye2015}
+Y.~Ye, Z.~J. Wong, X.~Lu, X.~Ni, H.~Zhu, X.~Chen, Y.~Wang, and X.~Zhang,
+  ``Monolayer excitonic laser,'' {\em Nature Photonics}, vol.~9, pp.~733--737,
+  oct 2015.
+
+\bibitem{Salehzadeh2015}
+O.~Salehzadeh, M.~Djavid, N.~H. Tran, I.~Shih, and Z.~Mi, ``Optically pumped
+  two-dimensional {MoS}2 lasers operating at room-temperature,'' {\em Nano
+  Letters}, vol.~15, pp.~5302--5306, jul 2015.
+
+\bibitem{Mak2014}
+K.~F. Mak, K.~L. McGill, J.~Park, and P.~L. McEuen, ``The valley hall effect in
+  {MoS}2 transistors,'' {\em Science}, vol.~344, pp.~1489--1492, jun 2014.
+
+\bibitem{Yuan2014}
+H.~Yuan, X.~Wang, B.~Lian, H.~Zhang, X.~Fang, B.~Shen, G.~Xu, Y.~Xu, S.-C.
+  Zhang, H.~Y. Hwang, and Y.~Cui, ``Generation and electric control of
+  spin{\textendash}valley-coupled circular photogalvanic current in {WSe}2,''
+  {\em Nature Nanotechnology}, vol.~9, pp.~851--857, sep 2014.
+
+\bibitem{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}
+W.~Zhao, Z.~Ghorannevis, K.~K. Amara, J.~R. Pang, M.~Toh, X.~Zhang, C.~Kloc,
+  P.~H. Tan, and G.~Eda, ``Lattice dynamics in mono- and few-layer sheets of
+  {WS}2 and {WSe}2,'' {\em Nanoscale}, vol.~5, p.~9677, August 2013.
+
+\bibitem{Berkdemir2013}
+A.~Berkdemir, H.~R. Guti{\'{e}}rrez, A.~R. Botello-M{\'{e}}ndez,
+  N.~Perea-L{\'{o}}pez, A.~L. El{\'{\i}}as, C.-I. Chia, B.~Wang, V.~H. Crespi,
+  F.~L{\'{o}}pez-Ur{\'{\i}}as, J.-C. Charlier, H.~Terrones, and M.~Terrones,
+  ``Identification of individual and few layers of {WS}2 using raman
+  spectroscopy,'' {\em Scientific Reports}, vol.~3, apr 2013.
+
+\bibitem{Lee2010}
+C.~Lee, H.~Yan, L.~E. Brus, T.~F. Heinz, J.~Hone, and S.~Ryu, ``Anomalous
+  lattice vibrations of single- and few-layer {MoS}2,'' {\em {ACS} Nano},
+  vol.~4, pp.~2695--2700, apr 2010.
+
+\bibitem{Yun2012}
+W.~S. Yun, S.~W. Han, S.~C. Hong, I.~G. Kim, and J.~D. Lee, ``Thickness and
+  strain effects on electronic structures of transition metal dichalcogenides:
+  2h-{MX}2semiconductors (m=mo, w;x=s, se, te),'' {\em Physical Review B},
+  vol.~85, jan 2012.
+
+\bibitem{Terrones2014}
+H.~Terrones, E.~D. Corro, S.~Feng, J.~M. Poumirol, D.~Rhodes, D.~Smirnov, N.~R.
+  Pradhan, Z.~Lin, M.~A.~T. Nguyen, A.~L. El{\'{\i}}as, T.~E. Mallouk,
+  L.~Balicas, M.~A. Pimenta, and M.~Terrones, ``New first order raman-active
+  modes in few layered transition metal dichalcogenides,'' {\em Scientific
+  Reports}, vol.~4, feb 2014.
+
+\bibitem{Iqbal2015}
+M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Shehzad, Y.~Seo, J.~H. Park,
+  C.~Hwang, and J.~Eom, ``High-mobility and air-stable single-layer {WS}2
+  field-effect transistors sandwiched between chemical vapor deposition-grown
+  hexagonal {BN} films,'' {\em Scientific Reports}, vol.~5, jun 2015.
+
+\bibitem{doi:10.1021/nn4046002}
+N.~Peimyoo, J.~Shang, C.~Cong, X.~Shen, X.~Wu, E.~K.~L. Yeow, and T.~Yu,
+  ``Nonblinking, intense two-dimensional light emitter: Monolayer {WS}2
+  triangles,'' {\em ACS Nano}, vol.~7, no.~12, pp.~10985--10994, 2013.
+\newblock PMID: 24266716.
+
+\bibitem{GiantSpin-orbit-inducedSpinSplittingInTwo-dimensionalTransition-metalDichalcogenideSemiconductors}
+Z.~Y. Zhu, Y.~C. Cheng, and U.~Schwingenschlögl, ``Giant spin-orbit-induced
+  spin splitting in two-dimensional transition-metal dichalcogenide
+  semiconductors,'' {\em Physical Review B}, vol.~84, p.~153402, oct 2011.
+
+\bibitem{Reale2016}
+F.~Reale, K.~Sharda, and C.~Mattevi, ``From bulk crystals to atomically thin
+  layers of group {VI}-transition metal dichalcogenides vapour phase
+  synthesis,'' {\em Applied Materials Today}, vol.~3, pp.~11--22, jun 2016.
+
+\bibitem{Schmidt2013}
+P.~Schmidt, M.~Binnewies, R.~Glaum, and M.~Schmidt, ``Chemical vapor transport
+  reactions{\textendash}methods, materials, modeling,'' in {\em Advanced Topics
+  on Crystal Growth}, {InTech}, feb 2013.
 
 \bibitem{Al-Hilli1972}
-A.A. Al-Hilli and B.L. Evans.
-\newblock The preparation and properties of transition metal dichalcogenide
-  single crystals.
-\newblock {\em Journal of Crystal Growth}, 15(2):93--101, jul 1972.
+A.~Al-Hilli and B.~Evans, ``The preparation and properties of transition metal
+  dichalcogenide single crystals,'' {\em Journal of Crystal Growth}, vol.~15,
+  pp.~93--101, jul 1972.
+
+\bibitem{Brixner1962}
+L.~Brixner, ``Preparation and properties of the single crystalline {AB}2-type
+  selenides and tellurides of niobium, tantalum, molybdenum and tungsten,''
+  {\em Journal of Inorganic and Nuclear Chemistry}, vol.~24, pp.~257--263, mar
+  1962.
+
+\bibitem{Lenz1997}
+M.~Lenz and R.~Gruehn, ``Developments in measuring and calculating chemical
+  vapor transport phenomena demonstrated on cr, mo, w, and their compounds,''
+  {\em Chemical Reviews}, vol.~97, pp.~2967--2994, dec 1997.
+
+\bibitem{Brown1966}
+B.~E. Brown, ``The crystal structures of {WTe}2and high-temperature {MoTe}2,''
+  {\em Acta Crystallographica}, vol.~20, pp.~268--274, feb 1966.
+
+\bibitem{Sunil1997}
+K.~Sunil and M.~A. Ittyachen, ``The growth and thermodynamical feasibility of
+  tungsten diselenide single crystals using chemical vapour transport
+  technique,'' {\em Bulletin of Materials Science}, vol.~20, pp.~231--238, apr
+  1997.
+
+\bibitem{Chung1998}
+J.-W. Chung, Z.~Dai, and F.~Ohuchi, ``{WS}2 thin films by metal organic
+  chemical vapor deposition,'' {\em Journal of Crystal Growth}, vol.~186,
+  pp.~137--150, mar 1998.
+
+\bibitem{doi:10.1021/nn400971k}
+A.~L. Elías, N.~Perea-López, A.~Castro-Beltrán, A.~Berkdemir, R.~Lv,
+  S.~Feng, A.~D. Long, T.~Hayashi, Y.~A. Kim, M.~Endo, H.~R. Gutiérrez, N.~R.
+  Pradhan, L.~Balicas, T.~E. Mallouk, F.~López-Urías, H.~Terrones, and
+  M.~Terrones, ``Controlled synthesis and transfer of large-area ws2 sheets:
+  From single layer to few layers,'' {\em ACS Nano}, vol.~7, no.~6,
+  pp.~5235--5242, 2013.
+\newblock PMID: 23647141.
+
+\bibitem{Cong2013}
+C.~Cong, J.~Shang, X.~Wu, B.~Cao, N.~Peimyoo, C.~Qiu, L.~Sun, and T.~Yu,
+  ``Synthesis and optical properties of large-area single-crystalline 2d
+  semiconductor {WS}2monolayer from chemical vapor deposition,'' {\em Advanced
+  Optical Materials}, vol.~2, pp.~131--136, dec 2013.
+
+\bibitem{Rong2014}
+Y.~Rong, Y.~Fan, A.~L. Koh, A.~W. Robertson, K.~He, S.~Wang, H.~Tan,
+  R.~Sinclair, and J.~H. Warner, ``Controlling sulphur precursor addition for
+  large single crystal domains of {WS}2,'' {\em Nanoscale}, vol.~6,
+  pp.~12096--12103, sep 2014.
+
+\bibitem{Dumcenco2015}
+D.~Dumcenco, D.~Ovchinnikov, K.~Marinov, P.~Lazi{\'{c}}, M.~Gibertini,
+  N.~Marzari, O.~L. Sanchez, Y.-C. Kung, D.~Krasnozhon, M.-W. Chen,
+  S.~Bertolazzi, P.~Gillet, A.~F. i~Morral, A.~Radenovic, and A.~Kis,
+  ``Large-area epitaxial monolayer {MoS}2,'' {\em {ACS} Nano}, vol.~9,
+  pp.~4611--4620, apr 2015.
+
+\bibitem{Lee2012}
+Y.-H. Lee, X.-Q. Zhang, W.~Zhang, M.-T. Chang, C.-T. Lin, K.-D. Chang, Y.-C.
+  Yu, J.~T.-W. Wang, C.-S. Chang, L.-J. Li, and T.-W. Lin, ``Synthesis of
+  large-area {MoS}2atomic layers with chemical vapor deposition,'' {\em
+  Advanced Materials}, vol.~24, pp.~2320--2325, mar 2012.
+
+\bibitem{Ling2014}
+X.~Ling, Y.-H. Lee, Y.~Lin, W.~Fang, L.~Yu, M.~S. Dresselhaus, and J.~Kong,
+  ``Role of the seeding promoter in {MoS}2 growth by chemical vapor
+  deposition,'' {\em Nano Letters}, vol.~14, pp.~464--472, jan 2014.
+
+\bibitem{Najmaei2013}
+S.~Najmaei, Z.~Liu, W.~Zhou, X.~Zou, G.~Shi, S.~Lei, B.~I. Yakobson, J.-C.
+  Idrobo, P.~M. Ajayan, and J.~Lou, ``Vapour phase growth and grain boundary
+  structure of molybdenum disulphide atomic layers,'' {\em Nature Materials},
+  vol.~12, pp.~754--759, jun 2013.
+
+\bibitem{Ji2013}
+Q.~Ji, Y.~Zhang, T.~Gao, Y.~Zhang, D.~Ma, M.~Liu, Y.~Chen, X.~Qiao, P.-H. Tan,
+  M.~Kan, J.~Feng, Q.~Sun, and Z.~Liu, ``Epitaxial monolayer {MoS}2 on mica
+  with novel photoluminescence,'' {\em Nano Letters}, vol.~13, pp.~3870--3877,
+  aug 2013.
+
+\bibitem{Zhang2014a}
+Y.~Zhang, Q.~Ji, G.-F. Han, J.~Ju, J.~Shi, D.~Ma, J.~Sun, Y.~Zhang, M.~Li,
+  X.-Y. Lang, Y.~Zhang, and Z.~Liu, ``Dendritic, transferable, strictly
+  monolayer {MoS}2 flakes synthesized on {SrTiO}3 single crystals for efficient
+  electrocatalytic applications,'' {\em {ACS} Nano}, vol.~8, pp.~8617--8624,
+  jul 2014.
+
+\bibitem{Yu2013}
+Y.~Yu, C.~Li, Y.~Liu, L.~Su, Y.~Zhang, and L.~Cao, ``Controlled scalable
+  synthesis of uniform, high-quality monolayer and few-layer {MoS}2 films,''
+  {\em Scientific Reports}, vol.~3, may 2013.
+
+\bibitem{Bosi2015}
+M.~Bosi, ``Growth and synthesis of mono and few-layers transition metal
+  dichalcogenides by vapour techniques: a review,'' {\em {RSC} Advances},
+  vol.~5, no.~92, pp.~75500--75518, 2015.
+
+\bibitem{Shi2015}
+Y.~Shi, H.~Li, and L.-J. Li, ``Recent advances in controlled synthesis of
+  two-dimensional transition metal dichalcogenides via vapour deposition
+  techniques,'' {\em Chemical Society Reviews}, vol.~44, no.~9, pp.~2744--2756,
+  2015.
+
+\bibitem{doi:10.1021/nn403454e}
+Y.~Zhang, Y.~Zhang, Q.~Ji, J.~Ju, H.~Yuan, J.~Shi, T.~Gao, D.~Ma, M.~Liu,
+  Y.~Chen, X.~Song, H.~Y. Hwang, Y.~Cui, and Z.~Liu, ``Controlled growth of
+  high-quality monolayer ws2 layers on sapphire and imaging its grain
+  boundary,'' {\em ACS Nano}, vol.~7, no.~10, pp.~8963--8971, 2013.
+\newblock PMID: 24047054.
+
+\bibitem{Li2015}
+S.~Li, S.~Wang, D.-M. Tang, W.~Zhao, H.~Xu, L.~Chu, Y.~Bando, D.~Golberg, and
+  G.~Eda, ``Halide-assisted atmospheric pressure growth of large {WSe}2 and
+  {WS}2 monolayer crystals,'' {\em Applied Materials Today}, vol.~1,
+  pp.~60--66, nov 2015.
+
+\bibitem{Lee2013}
+Y.-H. Lee, L.~Yu, H.~Wang, W.~Fang, X.~Ling, Y.~Shi, C.-T. Lin, J.-K. Huang,
+  M.-T. Chang, C.-S. Chang, M.~Dresselhaus, T.~Palacios, L.-J. Li, and J.~Kong,
+  ``Synthesis and transfer of single-layer transition metal disulfides on
+  diverse surfaces,'' {\em Nano Letters}, vol.~13, pp.~1852--1857, mar 2013.
+
+\bibitem{doi:10.1021/nn503093k}
+M.~Okada, T.~Sawazaki, K.~Watanabe, T.~Taniguch, H.~Hibino, H.~Shinohara, and
+  R.~Kitaura, ``Direct chemical vapor deposition growth of ws2 atomic layers on
+  hexagonal boron nitride,'' {\em ACS Nano}, vol.~8, no.~8, pp.~8273--8277,
+  2014.
+\newblock PMID: 25093606.
+
+\bibitem{Ahn2017}
+G.~H. Ahn, M.~Amani, H.~Rasool, D.-H. Lien, J.~P. Mastandrea, J.~W.~A. III,
+  M.~Dubey, D.~C. Chrzan, A.~M. Minor, and A.~Javey, ``Strain-engineered growth
+  of two-dimensional materials,'' {\em Nature Communications}, vol.~8, sep
+  2017.
+
+\bibitem{Hsu2017}
+W.-T. Hsu, L.-S. Lu, D.~Wang, J.-K. Huang, M.-Y. Li, T.-R. Chang, Y.-C. Chou,
+  Z.-Y. Juang, H.-T. Jeng, L.-J. Li, and W.-H. Chang, ``Evidence of indirect
+  gap in monolayer {WSe}2,'' {\em Nature Communications}, vol.~8, oct 2017.
+
+\bibitem{Amin2015}
+B.~Amin, N.~Singh, and U.~Schwingenschlögl, ``Heterostructures of transition
+  metal dichalcogenides,'' {\em Physical Review B}, vol.~92, aug 2015.
+
+\bibitem{Hong2014}
+X.~Hong, J.~Kim, S.-F. Shi, Y.~Zhang, C.~Jin, Y.~Sun, S.~Tongay, J.~Wu,
+  Y.~Zhang, and F.~Wang, ``Ultrafast charge transfer in atomically thin
+  {MoS}2/{WS}2 heterostructures,'' {\em Nature Nanotechnology}, vol.~9,
+  pp.~682--686, aug 2014.
+
+\bibitem{Gong2013}
+C.~Gong, H.~Zhang, W.~Wang, L.~Colombo, R.~M. Wallace, and K.~Cho, ``Band
+  alignment of two-dimensional transition metal dichalcogenides: Application in
+  tunnel field effect transistors,'' {\em Applied Physics Letters}, vol.~103,
+  p.~053513, jul 2013.
+
+\bibitem{Tongay2014}
+S.~Tongay, W.~Fan, J.~Kang, J.~Park, U.~Koldemir, J.~Suh, D.~S. Narang, K.~Liu,
+  J.~Ji, J.~Li, R.~Sinclair, and J.~Wu, ``Tuning interlayer coupling in
+  large-area heterostructures with {CVD}-grown {MoS}2 and {WS}2 monolayers,''
+  {\em Nano Letters}, vol.~14, pp.~3185--3190, may 2014.
+
+\bibitem{Gong2014}
+Y.~Gong, J.~Lin, X.~Wang, G.~Shi, S.~Lei, Z.~Lin, X.~Zou, G.~Ye, R.~Vajtai,
+  B.~I. Yakobson, H.~Terrones, M.~Terrones, B.~K. Tay, J.~Lou, S.~T.
+  Pantelides, Z.~Liu, W.~Zhou, and P.~M. Ajayan, ``Vertical and in-plane
+  heterostructures from {WS} 2 /{MoS} 2 monolayers,'' {\em Nature Materials},
+  vol.~13, pp.~1135--1142, sep 2014.
+
+\bibitem{Zande2014}
+A.~M. van~der Zande, J.~Kunstmann, A.~Chernikov, D.~A. Chenet, Y.~You,
+  X.~Zhang, P.~Y. Huang, T.~C. Berkelbach, L.~Wang, F.~Zhang, M.~S. Hybertsen,
+  D.~A. Muller, D.~R. Reichman, T.~F. Heinz, and J.~C. Hone, ``Tailoring the
+  electronic structure in bilayer molybdenum disulfide via interlayer twist,''
+  {\em Nano Letters}, vol.~14, pp.~3869--3875, jun 2014.
+
+\bibitem{Nayak2017}
+P.~K. Nayak, Y.~Horbatenko, S.~Ahn, G.~Kim, J.-U. Lee, K.~Y. Ma, A.-R. Jang,
+  H.~Lim, D.~Kim, S.~Ryu, H.~Cheong, N.~Park, and H.~S. Shin, ``Probing
+  evolution of twist-angle-dependent interlayer excitons in {MoSe}2/{WSe}2 van
+  der waals heterostructures,'' {\em {ACS} Nano}, vol.~11, pp.~4041--4050, apr
+  2017.
+
+\bibitem{Heo2015}
+H.~Heo, J.~H. Sung, S.~Cha, B.-G. Jang, J.-Y. Kim, G.~Jin, D.~Lee, J.-H. Ahn,
+  M.-J. Lee, J.~H. Shim, H.~Choi, and M.-H. Jo, ``Interlayer
+  orientation-dependent light absorption and emission in monolayer
+  semiconductor stacks,'' {\em Nature Communications}, vol.~6, jun 2015.
+
+\bibitem{Liu2014a}
+K.~Liu, L.~Zhang, T.~Cao, C.~Jin, D.~Qiu, Q.~Zhou, A.~Zettl, P.~Yang, S.~G.
+  Louie, and F.~Wang, ``Evolution of interlayer coupling in twisted molybdenum
+  disulfide bilayers,'' {\em Nature Communications}, vol.~5, sep 2014.
+
+\bibitem{Kunstmann2018}
+J.~Kunstmann, F.~Mooshammer, P.~Nagler, A.~Chaves, F.~Stein, N.~Paradiso,
+  G.~Plechinger, C.~Strunk, C.~Schüller, G.~Seifert, D.~R. Reichman, and
+  T.~Korn, ``Momentum-space indirect interlayer excitons in transition-metal
+  dichalcogenide van der waals heterostructures,'' {\em Nature Physics},
+  vol.~14, pp.~801--805, apr 2018.
 
 \bibitem{Alexeev2019}
-Evgeny~M. Alexeev, David~A. Ruiz-Tijerina, Mark Danovich, Matthew~J. Hamer,
-  Daniel~J. Terry, Pramoda~K. Nayak, Seongjoon Ahn, Sangyeon Pak, Juwon Lee,
-  Jung~Inn Sohn, Maciej~R. Molas, Maciej Koperski, Kenji Watanabe, Takashi
-  Taniguchi, Kostya~S. Novoselov, Roman~V. Gorbachev, Hyeon~Suk Shin,
-  Vladimir~I. Fal'ko, and Alexander~I. Tartakovskii.
-\newblock Resonantly hybridized excitons in moir{\'{e}} superlattices in van
-  der waals heterostructures.
-\newblock {\em Nature}, 567(7746):81--86, mar 2019.
+E.~M. Alexeev, D.~A. Ruiz-Tijerina, M.~Danovich, M.~J. Hamer, D.~J. Terry,
+  P.~K. Nayak, S.~Ahn, S.~Pak, J.~Lee, J.~I. Sohn, M.~R. Molas, M.~Koperski,
+  K.~Watanabe, T.~Taniguchi, K.~S. Novoselov, R.~V. Gorbachev, H.~S. Shin,
+  V.~I. Fal'ko, and A.~I. Tartakovskii, ``Resonantly hybridized excitons in
+  moir{\'{e}} superlattices in van der waals heterostructures,'' {\em Nature},
+  vol.~567, pp.~81--86, mar 2019.
 
-\bibitem{Alharbi2016}
-Abdullah Alharbi and Davood Shahrjerdi.
-\newblock Electronic properties of monolayer tungsten disulfide grown by
-  chemical vapor deposition.
-\newblock {\em Applied Physics Letters}, 109(19):193502, nov 2016.
+\bibitem{Saito2015}
+Y.~Saito, Y.~Nakamura, M.~S. Bahramy, Y.~Kohama, J.~Ye, Y.~Kasahara,
+  Y.~Nakagawa, M.~Onga, M.~Tokunaga, T.~Nojima, Y.~Yanase, and Y.~Iwasa,
+  ``Superconductivity protected by spin{\textendash}valley locking in ion-gated
+  {MoS}2,'' {\em Nature Physics}, vol.~12, pp.~144--149, dec 2015.
+
+\bibitem{Lu2015}
+J.~M. Lu, O.~Zheliuk, I.~Leermakers, N.~F.~Q. Yuan, U.~Zeitler, K.~T. Law, and
+  J.~T. Ye, ``Evidence for two-dimensional ising superconductivity in gated
+  {MoS}2,'' {\em Science}, vol.~350, pp.~1353--1357, nov 2015.
+
+\bibitem{Qian2014}
+X.~Qian, J.~Liu, L.~Fu, and J.~Li, ``Quantum spin hall effect in
+  two-dimensional transition metal dichalcogenides,'' {\em Science}, vol.~346,
+  pp.~1344--1347, nov 2014.
+
+\bibitem{Choe2016}
+D.-H. Choe, H.-J. Sung, and K.~J. Chang, ``Understanding topological phase
+  transition in monolayer transition metal dichalcogenides,'' {\em Physical
+  Review B}, vol.~93, mar 2016.
+
+\bibitem{Liu2016a}
+J.~Liu, H.~Wang, C.~Fang, L.~Fu, and X.~Qian, ``van der waals stacking-induced
+  topological phase transition in layered ternary transition metal
+  chalcogenides,'' {\em Nano Letters}, vol.~17, pp.~467--475, dec 2016.
+
+\bibitem{Fei2017}
+Z.~Fei, T.~Palomaki, S.~Wu, W.~Zhao, X.~Cai, B.~Sun, P.~Nguyen, J.~Finney,
+  X.~Xu, and D.~H. Cobden, ``Edge conduction in monolayer {WTe}2,'' {\em Nature
+  Physics}, vol.~13, pp.~677--682, apr 2017.
+
+\bibitem{Sun2015}
+Y.~Sun, S.-C. Wu, M.~N. Ali, C.~Felser, and B.~Yan, ``Prediction of weyl
+  semimetal in {orthorhombicMoTe}2,'' {\em Physical Review B}, vol.~92, oct
+  2015.
+
+\bibitem{Kappera2014}
+R.~Kappera, D.~Voiry, S.~E. Yalcin, B.~Branch, G.~Gupta, A.~D. Mohite, and
+  M.~Chhowalla, ``Phase-engineered low-resistance contacts for ultrathin {MoS}2
+  transistors,'' {\em Nature Materials}, vol.~13, pp.~1128--1134, aug 2014.
+
+\bibitem{Keum2015}
+D.~H. Keum, S.~Cho, J.~H. Kim, D.-H. Choe, H.-J. Sung, M.~Kan, H.~Kang, J.-Y.
+  Hwang, S.~W. Kim, H.~Yang, K.~J. Chang, and Y.~H. Lee, ``Bandgap opening in
+  few-layered monoclinic {MoTe}2,'' {\em Nature Physics}, vol.~11,
+  pp.~482--486, may 2015.
+
+\bibitem{Cho2015}
+S.~Cho, S.~Kim, J.~H. Kim, J.~Zhao, J.~Seok, D.~H. Keum, J.~Baik, D.-H. Choe,
+  K.~J. Chang, K.~Suenaga, S.~W. Kim, Y.~H. Lee, and H.~Yang, ``Phase
+  patterning for ohmic homojunction contact in {MoTe}2,'' {\em Science},
+  vol.~349, pp.~625--628, aug 2015.
+
+\bibitem{Duerloo2014}
+K.-A.~N. Duerloo, Y.~Li, and E.~J. Reed, ``Structural phase transitions in
+  two-dimensional mo- and w-dichalcogenide monolayers,'' {\em Nature
+  Communications}, vol.~5, jul 2014.
+
+\bibitem{Yang2017}
+H.~Yang, S.~W. Kim, M.~Chhowalla, and Y.~H. Lee, ``Structural and quantum-state
+  phase transitions in van der waals layered materials,'' {\em Nature Physics},
+  vol.~13, pp.~931--937, jul 2017.
+
+\bibitem{Li2016}
+W.~Li and J.~Li, ``Ferroelasticity and domain physics in two-dimensional
+  transition metal dichalcogenide monolayers,'' {\em Nature Communications},
+  vol.~7, feb 2016.
+
+\bibitem{Chhowalla2013}
+M.~Chhowalla, H.~S. Shin, G.~Eda, L.-J. Li, K.~P. Loh, and H.~Zhang, ``The
+  chemistry of two-dimensional layered transition metal dichalcogenide
+  nanosheets,'' {\em Nature Chemistry}, vol.~5, pp.~263--275, mar 2013.
+
+\bibitem{Qi2016}
+Y.~Qi, P.~G. Naumov, M.~N. Ali, C.~R. Rajamathi, W.~Schnelle, O.~Barkalov,
+  M.~Hanfland, S.-C. Wu, C.~Shekhar, Y.~Sun, V.~Sü{\ss}, M.~Schmidt,
+  U.~Schwarz, E.~Pippel, P.~Werner, R.~Hillebrand, T.~Förster, E.~Kampert,
+  S.~Parkin, R.~J. Cava, C.~Felser, B.~Yan, and S.~A. Medvedev,
+  ``Superconductivity in weyl semimetal candidate {MoTe}2,'' {\em Nature
+  Communications}, vol.~7, mar 2016.
+
+\bibitem{Kane2005}
+C.~L. Kane and E.~J. Mele, ``Quantum spin hall effect in graphene,'' {\em
+  Physical Review Letters}, vol.~95, nov 2005.
+
+\bibitem{Konig2007}
+M.~Konig, S.~Wiedmann, C.~Brune, A.~Roth, H.~Buhmann, L.~W. Molenkamp, X.-L.
+  Qi, and S.-C. Zhang, ``Quantum spin hall insulator state in {HgTe} quantum
+  wells,'' {\em Science}, vol.~318, pp.~766--770, nov 2007.
+
+\bibitem{Lin2014}
+Y.-C. Lin, D.~O. Dumcenco, Y.-S. Huang, and K.~Suenaga, ``Atomic mechanism of
+  the semiconducting-to-metallic phase transition in single-layered {MoS}2,''
+  {\em Nature Nanotechnology}, vol.~9, pp.~391--396, apr 2014.
+
+\bibitem{Guo2015}
+Y.~Guo, D.~Sun, B.~Ouyang, A.~Raja, J.~Song, T.~F. Heinz, and L.~E. Brus,
+  ``Probing the dynamics of the metallic-to-semiconducting structural phase
+  transformation in {MoS}2 crystals,'' {\em Nano Letters}, vol.~15,
+  pp.~5081--5088, jul 2015.
+
+\bibitem{Kang2014}
+Y.~Kang, S.~Najmaei, Z.~Liu, Y.~Bao, Y.~Wang, X.~Zhu, N.~J. Halas,
+  P.~Nordlander, P.~M. Ajayan, J.~Lou, and Z.~Fang, ``Plasmonic hot electron
+  induced structural phase transition in a {MoS}2monolayer,'' {\em Advanced
+  Materials}, vol.~26, pp.~6467--6471, aug 2014.
+
+\bibitem{Song2015}
+S.~Song, D.~H. Keum, S.~Cho, D.~Perello, Y.~Kim, and Y.~H. Lee, ``Room
+  temperature semiconductor{\textendash}metal transition of {MoTe}2 thin films
+  engineered by strain,'' {\em Nano Letters}, vol.~16, pp.~188--193, dec 2015.
+
+\bibitem{Barrera2017}
+D.~Barrera, Q.~Wang, Y.-J. Lee, L.~Cheng, M.~J. Kim, J.~Kim, and J.~W.~P. Hsu,
+  ``Solution synthesis of few-layer 2h {MX}2 (m = mo, w; x = s, se),'' {\em
+  Journal of Materials Chemistry C}, vol.~5, no.~11, pp.~2859--2864, 2017.
+
+\bibitem{Jung2015}
+W.~Jung, S.~Lee, D.~Yoo, S.~Jeong, P.~Mir{\'{o}}, A.~Kuc, T.~Heine, and
+  J.~Cheon, ``Colloidal synthesis of single-layer {MSe}2 (m = mo, w) nanosheets
+  via anisotropic solution-phase growth approach,'' {\em Journal of the
+  American Chemical Society}, vol.~137, pp.~7266--7269, jun 2015.
+
+\bibitem{EvolutionOfElectronicStructureInAtomicallyThinSheetsOfWS2AndWSe2}
+W.~Zhao, Z.~Ghorannevis, L.~Chu, M.~Toh, C.~Kloc, P.-H. Tan, and G.~Eda,
+  ``Evolution of electronic structure in atomically thin sheets of {WS}2 and
+  {WSe}2,'' {\em {ACS} Nano}, vol.~7, pp.~791--797, dec 2012.
+\newblock PMID: 23256505.
+
+\bibitem{ControlOfValleyPolarizationInMonolayerMoS2ByOpticalHelicity}
+K.~F. Mak, K.~He, J.~Shan, and T.~F. Heinz, ``Control of valley polarization in
+  monolayer {MoS}2 by optical helicity,'' {\em Nature Nanotechnology}, vol.~7,
+  pp.~494--498, jun 2012.
+
+\bibitem{ValleyPolarizationInMoS2MonolayersByOpticalPumping}
+H.~Zeng, J.~Dai, W.~Yao, D.~Xiao, and X.~Cui, ``Valley polarization in {MoS}2
+  monolayers by optical pumping,'' {\em Nature Nanotechnology}, vol.~7,
+  pp.~490--493, jun 2012.
+
+\bibitem{CoupledSpinAndValleyPhysicsInMonolayersOfMoS2AndOtherGroup-VIDichalcogenides}
+D.~Xiao, G.-B. Liu, W.~Feng, X.~Xu, and W.~Yao, ``Coupled spin and valley
+  physics in monolayers {ofMoS}2and other group-{VI} dichalcogenides,'' {\em
+  Physical Review Letters}, vol.~108, p.~196802, may 2012.
+
+\bibitem{ProbingSymmetryPropertiesOfFew-LayerMoS2Andh-BNByOpticalSecond-HarmonicGeneration}
+Y.~Li, Y.~Rao, K.~F. Mak, Y.~You, S.~Wang, C.~R. Dean, and T.~F. Heinz,
+  ``Probing symmetry properties of few-layer {MoS}2 and h-{BN} by optical
+  second-harmonic generation,'' {\em Nano Letters}, vol.~13, pp.~3329--3333,
+  jun 2013.
+\newblock PMID: 23718906.
+
+\bibitem{TheTransitionMetalDichalcogenidesDiscussionAndInterpretationOfTheObservedOpticalElectricalAndStructuralProperties}
+J.~Wilson and A.~Yoffe, ``The transition metal dichalcogenides discussion and
+  interpretation of the observed optical, electrical and structural
+  properties,'' {\em Advances in Physics}, vol.~18, pp.~193--335, may 1969.
+
+\bibitem{ElectronicPropertiesOfMoS2Nanoparticles}
+T.~Li and G.~Galli, ``Electronic properties of {MoS}2nanoparticles,'' {\em The
+  Journal of Physical Chemistry C}, vol.~111, pp.~16192--16196, nov 2007.
+
+\bibitem{Yuan2015}
+L.~Yuan and L.~Huang, ``Exciton dynamics and annihilation in {WS}2 2d
+  semiconductors,'' {\em Nanoscale}, vol.~7, no.~16, pp.~7402--7408, 2015.
+
+\bibitem{doi:10.1021/nn403682r}
+L.~Lin, Y.~Xu, S.~Zhang, I.~M. Ross, A.~C.~M. Ong, and D.~A. Allwood,
+  ``Fabrication of luminescent monolayered tungsten dichalcogenides quantum
+  dots with giant spin-valley coupling,'' {\em ACS Nano}, vol.~7, no.~9,
+  pp.~8214--8223, 2013.
+\newblock PMID: 23968363.
 
 \bibitem{Amani2015}
 M.~Amani, D.-H. Lien, D.~Kiriya, J.~Xiao, A.~Azcatl, J.~Noh, S.~R. Madhvapathy,
   R.~Addou, S.~KC, M.~Dubey, K.~Cho, R.~M. Wallace, S.-C. Lee, J.-H. He, J.~W.
-  Ager, X.~Zhang, E.~Yablonovitch, and A.~Javey.
-\newblock Near-unity photoluminescence quantum yield in {MoS}2.
-\newblock {\em Science}, 350(6264):1065--1068, nov 2015.
+  Ager, X.~Zhang, E.~Yablonovitch, and A.~Javey, ``Near-unity photoluminescence
+  quantum yield in {MoS}2,'' {\em Science}, vol.~350, pp.~1065--1068, nov 2015.
 
-\bibitem{Amin2015}
-B.~Amin, N.~Singh, and U.~Schwingenschlögl.
-\newblock Heterostructures of transition metal dichalcogenides.
-\newblock {\em Physical Review B}, 92(7), aug 2015.
+\bibitem{doi:10.1021/nl500171v}
+S.~Jo, N.~Ubrig, H.~Berger, A.~B. Kuzmenko, and A.~F. Morpurgo, ``Mono- and
+  bilayer ws2 light-emitting transistors,'' {\em Nano Letters}, vol.~14, no.~4,
+  pp.~2019--2025, 2014.
+\newblock PMID: 24669957.
 
-\bibitem{Aslan2018}
-Ozgur~Burak Aslan, Minda Deng, and Tony~F. Heinz.
-\newblock Strain tuning of excitons in monolayer {WSe}2.
-\newblock {\em Physical Review B}, 98(11), sep 2018.
+\bibitem{Zeng2016}
+L.~Zeng, L.~Tao, C.~Tang, B.~Zhou, H.~Long, Y.~Chai, S.~P. Lau, and Y.~H.
+  Tsang, ``High-responsivity {UV}-vis photodetector based on transferable {WS}2
+  film deposited by magnetron sputtering,'' {\em Scientific Reports}, vol.~6,
+  jan 2016.
+
+\bibitem{Hofmann1988}
+W.~K. Hofmann, ``Thin films of molybdenum and tungsten disulphides by metal
+  organic chemical vapour deposition,'' {\em Journal of Materials Science},
+  vol.~23, pp.~3981--3986, nov 1988.
+
+\bibitem{doi:10.1021/acsnano.5b01480}
+Z.-Q. Xu, Y.~Zhang, S.~Lin, C.~Zheng, Y.~L. Zhong, X.~Xia, Z.~Li, P.~J. Sophia,
+  M.~S. Fuhrer, Y.-B. Cheng, and Q.~Bao, ``Synthesis and transfer of large-area
+  monolayer ws2 crystals: Moving toward the recyclable use of sapphire
+  substrates,'' {\em ACS Nano}, vol.~9, no.~6, pp.~6178--6187, 2015.
+\newblock PMID: 25961515.
+
+\bibitem{Fu2015}
+Q.~Fu, W.~Wang, L.~Yang, J.~Huang, J.~Zhang, and B.~Xiang, ``Controllable
+  synthesis of high quality monolayer {WS}2 on a {SiO}2/si substrate by
+  chemical vapor deposition,'' {\em {RSC} Advances}, vol.~5, no.~21,
+  pp.~15795--15799, 2015.
+
+\bibitem{Kang2015}
+K.~Kang, S.~Xie, L.~Huang, Y.~Han, P.~Y. Huang, K.~F. Mak, C.-J. Kim,
+  D.~Muller, and J.~Park, ``High-mobility three-atom-thick semiconducting films
+  with wafer-scale homogeneity,'' {\em Nature}, vol.~520, pp.~656--660, apr
+  2015.
+
+\bibitem{Gao2015}
+Y.~Gao, Z.~Liu, D.-M. Sun, L.~Huang, L.-P. Ma, L.-C. Yin, T.~Ma, Z.~Zhang,
+  X.-L. Ma, L.-M. Peng, H.-M. Cheng, and W.~Ren, ``Large-area synthesis of
+  high-quality and uniform monolayer {WS}2 on reusable au foils,'' {\em Nature
+  Communications}, vol.~6, oct 2015.
+
+\bibitem{Yun2015}
+S.~J. Yun, S.~H. Chae, H.~Kim, J.~C. Park, J.-H. Park, G.~H. Han, J.~S. Lee,
+  S.~M. Kim, H.~M. Oh, J.~Seok, M.~S. Jeong, K.~K. Kim, and Y.~H. Lee,
+  ``Synthesis of centimeter-scale monolayer tungsten disulfide film on gold
+  foils,'' {\em {ACS} Nano}, vol.~9, pp.~5510--5519, apr 2015.
+
+\bibitem{Gong2015}
+Y.~Gong, Z.~Lin, G.~Ye, G.~Shi, S.~Feng, Y.~Lei, A.~L. El{\'{\i}}as,
+  N.~Perea-Lopez, R.~Vajtai, H.~Terrones, Z.~Liu, M.~Terrones, and P.~M.
+  Ajayan, ``Tellurium-assisted low-temperature synthesis of {MoS}2 and {WS}2
+  monolayers,'' {\em {ACS} Nano}, vol.~9, pp.~11658--11666, nov 2015.
+
+\bibitem{Carmalt2003}
+C.~J. Carmalt, I.~P. Parkin, and E.~S. Peters, ``Atmospheric pressure chemical
+  vapour deposition of {WS}2 thin films on glass,'' {\em Polyhedron}, vol.~22,
+  pp.~1499--1505, jun 2003.
+
+\bibitem{Eichfeld2015}
+S.~M. Eichfeld, L.~Hossain, Y.-C. Lin, A.~F. Piasecki, B.~Kupp, A.~G. Birdwell,
+  R.~A. Burke, N.~Lu, X.~Peng, J.~Li, A.~Azcatl, S.~McDonnell, R.~M. Wallace,
+  M.~J. Kim, T.~S. Mayer, J.~M. Redwing, and J.~A. Robinson, ``Highly scalable,
+  atomically thin {WSe}2 grown via metal{\textendash}organic chemical vapor
+  deposition,'' {\em {ACS} Nano}, vol.~9, pp.~2080--2087, feb 2015.
+
+\bibitem{Reale2017}
+F.~Reale, P.~Palczynski, I.~Amit, G.~F. Jones, J.~D. Mehew, A.~Bacon, N.~Ni,
+  P.~C. Sherrell, S.~Agnoli, M.~F. Craciun, S.~Russo, and C.~Mattevi,
+  ``High-mobility and high-optical quality atomically thin {WS} 2,'' {\em
+  Scientific Reports}, vol.~7, nov 2017.
+
+\bibitem{Kim2012}
+H.~Kim, C.~Mattevi, M.~R. Calvo, J.~C. Oberg, L.~Artiglia, S.~Agnoli, C.~F.
+  Hirjibehedin, M.~Chhowalla, and E.~Saiz, ``Activation energy paths for
+  graphene nucleation and growth on cu,'' {\em {ACS} Nano}, vol.~6,
+  pp.~3614--3623, mar 2012.
+
+\bibitem{McKone2012}
+J.~R. McKone, A.~P. Pieterick, H.~B. Gray, and N.~S. Lewis, ``Hydrogen
+  evolution from pt/ru-coated p-type {WSe}2 photocathodes,'' {\em Journal of
+  the American Chemical Society}, vol.~135, pp.~223--231, dec 2012.
 
 \bibitem{Baglio1983}
 J.~Baglio, E.~Kamieniecki, N.~DeCola, C.~Struck, J.~Marzik, K.~Dwight, and
-  A.~Wold.
-\newblock Growth and characterization of n-{WS}2 and niobium-doped p-{WS}2
-  single crystals.
-\newblock {\em Journal of Solid State Chemistry}, 49(2):166--179, sep 1983.
+  A.~Wold, ``Growth and characterization of n-{WS}2 and niobium-doped p-{WS}2
+  single crystals,'' {\em Journal of Solid State Chemistry}, vol.~49,
+  pp.~166--179, sep 1983.
 
-\bibitem{Barbone2018}
-Matteo Barbone, Alejandro R.-P. Montblanch, Dhiren~M. Kara, Carmen
-  Palacios-Berraquero, Alisson~R. Cadore, Domenico~De Fazio, Benjamin Pingault,
-  Elaheh Mostaani, Han Li, Bin Chen, Kenji Watanabe, Takashi Taniguchi,
-  Sefaattin Tongay, Gang Wang, Andrea~C. Ferrari, and Mete Atatüre.
-\newblock Charge-tuneable biexciton complexes in monolayer {WSe}2.
-\newblock {\em Nature Communications}, 9(1), sep 2018.
+\bibitem{Turler2004}
+A.~Turler, ``Gas phase chemistry of superheavy elements,'' {\em Journal of
+  Nuclear and Radiochemical Sciences}, vol.~5, no.~2, pp.~R19--R25, 2004.
 
-\bibitem{Barrera2017}
-Diego Barrera, Qingxiao Wang, Yun-Ju Lee, Lanxia Cheng, Moon~J. Kim, Jiyoung
-  Kim, and Julia W.~P. Hsu.
-\newblock Solution synthesis of few-layer 2h {MX}2 (m = mo, w; x = s, se).
-\newblock {\em Journal of Materials Chemistry C}, 5(11):2859--2864, 2017.
+\bibitem{Wu2014}
+R.~J. Wu, M.~L. Odlyzko, and K.~A. Mkhoyan, ``Determining the thickness of
+  atomically thin {MoS}2 and {WS}2 in the {TEM},'' {\em Ultramicroscopy},
+  vol.~147, pp.~8--20, dec 2014.
 
-\bibitem{Baugher2014}
-Britton W.~H. Baugher, Hugh O.~H. Churchill, Yafang Yang, and Pablo
-  Jarillo-Herrero.
-\newblock Optoelectronic devices based on electrically tunable p{\textendash}n
-  diodes in a monolayer dichalcogenide.
-\newblock {\em Nature Nanotechnology}, 9(4):262--267, mar 2014.
+\bibitem{Rasmussen2015}
+F.~A. Rasmussen and K.~S. Thygesen, ``Computational 2d materials database:
+  Electronic structure of transition-metal dichalcogenides and oxides,'' {\em
+  The Journal of Physical Chemistry C}, vol.~119, pp.~13169--13183, jun 2015.
 
-\bibitem{Berkdemir2013}
-Ayse Berkdemir, Humberto~R. Guti{\'{e}}rrez, Andr{\'{e}}s~R.
-  Botello-M{\'{e}}ndez, N{\'{e}}stor Perea-L{\'{o}}pez, Ana~Laura El{\'{\i}}as,
-  Chen-Ing Chia, Bei Wang, Vincent~H. Crespi, Florentino
-  L{\'{o}}pez-Ur{\'{\i}}as, Jean-Christophe Charlier, Humberto Terrones, and
-  Mauricio Terrones.
-\newblock Identification of individual and few layers of {WS}2 using raman
-  spectroscopy.
-\newblock {\em Scientific Reports}, 3(1), apr 2013.
-
-\bibitem{ExtraordinarySunlightAbsorptionAndOneNanometerThickPhotovoltaicsUsingTwo-DimensionalMonolayerMaterials}
-Marco Bernardi, Maurizia Palummo, and Jeffrey~C. Grossman.
-\newblock Extraordinary sunlight absorption and one nanometer thick
-  photovoltaics using two-dimensional monolayer materials.
-\newblock {\em Nano Letters}, 13(8):3664--3670, jul 2013.
-
-\bibitem{Binnig1993}
-G.~Binnig, C.~F. Quate, and Ch~Gerber.
-\newblock Atomic force microscope.
-\newblock In {\em Scanning Tunneling Microscopy}, pages 55--58. Springer
-  Netherlands, 1993.
-
-\bibitem{Bosi2015}
-Matteo Bosi.
-\newblock Growth and synthesis of mono and few-layers transition metal
-  dichalcogenides by vapour techniques: a review.
-\newblock {\em {RSC} Advances}, 5(92):75500--75518, 2015.
-
-\bibitem{Brixner1962}
-L.H. Brixner.
-\newblock Preparation and properties of the single crystalline {AB}2-type
-  selenides and tellurides of niobium, tantalum, molybdenum and tungsten.
-\newblock {\em Journal of Inorganic and Nuclear Chemistry}, 24(3):257--263, mar
-  1962.
-
-\bibitem{Brown1966}
-B.~E. Brown.
-\newblock The crystal structures of {WTe}2and high-temperature {MoTe}2.
-\newblock {\em Acta Crystallographica}, 20(2):268--274, feb 1966.
-
-\bibitem{Carmalt2003}
-Claire~J. Carmalt, Ivan~P. Parkin, and Emily~S. Peters.
-\newblock Atmospheric pressure chemical vapour deposition of {WS}2 thin films
-  on glass.
-\newblock {\em Polyhedron}, 22(11):1499--1505, jun 2003.
-
-\bibitem{Cattelan2015}
-Mattia Cattelan, Brian Markman, Giacomo Lucchini, Pranab~Kumar Das, Ivana
-  Vobornik, Joshua~Alexander Robinson, Stefano Agnoli, and Gaetano Granozzi.
-\newblock New strategy for the growth of complex heterostructures based on
-  different 2d materials.
-\newblock {\em Chemistry of Materials}, 27(11):4105--4113, may 2015.
-
-\bibitem{Chen2016}
-Hailong Chen, Xiewen Wen, Jing Zhang, Tianmin Wu, Yongji Gong, Xiang Zhang,
-  Jiangtan Yuan, Chongyue Yi, Jun Lou, Pulickel~M. Ajayan, Wei Zhuang, Guangyu
-  Zhang, and Junrong Zheng.
-\newblock Ultrafast formation of interlayer hot excitons in atomically thin
-  {MoS}2/{WS}2 heterostructures.
-\newblock {\em Nature Communications}, 7(1), aug 2016.
-
-\bibitem{Chen2018}
-P.~Chen, Woei~Wu Pai, Y.-H. Chan, W.-L. Sun, C.-Z. Xu, D.-S. Lin, M.~Y. Chou,
-  A.-V. Fedorov, and T.-C. Chiang.
-\newblock Large quantum-spin-hall gap in single-layer 1t$\prime$ {WSe}2.
-\newblock {\em Nature Communications}, 9(1), may 2018.
-
-\bibitem{Cheng2014}
-Rui Cheng, Dehui Li, Hailong Zhou, Chen Wang, Anxiang Yin, Shan Jiang, Yuan
-  Liu, Yu~Chen, Yu~Huang, and Xiangfeng Duan.
-\newblock Electroluminescence and photocurrent generation from atomically sharp
-  {WSe}2/{MoS}2 heterojunction p{\textendash}n diodes.
-\newblock {\em Nano Letters}, 14(10):5590--5597, sep 2014.
-
-\bibitem{Chhowalla2013}
-Manish Chhowalla, Hyeon~Suk Shin, Goki Eda, Lain-Jong Li, Kian~Ping Loh, and
-  Hua Zhang.
-\newblock The chemistry of two-dimensional layered transition metal
-  dichalcogenide nanosheets.
-\newblock {\em Nature Chemistry}, 5(4):263--275, mar 2013.
-
-\bibitem{Cho2015}
-S.~Cho, S.~Kim, J.~H. Kim, J.~Zhao, J.~Seok, D.~H. Keum, J.~Baik, D.-H. Choe,
-  K.~J. Chang, K.~Suenaga, S.~W. Kim, Y.~H. Lee, and H.~Yang.
-\newblock Phase patterning for ohmic homojunction contact in {MoTe}2.
-\newblock {\em Science}, 349(6248):625--628, aug 2015.
-
-\bibitem{Choe2016}
-Duk-Hyun Choe, Ha-Jun Sung, and K.~J. Chang.
-\newblock Understanding topological phase transition in monolayer transition
-  metal dichalcogenides.
-\newblock {\em Physical Review B}, 93(12), mar 2016.
-
-\bibitem{Chung1998}
-J.-W. Chung, Z.R. Dai, and F.S. Ohuchi.
-\newblock {WS}2 thin films by metal organic chemical vapor deposition.
-\newblock {\em Journal of Crystal Growth}, 186(1-2):137--150, mar 1998.
-
-\bibitem{Cong2013}
-Chunxiao Cong, Jingzhi Shang, Xing Wu, Bingchen Cao, Namphung Peimyoo, Caiyu
-  Qiu, Litao Sun, and Ting Yu.
-\newblock Synthesis and optical properties of large-area single-crystalline 2d
-  semiconductor {WS}2monolayer from chemical vapor deposition.
-\newblock {\em Advanced Optical Materials}, 2(2):131--136, dec 2013.
-
-\bibitem{Cui2015}
-Yang Cui, Run Xin, Zhihao Yu, Yiming Pan, Zhun-Yong Ong, Xiaoxu Wei, Junzhuan
-  Wang, Haiyan Nan, Zhenhua Ni, Yun Wu, Tangsheng Chen, Yi~Shi, Baigeng Wang,
-  Gang Zhang, Yong-Wei Zhang, and Xinran Wang.
-\newblock High-performance monolayer {WS}2field-effect transistors on
-  high-$\kappa$ dielectrics.
-\newblock {\em Advanced Materials}, 27(35):5230--5234, aug 2015.
-
-\bibitem{Currie2015}
-M.~Currie, A.~T. Hanbicki, G.~Kioseoglou, and B.~T. Jonker.
-\newblock Optical control of charged exciton states in tungsten disulfide.
-\newblock {\em Applied Physics Letters}, 106(20):201907, may 2015.
-
-\bibitem{Dadgar2018}
-A.~M. Dadgar, D.~Scullion, K.~Kang, D.~Esposito, E.~H. Yang, I.~P. Herman,
-  M.~A. Pimenta, E.-J.~G. Santos, and A.~N. Pasupathy.
-\newblock Strain engineering and raman spectroscopy of monolayer transition
-  metal dichalcogenides.
-\newblock {\em Chemistry of Materials}, 30(15):5148--5155, jul 2018.
-
-\bibitem{Deshpande2001}
-M.P. Deshpande, S.K. Gupta, Ajay Agarwal, and M.K. Agarwal.
-\newblock Transport and optical property measurements in indium intercalated
-  molybdenum diselenide single crystals grown by {DVT} technique.
-\newblock {\em Synthetic Metals}, 123(1):73--81, aug 2001.
-
-\bibitem{Duerloo2014}
-Karel-Alexander~N. Duerloo, Yao Li, and Evan~J. Reed.
-\newblock Structural phase transitions in two-dimensional mo- and
-  w-dichalcogenide monolayers.
-\newblock {\em Nature Communications}, 5(1), jul 2014.
-
-\bibitem{Dumcenco2015}
-Dumitru Dumcenco, Dmitry Ovchinnikov, Kolyo Marinov, Predrag Lazi{\'{c}}, Marco
-  Gibertini, Nicola Marzari, Oriol~Lopez Sanchez, Yen-Cheng Kung, Daria
-  Krasnozhon, Ming-Wei Chen, Simone Bertolazzi, Philippe Gillet,
-  Anna~Fontcuberta i~Morral, Aleksandra Radenovic, and Andras Kis.
-\newblock Large-area epitaxial monolayer {MoS}2.
-\newblock {\em {ACS} Nano}, 9(4):4611--4620, apr 2015.
-
-\bibitem{Eichfeld2015}
-Sarah~M. Eichfeld, Lorraine Hossain, Yu-Chuan Lin, Aleksander~F. Piasecki,
-  Benjamin Kupp, A.~Glen Birdwell, Robert~A. Burke, Ning Lu, Xin Peng, Jie Li,
-  Angelica Azcatl, Stephen McDonnell, Robert~M. Wallace, Moon~J. Kim,
-  Theresa~S. Mayer, Joan~M. Redwing, and Joshua~A. Robinson.
-\newblock Highly scalable, atomically thin {WSe}2 grown via
-  metal{\textendash}organic chemical vapor deposition.
-\newblock {\em {ACS} Nano}, 9(2):2080--2087, feb 2015.
-
-\bibitem{doi:10.1021/nn400971k}
-Ana~Laura Elías, Néstor Perea-López, Andrés Castro-Beltrán, Ayse
-  Berkdemir, Ruitao Lv, Simin Feng, Aaron~D. Long, Takuya Hayashi, Yoong~Ahm
-  Kim, Morinobu Endo, Humberto~R. Gutiérrez, Nihar~R. Pradhan, Luis Balicas,
-  Thomas~E. Mallouk, Florentino López-Urías, Humberto Terrones, and Mauricio
-  Terrones.
-\newblock Controlled synthesis and transfer of large-area ws2 sheets: From
-  single layer to few layers.
-\newblock {\em ACS Nano}, 7(6):5235--5242, 2013.
-\newblock PMID: 23647141.
-
-\bibitem{Fei2017}
-Zaiyao Fei, Tauno Palomaki, Sanfeng Wu, Wenjin Zhao, Xinghan Cai, Bosong Sun,
-  Paul Nguyen, Joseph Finney, Xiaodong Xu, and David~H. Cobden.
-\newblock Edge conduction in monolayer {WTe}2.
-\newblock {\em Nature Physics}, 13(7):677--682, apr 2017.
-
-\bibitem{Feldmann1987}
-J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
-  Elliott.
-\newblock Linewidth dependence of radiative exciton lifetimes in quantum wells.
-\newblock {\em Physical Review Letters}, 59(20):2337--2340, nov 1987.
-
-\bibitem{Feldmann1988}
-J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
-  Elliott.
-\newblock Linewidth dependence of radiative exciton lifetimes in quantum wells.
-\newblock {\em Physical Review Letters}, 60(3):243--243, jan 1988.
-
-\bibitem{Fontana2013}
-Marcio Fontana, Tristan Deppe, Anthony~K. Boyd, Mohamed Rinzan, Amy~Y. Liu,
-  Makarand Paranjape, and Paola Barbara.
-\newblock Electron-hole transport and photovoltaic effect in gated {MoS}2
-  schottky junctions.
-\newblock {\em Scientific Reports}, 3(1), apr 2013.
-
-\bibitem{Fu2015}
-Qi~Fu, Wenhui Wang, Lei Yang, Jian Huang, Jingyu Zhang, and Bin Xiang.
-\newblock Controllable synthesis of high quality monolayer {WS}2 on a {SiO}2/si
-  substrate by chemical vapor deposition.
-\newblock {\em {RSC} Advances}, 5(21):15795--15799, 2015.
-
-\bibitem{Furchi2014}
-Marco~M. Furchi, Dmitry~K. Polyushkin, Andreas Pospischil, and Thomas Mueller.
-\newblock Mechanisms of photoconductivity in atomically thin {MoS}2.
-\newblock {\em Nano Letters}, 14(11):6165--6170, oct 2014.
-
-\bibitem{Gao2015}
-Yang Gao, Zhibo Liu, Dong-Ming Sun, Le~Huang, Lai-Peng Ma, Li-Chang Yin, Teng
-  Ma, Zhiyong Zhang, Xiu-Liang Ma, Lian-Mao Peng, Hui-Ming Cheng, and Wencai
-  Ren.
-\newblock Large-area synthesis of high-quality and uniform monolayer {WS}2 on
-  reusable au foils.
-\newblock {\em Nature Communications}, 6(1), oct 2015.
-
-\bibitem{Georgiou2014}
-Thanasis Georgiou, Huafeng Yang, Rashid Jalil, James Chapman, Kostya~S.
-  Novoselov, and Artem Mishchenko.
-\newblock Electrical and optical characterization of atomically thin {WS}2.
-\newblock {\em Dalton Transactions}, 43(27):10388, 2014.
-
-\bibitem{Gong2013}
-Cheng Gong, Hengji Zhang, Weihua Wang, Luigi Colombo, Robert~M. Wallace, and
-  Kyeongjae Cho.
-\newblock Band alignment of two-dimensional transition metal dichalcogenides:
-  Application in tunnel field effect transistors.
-\newblock {\em Applied Physics Letters}, 103(5):053513, jul 2013.
-
-\bibitem{Gong2014}
-Yongji Gong, Junhao Lin, Xingli Wang, Gang Shi, Sidong Lei, Zhong Lin, Xiaolong
-  Zou, Gonglan Ye, Robert Vajtai, Boris~I. Yakobson, Humberto Terrones,
-  Mauricio Terrones, Beng~Kang Tay, Jun Lou, Sokrates~T. Pantelides, Zheng Liu,
-  Wu~Zhou, and Pulickel~M. Ajayan.
-\newblock Vertical and in-plane heterostructures from {WS} 2 /{MoS} 2
-  monolayers.
-\newblock {\em Nature Materials}, 13(12):1135--1142, sep 2014.
-
-\bibitem{Gong2015}
-Yongji Gong, Zhong Lin, Gonglan Ye, Gang Shi, Simin Feng, Yu~Lei, Ana~Laura
-  El{\'{\i}}as, Nestor Perea-Lopez, Robert Vajtai, Humberto Terrones, Zheng
-  Liu, Mauricio Terrones, and Pulickel~M. Ajayan.
-\newblock Tellurium-assisted low-temperature synthesis of {MoS}2 and {WS}2
-  monolayers.
-\newblock {\em {ACS} Nano}, 9(12):11658--11666, nov 2015.
-
-\bibitem{Gruznev2018}
-Dimitry~V. Gruznev, Sergey~V. Eremeev, Leonid~V. Bondarenko, Alexandra~Yu.
-  Tupchaya, Alexey~A. Yakovlev, Alexey~N. Mihalyuk, Jyh-Pin Chou, Andrey~V.
-  Zotov, and Alexander~A. Saranin.
-\newblock Two-dimensional in{\textendash}sb compound on silicon as a quantum
-  spin hall insulator.
-\newblock {\em Nano Letters}, 18(7):4338--4345, jun 2018.
-
-\bibitem{Guo2015}
-Yinsheng Guo, Dezheng Sun, Bin Ouyang, Archana Raja, Jun Song, Tony~F. Heinz,
-  and Louis~E. Brus.
-\newblock Probing the dynamics of the metallic-to-semiconducting structural
-  phase transformation in {MoS}2 crystals.
-\newblock {\em Nano Letters}, 15(8):5081--5088, jul 2015.
-
-\bibitem{ExtraordinaryRoomTemperaturePhotoluminescenceInTriangularWS2Monolayers}
-Humberto~R. Guti{\'{e}}rrez, Nestor Perea-L{\'{o}}pez, Ana~Laura El{\'{\i}}as,
-  Ayse Berkdemir, Bei Wang, Ruitao Lv, Florentino L{\'{o}}pez-Ur{\'{\i}}as,
-  Vincent~H. Crespi, Humberto Terrones, and Mauricio Terrones.
-\newblock Extraordinary room-temperature photoluminescence in triangular {WS}2
-  monolayers.
-\newblock {\em Nano Letters}, 13(8):3447--3454, dec 2012.
-\newblock PMID: 23194096.
-
-\bibitem{Hahn1949}
-Harry Hahn and Wilhelm Klingler.
-\newblock Über die kristallstrukturen des in2s3und in2te3.
-\newblock {\em Zeitschrift für anorganische Chemie}, 260(1-3):97--109, oct
-  1949.
-
-\bibitem{Haug1989}
-H.~Haug and L.~B{\'{a}}nyai, editors.
-\newblock {\em Optical Switching in Low-Dimensional Systems}.
-\newblock Springer {US}, 1989.
-
-\bibitem{Haug1994}
-Hartmut Haug, Stephen~W. Koch, and Leonid~V. Keldysh.
-\newblock Quantum theory of the optical and electronic properties of
-  semiconductors.
-\newblock {\em Physics Today}, 47(2):106--108, feb 2004.
-
-\bibitem{Heo2015}
-Hoseok Heo, Ji~Ho Sung, Soonyoung Cha, Bo-Gyu Jang, Joo-Youn Kim, Gangtae Jin,
-  Donghun Lee, Ji-Hoon Ahn, Myoung-Jae Lee, Ji~Hoon Shim, Hyunyong Choi, and
-  Moon-Ho Jo.
-\newblock Interlayer orientation-dependent light absorption and emission in
-  monolayer semiconductor stacks.
-\newblock {\em Nature Communications}, 6(1), jun 2015.
-
-\bibitem{Hofmann1988}
-Wolfgang~K. Hofmann.
-\newblock Thin films of molybdenum and tungsten disulphides by metal organic
-  chemical vapour deposition.
-\newblock {\em Journal of Materials Science}, 23(11):3981--3986, nov 1988.
-
-\bibitem{Hong2014}
-Xiaoping Hong, Jonghwan Kim, Su-Fei Shi, Yu~Zhang, Chenhao Jin, Yinghui Sun,
-  Sefaattin Tongay, Junqiao Wu, Yanfeng Zhang, and Feng Wang.
-\newblock Ultrafast charge transfer in atomically thin {MoS}2/{WS}2
-  heterostructures.
-\newblock {\em Nature Nanotechnology}, 9(9):682--686, aug 2014.
-
-\bibitem{Hsu2017}
-Wei-Ting Hsu, Li-Syuan Lu, Dean Wang, Jing-Kai Huang, Ming-Yang Li, Tay-Rong
-  Chang, Yi-Chia Chou, Zhen-Yu Juang, Horng-Tay Jeng, Lain-Jong Li, and Wen-Hao
-  Chang.
-\newblock Evidence of indirect gap in monolayer {WSe}2.
-\newblock {\em Nature Communications}, 8(1), oct 2017.
+\bibitem{Withers2014}
+F.~Withers, T.~H. Bointon, D.~C. Hudson, M.~F. Craciun, and S.~Russo,
+  ``Electron transport of {WS}2 transistors in a hexagonal boron nitride
+  dielectric environment,'' {\em Scientific Reports}, vol.~4, may 2014.
 
 \bibitem{Hu2016}
-Peng Hu, Jun Ye, Xuexia He, Kezhao Du, Keke~K. Zhang, Xingzhi Wang, Qihua
-  Xiong, Zheng Liu, Hui Jiang, and Christian Kloc.
-\newblock Control of radiative exciton recombination by charge transfer induced
-  surface dipoles in {MoS}2 and {WS}2 monolayers.
-\newblock {\em Scientific Reports}, 6(1), apr 2016.
-
-\bibitem{Hu2018}
-Xuan Hu, Poya Yasaei, Jacob Jokisaari, Serdar Ö{\u{g}}üt, Amin Salehi-Khojin,
-  and Robert~F. Klie.
-\newblock Mapping thermal expansion coefficients in freestanding 2d materials
-  at the nanometer scale.
-\newblock {\em Physical Review Letters}, 120(5), feb 2018.
-
-\bibitem{Hu2019}
-Zhenliang Hu, Jose Avila, Xinyun Wang, Jin~Feng Leong, Qi~Zhang, Yanpeng Liu,
-  Maria~C. Asensio, Junpeng Lu, Alexandra Carvalho, Chorng~Haur Sow, and
-  Antonio Helio~Castro Neto.
-\newblock The role of oxygen atoms on excitons at the edges of monolayer {WS}2.
-\newblock {\em Nano Letters}, jun 2019.
-
-\bibitem{Hui2013}
-Yeung~Yu Hui, Xiaofei Liu, Wenjing Jie, Ngai~Yui Chan, Jianhua Hao, Yu-Te Hsu,
-  Lain-Jong Li, Wanlin Guo, and Shu~Ping Lau.
-\newblock Exceptional tunability of band energy in a compressively strained
-  trilayer {MoS}2 sheet.
-\newblock {\em {ACS} Nano}, 7(8):7126--7131, jul 2013.
-
-\bibitem{Hussain2013}
-Aftab~M. Hussain, Galo A.~Torres Sevilla, Kelly~R. Rader, and Muhammad~M.
-  Hussain.
-\newblock Chemical vapor deposition based tungsten disulfide ({$WS_2$}) thin
-  film transistor.
-\newblock In {\em 2013 Saudi International Electronics, Communications and
-  Photonics Conference}. {IEEE}, apr 2013.
-
-\bibitem{Iqbal2015}
-M~Waqas Iqbal, M~Zahir Iqbal, M~Farooq Khan, M~Arslan Shehzad, Yongho Seo,
-  Jong~Hyun Park, Chanyong Hwang, and Jonghwa Eom.
-\newblock High-mobility and air-stable single-layer {WS}2 field-effect
-  transistors sandwiched between chemical vapor deposition-grown hexagonal {BN}
-  films.
-\newblock {\em Scientific Reports}, 5(1), jun 2015.
-
-\bibitem{Iqbal2016}
-Muhammad~Waqas Iqbal, Muhammad~Zahir Iqbal, Muhammad~Farooq Khan,
-  Muhammad~Arshad Kamran, Abdul Majid, Thamer Alharbi, and Jonghwa Eom.
-\newblock Tailoring the electrical and photo-electrical properties of a {WS}2
-  field effect transistor by selective n-type chemical doping.
-\newblock {\em {RSC} Advances}, 6(29):24675--24682, 2016.
-
-\bibitem{Iqbal2015a}
-Muhammad~Waqas Iqbal, Muhammad~Zahir Iqbal, Muhammad~Farooq Khan,
-  Muhammad~Arslan Shehzad, Yongho Seo, and Jonghwa Eom.
-\newblock Deep-ultraviolet-light-driven reversible doping of {WS}2 field-effect
-  transistors.
-\newblock {\em Nanoscale}, 7(2):747--757, 2015.
-
-\bibitem{Ji2013}
-Qingqing Ji, Yanfeng Zhang, Teng Gao, Yu~Zhang, Donglin Ma, Mengxi Liu, Yubin
-  Chen, Xiaofen Qiao, Ping-Heng Tan, Min Kan, Ji~Feng, Qiang Sun, and Zhongfan
-  Liu.
-\newblock Epitaxial monolayer {MoS}2 on mica with novel photoluminescence.
-\newblock {\em Nano Letters}, 13(8):3870--3877, aug 2013.
-
-\bibitem{doi:10.1021/nl500171v}
-Sanghyun Jo, Nicolas Ubrig, Helmuth Berger, Alexey~B. Kuzmenko, and Alberto~F.
-  Morpurgo.
-\newblock Mono- and bilayer ws2 light-emitting transistors.
-\newblock {\em Nano Letters}, 14(4):2019--2025, 2014.
-\newblock PMID: 24669957.
-
-\bibitem{Jung2015}
-Wonil Jung, Sujeong Lee, Dongwon Yoo, Sohee Jeong, Pere Mir{\'{o}}, Agnieszka
-  Kuc, Thomas Heine, and Jinwoo Cheon.
-\newblock Colloidal synthesis of single-layer {MSe}2 (m = mo, w) nanosheets via
-  anisotropic solution-phase growth approach.
-\newblock {\em Journal of the American Chemical Society}, 137(23):7266--7269,
-  jun 2015.
-
-\bibitem{Kane2005}
-C.~L. Kane and E.~J. Mele.
-\newblock Quantum spin hall effect in graphene.
-\newblock {\em Physical Review Letters}, 95(22), nov 2005.
-
-\bibitem{Kang2015}
-Kibum Kang, Saien Xie, Lujie Huang, Yimo Han, Pinshane~Y. Huang, Kin~Fai Mak,
-  Cheol-Joo Kim, David Muller, and Jiwoong Park.
-\newblock High-mobility three-atom-thick semiconducting films with wafer-scale
-  homogeneity.
-\newblock {\em Nature}, 520(7549):656--660, apr 2015.
+P.~Hu, J.~Ye, X.~He, K.~Du, K.~K. Zhang, X.~Wang, Q.~Xiong, Z.~Liu, H.~Jiang,
+  and C.~Kloc, ``Control of radiative exciton recombination by charge transfer
+  induced surface dipoles in {MoS}2 and {WS}2 monolayers,'' {\em Scientific
+  Reports}, vol.~6, apr 2016.
 
 \bibitem{Kang2015a}
-Kyung~Nam Kang, Kyle Godin, and Eui-Hyeok Yang.
-\newblock The growth scale and kinetics of {WS}2 monolayers under varying h2
-  concentration.
-\newblock {\em Scientific Reports}, 5(1), aug 2015.
+K.~N. Kang, K.~Godin, and E.-H. Yang, ``The growth scale and kinetics of {WS}2
+  monolayers under varying h2 concentration,'' {\em Scientific Reports},
+  vol.~5, aug 2015.
 
-\bibitem{Kang2014}
-Yimin Kang, Sina Najmaei, Zheng Liu, Yanjun Bao, Yumin Wang, Xing Zhu, Naomi~J.
-  Halas, Peter Nordlander, Pulickel~M. Ajayan, Jun Lou, and Zheyu Fang.
-\newblock Plasmonic hot electron induced structural phase transition in a
-  {MoS}2monolayer.
-\newblock {\em Advanced Materials}, 26(37):6467--6471, aug 2014.
+\bibitem{Hui2013}
+Y.~Y. Hui, X.~Liu, W.~Jie, N.~Y. Chan, J.~Hao, Y.-T. Hsu, L.-J. Li, W.~Guo, and
+  S.~P. Lau, ``Exceptional tunability of band energy in a compressively
+  strained trilayer {MoS}2 sheet,'' {\em {ACS} Nano}, vol.~7, pp.~7126--7131,
+  jul 2013.
 
-\bibitem{Kappera2014}
-Rajesh Kappera, Damien Voiry, Sibel~Ebru Yalcin, Brittany Branch, Gautam Gupta,
-  Aditya~D. Mohite, and Manish Chhowalla.
-\newblock Phase-engineered low-resistance contacts for ultrathin {MoS}2
-  transistors.
-\newblock {\em Nature Materials}, 13(12):1128--1134, aug 2014.
+\bibitem{Peimyoo2014}
+N.~Peimyoo, W.~Yang, J.~Shang, X.~Shen, Y.~Wang, and T.~Yu, ``Chemically driven
+  tunable light emission of charged and neutral excitons in monolayer {WS}2,''
+  {\em {ACS} Nano}, vol.~8, pp.~11320--11329, oct 2014.
 
-\bibitem{Katz2001}
-O.~Katz, V.~Garber, B.~Meyler, G.~Bahir, and J.~Salzman.
-\newblock Gain mechanism in {GaN} schottky ultraviolet detectors.
-\newblock {\em Applied Physics Letters}, 79(10):1417--1419, sep 2001.
-
-\bibitem{Keum2015}
-Dong~Hoon Keum, Suyeon Cho, Jung~Ho Kim, Duk-Hyun Choe, Ha-Jun Sung, Min Kan,
-  Haeyong Kang, Jae-Yeol Hwang, Sung~Wng Kim, Heejun Yang, K.~J. Chang, and
-  Young~Hee Lee.
-\newblock Bandgap opening in few-layered monoclinic {MoTe}2.
-\newblock {\em Nature Physics}, 11(6):482--486, may 2015.
-
-\bibitem{Kim2012}
-HoKwon Kim, Cecilia Mattevi, M.~Reyes Calvo, Jenny~C. Oberg, Luca Artiglia,
-  Stefano Agnoli, Cyrus~F. Hirjibehedin, Manish Chhowalla, and Eduardo Saiz.
-\newblock Activation energy paths for graphene nucleation and growth on cu.
-\newblock {\em {ACS} Nano}, 6(4):3614--3623, mar 2012.
-
-\bibitem{Kochat2011}
-Vidya Kochat, Atindra~Nath Pal, E.~S. Sneha, Arjun Sampathkumar, Anshita
-  Gairola, S.~A. Shivashankar, Srinivasan Raghavan, and Arindam Ghosh.
-\newblock High contrast imaging and thickness determination of graphene with
-  in-column secondary electron microscopy.
-\newblock {\em Journal of Applied Physics}, 110(1):014315, jul 2011.
-
-\bibitem{Konig2007}
-M.~Konig, S.~Wiedmann, C.~Brune, A.~Roth, H.~Buhmann, L.~W. Molenkamp, X.-L.
-  Qi, and S.-C. Zhang.
-\newblock Quantum spin hall insulator state in {HgTe} quantum wells.
-\newblock {\em Science}, 318(5851):766--770, nov 2007.
-
-\bibitem{Korn2011}
-T.~Korn, S.~Heydrich, M.~Hirmer, J.~Schmutzler, and C.~Schüller.
-\newblock Low-temperature photocarrier dynamics in monolayer {MoS}2.
-\newblock {\em Applied Physics Letters}, 99(10):102109, sep 2011.
-
-\bibitem{WS2BandStructureSimulation}
-A.~Kuc, N.~Zibouche, and T.~Heine.
-\newblock Influence of quantum confinement on the electronic structure of the
-  transition metal {sulfideTS}2.
-\newblock {\em Physical Review B}, 83(24):245213, jun 2011.
-
-\bibitem{Kunstmann2018}
-Jens Kunstmann, Fabian Mooshammer, Philipp Nagler, Andrey Chaves, Frederick
-  Stein, Nicola Paradiso, Gerd Plechinger, Christoph Strunk, Christian
-  Schüller, Gotthard Seifert, David~R. Reichman, and Tobias Korn.
-\newblock Momentum-space indirect interlayer excitons in transition-metal
-  dichalcogenide van der waals heterostructures.
-\newblock {\em Nature Physics}, 14(8):801--805, apr 2018.
-
-\bibitem{Lan2015}
-Changyong Lan, Chun Li, Yi~Yin, and Yong Liu.
-\newblock Large-area synthesis of monolayer {WS}2and its ambient-sensitive
-  photo-detecting performance.
-\newblock {\em Nanoscale}, 7(14):5974--5980, 2015.
-
-\bibitem{Lee2010}
-Changgu Lee, Hugen Yan, Louis~E. Brus, Tony~F. Heinz, James Hone, and Sunmin
-  Ryu.
-\newblock Anomalous lattice vibrations of single- and few-layer {MoS}2.
-\newblock {\em {ACS} Nano}, 4(5):2695--2700, apr 2010.
-
-\bibitem{Lee2014}
-Chul-Ho Lee, Gwan-Hyoung Lee, Arend~M. van~der Zande, Wenchao Chen, Yilei Li,
-  Minyong Han, Xu~Cui, Ghidewon Arefe, Colin Nuckolls, Tony~F. Heinz, Jing Guo,
-  James Hone, and Philip Kim.
-\newblock Atomically thin p{\textendash}n junctions with van der waals
-  heterointerfaces.
-\newblock {\em Nature Nanotechnology}, 9(9):676--681, aug 2014.
-
-\bibitem{Lee2013}
-Yi-Hsien Lee, Lili Yu, Han Wang, Wenjing Fang, Xi~Ling, Yumeng Shi, Cheng-Te
-  Lin, Jing-Kai Huang, Mu-Tung Chang, Chia-Seng Chang, Mildred Dresselhaus,
-  Tomas Palacios, Lain-Jong Li, and Jing Kong.
-\newblock Synthesis and transfer of single-layer transition metal disulfides on
-  diverse surfaces.
-\newblock {\em Nano Letters}, 13(4):1852--1857, mar 2013.
-
-\bibitem{Lee2012}
-Yi-Hsien Lee, Xin-Quan Zhang, Wenjing Zhang, Mu-Tung Chang, Cheng-Te Lin,
-  Kai-Di Chang, Ya-Chu Yu, Jacob Tse-Wei Wang, Chia-Seng Chang, Lain-Jong Li,
-  and Tsung-Wu Lin.
-\newblock Synthesis of large-area {MoS}2atomic layers with chemical vapor
-  deposition.
-\newblock {\em Advanced Materials}, 24(17):2320--2325, mar 2012.
-
-\bibitem{Lei2018}
-Bo~Lei, Yuanyuan Pan, Zehua Hu, Jialin Zhang, Du~Xiang, Yue Zheng, Rui Guo,
-  Cheng Han, Lianhui Wang, Jing Lu, Li~Yang, and Wei Chen.
-\newblock Direct observation of semiconductor{\textendash}metal phase
-  transition in bilayer tungsten diselenide induced by potassium surface
-  functionalization.
-\newblock {\em {ACS} Nano}, 12(2):2070--2077, jan 2018.
-
-\bibitem{Lenz1997}
-M.~Lenz and R.~Gruehn.
-\newblock Developments in measuring and calculating chemical vapor transport
-  phenomena demonstrated on cr, mo, w, and their compounds.
-\newblock {\em Chemical Reviews}, 97(8):2967--2994, dec 1997.
-
-\bibitem{Li2015}
-Shisheng Li, Shunfeng Wang, Dai-Ming Tang, Weijie Zhao, Huilong Xu, Leiqiang
-  Chu, Yoshio Bando, Dmitri Golberg, and Goki Eda.
-\newblock Halide-assisted atmospheric pressure growth of large {WSe}2 and {WS}2
-  monolayer crystals.
-\newblock {\em Applied Materials Today}, 1(1):60--66, nov 2015.
-
-\bibitem{ElectronicPropertiesOfMoS2Nanoparticles}
-Tianshu Li and Giulia Galli.
-\newblock Electronic properties of {MoS}2nanoparticles.
-\newblock {\em The Journal of Physical Chemistry C}, 111(44):16192--16196, nov
-  2007.
-
-\bibitem{Li2016}
-Wenbin Li and Ju~Li.
-\newblock Ferroelasticity and domain physics in two-dimensional transition
-  metal dichalcogenide monolayers.
-\newblock {\em Nature Communications}, 7(1), feb 2016.
-
-\bibitem{Li2015a}
-Xinru Li, Ying Dai, Mengmeng Li, Wei Wei, and Baibiao Huang.
-\newblock Stable si-based pentagonal monolayers: high carrier mobilities and
-  applications in photocatalytic water splitting.
-\newblock {\em Journal of Materials Chemistry A}, 3(47):24055--24063, 2015.
-
-\bibitem{ProbingSymmetryPropertiesOfFew-LayerMoS2Andh-BNByOpticalSecond-HarmonicGeneration}
-Yilei Li, Yi~Rao, Kin~Fai Mak, Yumeng You, Shuyuan Wang, Cory~R. Dean, and
-  Tony~F. Heinz.
-\newblock Probing symmetry properties of few-layer {MoS}2 and h-{BN} by optical
-  second-harmonic generation.
-\newblock {\em Nano Letters}, 13(7):3329--3333, jun 2013.
-\newblock PMID: 23718906.
-
-\bibitem{doi:10.1021/nn403682r}
-Liangxu Lin, Yaoxian Xu, Shaowei Zhang, Ian~M. Ross, Albert C.~M. Ong, and
-  Dan~A. Allwood.
-\newblock Fabrication of luminescent monolayered tungsten dichalcogenides
-  quantum dots with giant spin-valley coupling.
-\newblock {\em ACS Nano}, 7(9):8214--8223, 2013.
-\newblock PMID: 23968363.
-
-\bibitem{Lin2014}
-Yung-Chang Lin, Dumitru~O. Dumcenco, Ying-Sheng Huang, and Kazu Suenaga.
-\newblock Atomic mechanism of the semiconducting-to-metallic phase transition
-  in single-layered {MoS}2.
-\newblock {\em Nature Nanotechnology}, 9(5):391--396, apr 2014.
-
-\bibitem{Ling2014}
-Xi~Ling, Yi-Hsien Lee, Yuxuan Lin, Wenjing Fang, Lili Yu, Mildred~S.
-  Dresselhaus, and Jing Kong.
-\newblock Role of the seeding promoter in {MoS}2 growth by chemical vapor
-  deposition.
-\newblock {\em Nano Letters}, 14(2):464--472, jan 2014.
-
-\bibitem{Liu2016}
-Hongwei Liu, Junpeng Lu, Kenneth Ho, Zhenliang Hu, Zhiya Dang, Alexandra
-  Carvalho, Hui~Ru Tan, Eng~Soon Tok, and Chorng~Haur Sow.
-\newblock Fluorescence concentric triangles: A case of chemical heterogeneity
-  in {WS}2 atomic monolayer.
-\newblock {\em Nano Letters}, 16(9):5559--5567, aug 2016.
-
-\bibitem{Liu2016a}
-Junwei Liu, Hua Wang, Chen Fang, Liang Fu, and Xiaofeng Qian.
-\newblock van der waals stacking-induced topological phase transition in
-  layered ternary transition metal chalcogenides.
-\newblock {\em Nano Letters}, 17(1):467--475, dec 2016.
-
-\bibitem{Liu2014a}
-Kaihui Liu, Liming Zhang, Ting Cao, Chenhao Jin, Diana Qiu, Qin Zhou, Alex
-  Zettl, Peidong Yang, Steve~G. Louie, and Feng Wang.
-\newblock Evolution of interlayer coupling in twisted molybdenum disulfide
-  bilayers.
-\newblock {\em Nature Communications}, 5(1), sep 2014.
+\bibitem{Tongay2013}
+S.~Tongay, J.~Suh, C.~Ataca, W.~Fan, A.~Luce, J.~S. Kang, J.~Liu, C.~Ko,
+  R.~Raghunathanan, J.~Zhou, F.~Ogletree, J.~Li, J.~C. Grossman, and J.~Wu,
+  ``Defects activated photoluminescence in two-dimensional semiconductors:
+  interplay between bound, charged and free excitons,'' {\em Scientific
+  Reports}, vol.~3, sep 2013.
 
 \bibitem{Liu2014}
-Zheng Liu, Matin Amani, Sina Najmaei, Quan Xu, Xiaolong Zou, Wu~Zhou, Ting Yu,
-  Caiyu Qiu, A.~Glen Birdwell, Frank~J. Crowne, Robert Vajtai, Boris~I.
-  Yakobson, Zhenhai Xia, Madan Dubey, Pulickel~M. Ajayan, and Jun Lou.
-\newblock Strain and structure heterogeneity in {MoS}2 atomic layers grown by
-  chemical vapour deposition.
-\newblock {\em Nature Communications}, 5(1), nov 2014.
+Z.~Liu, M.~Amani, S.~Najmaei, Q.~Xu, X.~Zou, W.~Zhou, T.~Yu, C.~Qiu, A.~G.
+  Birdwell, F.~J. Crowne, R.~Vajtai, B.~I. Yakobson, Z.~Xia, M.~Dubey, P.~M.
+  Ajayan, and J.~Lou, ``Strain and structure heterogeneity in {MoS}2 atomic
+  layers grown by chemical vapour deposition,'' {\em Nature Communications},
+  vol.~5, nov 2014.
 
-\bibitem{Lopez-Sanchez2013}
-Oriol Lopez-Sanchez, Dominik Lembke, Metin Kayci, Aleksandra Radenovic, and
-  Andras Kis.
-\newblock Ultrasensitive photodetectors based on monolayer {MoS}2.
-\newblock {\em Nature Nanotechnology}, 8(7):497--501, jun 2013.
+\bibitem{Liu2016}
+H.~Liu, J.~Lu, K.~Ho, Z.~Hu, Z.~Dang, A.~Carvalho, H.~R. Tan, E.~S. Tok, and
+  C.~H. Sow, ``Fluorescence concentric triangles: A case of chemical
+  heterogeneity in {WS}2 atomic monolayer,'' {\em Nano Letters}, vol.~16,
+  pp.~5559--5567, aug 2016.
 
-\bibitem{Lu2015}
-J.~M. Lu, O.~Zheliuk, I.~Leermakers, N.~F.~Q. Yuan, U.~Zeitler, K.~T. Law, and
-  J.~T. Ye.
-\newblock Evidence for two-dimensional ising superconductivity in gated {MoS}2.
-\newblock {\em Science}, 350(6266):1353--1357, nov 2015.
-
-\bibitem{Mak2014}
-K.~F. Mak, K.~L. McGill, J.~Park, and P.~L. McEuen.
-\newblock The valley hall effect in {MoS}2 transistors.
-\newblock {\em Science}, 344(6191):1489--1492, jun 2014.
-
-\bibitem{Mak2012}
-Kin~Fai Mak, Keliang He, Changgu Lee, Gwan~Hyoung Lee, James Hone, Tony~F.
-  Heinz, and Jie Shan.
-\newblock Tightly bound trions in monolayer {MoS}2.
-\newblock {\em Nature Materials}, 12(3):207--211, dec 2012.
-
-\bibitem{Mak2012a}
-Kin~Fai Mak, Keliang He, Jie Shan, and Tony~F. Heinz.
-\newblock Control of valley polarization in monolayer {MoS}2 by optical
-  helicity.
-\newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
-
-\bibitem{ControlOfValleyPolarizationInMonolayerMoS2ByOpticalHelicity}
-Kin~Fai Mak, Keliang He, Jie Shan, and Tony~F. Heinz.
-\newblock Control of valley polarization in monolayer {MoS}2 by optical
-  helicity.
-\newblock {\em Nature Nanotechnology}, 7(8):494--498, jun 2012.
-
-\bibitem{AtomicallyThinMoS2ANewDirect-GapSemiconductor}
-Kin~Fai Mak, Changgu Lee, James Hone, Jie Shan, and Tony~F. Heinz.
-\newblock Atomically {ThinMoS}2: A new direct-gap semiconductor.
-\newblock {\em Physical Review Letters}, 105(13):136805, sep 2010.
-
-\bibitem{Mak2016}
-Kin~Fai Mak and Jie Shan.
-\newblock Photonics and optoelectronics of 2d semiconductor transition metal
-  dichalcogenides.
-\newblock {\em Nature Photonics}, 10(4):216--226, mar 2016.
+\bibitem{Cattelan2015}
+M.~Cattelan, B.~Markman, G.~Lucchini, P.~K. Das, I.~Vobornik, J.~A. Robinson,
+  S.~Agnoli, and G.~Granozzi, ``New strategy for the growth of complex
+  heterostructures based on different 2d materials,'' {\em Chemistry of
+  Materials}, vol.~27, pp.~4105--4113, may 2015.
 
 \bibitem{Martinez2004}
 H.~Martinez, A.~Benayad, D.~Gonbeau, P.~Vinatier, B.~Pecquenard, and
-  A.~Levasseur.
-\newblock Influence of the cation nature of high sulfur content oxysulfide thin
-  films {MOySz} (m=w, ti) studied by {XPS}.
-\newblock {\em Applied Surface Science}, 236(1-4):377--386, sep 2004.
+  A.~Levasseur, ``Influence of the cation nature of high sulfur content
+  oxysulfide thin films {MOySz} (m=w, ti) studied by {XPS},'' {\em Applied
+  Surface Science}, vol.~236, pp.~377--386, sep 2004.
 
-\bibitem{Massicotte2015}
-M.~Massicotte, P.~Schmidt, F.~Vialla, K.~G. Schädler, A.~Reserbat-Plantey,
-  K.~Watanabe, T.~Taniguchi, K.~J. Tielrooij, and F.~H.~L. Koppens.
-\newblock Picosecond photoresponse in van der waals heterostructures.
-\newblock {\em Nature Nanotechnology}, 11(1):42--46, oct 2015.
+\bibitem{Alharbi2016}
+A.~Alharbi and D.~Shahrjerdi, ``Electronic properties of monolayer tungsten
+  disulfide grown by chemical vapor deposition,'' {\em Applied Physics
+  Letters}, vol.~109, p.~193502, nov 2016.
 
-\bibitem{McKone2012}
-James~R. McKone, Adam~P. Pieterick, Harry~B. Gray, and Nathan~S. Lewis.
-\newblock Hydrogen evolution from pt/ru-coated p-type {WSe}2 photocathodes.
-\newblock {\em Journal of the American Chemical Society}, 135(1):223--231, dec
-  2012.
+\bibitem{Lan2015}
+C.~Lan, C.~Li, Y.~Yin, and Y.~Liu, ``Large-area synthesis of monolayer {WS}2and
+  its ambient-sensitive photo-detecting performance,'' {\em Nanoscale}, vol.~7,
+  no.~14, pp.~5974--5980, 2015.
 
-\bibitem{Mouri2013}
-Shinichiro Mouri, Yuhei Miyauchi, and Kazunari Matsuda.
-\newblock Tunable photoluminescence of monolayer {MoS}2 via chemical doping.
-\newblock {\em Nano Letters}, 13(12):5944--5948, nov 2013.
+\bibitem{Hussain2013}
+A.~M. Hussain, G.~A.~T. Sevilla, K.~R. Rader, and M.~M. Hussain, ``Chemical
+  vapor deposition based tungsten disulfide ({$WS_2$}) thin film transistor,''
+  in {\em 2013 Saudi International Electronics, Communications and Photonics
+  Conference}, {IEEE}, apr 2013.
 
-\bibitem{Najmaei2013}
-Sina Najmaei, Zheng Liu, Wu~Zhou, Xiaolong Zou, Gang Shi, Sidong Lei, Boris~I.
-  Yakobson, Juan-Carlos Idrobo, Pulickel~M. Ajayan, and Jun Lou.
-\newblock Vapour phase growth and grain boundary structure of molybdenum
-  disulphide atomic layers.
-\newblock {\em Nature Materials}, 12(8):754--759, jun 2013.
+\bibitem{Cui2015}
+Y.~Cui, R.~Xin, Z.~Yu, Y.~Pan, Z.-Y. Ong, X.~Wei, J.~Wang, H.~Nan, Z.~Ni,
+  Y.~Wu, T.~Chen, Y.~Shi, B.~Wang, G.~Zhang, Y.-W. Zhang, and X.~Wang,
+  ``High-performance monolayer {WS}2field-effect transistors on high-$\kappa$
+  dielectrics,'' {\em Advanced Materials}, vol.~27, pp.~5230--5234, aug 2015.
 
-\bibitem{Nan2014}
-Haiyan Nan, Zilu Wang, Wenhui Wang, Zheng Liang, Yan Lu, Qian Chen, Daowei He,
-  Pingheng Tan, Feng Miao, Xinran Wang, Jinlan Wang, and Zhenhua Ni.
-\newblock Strong photoluminescence enhancement of {MoS}2 through defect
-  engineering and oxygen bonding.
-\newblock {\em {ACS} Nano}, 8(6):5738--5745, may 2014.
+\bibitem{Iqbal2016}
+M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Kamran, A.~Majid, T.~Alharbi, and
+  J.~Eom, ``Tailoring the electrical and photo-electrical properties of a {WS}2
+  field effect transistor by selective n-type chemical doping,'' {\em {RSC}
+  Advances}, vol.~6, no.~29, pp.~24675--24682, 2016.
 
-\bibitem{Nayak2017}
-Pramoda~K. Nayak, Yevhen Horbatenko, Seongjoon Ahn, Gwangwoo Kim, Jae-Ung Lee,
-  Kyung~Yeol Ma, A-Rang Jang, Hyunseob Lim, Dogyeong Kim, Sunmin Ryu, Hyeonsik
-  Cheong, Noejung Park, and Hyeon~Suk Shin.
-\newblock Probing evolution of twist-angle-dependent interlayer excitons in
-  {MoSe}2/{WSe}2 van der waals heterostructures.
-\newblock {\em {ACS} Nano}, 11(4):4041--4050, apr 2017.
+\bibitem{Georgiou2014}
+T.~Georgiou, H.~Yang, R.~Jalil, J.~Chapman, K.~S. Novoselov, and A.~Mishchenko,
+  ``Electrical and optical characterization of atomically thin {WS}2,'' {\em
+  Dalton Transactions}, vol.~43, no.~27, p.~10388, 2014.
 
-\bibitem{Ogura2009}
-Toshihiko Ogura.
-\newblock Analyzing indirect secondary electron contrast of unstained
-  bacteriophage t4 based on {SEM} images and monte carlo simulations.
-\newblock {\em Biochemical and Biophysical Research Communications},
-  380(2):254--259, mar 2009.
-
-\bibitem{doi:10.1021/nn503093k}
-Mitsuhiro Okada, Takumi Sawazaki, Kenji Watanabe, Takashi Taniguch, Hiroki
-  Hibino, Hisanori Shinohara, and Ryo Kitaura.
-\newblock Direct chemical vapor deposition growth of ws2 atomic layers on
-  hexagonal boron nitride.
-\newblock {\em ACS Nano}, 8(8):8273--8277, 2014.
-\newblock PMID: 25093606.
+\bibitem{Iqbal2015a}
+M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Shehzad, Y.~Seo, and J.~Eom,
+  ``Deep-ultraviolet-light-driven reversible doping of {WS}2 field-effect
+  transistors,'' {\em Nanoscale}, vol.~7, no.~2, pp.~747--757, 2015.
 
 \bibitem{Ovchinnikov2014}
-Dmitry Ovchinnikov, Adrien Allain, Ying-Sheng Huang, Dumitru Dumcenco, and
-  Andras Kis.
-\newblock Electrical transport properties of single-layer {WS}2.
-\newblock {\em {ACS} Nano}, 8(8):8174--8181, jul 2014.
+D.~Ovchinnikov, A.~Allain, Y.-S. Huang, D.~Dumcenco, and A.~Kis, ``Electrical
+  transport properties of single-layer {WS}2,'' {\em {ACS} Nano}, vol.~8,
+  pp.~8174--8181, jul 2014.
 
-\bibitem{doi:10.1021/nn4046002}
-Namphung Peimyoo, Jingzhi Shang, Chunxiao Cong, Xiaonan Shen, Xiangyang Wu,
-  Edwin K.~L. Yeow, and Ting Yu.
-\newblock Nonblinking, intense two-dimensional light emitter: Monolayer {WS}2
-  triangles.
-\newblock {\em ACS Nano}, 7(12):10985--10994, 2013.
-\newblock PMID: 24266716.
-
-\bibitem{Peimyoo2014}
-Namphung Peimyoo, Weihuang Yang, Jingzhi Shang, Xiaonan Shen, Yanlong Wang, and
-  Ting Yu.
-\newblock Chemically driven tunable light emission of charged and neutral
-  excitons in monolayer {WS}2.
-\newblock {\em {ACS} Nano}, 8(11):11320--11329, oct 2014.
-
-\bibitem{Pospischil2014}
-Andreas Pospischil, Marco~M. Furchi, and Thomas Mueller.
-\newblock Solar-energy conversion and light emission in an atomic monolayer
-  p{\textendash}n diode.
-\newblock {\em Nature Nanotechnology}, 9(4):257--261, mar 2014.
-
-\bibitem{Qi2016}
-Yanpeng Qi, Pavel~G. Naumov, Mazhar~N. Ali, Catherine~R. Rajamathi, Walter
-  Schnelle, Oleg Barkalov, Michael Hanfland, Shu-Chun Wu, Chandra Shekhar, Yan
-  Sun, Vicky Sü{\ss}, Marcus Schmidt, Ulrich Schwarz, Eckhard Pippel, Peter
-  Werner, Reinald Hillebrand, Tobias Förster, Erik Kampert, Stuart Parkin,
-  R.~J. Cava, Claudia Felser, Binghai Yan, and Sergey~A. Medvedev.
-\newblock Superconductivity in weyl semimetal candidate {MoTe}2.
-\newblock {\em Nature Communications}, 7(1), mar 2016.
-
-\bibitem{Qian2014}
-X.~Qian, J.~Liu, L.~Fu, and J.~Li.
-\newblock Quantum spin hall effect in two-dimensional transition metal
-  dichalcogenides.
-\newblock {\em Science}, 346(6215):1344--1347, nov 2014.
-
-\bibitem{Rao1981}
-G.V.~Subba Rao and C.S. Sunandana.
-\newblock {LAYERED} {DICHALCOGENIDES} {AND} {INTERCALATED} {MATERIALS}.
-\newblock In {\em Preparation and Characterization of Materials}, pages
-  269--282. Elsevier, 1981.
-
-\bibitem{Rasmussen2015}
-Filip~A. Rasmussen and Kristian~S. Thygesen.
-\newblock Computational 2d materials database: Electronic structure of
-  transition-metal dichalcogenides and oxides.
-\newblock {\em The Journal of Physical Chemistry C}, 119(23):13169--13183, jun
-  2015.
-
-\bibitem{Reale2017}
-Francesco Reale, Pawel Palczynski, Iddo Amit, Gareth~F. Jones, Jake~D. Mehew,
-  Agnes Bacon, Na~Ni, Peter~C. Sherrell, Stefano Agnoli, Monica~F. Craciun,
-  Saverio Russo, and Cecilia Mattevi.
-\newblock High-mobility and high-optical quality atomically thin {WS} 2.
-\newblock {\em Scientific Reports}, 7(1), nov 2017.
-
-\bibitem{Reale2016}
-Francesco Reale, Kanudha Sharda, and Cecilia Mattevi.
-\newblock From bulk crystals to atomically thin layers of group {VI}-transition
-  metal dichalcogenides vapour phase synthesis.
-\newblock {\em Applied Materials Today}, 3:11--22, jun 2016.
-
-\bibitem{Rong2014}
-Youmin Rong, Ye~Fan, Ai~Leen Koh, Alex~W. Robertson, Kuang He, Shanshan Wang,
-  Haijie Tan, Robert Sinclair, and Jamie~H. Warner.
-\newblock Controlling sulphur precursor addition for large single crystal
-  domains of {WS}2.
-\newblock {\em Nanoscale}, 6(20):12096--12103, sep 2014.
-
-\bibitem{Ross2014}
-Jason~S. Ross, Philip Klement, Aaron~M. Jones, Nirmal~J. Ghimire, Jiaqiang Yan,
-  D.~G. Mandrus, Takashi Taniguchi, Kenji Watanabe, Kenji Kitamura, Wang Yao,
-  David~H. Cobden, and Xiaodong Xu.
-\newblock Electrically tunable excitonic light-emitting diodes based on
-  monolayer {WSe}2 p{\textendash}n junctions.
-\newblock {\em Nature Nanotechnology}, 9(4):268--272, mar 2014.
-
-\bibitem{Ross2013}
-Jason~S. Ross, Sanfeng Wu, Hongyi Yu, Nirmal~J. Ghimire, Aaron~M. Jones, Grant
-  Aivazian, Jiaqiang Yan, David~G. Mandrus, Di~Xiao, Wang Yao, and Xiaodong Xu.
-\newblock Electrical control of neutral and charged excitons in a monolayer
-  semiconductor.
-\newblock {\em Nature Communications}, 4(1), feb 2013.
-
-\bibitem{Saito2015}
-Yu~Saito, Yasuharu Nakamura, Mohammad~Saeed Bahramy, Yoshimitsu Kohama,
-  Jianting Ye, Yuichi Kasahara, Yuji Nakagawa, Masaru Onga, Masashi Tokunaga,
-  Tsutomu Nojima, Youichi Yanase, and Yoshihiro Iwasa.
-\newblock Superconductivity protected by spin{\textendash}valley locking in
-  ion-gated {MoS}2.
-\newblock {\em Nature Physics}, 12(2):144--149, dec 2015.
-
-\bibitem{Salehzadeh2015}
-Omid Salehzadeh, Mehrdad Djavid, Nhung~Hong Tran, Ishiang Shih, and Zetian Mi.
-\newblock Optically pumped two-dimensional {MoS}2 lasers operating at
-  room-temperature.
-\newblock {\em Nano Letters}, 15(8):5302--5306, jul 2015.
-
-\bibitem{Schmidt2013}
-Peer Schmidt, Michael Binnewies, Robert Glaum, and Marcus Schmidt.
-\newblock Chemical vapor transport reactions{\textendash}methods, materials,
-  modeling.
-\newblock In {\em Advanced Topics on Crystal Growth}. {InTech}, feb 2013.
-
-\bibitem{Schmitz1997}
-I.~Schmitz, M.~Schreiner, G.~Friedbacher, and M.~Grasserbauer.
-\newblock Tapping-mode {AFM} in comparison to contact-mode {AFM} as a tool for
-  in situ investigations of surface reactions with reference to glass
-  corrosion.
-\newblock {\em Analytical Chemistry}, 69(6):1012--1018, mar 1997.
-
-\bibitem{doi:10.1021/nn5059908}
-Jingzhi Shang, Xiaonan Shen, Chunxiao Cong, Namphung Peimyoo, Bingchen Cao,
-  Mustafa Eginligil, and Ting Yu.
-\newblock Observation of excitonic fine structure in a 2d transition-metal
-  dichalcogenide semiconductor.
-\newblock {\em ACS Nano}, 9(1):647--655, 2015.
-\newblock PMID: 25560634.
-
-\bibitem{Sherrell2019}
-Peter~C. Sherrell, Pawel Palczynski, Maria Sokolikova, Francesco~Reale
-  andFederico M.~Pesci, Mauro Och, and Cecilia Mattevi.
-\newblock Large-area cvd mos2/ws2 heterojunctions as a photoelectrocatalyst for
-  salt water oxidation.
-\newblock {\em ACS Appl. Energy Mater.}, 2019.
-
-\bibitem{Shi2014}
-Jianping Shi, Donglin Ma, Gao-Feng Han, Yu~Zhang, Qingqing Ji, Teng Gao, Jingyu
-  Sun, Xiuju Song, Cong Li, Yanshuo Zhang, Xing-You Lang, Yanfeng Zhang, and
-  Zhongfan Liu.
-\newblock Controllable growth and transfer of monolayer {MoS}2 on au foils and
-  its potential application in hydrogen evolution reaction.
-\newblock {\em {ACS} Nano}, 8(10):10196--10204, sep 2014.
-
-\bibitem{Shi2015}
-Yumeng Shi, Henan Li, and Lain-Jong Li.
-\newblock Recent advances in controlled synthesis of two-dimensional transition
-  metal dichalcogenides via vapour deposition techniques.
-\newblock {\em Chemical Society Reviews}, 44(9):2744--2756, 2015.
-
-\bibitem{Sivula2016}
-Kevin Sivula and Roel van~de Krol.
-\newblock Semiconducting materials for photoelectrochemical energy conversion.
-\newblock {\em Nature Reviews Materials}, 1(2), jan 2016.
-
-\bibitem{Sokolikova2019}
-Maria~S. Sokolikova, Peter~C. Sherrell, Pawel Palczynski, Victoria~L. Bemmer,
-  and Cecilia Mattevi.
-\newblock Direct solution-phase synthesis of 1t' {WSe}2 nanosheets.
-\newblock {\em Nature Communications}, 10(1), feb 2019.
-
-\bibitem{Somoano1979}
-Robert~B. Somoano and John~A. Woollam.
-\newblock Intercalation compounds of molybdenum disulfide.
-\newblock In {\em Intercalated Layered Materials}, pages 307--319. Springer
-  Netherlands, 1979.
-
-\bibitem{Song2015}
-Seunghyun Song, Dong~Hoon Keum, Suyeon Cho, David Perello, Yunseok Kim, and
-  Young~Hee Lee.
-\newblock Room temperature semiconductor{\textendash}metal transition of
-  {MoTe}2 thin films engineered by strain.
-\newblock {\em Nano Letters}, 16(1):188--193, dec 2015.
-
-\bibitem{EmergingPhotoluminescenceInMonolayerMoS2}
-Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
-  Chim, Giulia Galli, and Feng Wang.
-\newblock Emerging photoluminescence in monolayer {MoS}2.
-\newblock {\em Nano Letters}, 10(4):1271--1275, apr 2010.
-\newblock PMID: 20229981.
-
-\bibitem{Sun2015}
-Yan Sun, Shu-Chun Wu, Mazhar~N. Ali, Claudia Felser, and Binghai Yan.
-\newblock Prediction of weyl semimetal in {orthorhombicMoTe}2.
-\newblock {\em Physical Review B}, 92(16), oct 2015.
-
-\bibitem{Sundaram2013}
-R.~S. Sundaram, M.~Engel, A.~Lombardo, R.~Krupke, A.~C. Ferrari, Ph. Avouris,
-  and M.~Steiner.
-\newblock Electroluminescence in single layer {MoS}2.
-\newblock {\em Nano Letters}, 13(4):1416--1421, mar 2013.
-
-\bibitem{Sunil1997}
-K~Sunil and M~A Ittyachen.
-\newblock The growth and thermodynamical feasibility of tungsten diselenide
-  single crystals using chemical vapour transport technique.
-\newblock {\em Bulletin of Materials Science}, 20(2):231--238, apr 1997.
-
-\bibitem{Sze2002}
-Simon~M. Sze.
-\newblock {\em Semiconductor Devices: Physics and Technology}.
-\newblock Wiley, 2002.
-
-\bibitem{Sze2006}
-Simon~M. Sze and Kwok~K. Ng.
-\newblock {\em Physics of Semiconductor Devices}.
-\newblock Wiley-Blackwell, 2006.
+\bibitem{Hu2018}
+X.~Hu, P.~Yasaei, J.~Jokisaari, S.~Ö{\u{g}}üt, A.~Salehi-Khojin, and R.~F.
+  Klie, ``Mapping thermal expansion coefficients in freestanding 2d materials
+  at the nanometer scale,'' {\em Physical Review Letters}, vol.~120, feb 2018.
 
 \bibitem{Tada2000}
-Haruna Tada, Amy~E. Kumpel, Richard~E. Lathrop, John~B. Slanina, Patricia
-  Nieva, Paul Zavracky, Ioannis~N. Miaoulis, and Peter~Y. Wong.
-\newblock Thermal expansion coefficient of polycrystalline silicon and silicon
-  dioxide thin films at high temperatures.
-\newblock {\em Journal of Applied Physics}, 87(9):4189--4193, may 2000.
+H.~Tada, A.~E. Kumpel, R.~E. Lathrop, J.~B. Slanina, P.~Nieva, P.~Zavracky,
+  I.~N. Miaoulis, and P.~Y. Wong, ``Thermal expansion coefficient of
+  polycrystalline silicon and silicon dioxide thin films at high
+  temperatures,'' {\em Journal of Applied Physics}, vol.~87, pp.~4189--4193,
+  may 2000.
 
-\bibitem{Tan2018}
-Chaoliang Tan, Junze Chen, Xue-Jun Wu, and Hua Zhang.
-\newblock Epitaxial growth of hybrid nanostructures.
-\newblock {\em Nature Reviews Materials}, 3(2), jan 2018.
+\bibitem{Aslan2018}
+O.~B. Aslan, M.~Deng, and T.~F. Heinz, ``Strain tuning of excitons in monolayer
+  {WSe}2,'' {\em Physical Review B}, vol.~98, sep 2018.
 
-\bibitem{Terrones2014}
-H.~Terrones, E.~Del Corro, S.~Feng, J.~M. Poumirol, D.~Rhodes, D.~Smirnov,
-  N.~R. Pradhan, Z.~Lin, M.~A.~T. Nguyen, A.~L. El{\'{\i}}as, T.~E. Mallouk,
-  L.~Balicas, M.~A. Pimenta, and M.~Terrones.
-\newblock New first order raman-active modes in few layered transition metal
-  dichalcogenides.
-\newblock {\em Scientific Reports}, 4(1), feb 2014.
-
-\bibitem{Tongay2014}
-Sefaattin Tongay, Wen Fan, Jun Kang, Joonsuk Park, Unsal Koldemir, Joonki Suh,
-  Deepa~S. Narang, Kai Liu, Jie Ji, Jingbo Li, Robert Sinclair, and Junqiao Wu.
-\newblock Tuning interlayer coupling in large-area heterostructures with
-  {CVD}-grown {MoS}2 and {WS}2 monolayers.
-\newblock {\em Nano Letters}, 14(6):3185--3190, may 2014.
-
-\bibitem{Tongay2013}
-Sefaattin Tongay, Joonki Suh, Can Ataca, Wen Fan, Alexander Luce, Jeong~Seuk
-  Kang, Jonathan Liu, Changhyun Ko, Rajamani Raghunathanan, Jian Zhou, Frank
-  Ogletree, Jingbo Li, Jeffrey~C. Grossman, and Junqiao Wu.
-\newblock Defects activated photoluminescence in two-dimensional
-  semiconductors: interplay between bound, charged and free excitons.
-\newblock {\em Scientific Reports}, 3(1), sep 2013.
-
-\bibitem{Tsai2013}
-Dung-Sheng Tsai, Keng-Ku Liu, Der-Hsien Lien, Meng-Lin Tsai, Chen-Fang Kang,
-  Chin-An Lin, Lain-Jong Li, and Jr-Hau He.
-\newblock Few-layer {MoS}2 with high broadband photogain and fast optical
-  switching for use in harsh environments.
-\newblock {\em {ACS} Nano}, 7(5):3905--3911, apr 2013.
-
-\bibitem{Turler2004}
-A.~Turler.
-\newblock Gas phase chemistry of superheavy elements.
-\newblock {\em Journal of Nuclear and Radiochemical Sciences}, 5(2):R19--R25,
-  2004.
-
-\bibitem{Zande2014}
-Arend~M. van~der Zande, Jens Kunstmann, Alexey Chernikov, Daniel~A. Chenet,
-  YuMeng You, XiaoXiao Zhang, Pinshane~Y. Huang, Timothy~C. Berkelbach, Lei
-  Wang, Fan Zhang, Mark~S. Hybertsen, David~A. Muller, David~R. Reichman,
-  Tony~F. Heinz, and James~C. Hone.
-\newblock Tailoring the electronic structure in bilayer molybdenum disulfide
-  via interlayer twist.
-\newblock {\em Nano Letters}, 14(7):3869--3875, jun 2014.
-
-\bibitem{Voiry2013}
-Damien Voiry, Hisato Yamaguchi, Junwen Li, Rafael Silva, Diego C.~B. Alves,
-  Takeshi Fujita, Mingwei Chen, Tewodros Asefa, Vivek~B. Shenoy, Goki Eda, and
-  Manish Chhowalla.
-\newblock Enhanced catalytic activity in strained chemically exfoliated {WS}2
-  nanosheets for hydrogen evolution.
-\newblock {\em Nature Materials}, 12(9):850--855, jul 2013.
-
-\bibitem{Wagner1991}
-C.~D Wagner.
-\newblock The nist x-ray photoelectron spectroscopy (xps) database.
-\newblock Online, 1991.
-
-\bibitem{Wang2013}
-Qianwen Wang, Ping Wu, Gengyu Cao, and Min Huang.
-\newblock First-principles study of the structural and electronic properties of
-  {MoS}2{\textendash}{WS}2and {MoS}2{\textendash}{MoTe}2monolayer
-  heterostructures.
-\newblock {\em Journal of Physics D: Applied Physics}, 46(50):505308, nov 2013.
-
-\bibitem{ElectronicsAndOptoelectronicsOfTwo-dimensionalTransitionMetalDichalcogenides}
-Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
-  Michael~S. Strano.
-\newblock Electronics and optoelectronics of two-dimensional transition metal
-  dichalcogenides.
-\newblock {\em Nature Nanotechnology}, 7:699--712, Nov 2012.
-\newblock Review Article.
-
-\bibitem{Wang2012}
-Rui Wang, Brian~A. Ruzicka, Nardeep Kumar, Matthew~Z. Bellus, Hsin-Ying Chiu,
-  and Hui Zhao.
-\newblock Ultrafast and spatially resolved studies of charge carriers in
-  atomically thin molybdenum disulfide.
-\newblock {\em Physical Review B}, 86(4), jul 2012.
-
-\bibitem{TheTransitionMetalDichalcogenidesDiscussionAndInterpretationOfTheObservedOpticalElectricalAndStructuralProperties}
-J.A. Wilson and A.D. Yoffe.
-\newblock The transition metal dichalcogenides discussion and interpretation of
-  the observed optical, electrical and structural properties.
-\newblock {\em Advances in Physics}, 18(73):193--335, may 1969.
-
-\bibitem{Withers2015}
-F.~Withers, O.~Del Pozo-Zamudio, A.~Mishchenko, A.~P. Rooney, A.~Gholinia,
-  K.~Watanabe, T.~Taniguchi, S.~J. Haigh, A.~K. Geim, A.~I. Tartakovskii, and
-  K.~S. Novoselov.
-\newblock Light-emitting diodes by band-structure engineering in van der waals
-  heterostructures.
-\newblock {\em Nature Materials}, 14(3):301--306, feb 2015.
-
-\bibitem{Withers2014}
-Freddie Withers, Thomas~Hardisty Bointon, David~Christopher Hudson,
-  Monica~Felicia Craciun, and Saverio Russo.
-\newblock Electron transport of {WS}2 transistors in a hexagonal boron nitride
-  dielectric environment.
-\newblock {\em Scientific Reports}, 4(1), may 2014.
-
-\bibitem{Wu2014}
-Ryan~J. Wu, Michael~L. Odlyzko, and K.~Andre Mkhoyan.
-\newblock Determining the thickness of atomically thin {MoS}2 and {WS}2 in the
-  {TEM}.
-\newblock {\em Ultramicroscopy}, 147:8--20, dec 2014.
-
-\bibitem{Wu2015}
-Sanfeng Wu, Sonia Buckley, John~R. Schaibley, Liefeng Feng, Jiaqiang Yan,
-  David~G. Mandrus, Fariba Hatami, Wang Yao, Jelena Vu{\v{c}}kovi{\'{c}}, Arka
-  Majumdar, and Xiaodong Xu.
-\newblock Monolayer semiconductor nanocavity lasers with ultralow thresholds.
-\newblock {\em Nature}, 520(7545):69--72, mar 2015.
-
-\bibitem{Wypych1992}
-Fernando Wypych and Robert Schöllhorn.
-\newblock 1t-{MoS}2, a new metallic modification of molybdenum disulfide.
-\newblock {\em J. Chem. Soc., Chem. Commun.}, (19):1386--1388, 1992.
-
-\bibitem{CoupledSpinAndValleyPhysicsInMonolayersOfMoS2AndOtherGroup-VIDichalcogenides}
-Di~Xiao, Gui-Bin Liu, Wanxiang Feng, Xiaodong Xu, and Wang Yao.
-\newblock Coupled spin and valley physics in monolayers {ofMoS}2and other
-  group-{VI} dichalcogenides.
-\newblock {\em Physical Review Letters}, 108(19):196802, may 2012.
-
-\bibitem{Xu2013}
-Yong Xu, Binghai Yan, Hai-Jun Zhang, Jing Wang, Gang Xu, Peizhe Tang, Wenhui
-  Duan, and Shou-Cheng Zhang.
-\newblock Large-gap quantum spin hall insulators in tin films.
-\newblock {\em Physical Review Letters}, 111(13), sep 2013.
-
-\bibitem{doi:10.1021/acsnano.5b01480}
-Zai-Quan Xu, Yupeng Zhang, Shenghuang Lin, Changxi Zheng, Yu~Lin Zhong, Xue
-  Xia, Zhipeng Li, Ponraj~Joice Sophia, Michael~S. Fuhrer, Yi-Bing Cheng, and
-  Qiaoliang Bao.
-\newblock Synthesis and transfer of large-area monolayer ws2 crystals: Moving
-  toward the recyclable use of sapphire substrates.
-\newblock {\em ACS Nano}, 9(6):6178--6187, 2015.
-\newblock PMID: 25961515.
+\bibitem{Dadgar2018}
+A.~M. Dadgar, D.~Scullion, K.~Kang, D.~Esposito, E.~H. Yang, I.~P. Herman,
+  M.~A. Pimenta, E.-J.~G. Santos, and A.~N. Pasupathy, ``Strain engineering and
+  raman spectroscopy of monolayer transition metal dichalcogenides,'' {\em
+  Chemistry of Materials}, vol.~30, pp.~5148--5155, jul 2018.
 
 \bibitem{Yacobi1979}
-B~G Yacobi, F~W Boswell, and J~M Corbett.
-\newblock Intercalation-induced shift of the absorption edge in {ZrS}2and
-  {HfS}2.
-\newblock {\em Journal of Physics C: Solid State Physics}, 12(11):2189--2196,
-  jun 1979.
+B.~G. Yacobi, F.~W. Boswell, and J.~M. Corbett, ``Intercalation-induced shift
+  of the absorption edge in {ZrS}2and {HfS}2,'' {\em Journal of Physics C:
+  Solid State Physics}, vol.~12, pp.~2189--2196, jun 1979.
 
 \bibitem{Yacobi1979a}
-B.G. Yacobi, F.W. Boswell, and J.M. Corbett.
-\newblock The fundamental absorption edge in {NixZrS}2.
-\newblock {\em Materials Research Bulletin}, 14(8):1033--1038, aug 1979.
+B.~Yacobi, F.~Boswell, and J.~Corbett, ``The fundamental absorption edge in
+  {NixZrS}2,'' {\em Materials Research Bulletin}, vol.~14, pp.~1033--1038, aug
+  1979.
 
-\bibitem{PhotoluminescencePropertiesAndExcitonDynamicsInMonolayerWSe2}
-Tengfei Yan, Xiaofen Qiao, Xiaona Liu, Pingheng Tan, and Xinhui Zhang.
-\newblock Photoluminescence properties and exciton dynamics in monolayer
-  {WSe}2.
-\newblock {\em Applied Physics Letters}, 105(10):101901, sep 2014.
+\bibitem{Deshpande2001}
+M.~Deshpande, S.~Gupta, A.~Agarwal, and M.~Agarwal, ``Transport and optical
+  property measurements in indium intercalated molybdenum diselenide single
+  crystals grown by {DVT} technique,'' {\em Synthetic Metals}, vol.~123,
+  pp.~73--81, aug 2001.
 
-\bibitem{Yang2017}
-Heejun Yang, Sung~Wng Kim, Manish Chhowalla, and Young~Hee Lee.
-\newblock Structural and quantum-state phase transitions in van der waals
-  layered materials.
-\newblock {\em Nature Physics}, 13(10):931--937, jul 2017.
+\bibitem{Rao1981}
+G.~S. Rao and C.~Sunandana, ``{LAYERED} {DICHALCOGENIDES} {AND} {INTERCALATED}
+  {MATERIALS},'' in {\em Preparation and Characterization of Materials},
+  pp.~269--282, Elsevier, 1981.
 
-\bibitem{Ye2015}
-Yu~Ye, Zi~Jing Wong, Xiufang Lu, Xingjie Ni, Hanyu Zhu, Xianhui Chen, Yuan
-  Wang, and Xiang Zhang.
-\newblock Monolayer excitonic laser.
-\newblock {\em Nature Photonics}, 9(11):733--737, oct 2015.
+\bibitem{Wagner1991}
+C.~D. Wagner, ``The nist x-ray photoelectron spectroscopy (xps) database.''
+  Online, 1991.
 
-\bibitem{Ye2014}
-Ziliang Ye, Ting Cao, Kevin O'Brien, Hanyu Zhu, Xiaobo Yin, Yuan Wang,
-  Steven~G. Louie, and Xiang Zhang.
-\newblock Probing excitonic dark states in single-layer tungsten disulphide.
-\newblock {\em Nature}, 513(7517):214--218, aug 2014.
+\bibitem{Somoano1979}
+R.~B. Somoano and J.~A. Woollam, ``Intercalation compounds of molybdenum
+  disulfide,'' in {\em Intercalated Layered Materials}, pp.~307--319, Springer
+  Netherlands, 1979.
 
-\bibitem{You2015}
-Yumeng You, Xiao-Xiao Zhang, Timothy~C. Berkelbach, Mark~S. Hybertsen, David~R.
-  Reichman, and Tony~F. Heinz.
-\newblock Observation of biexcitons in monolayer {WSe}2.
-\newblock {\em Nature Physics}, 11(6):477--481, may 2015.
+\bibitem{Hahn1949}
+H.~Hahn and W.~Klingler, ``Über die kristallstrukturen des in2s3und in2te3,''
+  {\em Zeitschrift für anorganische Chemie}, vol.~260, pp.~97--109, oct 1949.
 
-\bibitem{Yu2016}
-Xiaoyun Yu and Kevin Sivula.
-\newblock Toward large-area solar energy conversion with semiconducting 2d
-  transition metal dichalcogenides.
-\newblock {\em {ACS} Energy Letters}, 1(1):315--322, jun 2016.
+\bibitem{Voiry2013}
+D.~Voiry, H.~Yamaguchi, J.~Li, R.~Silva, D.~C.~B. Alves, T.~Fujita, M.~Chen,
+  T.~Asefa, V.~B. Shenoy, G.~Eda, and M.~Chhowalla, ``Enhanced catalytic
+  activity in strained chemically exfoliated {WS}2 nanosheets for hydrogen
+  evolution,'' {\em Nature Materials}, vol.~12, pp.~850--855, jul 2013.
 
-\bibitem{Yu2017}
-Xiaoyun Yu and Kevin Sivula.
-\newblock Photogenerated charge harvesting and recombination in photocathodes
-  of solvent-exfoliated {WSe}2.
-\newblock {\em Chemistry of Materials}, 29(16):6863--6875, aug 2017.
+\bibitem{Wypych1992}
+F.~Wypych and R.~Schöllhorn, ``1t-{MoS}2, a new metallic modification of
+  molybdenum disulfide,'' {\em J. Chem. Soc., Chem. Commun.}, no.~19,
+  pp.~1386--1388, 1992.
 
-\bibitem{Yu2013}
-Yifei Yu, Chun Li, Yi~Liu, Liqin Su, Yong Zhang, and Linyou Cao.
-\newblock Controlled scalable synthesis of uniform, high-quality monolayer and
-  few-layer {MoS}2 films.
-\newblock {\em Scientific Reports}, 3(1), may 2013.
+\bibitem{Chen2018}
+P.~Chen, W.~W. Pai, Y.-H. Chan, W.-L. Sun, C.-Z. Xu, D.-S. Lin, M.~Y. Chou,
+  A.-V. Fedorov, and T.-C. Chiang, ``Large quantum-spin-hall gap in
+  single-layer 1t$\prime$ {WSe}2,'' {\em Nature Communications}, vol.~9, may
+  2018.
+
+\bibitem{Xu2013}
+Y.~Xu, B.~Yan, H.-J. Zhang, J.~Wang, G.~Xu, P.~Tang, W.~Duan, and S.-C. Zhang,
+  ``Large-gap quantum spin hall insulators in tin films,'' {\em Physical Review
+  Letters}, vol.~111, sep 2013.
+
+\bibitem{Gruznev2018}
+D.~V. Gruznev, S.~V. Eremeev, L.~V. Bondarenko, A.~Y. Tupchaya, A.~A. Yakovlev,
+  A.~N. Mihalyuk, J.-P. Chou, A.~V. Zotov, and A.~A. Saranin, ``Two-dimensional
+  in{\textendash}sb compound on silicon as a quantum spin hall insulator,''
+  {\em Nano Letters}, vol.~18, pp.~4338--4345, jun 2018.
 
 \bibitem{Yu2018}
-Yifu Yu, Gwang-Hyeon Nam, Qiyuan He, Xue-Jun Wu, Kang Zhang, Zhenzhong Yang,
-  Junze Chen, Qinglang Ma, Meiting Zhao, Zhengqing Liu, Fei-Rong Ran, Xingzhi
-  Wang, Hai Li, Xiao Huang, Bing Li, Qihua Xiong, Qing Zhang, Zheng Liu, Lin
-  Gu, Yonghua Du, Wei Huang, and Hua Zhang.
-\newblock High phase-purity 1t$\prime$-{MoS}2- and 1t$\prime$-{MoSe}2-layered
-  crystals.
-\newblock {\em Nature Chemistry}, 10(6):638--643, apr 2018.
+Y.~Yu, G.-H. Nam, Q.~He, X.-J. Wu, K.~Zhang, Z.~Yang, J.~Chen, Q.~Ma, M.~Zhao,
+  Z.~Liu, F.-R. Ran, X.~Wang, H.~Li, X.~Huang, B.~Li, Q.~Xiong, Q.~Zhang,
+  Z.~Liu, L.~Gu, Y.~Du, W.~Huang, and H.~Zhang, ``High phase-purity
+  1t$\prime$-{MoS}2- and 1t$\prime$-{MoSe}2-layered crystals,'' {\em Nature
+  Chemistry}, vol.~10, pp.~638--643, apr 2018.
 
-\bibitem{Yuan2014}
-Hongtao Yuan, Xinqiang Wang, Biao Lian, Haijun Zhang, Xianfa Fang, Bo~Shen,
-  Gang Xu, Yong Xu, Shou-Cheng Zhang, Harold~Y. Hwang, and Yi~Cui.
-\newblock Generation and electric control of spin{\textendash}valley-coupled
-  circular photogalvanic current in {WSe}2.
-\newblock {\em Nature Nanotechnology}, 9(10):851--857, sep 2014.
+\bibitem{Lei2018}
+B.~Lei, Y.~Pan, Z.~Hu, J.~Zhang, D.~Xiang, Y.~Zheng, R.~Guo, C.~Han, L.~Wang,
+  J.~Lu, L.~Yang, and W.~Chen, ``Direct observation of
+  semiconductor{\textendash}metal phase transition in bilayer tungsten
+  diselenide induced by potassium surface functionalization,'' {\em {ACS}
+  Nano}, vol.~12, pp.~2070--2077, jan 2018.
 
-\bibitem{Yuan2015}
-Long Yuan and Libai Huang.
-\newblock Exciton dynamics and annihilation in {WS}2 2d semiconductors.
-\newblock {\em Nanoscale}, 7(16):7402--7408, 2015.
+\bibitem{Sokolikova2019}
+M.~S. Sokolikova, P.~C. Sherrell, P.~Palczynski, V.~L. Bemmer, and C.~Mattevi,
+  ``Direct solution-phase synthesis of 1t' {WSe}2 nanosheets,'' {\em Nature
+  Communications}, vol.~10, feb 2019.
 
-\bibitem{Yun2015}
-Seok~Joon Yun, Sang~Hoon Chae, Hyun Kim, Jin~Cheol Park, Ji-Hoon Park, Gang~Hee
-  Han, Joo~Song Lee, Soo~Min Kim, Hye~Min Oh, Jinbong Seok, Mun~Seok Jeong,
-  Ki~Kang Kim, and Young~Hee Lee.
-\newblock Synthesis of centimeter-scale monolayer tungsten disulfide film on
-  gold foils.
-\newblock {\em {ACS} Nano}, 9(5):5510--5519, apr 2015.
+\bibitem{Chen2016}
+H.~Chen, X.~Wen, J.~Zhang, T.~Wu, Y.~Gong, X.~Zhang, J.~Yuan, C.~Yi, J.~Lou,
+  P.~M. Ajayan, W.~Zhuang, G.~Zhang, and J.~Zheng, ``Ultrafast formation of
+  interlayer hot excitons in atomically thin {MoS}2/{WS}2 heterostructures,''
+  {\em Nature Communications}, vol.~7, aug 2016.
 
-\bibitem{Yun2012}
-Won~Seok Yun, S.~W. Han, Soon~Cheol Hong, In~Gee Kim, and J.~D. Lee.
-\newblock Thickness and strain effects on electronic structures of transition
-  metal dichalcogenides: 2h-{MX}2semiconductors (m=mo, w;x=s, se, te).
-\newblock {\em Physical Review B}, 85(3), jan 2012.
+\bibitem{Wang2013}
+Q.~Wang, P.~Wu, G.~Cao, and M.~Huang, ``First-principles study of the
+  structural and electronic properties of {MoS}2{\textendash}{WS}2and
+  {MoS}2{\textendash}{MoTe}2monolayer heterostructures,'' {\em Journal of
+  Physics D: Applied Physics}, vol.~46, p.~505308, nov 2013.
 
-\bibitem{ValleyPolarizationInMoS2MonolayersByOpticalPumping}
-Hualing Zeng, Junfeng Dai, Wang Yao, Di~Xiao, and Xiaodong Cui.
-\newblock Valley polarization in {MoS}2 monolayers by optical pumping.
-\newblock {\em Nature Nanotechnology}, 7(8):490--493, jun 2012.
+\bibitem{Yu2017}
+X.~Yu and K.~Sivula, ``Photogenerated charge harvesting and recombination in
+  photocathodes of solvent-exfoliated {WSe}2,'' {\em Chemistry of Materials},
+  vol.~29, pp.~6863--6875, aug 2017.
 
-\bibitem{Zeng2016}
-Longhui Zeng, Lili Tao, Chunyin Tang, Bo~Zhou, Hui Long, Yang Chai, Shu~Ping
-  Lau, and Yuen~Hong Tsang.
-\newblock High-responsivity {UV}-vis photodetector based on transferable {WS}2
-  film deposited by magnetron sputtering.
-\newblock {\em Scientific Reports}, 6(1), jan 2016.
+\bibitem{Yu2016}
+X.~Yu and K.~Sivula, ``Toward large-area solar energy conversion with
+  semiconducting 2d transition metal dichalcogenides,'' {\em {ACS} Energy
+  Letters}, vol.~1, pp.~315--322, jun 2016.
 
-\bibitem{Zhang2014}
-Mei Zhang, Juanxia Wu, Yiming Zhu, Dumitru~O. Dumcenco, Jinhua Hong, Nannan
-  Mao, Shibin Deng, Yanfeng Chen, Yanlian Yang, Chuanhong Jin, Sunil~H. Chaki,
-  Ying-Sheng Huang, Jin Zhang, and Liming Xie.
-\newblock Two-dimensional molybdenum tungsten diselenide alloys:
-  Photoluminescence, raman scattering, and electrical transport.
-\newblock {\em {ACS} Nano}, 8(7):7130--7137, jun 2014.
+\bibitem{Sivula2016}
+K.~Sivula and R.~van~de Krol, ``Semiconducting materials for
+  photoelectrochemical energy conversion,'' {\em Nature Reviews Materials},
+  vol.~1, jan 2016.
 
-\bibitem{Zhang2014b}
-Y.~J. Zhang, T.~Oka, R.~Suzuki, J.~T. Ye, and Y.~Iwasa.
-\newblock Electrically switchable chiral light-emitting transistor.
-\newblock {\em Science}, 344(6185):725--728, apr 2014.
+\bibitem{Tan2018}
+C.~Tan, J.~Chen, X.-J. Wu, and H.~Zhang, ``Epitaxial growth of hybrid
+  nanostructures,'' {\em Nature Reviews Materials}, vol.~3, jan 2018.
 
-\bibitem{Zhang2014a}
-Yu~Zhang, Qingqing Ji, Gao-Feng Han, Jing Ju, Jianping Shi, Donglin Ma, Jingyu
-  Sun, Yanshuo Zhang, Minjie Li, Xing-You Lang, Yanfeng Zhang, and Zhongfan
-  Liu.
-\newblock Dendritic, transferable, strictly monolayer {MoS}2 flakes synthesized
-  on {SrTiO}3 single crystals for efficient electrocatalytic applications.
-\newblock {\em {ACS} Nano}, 8(8):8617--8624, jul 2014.
+\bibitem{Li2015a}
+X.~Li, Y.~Dai, M.~Li, W.~Wei, and B.~Huang, ``Stable si-based pentagonal
+  monolayers: high carrier mobilities and applications in photocatalytic water
+  splitting,'' {\em Journal of Materials Chemistry A}, vol.~3, no.~47,
+  pp.~24055--24063, 2015.
 
-\bibitem{doi:10.1021/nn403454e}
-Yu~Zhang, Yanfeng Zhang, Qingqing Ji, Jing Ju, Hongtao Yuan, Jianping Shi, Teng
-  Gao, Donglin Ma, Mengxi Liu, Yubin Chen, Xiuju Song, Harold~Y. Hwang, Yi~Cui,
-  and Zhongfan Liu.
-\newblock Controlled growth of high-quality monolayer ws2 layers on sapphire
-  and imaging its grain boundary.
-\newblock {\em ACS Nano}, 7(10):8963--8971, 2013.
-\newblock PMID: 24047054.
+\bibitem{Shi2014}
+J.~Shi, D.~Ma, G.-F. Han, Y.~Zhang, Q.~Ji, T.~Gao, J.~Sun, X.~Song, C.~Li,
+  Y.~Zhang, X.-Y. Lang, Y.~Zhang, and Z.~Liu, ``Controllable growth and
+  transfer of monolayer {MoS}2 on au foils and its potential application in
+  hydrogen evolution reaction,'' {\em {ACS} Nano}, vol.~8, pp.~10196--10204,
+  sep 2014.
 
-\bibitem{LatticeDynamicsInMono-AndFew-LayerSheetsOfWS2AndWSe2}
-Weijie Zhao, Zohreh Ghorannevis, Kiran~Kumar Amara, Jing~Ren Pang, Minglin Toh,
-  Xin Zhang, Christian Kloc, Ping~Heng Tan, and Goki Eda.
-\newblock Lattice dynamics in mono- and few-layer sheets of {WS}2 and {WSe}2.
-\newblock {\em Nanoscale}, 5(20):9677, August 2013.
+\bibitem{Sherrell2019}
+P.~C. Sherrell, P.~Palczynski, M.~Sokolikova, F.~R. andFederico M.~Pesci,
+  M.~Och, and C.~Mattevi, ``Large-area cvd mos2/ws2 heterojunctions as a
+  photoelectrocatalyst for salt water oxidation,'' {\em ACS Appl. Energy
+  Mater.}, 2019.
 
-\bibitem{EvolutionOfElectronicStructureInAtomicallyThinSheetsOfWS2AndWSe2}
-Weijie Zhao, Zohreh Ghorannevis, Leiqiang Chu, Minglin Toh, Christian Kloc,
-  Ping-Heng Tan, and Goki Eda.
-\newblock Evolution of electronic structure in atomically thin sheets of {WS}2
-  and {WSe}2.
-\newblock {\em {ACS} Nano}, 7(1):791--797, dec 2012.
-\newblock PMID: 23256505.
+\bibitem{Sze2006}
+S.~M. Sze and K.~K. Ng, {\em Physics of Semiconductor Devices}.
+\newblock Wiley-Blackwell, 2006.
 
-\bibitem{GiantSpin-orbit-inducedSpinSplittingInTwo-dimensionalTransition-metalDichalcogenideSemiconductors}
-Z.~Y. Zhu, Y.~C. Cheng, and U.~Schwingenschlögl.
-\newblock Giant spin-orbit-induced spin splitting in two-dimensional
-  transition-metal dichalcogenide semiconductors.
-\newblock {\em Physical Review B}, 84(15):153402, oct 2011.
+\bibitem{Ogura2009}
+T.~Ogura, ``Analyzing indirect secondary electron contrast of unstained
+  bacteriophage t4 based on {SEM} images and monte carlo simulations,'' {\em
+  Biochemical and Biophysical Research Communications}, vol.~380, pp.~254--259,
+  mar 2009.
+
+\bibitem{Kochat2011}
+V.~Kochat, A.~N. Pal, E.~S. Sneha, A.~Sampathkumar, A.~Gairola, S.~A.
+  Shivashankar, S.~Raghavan, and A.~Ghosh, ``High contrast imaging and
+  thickness determination of graphene with in-column secondary electron
+  microscopy,'' {\em Journal of Applied Physics}, vol.~110, p.~014315, jul
+  2011.
+
+\bibitem{Binnig1993}
+G.~Binnig, C.~F. Quate, and C.~Gerber, ``Atomic force microscope,'' in {\em
+  Scanning Tunneling Microscopy}, pp.~55--58, Springer Netherlands, 1993.
+
+\bibitem{Schmitz1997}
+I.~Schmitz, M.~Schreiner, G.~Friedbacher, and M.~Grasserbauer, ``Tapping-mode
+  {AFM} in comparison to contact-mode {AFM} as a tool for in situ
+  investigations of surface reactions with reference to glass corrosion,'' {\em
+  Analytical Chemistry}, vol.~69, pp.~1012--1018, mar 1997.
 
 \end{thebibliography}
