@@ -1,74 +1,70 @@
-\contentsline {chapter}{\numberline {1}Thesis introduction}{11}
-\contentsline {chapter}{\numberline {2}The state-of-the-art of group VI transition metal disulphides and diselenides}{14}
-\contentsline {section}{\numberline {2.1}Properties of TMDCs}{14}
-\contentsline {subsection}{\numberline {2.1.1}Electronic properties}{16}
-\contentsline {subsection}{\numberline {2.1.2}Optical properties}{17}
-\contentsline {subsection}{\numberline {2.1.3}Optoelectronics applications}{22}
-\contentsline {subsubsection}{Photodetectors}{22}
-\contentsline {subsubsection}{LED}{26}
-\contentsline {subsubsection}{Photoinduced valley currents}{27}
-\contentsline {section}{\numberline {2.2}Phonon dispersion}{27}
-\contentsline {section}{\numberline {2.3}Conclusions}{32}
-\contentsline {chapter}{\numberline {3}$WS_2$ CVD state of the art}{33}
-\contentsline {section}{\numberline {3.1}Introduction}{33}
-\contentsline {section}{\numberline {3.2}The state of the art}{33}
-\contentsline {subsection}{\numberline {3.2.1}Bulk crystals}{33}
-\contentsline {subsection}{\numberline {3.2.2}Thin films of W}{34}
-\contentsline {subsection}{\numberline {3.2.3}$WO_3$ based CVD of $WS_2$}{34}
-\contentsline {subsection}{\numberline {3.2.4}CVD growth of mono and few layer $WS_2$}{35}
-\contentsline {section}{\numberline {3.3}Conclusions}{36}
-\contentsline {chapter}{\numberline {4}The state-of-the-art of bilayer heterostructure of $MoS_2/WS_2$}{37}
-\contentsline {section}{\numberline {4.1}Introduction}{37}
-\contentsline {section}{\numberline {4.2}Properties of bilayer heterostructures}{38}
-\contentsline {section}{\numberline {4.3}Fabrication of bilayer heterostructures}{39}
-\contentsline {subsubsection}{Transfer -approach}{39}
-\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{40}
-\contentsline {section}{\numberline {4.4}Characterization of bilayer heterostructures}{41}
-\contentsline {subsection}{\numberline {4.4.1}Raman spectroscopy}{41}
-\contentsline {subsection}{\numberline {4.4.2}Photoluminescence}{42}
-\contentsline {chapter}{\numberline {5}Polymorphism in group VI transition metals dichalcogenides; a specific case of 1T' and 2H phases of $WSe_2$}{48}
-\contentsline {section}{\numberline {5.1}Introduction}{48}
-\contentsline {section}{\numberline {5.2}$WSe_2$ phases}{48}
-\contentsline {section}{\numberline {5.3}Conclusions}{52}
-\contentsline {chapter}{\numberline {6}Chemical vapour deposition of mono-few-layered $WS_2$: the role of precursors}{53}
-\contentsline {section}{\numberline {6.1}Introduction}{53}
-\contentsline {section}{\numberline {6.2}Results}{55}
-\contentsline {section}{\numberline {6.3}Conclusions}{68}
-\contentsline {chapter}{\numberline {7}Low temperature photoluminescence of $WS_2$}{70}
-\contentsline {section}{\numberline {7.1}Introduction}{70}
-\contentsline {section}{\numberline {7.2}Results}{70}
-\contentsline {section}{\numberline {7.3}Conclusions}{74}
-\contentsline {chapter}{\numberline {8}Transfer procedure of monolayer TMDCs from the native substrate to $SiO_2/Si$ wafer}{75}
-\contentsline {section}{\numberline {8.1}Introduction}{75}
-\contentsline {section}{\numberline {8.2}Experimental}{76}
-\contentsline {section}{\numberline {8.3}Results}{76}
-\contentsline {section}{\numberline {8.4}Conclusions}{80}
-\contentsline {chapter}{\numberline {9}Post-transition metal doping of monolayer $WS_2$}{81}
-\contentsline {section}{\numberline {9.1}Introduction}{81}
-\contentsline {section}{\numberline {9.2}Results}{82}
-\contentsline {section}{\numberline {9.3}Conclusions}{94}
-\contentsline {chapter}{\numberline {10}CVD of mono-few-layered 2H $WSe_2$}{95}
-\contentsline {section}{\numberline {10.1}Introduction}{95}
-\contentsline {section}{\numberline {10.2}Results}{95}
-\contentsline {section}{\numberline {10.3}Conclusions}{102}
-\contentsline {chapter}{\numberline {11}Physical characterisation of few-layered 1T' $WSe_2$}{103}
-\contentsline {section}{\numberline {11.1}Introduction}{103}
-\contentsline {section}{\numberline {11.2}Results}{104}
-\contentsline {section}{\numberline {11.3}Conclusions}{108}
-\contentsline {chapter}{\numberline {12}CVD few-layered MoS2/WS2 Heterostructures}{109}
-\contentsline {section}{\numberline {12.1}Introduction}{109}
-\contentsline {section}{\numberline {12.2}Results}{110}
-\contentsline {section}{\numberline {12.3}Conclusion}{119}
-\contentsline {chapter}{\numberline {13}Methodology}{121}
-\contentsline {section}{\numberline {13.1}Introduction}{121}
-\contentsline {section}{\numberline {13.2}Raman spectroscopy}{121}
-\contentsline {section}{\numberline {13.3}Photoluminescence spectroscopy}{124}
-\contentsline {section}{\numberline {13.4}X-ray photoelectron spectroscopy}{126}
-\contentsline {section}{\numberline {13.5}Transfer}{127}
-\contentsline {section}{\numberline {13.6}Device fabrication}{128}
-\contentsline {section}{\numberline {13.7}Scanning electron microscopy (SEM)}{130}
-\contentsline {section}{\numberline {13.8}Atomic force microscopy (AFM)}{130}
-\contentsline {section}{\numberline {13.9}TEM}{132}
-\contentsline {section}{\numberline {13.10}MATLAB Script}{133}
-\contentsline {chapter}{\numberline {14}Conclusions and future work}{134}
-\contentsline {chapter}{Bibliography}{137}
+\contentsline {chapter}{\numberline {1}Thesis introduction}{12}
+\contentsline {chapter}{\numberline {2}The state-of-the-art of group VI transition metal disulphides and diselenides}{15}
+\contentsline {section}{\numberline {2.1}Properties of TMDCs}{15}
+\contentsline {subsection}{\numberline {2.1.1}Electronic properties}{17}
+\contentsline {subsection}{\numberline {2.1.2}Optical properties}{18}
+\contentsline {subsection}{\numberline {2.1.3}Optoelectronics applications}{23}
+\contentsline {subsubsection}{Photodetectors}{23}
+\contentsline {subsubsection}{LED}{27}
+\contentsline {subsubsection}{Photoinduced valley currents}{28}
+\contentsline {section}{\numberline {2.2}Phonon dispersion}{28}
+\contentsline {section}{\numberline {2.3}Conclusions}{33}
+\contentsline {chapter}{\numberline {3}Methodology}{34}
+\contentsline {section}{\numberline {3.1}Introduction}{34}
+\contentsline {section}{\numberline {3.2}Raman spectroscopy}{34}
+\contentsline {section}{\numberline {3.3}Photoluminescence spectroscopy}{37}
+\contentsline {section}{\numberline {3.4}X-ray photoelectron spectroscopy}{39}
+\contentsline {section}{\numberline {3.5}Transfer}{40}
+\contentsline {section}{\numberline {3.6}Device fabrication}{41}
+\contentsline {section}{\numberline {3.7}Scanning electron microscopy (SEM)}{43}
+\contentsline {section}{\numberline {3.8}Atomic force microscopy (AFM)}{43}
+\contentsline {section}{\numberline {3.9}TEM}{45}
+\contentsline {section}{\numberline {3.10}MATLAB Script}{46}
+\contentsline {chapter}{\numberline {4}$WS_2$ CVD state of the art}{47}
+\contentsline {section}{\numberline {4.1}Introduction}{47}
+\contentsline {section}{\numberline {4.2}The state of the art}{47}
+\contentsline {subsection}{\numberline {4.2.1}Bulk crystals}{47}
+\contentsline {subsection}{\numberline {4.2.2}Thin films of W}{48}
+\contentsline {subsection}{\numberline {4.2.3}$WO_3$ based CVD of $WS_2$}{48}
+\contentsline {subsection}{\numberline {4.2.4}CVD growth of mono and few layer $WS_2$}{49}
+\contentsline {section}{\numberline {4.3}Conclusions}{50}
+\contentsline {chapter}{\numberline {5}The state-of-the-art of bilayer heterostructure of $MoS_2/WS_2$}{51}
+\contentsline {section}{\numberline {5.1}Introduction}{51}
+\contentsline {section}{\numberline {5.2}Properties of bilayer heterostructures}{52}
+\contentsline {section}{\numberline {5.3}Fabrication of bilayer heterostructures}{53}
+\contentsline {subsubsection}{Transfer -approach}{53}
+\contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{54}
+\contentsline {section}{\numberline {5.4}Characterization of bilayer heterostructures}{55}
+\contentsline {subsection}{\numberline {5.4.1}Raman spectroscopy}{55}
+\contentsline {subsection}{\numberline {5.4.2}Photoluminescence}{56}
+\contentsline {chapter}{\numberline {6}Polymorphism in group VI transition metals dichalcogenides; a specific case of 1T' and 2H phases of $WSe_2$}{62}
+\contentsline {section}{\numberline {6.1}Introduction}{62}
+\contentsline {section}{\numberline {6.2}$WSe_2$ phases}{62}
+\contentsline {section}{\numberline {6.3}Conclusions}{66}
+\contentsline {chapter}{\numberline {7}Chemical vapour deposition of mono-few-layered $WS_2$: the role of precursors}{67}
+\contentsline {section}{\numberline {7.1}Introduction}{67}
+\contentsline {section}{\numberline {7.2}Results}{69}
+\contentsline {section}{\numberline {7.3}Conclusions}{82}
+\contentsline {chapter}{\numberline {8}Transfer procedure of monolayer TMDCs from the native substrate to $SiO_2/Si$ wafer}{84}
+\contentsline {section}{\numberline {8.1}Introduction}{84}
+\contentsline {section}{\numberline {8.2}Experimental}{85}
+\contentsline {section}{\numberline {8.3}Results}{85}
+\contentsline {section}{\numberline {8.4}Conclusions}{89}
+\contentsline {chapter}{\numberline {9}Post-transition metal doping of monolayer $WS_2$}{90}
+\contentsline {section}{\numberline {9.1}Introduction}{90}
+\contentsline {section}{\numberline {9.2}Results}{91}
+\contentsline {section}{\numberline {9.3}Conclusions}{103}
+\contentsline {chapter}{\numberline {10}CVD of mono-few-layered 2H $WSe_2$}{104}
+\contentsline {section}{\numberline {10.1}Introduction}{104}
+\contentsline {section}{\numberline {10.2}Results}{104}
+\contentsline {section}{\numberline {10.3}Conclusions}{111}
+\contentsline {chapter}{\numberline {11}Physical characterisation of few-layered 1T' $WSe_2$}{112}
+\contentsline {section}{\numberline {11.1}Introduction}{112}
+\contentsline {section}{\numberline {11.2}Results}{113}
+\contentsline {section}{\numberline {11.3}Conclusions}{117}
+\contentsline {chapter}{\numberline {12}CVD few-layered MoS2/WS2 Heterostructures}{118}
+\contentsline {section}{\numberline {12.1}Introduction}{118}
+\contentsline {section}{\numberline {12.2}Results}{119}
+\contentsline {section}{\numberline {12.3}Conclusion}{128}
+\contentsline {chapter}{\numberline {13}Conclusions and future work}{130}
+\contentsline {chapter}{Bibliography}{133}
