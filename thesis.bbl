@@ -1,11 +1,27 @@
 \begin{thebibliography}{100}
 
+\bibitem{TheTransitionMetalDichalcogenidesDiscussionAndInterpretationOfTheObservedOpticalElectricalAndStructuralProperties}
+J.~Wilson and A.~Yoffe, ``The transition metal dichalcogenides discussion and
+  interpretation of the observed optical, electrical and structural
+  properties,'' {\em Advances in Physics}, vol.~18, pp.~193--335, may 1969.
+
+\bibitem{Chhowalla2013}
+M.~Chhowalla, H.~S. Shin, G.~Eda, L.-J. Li, K.~P. Loh, and H.~Zhang, ``The
+  chemistry of two-dimensional layered transition metal dichalcogenide
+  nanosheets,'' {\em Nature Chemistry}, vol.~5, pp.~263--275, mar 2013.
+
 \bibitem{ElectronicsAndOptoelectronicsOfTwo-dimensionalTransitionMetalDichalcogenides}
 Q.~H. Wang, K.~Kalantar-Zadeh, A.~Kis, J.~N. Coleman, and M.~S. Strano,
   ``Electronics and optoelectronics of two-dimensional transition metal
   dichalcogenides,'' {\em Nature Nanotechnology}, vol.~7, pp.~699--712, Nov
   2012.
 \newblock Review Article.
+
+\bibitem{Zeng2013}
+H.~Zeng, G.-B. Liu, J.~Dai, Y.~Yan, B.~Zhu, R.~He, L.~Xie, S.~Xu, X.~Chen,
+  W.~Yao, and X.~Cui, ``Optical signature of symmetry variations and
+  spin-valley coupling in atomically thin tungsten dichalcogenides,'' {\em
+  Scientific Reports}, vol.~3, apr 2013.
 
 \bibitem{WS2BandStructureSimulation}
 A.~Kuc, N.~Zibouche, and T.~Heine, ``Influence of quantum confinement on the
@@ -17,6 +33,11 @@ A.~Splendiani, L.~Sun, Y.~Zhang, T.~Li, J.~Kim, C.-Y. Chim, G.~Galli, and
   F.~Wang, ``Emerging photoluminescence in monolayer {MoS}2,'' {\em Nano
   Letters}, vol.~10, pp.~1271--1275, apr 2010.
 \newblock PMID: 20229981.
+
+\bibitem{Ye2014}
+Z.~Ye, T.~Cao, K.~O'Brien, H.~Zhu, X.~Yin, Y.~Wang, S.~G. Louie, and X.~Zhang,
+  ``Probing excitonic dark states in single-layer tungsten disulphide,'' {\em
+  Nature}, vol.~513, pp.~214--218, aug 2014.
 
 \bibitem{ExtraordinaryRoomTemperaturePhotoluminescenceInTriangularWS2Monolayers}
 H.~R. Guti{\'{e}}rrez, N.~Perea-L{\'{o}}pez, A.~L. El{\'{\i}}as, A.~Berkdemir,
@@ -30,10 +51,11 @@ M.~Bernardi, M.~Palummo, and J.~C. Grossman, ``Extraordinary sunlight
   absorption and one nanometer thick photovoltaics using two-dimensional
   monolayer materials,'' {\em Nano Letters}, vol.~13, pp.~3664--3670, jul 2013.
 
-\bibitem{Ye2014}
-Z.~Ye, T.~Cao, K.~O'Brien, H.~Zhu, X.~Yin, Y.~Wang, S.~G. Louie, and X.~Zhang,
-  ``Probing excitonic dark states in single-layer tungsten disulphide,'' {\em
-  Nature}, vol.~513, pp.~214--218, aug 2014.
+\bibitem{Molas2017}
+M.~R. Molas, C.~Faugeras, A.~O. Slobodeniuk, K.~Nogajewski, M.~Bartos, D.~M.
+  Basko, and M.~Potemski, ``Brightening of dark excitons in monolayers of
+  semiconducting transition metal dichalcogenides,'' {\em 2D Materials},
+  vol.~4, p.~021003, jan 2017.
 
 \bibitem{Currie2015}
 M.~Currie, A.~T. Hanbicki, G.~Kioseoglou, and B.~T. Jonker, ``Optical control
@@ -281,6 +303,33 @@ H.~Terrones, E.~D. Corro, S.~Feng, J.~M. Poumirol, D.~Rhodes, D.~Smirnov, N.~R.
   L.~Balicas, M.~A. Pimenta, and M.~Terrones, ``New first order raman-active
   modes in few layered transition metal dichalcogenides,'' {\em Scientific
   Reports}, vol.~4, feb 2014.
+
+\bibitem{Sze2006}
+S.~M. Sze and K.~K. Ng, {\em Physics of Semiconductor Devices}.
+\newblock Wiley-Blackwell, 2006.
+
+\bibitem{Ogura2009}
+T.~Ogura, ``Analyzing indirect secondary electron contrast of unstained
+  bacteriophage t4 based on {SEM} images and monte carlo simulations,'' {\em
+  Biochemical and Biophysical Research Communications}, vol.~380, pp.~254--259,
+  mar 2009.
+
+\bibitem{Kochat2011}
+V.~Kochat, A.~N. Pal, E.~S. Sneha, A.~Sampathkumar, A.~Gairola, S.~A.
+  Shivashankar, S.~Raghavan, and A.~Ghosh, ``High contrast imaging and
+  thickness determination of graphene with in-column secondary electron
+  microscopy,'' {\em Journal of Applied Physics}, vol.~110, p.~014315, jul
+  2011.
+
+\bibitem{Binnig1993}
+G.~Binnig, C.~F. Quate, and C.~Gerber, ``Atomic force microscope,'' in {\em
+  Scanning Tunneling Microscopy}, pp.~55--58, Springer Netherlands, 1993.
+
+\bibitem{Schmitz1997}
+I.~Schmitz, M.~Schreiner, G.~Friedbacher, and M.~Grasserbauer, ``Tapping-mode
+  {AFM} in comparison to contact-mode {AFM} as a tool for in situ
+  investigations of surface reactions with reference to glass corrosion,'' {\em
+  Analytical Chemistry}, vol.~69, pp.~1012--1018, mar 1997.
 
 \bibitem{Iqbal2015}
 M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Shehzad, Y.~Seo, J.~H. Park,
@@ -588,11 +637,6 @@ W.~Li and J.~Li, ``Ferroelasticity and domain physics in two-dimensional
   transition metal dichalcogenide monolayers,'' {\em Nature Communications},
   vol.~7, feb 2016.
 
-\bibitem{Chhowalla2013}
-M.~Chhowalla, H.~S. Shin, G.~Eda, L.-J. Li, K.~P. Loh, and H.~Zhang, ``The
-  chemistry of two-dimensional layered transition metal dichalcogenide
-  nanosheets,'' {\em Nature Chemistry}, vol.~5, pp.~263--275, mar 2013.
-
 \bibitem{Qi2016}
 Y.~Qi, P.~G. Naumov, M.~N. Ali, C.~R. Rajamathi, W.~Schnelle, O.~Barkalov,
   M.~Hanfland, S.-C. Wu, C.~Shekhar, Y.~Sun, V.~Sü{\ss}, M.~Schmidt,
@@ -670,11 +714,6 @@ Y.~Li, Y.~Rao, K.~F. Mak, Y.~You, S.~Wang, C.~R. Dean, and T.~F. Heinz,
   second-harmonic generation,'' {\em Nano Letters}, vol.~13, pp.~3329--3333,
   jun 2013.
 \newblock PMID: 23718906.
-
-\bibitem{TheTransitionMetalDichalcogenidesDiscussionAndInterpretationOfTheObservedOpticalElectricalAndStructuralProperties}
-J.~Wilson and A.~Yoffe, ``The transition metal dichalcogenides discussion and
-  interpretation of the observed optical, electrical and structural
-  properties,'' {\em Advances in Physics}, vol.~18, pp.~193--335, may 1969.
 
 \bibitem{ElectronicPropertiesOfMoS2Nanoparticles}
 T.~Li and G.~Galli, ``Electronic properties of {MoS}2nanoparticles,'' {\em The
@@ -1054,32 +1093,5 @@ P.~C. Sherrell, P.~Palczynski, M.~Sokolikova, F.~R. andFederico M.~Pesci,
   M.~Och, and C.~Mattevi, ``Large-area cvd mos2/ws2 heterojunctions as a
   photoelectrocatalyst for salt water oxidation,'' {\em ACS Appl. Energy
   Mater.}, 2019.
-
-\bibitem{Sze2006}
-S.~M. Sze and K.~K. Ng, {\em Physics of Semiconductor Devices}.
-\newblock Wiley-Blackwell, 2006.
-
-\bibitem{Ogura2009}
-T.~Ogura, ``Analyzing indirect secondary electron contrast of unstained
-  bacteriophage t4 based on {SEM} images and monte carlo simulations,'' {\em
-  Biochemical and Biophysical Research Communications}, vol.~380, pp.~254--259,
-  mar 2009.
-
-\bibitem{Kochat2011}
-V.~Kochat, A.~N. Pal, E.~S. Sneha, A.~Sampathkumar, A.~Gairola, S.~A.
-  Shivashankar, S.~Raghavan, and A.~Ghosh, ``High contrast imaging and
-  thickness determination of graphene with in-column secondary electron
-  microscopy,'' {\em Journal of Applied Physics}, vol.~110, p.~014315, jul
-  2011.
-
-\bibitem{Binnig1993}
-G.~Binnig, C.~F. Quate, and C.~Gerber, ``Atomic force microscope,'' in {\em
-  Scanning Tunneling Microscopy}, pp.~55--58, Springer Netherlands, 1993.
-
-\bibitem{Schmitz1997}
-I.~Schmitz, M.~Schreiner, G.~Friedbacher, and M.~Grasserbauer, ``Tapping-mode
-  {AFM} in comparison to contact-mode {AFM} as a tool for in situ
-  investigations of surface reactions with reference to glass corrosion,'' {\em
-  Analytical Chemistry}, vol.~69, pp.~1012--1018, mar 1997.
 
 \end{thebibliography}

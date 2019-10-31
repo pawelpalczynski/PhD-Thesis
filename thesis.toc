@@ -28,43 +28,43 @@
 \contentsline {subsection}{\numberline {4.2.3}$WO_3$ based CVD of $WS_2$}{48}
 \contentsline {subsection}{\numberline {4.2.4}CVD growth of mono and few layer $WS_2$}{49}
 \contentsline {section}{\numberline {4.3}Conclusions}{50}
-\contentsline {chapter}{\numberline {5}The state-of-the-art of bilayer heterostructure of $MoS_2/WS_2$}{51}
+\contentsline {chapter}{\numberline {5}The state-of-the-art of heterostructures and heterobilayers of $MoS_2/WS_2$}{51}
 \contentsline {section}{\numberline {5.1}Introduction}{51}
 \contentsline {section}{\numberline {5.2}Properties of bilayer heterostructures}{52}
 \contentsline {section}{\numberline {5.3}Fabrication of bilayer heterostructures}{53}
-\contentsline {subsubsection}{Transfer -approach}{53}
+\contentsline {subsubsection}{Approach based on transfer}{53}
 \contentsline {subsubsection}{Direct synthesis of vertical heterostructures}{54}
 \contentsline {section}{\numberline {5.4}Characterization of bilayer heterostructures}{55}
 \contentsline {subsection}{\numberline {5.4.1}Raman spectroscopy}{55}
 \contentsline {subsection}{\numberline {5.4.2}Photoluminescence}{56}
-\contentsline {chapter}{\numberline {6}Polymorphism in group VI transition metals dichalcogenides; a specific case of 1T' and 2H phases of $WSe_2$}{62}
-\contentsline {section}{\numberline {6.1}Introduction}{62}
-\contentsline {section}{\numberline {6.2}$WSe_2$ phases}{62}
-\contentsline {section}{\numberline {6.3}Conclusions}{66}
-\contentsline {chapter}{\numberline {7}Chemical vapour deposition of mono-few-layered $WS_2$: the role of precursors}{67}
-\contentsline {section}{\numberline {7.1}Introduction}{67}
-\contentsline {section}{\numberline {7.2}Results}{69}
-\contentsline {section}{\numberline {7.3}Conclusions}{82}
-\contentsline {chapter}{\numberline {8}Transfer procedure of monolayer TMDCs from the native substrate to $SiO_2/Si$ wafer}{84}
-\contentsline {section}{\numberline {8.1}Introduction}{84}
-\contentsline {section}{\numberline {8.2}Experimental}{85}
-\contentsline {section}{\numberline {8.3}Results}{85}
-\contentsline {section}{\numberline {8.4}Conclusions}{89}
-\contentsline {chapter}{\numberline {9}Post-transition metal doping of monolayer $WS_2$}{90}
-\contentsline {section}{\numberline {9.1}Introduction}{90}
-\contentsline {section}{\numberline {9.2}Results}{91}
-\contentsline {section}{\numberline {9.3}Conclusions}{103}
-\contentsline {chapter}{\numberline {10}CVD of mono-few-layered 2H $WSe_2$}{104}
-\contentsline {section}{\numberline {10.1}Introduction}{104}
-\contentsline {section}{\numberline {10.2}Results}{104}
-\contentsline {section}{\numberline {10.3}Conclusions}{111}
-\contentsline {chapter}{\numberline {11}Physical characterisation of few-layered 1T' $WSe_2$}{112}
-\contentsline {section}{\numberline {11.1}Introduction}{112}
-\contentsline {section}{\numberline {11.2}Results}{113}
-\contentsline {section}{\numberline {11.3}Conclusions}{117}
-\contentsline {chapter}{\numberline {12}CVD few-layered MoS2/WS2 Heterostructures}{118}
-\contentsline {section}{\numberline {12.1}Introduction}{118}
-\contentsline {section}{\numberline {12.2}Results}{119}
-\contentsline {section}{\numberline {12.3}Conclusion}{128}
-\contentsline {chapter}{\numberline {13}Conclusions and future work}{130}
-\contentsline {chapter}{Bibliography}{133}
+\contentsline {chapter}{\numberline {6}Polymorphism in group VI transition metals dichalcogenides; a specific case of 1T' and 2H phases of $WSe_2$}{60}
+\contentsline {section}{\numberline {6.1}Introduction}{60}
+\contentsline {section}{\numberline {6.2}$WSe_2$ phases}{60}
+\contentsline {section}{\numberline {6.3}Conclusions}{64}
+\contentsline {chapter}{\numberline {7}Chemical vapour deposition of mono-few-layered $WS_2$: the role of precursors}{65}
+\contentsline {section}{\numberline {7.1}Introduction}{65}
+\contentsline {section}{\numberline {7.2}Results}{67}
+\contentsline {section}{\numberline {7.3}Conclusions}{80}
+\contentsline {chapter}{\numberline {8}Transfer procedure of monolayer TMDCs from the native substrate to $SiO_2/Si$ wafer}{82}
+\contentsline {section}{\numberline {8.1}Introduction}{82}
+\contentsline {section}{\numberline {8.2}Experimental}{83}
+\contentsline {section}{\numberline {8.3}Results}{83}
+\contentsline {section}{\numberline {8.4}Conclusions}{88}
+\contentsline {chapter}{\numberline {9}Post-transition metal doping of monolayer $WS_2$}{89}
+\contentsline {section}{\numberline {9.1}Introduction}{89}
+\contentsline {section}{\numberline {9.2}Results}{90}
+\contentsline {section}{\numberline {9.3}Conclusions}{102}
+\contentsline {chapter}{\numberline {10}CVD of mono-few-layered 2H $WSe_2$}{103}
+\contentsline {section}{\numberline {10.1}Introduction}{103}
+\contentsline {section}{\numberline {10.2}Results}{103}
+\contentsline {section}{\numberline {10.3}Conclusions}{110}
+\contentsline {chapter}{\numberline {11}Physical characterisation of few-layered 1T' $WSe_2$}{111}
+\contentsline {section}{\numberline {11.1}Introduction}{111}
+\contentsline {section}{\numberline {11.2}Results}{112}
+\contentsline {section}{\numberline {11.3}Conclusions}{116}
+\contentsline {chapter}{\numberline {12}CVD few-layered MoS2/WS2 Heterobilayers}{117}
+\contentsline {section}{\numberline {12.1}Introduction}{117}
+\contentsline {section}{\numberline {12.2}Results}{118}
+\contentsline {section}{\numberline {12.3}Conclusion}{127}
+\contentsline {chapter}{\numberline {13}Conclusions and future work}{129}
+\contentsline {chapter}{Bibliography}{132}
