@@ -2863,6 +2863,56 @@
   year    = {2019},
 }
 
+@Article{Zeng2013,
+  author    = {Hualing Zeng and Gui-Bin Liu and Junfeng Dai and Yajun Yan and Bairen Zhu and Ruicong He and Lu Xie and Shijie Xu and Xianhui Chen and Wang Yao and Xiaodong Cui},
+  title     = {Optical signature of symmetry variations and spin-valley coupling in atomically thin tungsten dichalcogenides},
+  journal   = {Scientific Reports},
+  year      = {2013},
+  volume    = {3},
+  number    = {1},
+  month     = {apr},
+  doi       = {10.1038/srep01608},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Molas2017,
+  author    = {M R Molas and C Faugeras and A O Slobodeniuk and K Nogajewski and M Bartos and D M Basko and M Potemski},
+  title     = {Brightening of dark excitons in monolayers of semiconducting transition metal dichalcogenides},
+  journal   = {2D Materials},
+  year      = {2017},
+  volume    = {4},
+  number    = {2},
+  pages     = {021003},
+  month     = {jan},
+  doi       = {10.1088/2053-1583/aa5521},
+  publisher = {{IOP} Publishing},
+}
+
+@Article{Wei2017,
+  author    = {Guohua Wei and David A. Czaplewski and Erik J. Lenferink and Teodor K. Stanev and Il Woong Jung and Nathaniel P. Stern},
+  title     = {Size-tunable Lateral Confinement in Monolayer Semiconductors},
+  journal   = {Scientific Reports},
+  year      = {2017},
+  volume    = {7},
+  number    = {1},
+  month     = {jun},
+  doi       = {10.1038/s41598-017-03594-z},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Li2015b,
+  author    = {J Li and Y L Zhong and Dong Zhang},
+  title     = {Excitons in monolayer transition metal dichalcogenides},
+  journal   = {Journal of Physics: Condensed Matter},
+  year      = {2015},
+  volume    = {27},
+  number    = {31},
+  pages     = {315301},
+  month     = {jul},
+  doi       = {10.1088/0953-8984/27/31/315301},
+  publisher = {{IOP} Publishing},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

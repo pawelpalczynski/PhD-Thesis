@@ -41,7 +41,7 @@
 \contentsline {section}{\numberline {6.1}Introduction}{60}
 \contentsline {section}{\numberline {6.2}$WSe_2$ phases}{60}
 \contentsline {section}{\numberline {6.3}Conclusions}{64}
-\contentsline {chapter}{\numberline {7}Chemical vapour deposition of mono-few-layered $WS_2$: the role of precursors}{65}
+\contentsline {chapter}{\numberline {7}Chemical vapour deposition of mono-and-few-layer $WS_2$: the role of precursors}{65}
 \contentsline {section}{\numberline {7.1}Introduction}{65}
 \contentsline {section}{\numberline {7.2}Results}{67}
 \contentsline {section}{\numberline {7.3}Conclusions}{80}
@@ -62,7 +62,7 @@
 \contentsline {section}{\numberline {11.1}Introduction}{111}
 \contentsline {section}{\numberline {11.2}Results}{112}
 \contentsline {section}{\numberline {11.3}Conclusions}{116}
-\contentsline {chapter}{\numberline {12}CVD few-layered MoS2/WS2 Heterobilayers}{117}
+\contentsline {chapter}{\numberline {12}CVD few-layered MoS2/WS2 heterobilayers}{117}
 \contentsline {section}{\numberline {12.1}Introduction}{117}
 \contentsline {section}{\numberline {12.2}Results}{118}
 \contentsline {section}{\numberline {12.3}Conclusion}{127}

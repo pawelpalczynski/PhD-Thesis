@@ -32,20 +32,20 @@ A typical Raman spectroscope setup involves a monochromatic light source, genera
 	\end{center}
 \end{figure}
 
-A Raman spectrometer used in this work is a Renishaw Raman spectrometer. The 532nm laser was used as a light source in a backscattering geometry. Unless otherwise specified the measurements were taken at room temperature and ambient pressure. An objective lens of 100x with 0.9 numerical aperture was used as the focusing lens. The laser power was set to be 1.6mW with 0.1s acquisition time for mapping and 1s acquisition time for single spectra. The grating of 1800 lines/mm was used resulting in a resolution of about 1.5 $cm^{-1}$. For calibration purposes a silicon sample was used with a peak at 520 $cm^{-1}$. All data analysis was performed using MATLAB software.
+A Raman spectrometer used in this work is a Renishaw Raman spectrometer. The 532nm laser was used as a light source in a backscattering geometry. Unless otherwise specified the measurements were taken at room temperature and ambient pressure. An objective lens of 100x with 0.9 numerical aperture was used as the focusing lens. The laser power was set to be 1.6mW with 0.1s acquisition time for mapping and 1s acquisition time for single spectra. The grating of 1800 lines/mm was used resulting in a resolution of about 1.5 $cm^{-1}$. For calibration purposes a silicon sample was used with a peak at 520 $cm^{-1}$. All data analysis was performed using MATLAB software as described in chapter \ref{sec:MATLAB}.
 
 \section{Photoluminescence spectroscopy}
 
-The photoluminescence spectroscopy (PL) is an another versatile non-destructive characterisation technique. When applied to the 2D TMDCs it can provide great insight into the crystal stricture, electronic structure of the material as well as some direct information about its optical properties. One of the great advantages of PL spectroscopy is shared with the Raman spectroscopy in that the sample preparation and handling is very easy and quick allowing for high throughput of characterisation. Unlike Raman spectroscopy a substrate choice might become more important for PL measurements owing to the fact that the conductive substrate might result in PL quenching. Since the bandgap of many of the 2D TMDCs lies within the optical range of the spectrum or near to it a single laser at 532nm can be used to excite the samples.
+The photoluminescence spectroscopy (PL) is an another versatile non-destructive characterisation technique. When applied to the 2D TMDCs it can provide great insight into the crystal stricture, electronic structure of the material as well as some direct information about its optical properties. One of the great advantages of PL spectroscopy is shared with the Raman spectroscopy in that the sample preparation and handling is very easy and quick allowing for high throughput of characterisation. Unlike Raman spectroscopy a substrate choice might become more important for PL measurements owing to the fact that the conductive substrate might result in PL quenching. Since the bandgap of many of the 2D TMDCs lies within the optical range of the spectrum or near to it a single laser at 532 nm can be used to excite the samples.
 
 Photoluminescence is a type of luminescence where an excitation is provided by the incident light. In a semiconducting material like many of the 2D 2H TMDCs the electron from valence band is excited to the conduction band. Following the excitation the electron and resulting hole relax in both energy and momentum to the edge of the conduction and valence band respectively. Thus they form an exciton, a quasi particle that contains no net charge and can move across the material. An exciton in TMDCs can approach large sizes (Wannier-Mott exciton) due to great value of dielectric constant and resulting screening between the electron and the hole. Such exciton can also interact with the material by getting pinned by defect sites. After very short lifetime the exciton recombines emitting the photon at the same time. The photons emitted by the recombining exciton can be then collected. A plot of the photon count versus the energy of the detected photon forms the PL spectrum.
 
-Therefore the PL spectrum can be used to directly infer the optical bandgap which is the electronic band gap of the material minus the binding energy of the exciton. In TMDCs on top of excitons additional type of quasi particle like trions or biexcitons can be found. Those particles exhibit varying level of binding energy and sometimes require special conditions to become excited. The PL spectrum can be therefore used to infer about the presence of those particles and therefore gain insight into the structure of the material. An energy diagram representing the photoluminescence (fluoresecence) process can be seen in Figure \ref{fig:MethodologyPLDiagram}.
+Therefore the PL spectrum can be used to directly infer the optical bandgap which is the electronic band gap of the material minus the binding energy of the exciton. In TMDCs on top of excitons additional type of quasi particle like trions or biexcitons can be found. Those particles exhibit varying level of binding energy and sometimes require special conditions to become excited. The PL spectrum can be therefore used to infer about the presence of those particles and therefore gain insight into the structure of the material. An energy diagram representing the photoluminescence process can be seen in Figure \ref{fig:MethodologyPLDiagram}.
 
 \begin{figure}[!ht]
 	\begin{center}
 		\includegraphics[scale=0.7]{Methodology/PLDiagram.png}
-		\caption{The photoluminescence (fluorescence) process. Reproduced from www.renishaw.com}
+		\caption{The photoluminescence process.}
 		\label{fig:MethodologyPLDiagram}
 	\end{center}
 \end{figure}
@@ -56,7 +56,7 @@ A photoluminescence setup can look very similar to that of the Raman setup as se
 
 For low temperature (77K) measurements an environmental stage, Linkam THMS-350V. A pump was used to lower the pressure in the chamber down to about $2 \times 10^{-3}$ mbar. The liquid nitrogen was used to cool down the stage down to 77K. The stage was placed in Renishaw Raman spectrometer to capture PL spectra.
 
-The PL spectrometer used in this work is a Renishaw Raman spectrometer. The 532nm green laser with objective lens of 100x with 0.9 numerical aperture was used and the data was recorded in backscattering configuration. The laser power used was 0.32mW with 0.1s exposition time for maps and up to 5s exposition time for a single extended spectrum. The 1800 lines/mm grating was used resulting in a resolution of about 1.5 $cm^{-1}$. The spectrum was calibrated using silicon Raman peak at 520 $cm^{-1}$. All data analysis was carried out was done using MATLAB software.
+The PL spectrometer used in this work is a Renishaw Raman spectrometer. The 532nm green laser with objective lens of 100x with 0.9 numerical aperture was used and the data was recorded in backscattering configuration. The laser power used was 0.32mW with 0.1s exposition time for maps and up to 5s exposition time for a single extended spectrum. The 1800 lines/mm grating was used resulting in a resolution of about 0.2 meV. The spectrum was calibrated using silicon Raman peak at 520 $cm^{-1}$. All data analysis was carried out was done using MATLAB software as described in chapter \ref{sec:MATLAB}.
 
 \section{X-ray photoelectron spectroscopy}
 
@@ -77,8 +77,8 @@ The XPS spectra were collected using the Thermo Scientific K-Alpha XPS system. T
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[scale=0.3]{Methodology/XPSSetup.png}
-		\caption{XPS spectrum acquisition diagram. Reproduced from en.wikipedia.org}
+		\includegraphics[scale=0.4]{Methodology/XPSSetup.png}
+		\caption{Photoelectron effect energy diagram present during XPS.}
 		\label{fig:MethodologyXPSSetup}
 	\end{center}
 \end{figure}
@@ -91,7 +91,7 @@ In this work the wet transfer method has been utilised to transfer CVD grown sam
 
 \section{Device fabrication}
 
-In order to measure the electric properties of the as-grown materials the material can be used to make a field effect transistor (FET) device. For that purpose the as grown mono- and bi-layer $WS_2$ was transferred onto a $Si/SiO_2$ substrate with the $SiO_2$ layer of 285 nm in thickness. The $Si$, which is highly p-doped, then acts as a global gate electrode while the $SiO_2$ is a gate dielectric. On top of the deposited contacts for source and drain electrodes additional probes were used in each of the FET devices to eliminate any voltage contributions from the contacts and thus allow for correct measurement of the channel conductance. The drain and source drains as well as the voltage drains were deposited using electron beam lithography. The contacts as well as the probes were made using 50 nm thick Au, while the rest of the leads were made using 5nm thick Ti and 50 nm thick Au. Following the contacts and leads deposition the FET devices were annealed at 200 {\degree}C fpr 2h under $H_2/Ar$ (10/90) flow at 1 bar to remove any remaining PMMA from the lithographic process. The sample was then annealed at 115 {\degree}C for 60 h under high vacuum ($10^{-6}$ mbar) to remove any remaining water.
+The devices were prepared by collaborators from Exeter University: Iddo Amit, Gareth F. Jones, Jake D. Mehew, Agnes Bacon. In order to measure the electric properties of the as-grown materials the material can be used to make a field effect transistor (FET) device. For that purpose the as grown mono- and bi-layer $WS_2$ was transferred onto a $Si/SiO_2$ substrate with the $SiO_2$ layer of 285 nm in thickness. The $Si$, which is highly p-doped, then acts as a global gate electrode while the $SiO_2$ is a gate dielectric. On top of the deposited contacts for source and drain electrodes additional probes were used in each of the FET devices to eliminate any voltage contributions from the contacts and thus allow for correct measurement of the channel conductance. The drain and source drains as well as the voltage drains were deposited using electron beam lithography. The contacts as well as the probes were made using 50 nm thick Au, while the rest of the leads were made using 5nm thick Ti and 50 nm thick Au. Following the contacts and leads deposition the FET devices were annealed at 200 {\degree}C fpr 2h under $H_2/Ar$ (10/90) flow at 1 bar to remove any remaining PMMA from the lithographic process. The sample was then annealed at 115 {\degree}C for 60 h under high vacuum ($10^{-6}$ mbar) to remove any remaining water.
 
 Following the FET preparation the samples were then characterised in a vacuum chamber in high vacuum ($10^{-6}$ mbar). A low noise source-meter was used to bias the drain electrode with source being grounded. Additionally another source was used to bias the gate electrode. The current across the channel $I_(ds)$ was measured using ammeter while the voltage $V_{A-B}$ across the voltage probes was measured with a voltmeter. The gate bias was applied until the measured current reached linear regime where it is described by Equation \ref{eq:FETCurrent} \cite{Sze2006}: 
 
@@ -172,5 +172,5 @@ Because the wavelength of the high energy electrons is much smaller than the dis
 In this work the TEM used was a FEI Titan 80-300 S/TEM at 80kV with a monochromator and $C_s$ aberration image corrector. The focal series images were produced using different objective lens focus values ($C_s = -4\mu m$). Exit wave reconstruction was achieved using TrueImage (FEI).
 
 \section{MATLAB Script}
-
+\label{sec:MATLAB}
 In order to analyse the PL and Raman spectra, both individual and maps, the MATLAB software was utilised. The spectra were exported from the Wire software used for Renishaw Raman spectrometer and they were then imported into MATLAB. Using "peakfit.m" script from "https://terpconnect.umd.edu/~toh/spectrum/peakfit.m" the peaks were fitted with required number of peaks. For peak fitting the Voigt peakshape was used. Several scripts were developed for the purpose of automating data import, analysis and peak fitting of PL and Raman maps.

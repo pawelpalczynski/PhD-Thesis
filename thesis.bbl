@@ -105,6 +105,16 @@ H.~Haug, S.~W. Koch, and L.~V. Keldysh, ``Quantum theory of the optical and
   electronic properties of semiconductors,'' {\em Physics Today}, vol.~47,
   pp.~106--108, feb 2004.
 
+\bibitem{Wei2017}
+G.~Wei, D.~A. Czaplewski, E.~J. Lenferink, T.~K. Stanev, I.~W. Jung, and N.~P.
+  Stern, ``Size-tunable lateral confinement in monolayer semiconductors,'' {\em
+  Scientific Reports}, vol.~7, jun 2017.
+
+\bibitem{Li2015b}
+J.~Li, Y.~L. Zhong, and D.~Zhang, ``Excitons in monolayer transition metal
+  dichalcogenides,'' {\em Journal of Physics: Condensed Matter}, vol.~27,
+  p.~315301, jul 2015.
+
 \bibitem{Ross2013}
 J.~S. Ross, S.~Wu, H.~Yu, N.~J. Ghimire, A.~M. Jones, G.~Aivazian, J.~Yan,
   D.~G. Mandrus, D.~Xiao, W.~Yao, and X.~Xu, ``Electrical control of neutral
@@ -802,6 +812,11 @@ S.~M. Eichfeld, L.~Hossain, Y.-C. Lin, A.~F. Piasecki, B.~Kupp, A.~G. Birdwell,
   atomically thin {WSe}2 grown via metal{\textendash}organic chemical vapor
   deposition,'' {\em {ACS} Nano}, vol.~9, pp.~2080--2087, feb 2015.
 
+\bibitem{Iqbal2015a}
+M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Shehzad, Y.~Seo, and J.~Eom,
+  ``Deep-ultraviolet-light-driven reversible doping of {WS}2 field-effect
+  transistors,'' {\em Nanoscale}, vol.~7, no.~2, pp.~747--757, 2015.
+
 \bibitem{Reale2017}
 F.~Reale, P.~Palczynski, I.~Amit, G.~F. Jones, J.~D. Mehew, A.~Bacon, N.~Ni,
   P.~C. Sherrell, S.~Agnoli, M.~F. Craciun, S.~Russo, and C.~Mattevi,
@@ -930,11 +945,6 @@ M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Kamran, A.~Majid, T.~Alharbi, and
 T.~Georgiou, H.~Yang, R.~Jalil, J.~Chapman, K.~S. Novoselov, and A.~Mishchenko,
   ``Electrical and optical characterization of atomically thin {WS}2,'' {\em
   Dalton Transactions}, vol.~43, no.~27, p.~10388, 2014.
-
-\bibitem{Iqbal2015a}
-M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Shehzad, Y.~Seo, and J.~Eom,
-  ``Deep-ultraviolet-light-driven reversible doping of {WS}2 field-effect
-  transistors,'' {\em Nanoscale}, vol.~7, no.~2, pp.~747--757, 2015.
 
 \bibitem{Ovchinnikov2014}
 D.~Ovchinnikov, A.~Allain, Y.-S. Huang, D.~Dumcenco, and A.~Kis, ``Electrical
