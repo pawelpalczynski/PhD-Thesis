@@ -140,26 +140,6 @@ M.~Barbone, A.~R.-P. Montblanch, D.~M. Kara, C.~Palacios-Berraquero, A.~R.
   ``Charge-tuneable biexciton complexes in monolayer {WSe}2,'' {\em Nature
   Communications}, vol.~9, sep 2018.
 
-\bibitem{Feldmann1988}
-J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
-  Elliott, ``Linewidth dependence of radiative exciton lifetimes in quantum
-  wells,'' {\em Physical Review Letters}, vol.~60, pp.~243--243, jan 1988.
-
-\bibitem{Haug1989}
-H.~Haug and L.~B{\'{a}}nyai, eds., {\em Optical Switching in Low-Dimensional
-  Systems}.
-\newblock Springer {US}, 1989.
-
-\bibitem{AtomicallyThinMoS2ANewDirect-GapSemiconductor}
-K.~F. Mak, C.~Lee, J.~Hone, J.~Shan, and T.~F. Heinz, ``Atomically {ThinMoS}2:
-  A new direct-gap semiconductor,'' {\em Physical Review Letters}, vol.~105,
-  p.~136805, sep 2010.
-
-\bibitem{Feldmann1987}
-J.~Feldmann, G.~Peter, E.~O. Göbel, P.~Dawson, K.~Moore, C.~Foxon, and R.~J.
-  Elliott, ``Linewidth dependence of radiative exciton lifetimes in quantum
-  wells,'' {\em Physical Review Letters}, vol.~59, pp.~2337--2340, nov 1987.
-
 \bibitem{Mak2016}
 K.~F. Mak and J.~Shan, ``Photonics and optoelectronics of 2d semiconductor
   transition metal dichalcogenides,'' {\em Nature Photonics}, vol.~10,
@@ -697,6 +677,11 @@ W.~Jung, S.~Lee, D.~Yoo, S.~Jeong, P.~Mir{\'{o}}, A.~Kuc, T.~Heine, and
   via anisotropic solution-phase growth approach,'' {\em Journal of the
   American Chemical Society}, vol.~137, pp.~7266--7269, jun 2015.
 
+\bibitem{AtomicallyThinMoS2ANewDirect-GapSemiconductor}
+K.~F. Mak, C.~Lee, J.~Hone, J.~Shan, and T.~F. Heinz, ``Atomically {ThinMoS}2:
+  A new direct-gap semiconductor,'' {\em Physical Review Letters}, vol.~105,
+  p.~136805, sep 2010.
+
 \bibitem{EvolutionOfElectronicStructureInAtomicallyThinSheetsOfWS2AndWSe2}
 W.~Zhao, Z.~Ghorannevis, L.~Chu, M.~Toh, C.~Kloc, P.-H. Tan, and G.~Eda,
   ``Evolution of electronic structure in atomically thin sheets of {WS}2 and
@@ -816,6 +801,28 @@ S.~M. Eichfeld, L.~Hossain, Y.-C. Lin, A.~F. Piasecki, B.~Kupp, A.~G. Birdwell,
 M.~W. Iqbal, M.~Z. Iqbal, M.~F. Khan, M.~A. Shehzad, Y.~Seo, and J.~Eom,
   ``Deep-ultraviolet-light-driven reversible doping of {WS}2 field-effect
   transistors,'' {\em Nanoscale}, vol.~7, no.~2, pp.~747--757, 2015.
+
+\bibitem{Hu2018}
+X.~Hu, P.~Yasaei, J.~Jokisaari, S.~Ö{\u{g}}üt, A.~Salehi-Khojin, and R.~F.
+  Klie, ``Mapping thermal expansion coefficients in freestanding 2d materials
+  at the nanometer scale,'' {\em Physical Review Letters}, vol.~120, feb 2018.
+
+\bibitem{Tada2000}
+H.~Tada, A.~E. Kumpel, R.~E. Lathrop, J.~B. Slanina, P.~Nieva, P.~Zavracky,
+  I.~N. Miaoulis, and P.~Y. Wong, ``Thermal expansion coefficient of
+  polycrystalline silicon and silicon dioxide thin films at high
+  temperatures,'' {\em Journal of Applied Physics}, vol.~87, pp.~4189--4193,
+  may 2000.
+
+\bibitem{Aslan2018}
+O.~B. Aslan, M.~Deng, and T.~F. Heinz, ``Strain tuning of excitons in monolayer
+  {WSe}2,'' {\em Physical Review B}, vol.~98, sep 2018.
+
+\bibitem{Dadgar2018}
+A.~M. Dadgar, D.~Scullion, K.~Kang, D.~Esposito, E.~H. Yang, I.~P. Herman,
+  M.~A. Pimenta, E.-J.~G. Santos, and A.~N. Pasupathy, ``Strain engineering and
+  raman spectroscopy of monolayer transition metal dichalcogenides,'' {\em
+  Chemistry of Materials}, vol.~30, pp.~5148--5155, jul 2018.
 
 \bibitem{Reale2017}
 F.~Reale, P.~Palczynski, I.~Amit, G.~F. Jones, J.~D. Mehew, A.~Bacon, N.~Ni,
@@ -950,28 +957,6 @@ T.~Georgiou, H.~Yang, R.~Jalil, J.~Chapman, K.~S. Novoselov, and A.~Mishchenko,
 D.~Ovchinnikov, A.~Allain, Y.-S. Huang, D.~Dumcenco, and A.~Kis, ``Electrical
   transport properties of single-layer {WS}2,'' {\em {ACS} Nano}, vol.~8,
   pp.~8174--8181, jul 2014.
-
-\bibitem{Hu2018}
-X.~Hu, P.~Yasaei, J.~Jokisaari, S.~Ö{\u{g}}üt, A.~Salehi-Khojin, and R.~F.
-  Klie, ``Mapping thermal expansion coefficients in freestanding 2d materials
-  at the nanometer scale,'' {\em Physical Review Letters}, vol.~120, feb 2018.
-
-\bibitem{Tada2000}
-H.~Tada, A.~E. Kumpel, R.~E. Lathrop, J.~B. Slanina, P.~Nieva, P.~Zavracky,
-  I.~N. Miaoulis, and P.~Y. Wong, ``Thermal expansion coefficient of
-  polycrystalline silicon and silicon dioxide thin films at high
-  temperatures,'' {\em Journal of Applied Physics}, vol.~87, pp.~4189--4193,
-  may 2000.
-
-\bibitem{Aslan2018}
-O.~B. Aslan, M.~Deng, and T.~F. Heinz, ``Strain tuning of excitons in monolayer
-  {WSe}2,'' {\em Physical Review B}, vol.~98, sep 2018.
-
-\bibitem{Dadgar2018}
-A.~M. Dadgar, D.~Scullion, K.~Kang, D.~Esposito, E.~H. Yang, I.~P. Herman,
-  M.~A. Pimenta, E.-J.~G. Santos, and A.~N. Pasupathy, ``Strain engineering and
-  raman spectroscopy of monolayer transition metal dichalcogenides,'' {\em
-  Chemistry of Materials}, vol.~30, pp.~5148--5155, jul 2018.
 
 \bibitem{Yacobi1979}
 B.~G. Yacobi, F.~W. Boswell, and J.~M. Corbett, ``Intercalation-induced shift
