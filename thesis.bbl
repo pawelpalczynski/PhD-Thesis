@@ -1042,18 +1042,6 @@ Y.~Yu, G.-H. Nam, Q.~He, X.-J. Wu, K.~Zhang, Z.~Yang, J.~Chen, Q.~Ma, M.~Zhao,
   1t$\prime$-{MoS}2- and 1t$\prime$-{MoSe}2-layered crystals,'' {\em Nature
   Chemistry}, vol.~10, pp.~638--643, apr 2018.
 
-\bibitem{Lei2018}
-B.~Lei, Y.~Pan, Z.~Hu, J.~Zhang, D.~Xiang, Y.~Zheng, R.~Guo, C.~Han, L.~Wang,
-  J.~Lu, L.~Yang, and W.~Chen, ``Direct observation of
-  semiconductor{\textendash}metal phase transition in bilayer tungsten
-  diselenide induced by potassium surface functionalization,'' {\em {ACS}
-  Nano}, vol.~12, pp.~2070--2077, jan 2018.
-
-\bibitem{Sokolikova2019}
-M.~S. Sokolikova, P.~C. Sherrell, P.~Palczynski, V.~L. Bemmer, and C.~Mattevi,
-  ``Direct solution-phase synthesis of 1t' {WSe}2 nanosheets,'' {\em Nature
-  Communications}, vol.~10, feb 2019.
-
 \bibitem{Chen2016}
 H.~Chen, X.~Wen, J.~Zhang, T.~Wu, Y.~Gong, X.~Zhang, J.~Yuan, C.~Yi, J.~Lou,
   P.~M. Ajayan, W.~Zhuang, G.~Zhang, and J.~Zheng, ``Ultrafast formation of
@@ -1103,5 +1091,11 @@ P.~C. Sherrell, P.~Palczynski, M.~Sokolikova, F.~R. andFederico M.~Pesci,
   M.~Och, and C.~Mattevi, ``Large-area cvd mos2/ws2 heterojunctions as a
   photoelectrocatalyst for salt water oxidation,'' {\em ACS Appl. Energy
   Mater.}, 2019.
+
+\bibitem{Wang2015}
+G.~Wang, C.~Robert, A.~Suslu, B.~Chen, S.~Yang, S.~Alamdari, I.~C. Gerber,
+  T.~Amand, X.~Marie, S.~Tongay, and B.~Urbaszek, ``Spin-orbit engineering in
+  transition metal dichalcogenide alloy monolayers,'' {\em Nature
+  Communications}, vol.~6, dec 2015.
 
 \end{thebibliography}

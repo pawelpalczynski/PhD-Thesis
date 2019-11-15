@@ -12,12 +12,12 @@
 \contentsline {chapter}{\numberline {3}Methodology}{34}
 \contentsline {section}{\numberline {3.1}Introduction}{34}
 \contentsline {section}{\numberline {3.2}Raman spectroscopy}{34}
-\contentsline {section}{\numberline {3.3}Photoluminescence spectroscopy}{37}
+\contentsline {section}{\numberline {3.3}Photoluminescence spectroscopy}{36}
 \contentsline {section}{\numberline {3.4}X-ray photoelectron spectroscopy}{39}
 \contentsline {section}{\numberline {3.5}Transfer}{40}
 \contentsline {section}{\numberline {3.6}Device fabrication}{41}
-\contentsline {section}{\numberline {3.7}Scanning electron microscopy (SEM)}{43}
-\contentsline {section}{\numberline {3.8}Atomic force microscopy (AFM)}{43}
+\contentsline {section}{\numberline {3.7}Scanning electron microscopy (SEM)}{42}
+\contentsline {section}{\numberline {3.8}Atomic force microscopy (AFM)}{44}
 \contentsline {section}{\numberline {3.9}TEM}{45}
 \contentsline {section}{\numberline {3.10}MATLAB Script}{46}
 \contentsline {chapter}{\numberline {4}$WS_2$ CVD state of the art}{47}
@@ -53,16 +53,16 @@
 \contentsline {chapter}{\numberline {9}Post-transition metal doping of monolayer $WS_2$}{89}
 \contentsline {section}{\numberline {9.1}Introduction}{89}
 \contentsline {section}{\numberline {9.2}Results}{90}
-\contentsline {section}{\numberline {9.3}Conclusions}{102}
-\contentsline {chapter}{\numberline {10}CVD of mono-few-layered 2H $WSe_2$}{103}
-\contentsline {section}{\numberline {10.1}Introduction}{103}
-\contentsline {section}{\numberline {10.2}Results}{103}
+\contentsline {section}{\numberline {9.3}Conclusions}{101}
+\contentsline {chapter}{\numberline {10}CVD of mono-and-few-layer 2H $WSe_2$}{102}
+\contentsline {section}{\numberline {10.1}Introduction}{102}
+\contentsline {section}{\numberline {10.2}Results}{102}
 \contentsline {section}{\numberline {10.3}Conclusions}{110}
 \contentsline {chapter}{\numberline {11}Physical characterisation of few-layered 1T' $WSe_2$}{111}
 \contentsline {section}{\numberline {11.1}Introduction}{111}
 \contentsline {section}{\numberline {11.2}Results}{112}
 \contentsline {section}{\numberline {11.3}Conclusions}{116}
-\contentsline {chapter}{\numberline {12}CVD few-layered MoS2/WS2 heterobilayers}{117}
+\contentsline {chapter}{\numberline {12}CVD few-layered $MoS_2/WS_2$ heterobilayers}{117}
 \contentsline {section}{\numberline {12.1}Introduction}{117}
 \contentsline {section}{\numberline {12.2}Results}{118}
 \contentsline {section}{\numberline {12.3}Conclusion}{127}
